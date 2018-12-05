@@ -1,6 +1,7 @@
 ## **Gouvernance Distribuée Humaniste** 
 
  *(nom de construction)* 
+ 
 *Explorons une autre façon de travailler ensemble*  
 
 # 1  Raison d’être de la constitution Gouvernance Distribuée Humaniste
