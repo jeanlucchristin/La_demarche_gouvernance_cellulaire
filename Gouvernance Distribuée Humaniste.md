@@ -1,10 +1,6 @@
-Je suis jeanluc et l'essaie de faire mon premier commit
-
-
 ## **Gouvernance Distribuée Humaniste** 
 
  *(nom de construction)* 
- 
 *Explorons une autre façon de travailler ensemble*  
 
 # 1  Raison d’être de la constitution Gouvernance Distribuée Humaniste
@@ -22,12 +18,8 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 
 ##### Comment ?  
 
-Une architecture comprenant :
-
 - Un livret central avec des éléments centraux requis
-
 - Des briques modulaires optionnelles 
-
 - Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
 
@@ -35,9 +27,8 @@ Une architecture comprenant :
 ##### Intention ? 
 
 - Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre.
-   En GDH la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
-   En GDH, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
-
+  En GDH la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
+  En GDH, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
 - Nous considérons qu'en tant qu'humain, nous avons besoin que notre structure performe suffisamment pour bien vivre, et que notre structure a besoin que nous soyons suffisamment sereins pour performer
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaire.  
@@ -58,7 +49,6 @@ En approfondissant nos idées et nos connaissances dans une co-construction
 Car nous ressentons le besoin  
 
 - d’explorer des façons d’être ensemble apportant de la joie et de l’efficacité
-
 - de participer au monde par la création d’un commun
 
 
@@ -75,9 +65,7 @@ Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent pl
  Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur 
 
 - le respect des capacités, des élans et des choix des humains qui composent l’entreprise (Choix, liberté)
-
 - Faire avec le mouvement du monde dans l’unité avec notre environnement (Unicité, Inclusion, égalité de valeur)
-
 - Faire ensemble avec soutien et stimulation mutuels (Ouverture, Amour, fraternité)
 
 #### Propriété 
@@ -89,17 +77,11 @@ Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons p
 Nous croyons que le mouvement vers plus d’harmonie est facilité par
 
 - La recherche permanente et dans le mouvement d’ajustement vers un équilibre sain
-
 - L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu.
-
 - le travail individuel et collectif sur 
-
 - La présence au monde (méditation, prière, contemplation…)
-
 - le rapport à soi (introspection, accueil, évolution)
-
 - le rapport aux autres (travail de la relation)
-
 - le choix des actions (en particulier avec le travail)
 
 # 3  CONSTITUTION : Eléments du livret central 
@@ -146,9 +128,7 @@ Chaque structure formalise et actualise sa raison d’être qui servira de cap l
 Les trois dimensions suivantes doivent apparaitre explicitement dans la raison d’être de l’entreprise avec une priorisation 
 
 - Impact sur le monde 
-
 - Impact sur ses membres 
-
 - Impact sur ses actionnaires 
 
 Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention 
@@ -238,7 +218,6 @@ Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organise
 Un cercle comprend impérativement 
 
 - un facilitateur et un traceur élus pour une période
-
 - Un lien lead nommé par le cercle amont 
 
 Sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont. 
@@ -277,12 +256,12 @@ Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. No
 
 Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 
-#####  Préambule  
+##### Préambule  
 
 Le cercle revoit la check list et les indicateurs avant de commencer. 
  Un temps de parole sobre est également ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour réaliser cette réunion
 
-#####  Ordre du jour  
+##### Ordre du jour  
 
 Chacun peut donner un ou deux mots pour réserver un créneau. 
 
@@ -321,19 +300,12 @@ Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
-
 2. Tous, avez-vous des besoins de clarification ? (par exemple : est ce une tension de rôles, de personne ou de cercle ?) 
-
 3. Chacun en une seule fois : quelles sont vos réactions, préférences, meilleures idées, influences, ressentis ? 
-
 4. Proposeur quelle est la proposition V2 (idem V1, modifiée ou retrait)
-
 5. Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection. Le facilitateur questionne chacun en tour de salle pour repérer les objections.
-
 6. Pour gagner du temps, préserver la capacité d’innovation et préparer l’intégration dans la proposition, le facilitateur aide les objecteurs à évaluer s’il est impératif d’intégrer leur objection à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples. 
-
 7. Résolution. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, le tour reprend. 
-
 8. Célébration et enregistrement quand toute les objections sont levées.
 
 ##### Cloture   
@@ -363,17 +335,11 @@ Le facilitateur rappelle le/les rôles à élire
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Traceur, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
-
 2. Tous : quelles sont les caractéristiques nécessaires pour tenir ce rôle ? (Concept « nuage de mots » : pas de recherche d’accord, chacun décidera de ses critères de sélection informellement)
-
 3. Chacun remplit son bulletin de vote (vote pour soi bienvenu)
-
 4. Je récupère et affiche le bulletins un par un, merci d’expliquer votre choix à tous 
-
 5. Après avoir écouté les arguments des autres, certains souhaitent ils reporter leur voix ? (report des voix)
-
 6. Soit consensuel : le facilitateur propose l’un des candidats avec le plus de voix. Soit créatif, le facilitateur demande une proposition parmi les candidats à qui reste au moins une voix. 
-
 7. (le process redevient celui de la gouvernance à partir des objections) :  Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection…
 
 ##### Cloture   
@@ -404,17 +370,11 @@ Le facilitateur rappelle la raison qui a déclenché ce temps d’accordage
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Si l’intention de restauration n’a pas été nommé : quelle est votre intention vis-à-vis de ce temps d’accordage ? 
-
 2. Qui souhaite commencer ?
-
 3. Peux tu nous dire ce qu’il s’est passé ? (les événements), ce que tu as ressentis (les émotions), comment cela se passerait dans ton idéal, (le besoin) et ce que tu demandes concrètement à qui  (la demande). Merci de t’adresser à moi. Les autres écoutent en silence. (mode CNV)
-
 4. Interlocuteur, peux tu reformuler ce que tu retiens ? 
-
 5. À l’émeteur : est ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
-
 6. Au receveur : que décides tu ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
-
 7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
 
 ##### Cloture   
@@ -447,21 +407,13 @@ Beaucoup d’alternatives et de variantes existent ici, brainstorming, 6 chapeau
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Présentation du thème et de la question préparée par l’organisateur
-
 2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes 
-
 3. Sous groupe : 15’ Où en sommes nous de sur ce thème ? En quoi est ce important de le travailler ?
-
 4. Restitution rapide des sous groupe en plénière 
-
 5. Solo : chacun prépare une proposition par écrit. (Eventuellement sous groupes par affinités selon la taille du groupe)
-
 6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles.
-
 7. Préparation de la sélection : chacun dispose de trois points à affecter selon ses préférences. (barrettes ou gommettes)
-
 8. Le groupe décide de la solution qu’il retient (décision spontanée ou consentement)
-
 9. Solidification de la décision par concordance
 
 #### Cloture   
@@ -481,11 +433,8 @@ Affectation des Rôles du Cercle
 ##### REDEVABILITES
 
 - Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont il est redevable
-
 - Sur demande : résoudre les conflits de priorités entre les rôles, donner les priorités stratégiques
-
 - Répartir les ressources disponibles du Cercle sur les différents Projets et/ou Rôles
-
 - Affecter des partenaires aux Rôles du Cercle 
 
 ##### REDEVABILITES complémentaires
@@ -503,7 +452,6 @@ Les pratiques de réunions du Cercle sont conformes à la Constitution
 ##### REDEVABILITES inamovible
 
 - Faciliter les réunions du Cercle requises par la Constitution
-
 - Auditer les réunions et les registres des cercles avals. Signaler au traceur et au débloqueur les observations incompatibles avec les règles de la Constitution
 
 ##### REDEVABILITE ajoutée
@@ -523,9 +471,7 @@ Tous les registres du Cercle requis par la Constitution
 ##### REDEVABILITES inamovible
 
 - Organiser les réunions du Cercle requises par la Constitution et informer tous les invités des dates et lieux
-
 - Enregistrer et publier les résultats des réunions du Cercle qui sont requises, et maintenir une vue compilée de la Gouvernance en cours, des points de check-list et des indicateurs du Cercle
-
 - Interpréter la Gouvernance et la Constitution sur demande
 
 ##### REDEVABILITES ajoutée 
@@ -541,9 +487,7 @@ Les Tensions pertinentes à processer dans le cercle amont y sont apportées et 
 ##### REDEVABILITES
 
 - Éliminer au sein du cercle amont les contraintes qui limitent le cercle
-
 - Chercher à comprendre les Tensions transmises par les Membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
-
 - Donner de la visibilité au cercle amont sur la santé du cercle (niveau de sérénité) et sur la performance du cercle (niveau de déliverabilité
 
 # 5  CONSTITUTION : Briques Optionnelles  
@@ -555,7 +499,7 @@ Les Tensions pertinentes à processer dans le cercle amont y sont apportées et 
 Les briques sont des modules autonomes compatibles. 
  Cela signifie que vous pouvez activer une brique, ou plusieurs, en fonction de ce qui est utile pour vous. 
  Elles sont interdépendantes : activer une brique aura un impact sur l’usage des éléments du livret central et des autres briques 
- 
+
  Elle se veulent à la fois inspirantes et guidantes. 
 
 Comme tout le reste de notre travail, elles sont hautement imparfaites, en cours d’évolution, discutables et ajustables (par politiques formalisées).
@@ -586,10 +530,8 @@ Un collectif en Gouvernance Distribuée Humaniste ne laisse pas un partenaire sa
 Quand la réponse apportée à une demande n’est pas suffisante pour résoudre la tension ressentie par le demandeur, celui-ci :
 
 1. Informe le receveur de son besoin actualisé et demande un complément 
-
 2. S’il ne l’obtient pas, cherche une autre demande susceptible de répondre à son besoin
-    (cette autre demande peut être adressée à un autre rôle)
-
+   (cette autre demande peut être adressée à un autre rôle)
 3. Peut demander un tour de boite à idée aux membres du cercle
 
 ##### Posture 
@@ -604,9 +546,7 @@ La séquence d’idées ne cherche pas à changer la réponse qui a été fourni
 Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre une atmosphère de travail qui permette de
 
 - Préserver la liberté de chacun de s’orienter et de choisir Choix, (liberté)
-
 - Considérer chaque personne et chaque élan comme ayant de la valeur (Inclusion, égalité)
-
 - Soutenir les tensions ressenties par les membres et de chercher une réponse (Entraide, Amour, fraternité)
 
 ##### Organisation  
@@ -625,12 +565,9 @@ Des réunions et des processus de décisions sont à disposition des membres pou
   - Décision inéluctable par consentement pour les décisions à prendre rapidement 
   - Décision par concordance pour les décisions à fort enjeu
   - Décision par référendum
-
 - RELATION ( Fraternité _ Amour _ Ouverture) 
 - - Réunion de régulation pour restaurer la relation 
-
 - INSPIRATION (Egalité _ Unicité _ Inclusion)
-
 - - Réunion d’inspiration pour travailler la raison d’être 
 
 Chaque structure peut inventer les réunions complémentaires dont elle a besoin
@@ -681,10 +618,9 @@ Ne pas prendre soin du travail sans considération des humains :considérer chaq
 L’organisation en cercle est totalement compatible avec une organisation pyramidale du point de vue structurel.
 
 - Si le cercle amont dépend d’une structure pyramidale, le premier lien du cercle amont a la charge de faire valider la raison d’être et les redevabilités du cercle par la structure pyramidale. 
-   Il n’y a alors pas de cercle d’ancrage mais un « premier cercle »
-
+  Il n’y a alors pas de cercle d’ancrage mais un « premier cercle »
 - Si une équipe avale est organisée en mode pyramidal, elle reçoit sa raison d’être et ses redevabilités via son responsable qui siège dans le cercle amont (en tant que premier lien). 
-   Le responsable organise son équipe selon les règles pyramidale de sa structure pour que l’équipe remplisse son rôle. 
+  Le responsable organise son équipe selon les règles pyramidale de sa structure pour que l’équipe remplisse son rôle. 
 
 ##### Humains 
 
@@ -699,21 +635,13 @@ Fonctionner dans un environnement solidaire signifie que chacun prend soin des a
 une posture nous semble bénéfique : 
 
 - Cultiver une posture « basse », non contrôlante, sanctuarisant l’auto-détermination de chacun
-
 - Entretenir notre confiance : considérer nos partenaires capables de trouver leur propre solution
-
 - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à laisser expérimenter tant qu’il ne nous est rien demandé
-
 - Dévoilement : renvoyer du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui mêmes les aspects qu’il souhaite favoriser ou corriger.
-
 - Exprimer de la gratitude en précisant ce qui a été fait et l’impact sur nous
-
 - Veiller à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, alerter un partenaire quand on imagine qu’il se met en danger … 
-
 - Soutenir voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
-
 - Réciprocité : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
-
 - Non-emprise : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux, demander dans la clôture d’une réunion un retour sur le niveau de « soin de soi » vécu  … 
@@ -723,9 +651,7 @@ Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère ef
 ##### Contenu de la constitution
 
 - Les termes utilisés sont simples, issus du langage courant
-
 - Les rubriques sont celles nécessaires pour aider à l’harmonisation entre les personnes dans le cadre de leur travail
-
 - Des annexes préciseront des réponses possibles lors de difficultés
 
 ##### Sobriété de la constitution 
@@ -747,13 +673,11 @@ Focaliser leur attention sur les seuls sujets qui le nécessitent
 ##### Se contenter 
 
 - L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux »
-
 - Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou il) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente.
 
-#####  Se contenter est rendu possible par
+##### Se contenter est rendu possible par
 
 - les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tensions quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous même, devenons capable de décider de la suite 
-
 - L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres, fonctionnement que nous ne souhaitons précisément pas (nous) permettre
 
 ##### Contentement 
@@ -790,13 +714,10 @@ Sur demande du proposeur
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Proposeur, quelle tension souhaites tu réduire ? 
-
 2. Tous, avez-vous des besoins de clarification ? ? (par exemple : est ce une tension de rôles, de personne ou de cercle ?) 
-
 3. Chacun en une seule fois : quelle est votre meilleure idées, quelles sont vos réactions, préférences, influences, ressentis ?
-
 4. Proposeur quelle est ta proposition (le process redevient celui de la gouvernance après la V2 :
-    Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection… )
+   Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection… )
 
 #### 5.12  Brique Décision par Concordance 
 
@@ -837,11 +758,8 @@ Il inclue chacun et favorise la créativité,
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Ecoute du centre. Chacun nomme ce qu’il a en tête de la situation, la décision à prendre, ses ressentis, préférences, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils disent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
-
 2. Chacun rédige sa proposition en silence. (temps de créativité divergente)
-
 3. Appel a proposition. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. (temps de sélectivité convergente)
-
 4. Proposeur quelle est ta proposition V1 (le process redevient celui de la gouvernance à partir de la proposition V1)
 
 Le temps de réactions, préférences, meilleures idées, influences, ressentis est à nouveau un temps de créativité divergente, 
@@ -883,15 +801,10 @@ Simplifier le processus, fonctionner à distance
 ##### Processus 
 
 1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles.
-
 2. Il répond aux questions de clarifications
-
 3. Il prend connaissance des réactions
-
 4. Si un membre demande à ce que le point passe en gouvernance formelle, le process est stoppé  
-
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en gouvernance formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
-
 6. Le traceur enregistre la proposition dans le suivi de gouvernance 
 
 #### 5.16  Brique Accompagnement Extérieur
@@ -933,19 +846,12 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant cette échelle (souvent en plusieurs boucles) :
 
 1. De quoi souhaites tu parler ? 
-
 2. Quels sont les plaintes ou les critiques qui te viennent en évoquant ce sujet ? 
-
 3. Quelles sont tes ressentis, émotions ?
-
 4. A quel moment se déclenchent ces ressentis ? (quel endroit, quelle action, chercher les détails)
-
 5. Quelle impression as-tu de ce que tes interlocuteurs pensent de toi à cet instant ? ( ou Que n’aimerais tu pas qu’ils pensent de toi ? ; que crains tu qu’ils pensent de toi ? )    Que tu es …
-
 6. Quelle peur cela déclenche t il chez toi ? Plutôt d’être quantité négligeable, l’abandon ? Ou d’être mis face à un échec, l’humiliation ? Ou de sentir que tu n’est pas apprécié, le rejet ?
-
 7. Derrière chacun de ces peurs se cache un besoin : dans l’ordre de se sentir important/reconnu, ou compétent/capable, ou aimé/appréciable. Observe la réalité du danger : est ce une peur liée à un danger existant ou potentiel ? 
-
 8. De quoi as-tu besoin pour nourrir se sentiment d’importance/de compétence/d’être apprécié ?  Vis-à-vis des autres ? Vis-à-vis de toi ? 
 
 ##### Cloture   
@@ -993,14 +899,68 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 [plus de réflexion ici](http://k6.re/UU5fo)
 
-####  5.20  Brique Charte Gouvernance Distribuée Humaniste  
+#### 5.20  Brique Posture Professionnelle  
+
+##### Raison d’être 
+
+Décrire des questionnements aidants pour cultiver une posture professionnelle bénéfique à la fois pour moi, mes interlocuteurs, mon collectif et mon travail.
+
+##### Inclusion
+
+Ma présence, ma complétude. Suis-je dans une attention flottante me permettant d’utilise tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif … ?
+ Vis-à-vis des autres : est ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
+
+##### Contrôle 
+
+Mon auto-détermination, ma capacité à décider sans avoir besoin d’entendre l’accord du groupe ou d’une autorité.
+
+Vis-à-vis des autres : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un impose son idée ? 
+
+##### Ouverture 
+
+Ma lucidité sur mes fonctionnements. Ma conscience de moi. Est-ce que j’observe suffisamment sereinement comment je me comporte pour pouvoir tenter de modifier ce qui me déplait ? 
+ Vis-à-vis des autres est ce que j’ose exprimer ce que je vis dans les moments intenses ou est ce que j’adopte un masque consensuel ? Comment est ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussi à prendre sur moi quand la situation n’est pas favorable à du temps pour les ressentis ?
+
+*Plus de réflexion avec l’élément humain de Will Schutz*
+
+#### 5.21  Brique 180°  
+
+##### Raison d’être 
+
+Aider un partenaire en tension interne à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire
+
+##### Le paradigme :
+
+Technique : Faire des expériences nouvelles pour s’extraire de situations répétitives
+
+Principe Stratégique : J’assume que je rentre en relation et parle pour obtenir quelque chose.
+
+Philosophie : Mon environnement me construit tout pendant que je le façonne : co-construction 
+
+##### Process 180°
+
+Le facilitateur discute avec la personne demandeuse en suivant le canevas ci-dessous 
+
+1. Quel est le problème précisément (exemples factuels, ressentis et émotions)
+2. A quoi sens tu que tu as envie de trouver une solution ? 
+3. comment ce serait concrètement si c’était mieux ? 
+4. Listons les tentatives de solutions que tu as faite. 
+5. Nous faisons aujourd’hui l’hypothèse qu’elles ont maintenu le problème par répétition. Repérons ensemble ce qui les sous tend : l’implicite qu’elles comportent, le message qu’elles envoient.
+6. Ma recommandation est d’arrêter ces tentatives vu qu’elles ne marchent pas : arrêter de faire plus de la même chose
+7. Qu’est ce que ce serait d’aller à l’inverse ? A l’opposé de ce que tu as tenté depuis longtemps et qui, à l’évidence, échoue ? 
+
+Banni les pensées vaines à propos des « coupables, méchants, incompétents » sauf si elles apportent des solutions nouvelles ! 
+
+##### Cloture   
+
+Chacun nomme comment il a vécu cette réunion et la facilitation  
+
+#### 5.22  Brique Charte Gouvernance Distribuée Humaniste  
 
 #### Contexte 
 
 - Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Distribuée Humaniste , des rôles et des cercles ont été créés. 
-
 - Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
-
 - Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
 
 #### Engagement
@@ -1008,13 +968,9 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 Nous nous engageons à respecter le principe de non-ingérence :
 
 - - Nous respecterons l’auto-détermination des rôles et cercles créés 
-
 - - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
-
 - - Nous agirons dans le respect des règles définies par notre constitution
-
 - - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
-
 
  L’Organisation adopte la Constitution Gouvernance Distribuée Humaniste le __________________, à ______
 
@@ -1026,7 +982,7 @@ Nous nous engageons à respecter le principe de non-ingérence :
 
  x________________________________ Nom: Titre:
 
-#### 5.21  Brique séparation 
+#### 5.23  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1038,7 +994,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.22  Brique Liberté Egalité Fraternité
+#### 5.24  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
@@ -1070,20 +1026,12 @@ Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu c
 
 ##### Bibliographie 
 
-•Remerciement spécial à Brian Robertson dont la constitution holacracy® a facilité beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
-
-•L’élément humain de Will Schutz, en particulier pour les notions de concordance, d’ouverture, de choix de compatibilités d'équipes [plus d'info ici](http://elementhumain-france.fr/lapproche/) et dans l'ouvrage l'elément humain 
-
-•Jos de Blok pour l’existance modelisante de Buurzorg https://www.buurtzorg.com/
-
-•Vincent Lenhardt en particulier l'ouvrage Responsable porteur de sens 
-
-•Marshal Rosenberg gérer les conflits avec la CNV 
-
-•Fréderic Laloux Reinventing organisations 
-
-•Simon Sinek WHY
-
-•Mary Parker Follett, pour ses modélisation de la réciprocité, la distinction Power over and power with dès les années 1900
-
-Pablo Sevigne l’entraide, l’autre loi de la jungle
+- Remerciement spécial à Brian Robertson dont la constitution holacracy® a facilité beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
+- L’élément humain de Will Schutz, en particulier pour les notions de concordance, d’ouverture, de choix et pour avoir facilité le fait d'autoriser les peurs, l'amour et la complétude en entreprise. [plus d'info ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
+- Jos de Blok pour l’existance modelisante de Buurzorg https://www.buurtzorg.com/
+- Vincent Lenhardt en particulier l'ouvrage Responsable porteur de sens 
+- Marshal Rosenberg gérer les conflits avec la CNV 
+- Fréderic Laloux Reinventing organisations 
+- Simon Sinek WHY
+- Mary Parker Follett, pour ses modélisation de la réciprocité, la distinction Power over and power with dès les années 1900
+- Pablo Sevigne l’entraide, l’autre loi de la jungle
