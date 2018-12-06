@@ -181,7 +181,7 @@ Une réponse doit être fournie qui peut prendre deux forme :
 
 •La raison d’être est modifiée ainsi 
 
-•La raison d’être n’est pas modifiée, cette proposition constitue est autre projet
+•La raison d’être n’est pas modifiée, cette proposition constitue un autre projet
 
 ##### Intention
 
