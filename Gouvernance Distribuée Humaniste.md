@@ -1,7 +1,3 @@
-#Hello, c'est Jeanluc, je tente à nouveau un commit en respectant la bonne forme 
-
-
-
 ## **Gouvernance Distribuée Humaniste** 
 
  *(nom de construction)* 
@@ -56,7 +52,6 @@ Car nous ressentons le besoin
 - de participer au monde par la création d’un commun
 
 
-
 #### <u>1.3 Impact sur les actionnaires</u>  
 
 Aucun impact, financement en mode don (pas d’actionnaire mais des financeurs)
@@ -70,12 +65,7 @@ Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent pl
 
 - le respect des capacités, des élans et des choix des humains qui composent l’entreprise (Choix, liberté)
 - Faire avec le mouvement du monde dans l’unité avec notre environnement (Unicité, Inclusion, égalité de valeur)
-- Faire ensemble avec soutien et stimulation mutuels (
-
-
-
-
-, Amour, fraternité)
+- Faire ensemble avec soutien et stimulation mutuels (ouverture, Amour, fraternité)
 
 #### Propriété 
 
