@@ -70,7 +70,12 @@ Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent pl
 
 - le respect des capacités, des élans et des choix des humains qui composent l’entreprise (Choix, liberté)
 - Faire avec le mouvement du monde dans l’unité avec notre environnement (Unicité, Inclusion, égalité de valeur)
-- Faire ensemble avec soutien et stimulation mutuels (Ouverture, Amour, fraternité)
+- Faire ensemble avec soutien et stimulation mutuels (
+
+
+
+
+, Amour, fraternité)
 
 #### Propriété 
 
@@ -911,18 +916,18 @@ Décrire des questionnements aidants pour cultiver une posture professionnelle b
 
 ##### Inclusion
 
-Ma présence, ma complétude, ma plénitude. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
- Vis-à-vis des autres : est ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
+- Ma présence, ma complétude, ma plénitude. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
+- Vis-à-vis des autres : est ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
 
 ##### Contrôle 
 
-Mon auto-détermination, ma capacité à décider sans avoir besoin d’entendre l’accord du groupe ou d’une autorité.
-Vis-à-vis des autres : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
+- Mon auto-détermination, ma capacité à décider sans avoir besoin d’entendre l’accord du groupe ou d’une autorité.
+- Vis-à-vis des autres : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
 
 ##### Ouverture 
 
-Ma lucidité sur mes fonctionnements. Ma conscience de moi. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
- Vis-à-vis des autres est ce que j’ose exprimer ce que je vis dans les moments intenses ou est ce que j’adopte un masque consensuel ? Comment est ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussi à prendre sur moi quand la situation n’est pas favorable à l'expression des ressentis ?
+- Ma lucidité sur mes fonctionnements. Ma conscience de moi. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
+- Vis-à-vis des autres est ce que j’ose exprimer ce que je vis dans les moments intenses ou est ce que j’adopte un masque consensuel ? Comment est ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussi à prendre sur moi quand la situation n’est pas favorable à l'expression des ressentis ?
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
