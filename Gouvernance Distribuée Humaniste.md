@@ -1,3 +1,6 @@
+Je suis jeanluc et l'essaie de faire mon premier commit
+
+
 ## **Gouvernance Distribuée Humaniste** 
 
  *(nom de construction)* 
@@ -19,7 +22,7 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 
 ##### Comment ?  
 
-Une architecture avec :
+Une architecture comprenant :
 
 - Un livret central avec des éléments centraux requis
 
