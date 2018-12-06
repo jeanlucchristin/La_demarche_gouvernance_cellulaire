@@ -1,9 +1,9 @@
-## **Gouvernance Distribuée Humaniste** 
+# **Gouvernance Distribuée Humaniste** 
 
  *(nom de construction)* 
 *Explorons une autre façon de travailler ensemble*  
 
-# 1  Raison d’être de la constitution Gouvernance Distribuée Humaniste
+# 1)  Raison d’être de la constitution Gouvernance Distribuée Humaniste
 
 #### *<u>1.1  Impact sur le monde</u>* 
 
@@ -56,7 +56,7 @@ Car nous ressentons le besoin
 
 Aucun impact, financement en mode don (pas d’actionnaire mais des financeurs)
 
-# 2  Préambule 
+# 2)  Préambule 
 
 #### Principe du Vivant 
 
@@ -83,7 +83,7 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par
 - le rapport aux autres (travail de la relation)
 - le choix des actions (en particulier avec le travail)
 
-# 3  CONSTITUTION : Eléments du livret central 
+# 3)  CONSTITUTION : Eléments du livret central 
 
 Notre proposition est de vous permettre une mise en mouvement de votre structure depuis l’une ou l’autre des briques et éléments de cette constitution. 
  Pour donner un repère clef en main, la constitution Gouvernance Distribuée Humaniste comporte des éléments centraux requis et des briques modulaires optionnelles. 
@@ -419,7 +419,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme comment il a vécu cette réunion et la facilitation   
 
-# 4 CONSTITUTION : Rôles préconstruits 
+# 4) CONSTITUTION : Rôles préconstruits 
 
 #### 4.1  Lien Lead RAISON D’ETRE 
 
@@ -489,7 +489,7 @@ Les Tensions pertinentes à processer dans le cercle amont y sont apportées et 
 - Chercher à comprendre les Tensions transmises par les Membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
 - Donner de la visibilité au cercle amont sur la santé du cercle (niveau de sérénité) et sur la performance du cercle (niveau de déliverabilité
 
-# 5  CONSTITUTION : Briques Optionnelles  
+# 5)  CONSTITUTION : Briques Optionnelles  
 
 #### 5.1  Briques
 
