@@ -432,7 +432,7 @@ Affectation des Rôles du Cercle
 ##### REDEVABILITES
 
 - Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont il est redevable
-- Sur demande : résoudre les conflits de priorités entre les rôles, donner les priorités stratégiques
+- Sur demande : donner les priorités stratégiques voire résoudre les conflits de priorités entre les rôles
 - Répartir les ressources disponibles du Cercle sur les différents Projets et/ou Rôles
 - Affecter des partenaires aux Rôles du Cercle 
 
