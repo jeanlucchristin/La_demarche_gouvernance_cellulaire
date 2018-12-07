@@ -274,7 +274,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 
 ##### Cloture   
 
-Le facilitateur demande : comment avez-vous vécu cette réunion et la facilitation ? 
+Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ?
 
 #### 3.7  Réunion de gouvernance
 
@@ -309,7 +309,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu cette réunion et la facilitation 
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 3.8  Réunion d’élection sans candidat
 
@@ -343,7 +343,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu cette réunion et la facilitation 
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 3.9  Réunion d’accordage 
 
@@ -378,7 +378,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu cette réunion et la facilitation    
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 [plus de réflexion ici](http://k6.re/31ro3)  (avec toutes nos excuses aux chacals)
 
@@ -417,7 +417,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 #### Cloture   
 
-Chacun nomme comment il a vécu cette réunion et la facilitation   
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion   
 
 # 4) CONSTITUTION : Rôles préconstruits 
 
@@ -855,7 +855,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu cette réunion et la facilitation 
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 5.18  Brique Frustration 
 
@@ -951,7 +951,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu cette réunion et la facilitation  
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 5.22  Brique Charte Gouvernance Distribuée Humaniste  
 
