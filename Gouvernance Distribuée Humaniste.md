@@ -953,7 +953,36 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.22  Brique Charte Gouvernance Distribuée Humaniste  
+#### 5.22  Brique Entretien annuel  
+
+##### Raison d’être 
+
+Répondre au besoin de certaine structures ou de certains partenaires de disposer d’un processus d’entretien annuel
+
+##### Limite
+
+Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idée ».
+
+##### Process entretien annuel
+
+1. Un partenaire choisit une personne et lui propose le rôle de réaliser son entretien annuel 
+2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur.
+   Le support de questionnement peut être 
+
+- - celui de la structure
+
+- - une grille fournie par le demandeur
+
+- - la brique « posture professionnelle » complétée de la question « comment vis tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
+
+1. La personne restitue le contenu de ce qui lui a été dit au demandeur dans un rendez vous planifié, dans un espace fermé, téléphones éteints. 
+2. Le demandeur remercie la personne pour avoir préparé et communiqué ce retour 
+
+##### Cloture   
+
+Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+
+#### 5.23  Brique Charte Gouvernance Distribuée Humaniste  
 
 #### Contexte 
 
@@ -980,7 +1009,7 @@ Nous nous engageons à respecter le principe de non-ingérence :
 
  x________________________________ Nom: Titre:
 
-#### 5.23  Brique séparation 
+#### 5.24  Brique séparation 
 
 ##### Processus de séparation
 
@@ -992,7 +1021,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.24  Brique Liberté Egalité Fraternité
+#### 5.25  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
