@@ -810,7 +810,7 @@ Simplifier le processus, fonctionner à distance
 
 ##### Technicité 
 
-Un accompagnement extérieur par un spécialiste de la gouvernance distribuée peut être utile pour permettre une monté en compétence rapide des équipes impliquées. 
+Un accompagnement extérieur par un spécialiste de la gouvernance distribuée humaniste peut être utile pour permettre une monté en compétence rapide des équipes impliquées. 
  Il n’est pas indispensable. 
  A chaque équipe d’expérimenter et de décider si une aide pour progresser plus facilement et plus rapidement serait utile
 
