@@ -274,7 +274,8 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 
 ##### Cloture   
 
-Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ?
+Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
+Chacun répond en une fois, les autres écoutent (en silence)
 
 #### 3.7  Réunion de gouvernance
 
@@ -309,7 +310,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 3.8  Réunion d’élection sans candidat
 
@@ -343,7 +344,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 3.9  Réunion d’accordage 
 
@@ -378,7 +379,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 [plus de réflexion ici](http://k6.re/31ro3)  (avec toutes nos excuses aux chacals)
 
@@ -417,7 +418,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 #### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion   
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion   
 
 # 4) CONSTITUTION : Rôles préconstruits 
 
@@ -855,7 +856,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 5.18  Brique Frustration 
 
@@ -951,7 +952,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 5.22  Brique Entretien annuel  
 
@@ -973,14 +974,16 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 - - une grille fournie par le demandeur
 
-- - la brique « posture professionnelle » complétée de la question « comment vis tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
+- - la brique « posture professionnelle » complétée de 
+- - - la question « comment vis tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
+- - - Dans ton idéal, qu’est qui changerait l’an prochain ? 
 
 1. La personne restitue le contenu de ce qui lui a été dit au demandeur dans un rendez vous planifié, dans un espace fermé, téléphones éteints. 
 2. Le demandeur remercie la personne pour avoir préparé et communiqué ce retour 
 
 ##### Cloture   
 
-Chacun nomme comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 5.23  Brique Charte Gouvernance Distribuée Humaniste  
 
