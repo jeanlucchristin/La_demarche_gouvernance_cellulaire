@@ -1008,13 +1008,14 @@ Nous nous engageons à respecter le principe de non-ingérence :
 
  L’Organisation adopte la Constitution Gouvernance Distribuée Humaniste le __________________, à ______
 
- Signatures
+Signatures
+ x________________________________ Nom: Titre:                              x________________________________ Nom: Titre:
 
- x________________________________ Nom: Titre:
+ x________________________________ Nom: Titre:                              x________________________________ Nom: Titre:
 
- x________________________________ Nom: Titre:
 
- x________________________________ Nom: Titre:
+
+*Cette charte pourra être proposée à la signature de tous les membres de la structure*
 
 #### 5.24  Brique séparation 
 
