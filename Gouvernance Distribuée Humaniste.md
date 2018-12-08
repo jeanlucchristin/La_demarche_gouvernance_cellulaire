@@ -993,28 +993,34 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 
 #### Contexte 
 
-- Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Distribuée Humaniste , des rôles et des cercles ont été créés. 
-- Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
-- Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
+Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Distribuée Humaniste , des rôles et des cercles ont été créés. 
+Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
+Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
 
 #### Engagement
 
 Nous nous engageons à respecter le principe de non-ingérence :
 
-- - Nous respecterons l’auto-détermination des rôles et cercles créés 
-- - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
-- - Nous agirons dans le respect des règles définies par notre constitution
-- - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
+ - Nous respecterons l’auto-détermination des rôles et cercles créés 
+ - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
+ - Nous agirons dans le respect des règles définies par notre constitution
+ - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
  L’Organisation adopte la Constitution Gouvernance Distribuée Humaniste le __________________, à ______
 
- Signatures
+Signatures :
 
- x________________________________ Nom: Titre:
 
- x________________________________ Nom: Titre:
 
- x________________________________ Nom: Titre:
+ x________________________________ Nom: Titre: 
+ 
+
+ x________________________________ Nom: Titre: 
+
+
+
+
+**Cette charte pourra être proposée à la signature de tous les membres de la structure*
 
 #### 5.24  Brique séparation 
 
