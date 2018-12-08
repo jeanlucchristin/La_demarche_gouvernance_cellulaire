@@ -1001,14 +1001,15 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 
 Nous nous engageons à respecter le principe de non-ingérence :
 
- - Nous respecterons l’auto-détermination des rôles et cercles créés 
- - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
+    - Nous respecterons l’auto-détermination des rôles et cercles créés 
+    - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
  - Nous agirons dans le respect des règles définies par notre constitution
  - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
  L’Organisation adopte la Constitution Gouvernance Distribuée Humaniste le __________________, à ______
 
-Signatures
+Signatures :
+
  x________________________________ Nom: Titre: 
  
 
@@ -1016,7 +1017,7 @@ Signatures
 
 
 
-*Cette charte pourra être proposée à la signature de tous les membres de la structure*
+**Cette charte pourra être proposée à la signature de tous les membres de la structure*
 
 #### 5.24  Brique séparation 
 
