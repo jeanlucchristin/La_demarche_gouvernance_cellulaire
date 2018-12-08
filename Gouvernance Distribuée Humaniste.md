@@ -920,11 +920,11 @@ Décrire des questionnements aidants pour cultiver une posture professionnelle b
 - Ma lucidité sur mes fonctionnements. Ma conscience de moi. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
 - Vis-à-vis des autres est ce que j’ose exprimer ce que je vis dans les moments intenses ou est ce que j’adopte un masque consensuel ? Comment est ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussi à prendre sur moi quand la situation n’est pas favorable à l'expression des ressentis ?
 
-#### Leader as a « completer »
+#### Leader « as a completer »
 
 Du terme anglais « completer » qui signifie à la fois terminer et complémenter
-Chacun est leader de son rôle as a completer : garde le cap, réalise sa raison d’être et ses redevabilités
-Chaque membre est partenaire du cercle as a completer : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture. (quand il se sent suffisamment en « sérénité d’être »)
+ - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
+ - Chaque membre est partenaire du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture. (quand il se sent suffisamment en « sérénité d’être »)
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
