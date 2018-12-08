@@ -970,13 +970,11 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur.
    Le support de questionnement peut être 
 
-- - celui de la structure
-
-- - une grille fournie par le demandeur
-
-- - la brique « posture professionnelle » complétée de 
-- - - la question « comment vis tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
-- - - Dans ton idéal, qu’est qui changerait l’an prochain ? 
+  - celui de la structure
+  - une grille fournie par le demandeur
+  - la brique « posture professionnelle » complétée de 
+   - la question « comment vis tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
+   - Dans ton idéal, qu’est qui changerait l’an prochain ? 
 
 1. La personne restitue le contenu de ce qui lui a été dit au demandeur dans un rendez vous planifié, dans un espace fermé, téléphones éteints. 
 2. Le demandeur remercie la personne pour avoir préparé et communiqué ce retour 
