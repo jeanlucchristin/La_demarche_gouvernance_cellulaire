@@ -1001,10 +1001,10 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 
 Nous nous engageons à respecter le principe de non-ingérence :
 
-    - Nous respecterons l’auto-détermination des rôles et cercles créés 
-     - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
-      - Nous agirons dans le respect des règles définies par notre constitution
-       - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
+ - Nous respecterons l’auto-détermination des rôles et cercles créés 
+ - Nous agirons dans le cadre des rôles et cercles qui nous sont affectés
+ - Nous agirons dans le respect des règles définies par notre constitution
+ - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
  L’Organisation adopte la Constitution Gouvernance Distribuée Humaniste le __________________, à ______
 
