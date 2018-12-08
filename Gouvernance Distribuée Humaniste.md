@@ -993,9 +993,9 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 
 #### Contexte 
 
-- Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Distribuée Humaniste , des rôles et des cercles ont été créés. 
-- Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
-- Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
+Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Distribuée Humaniste , des rôles et des cercles ont été créés. 
+Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
+Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
 
 #### Engagement
 
