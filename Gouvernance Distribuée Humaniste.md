@@ -43,7 +43,7 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
  - Renforcer notre visibilité, notre expertise et notre crédibilité 
  
 Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
-activité de développement : R&D, supervision, formation et création de communs comme celui-ci. 
+activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci. 
 
 
 ##### Comment ?
