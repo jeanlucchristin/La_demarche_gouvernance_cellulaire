@@ -1022,7 +1022,8 @@ Signatures :
 
 
 
-**Cette charte pourra être proposée à la signature de tous les membres de la structure*
+**Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
+*
 
 #### 5.24  Brique séparation 
 
