@@ -1064,8 +1064,7 @@ Ce vocable nous permet de nommer l’importance de la relation, le besoin de se 
 Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont amené là où nous en sommes maintenant. 
 
 Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu cela possible, nous citons ici ceux qui ont eu un impact direct dans ce travail. 
-
-
+[Plus d’info sur l’histoire qui a amené à la gouvernance distribuée humaniste ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
 ##### Bibliographie 
 
