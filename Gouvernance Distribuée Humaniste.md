@@ -205,7 +205,10 @@ Permettre à chacun de participer au mouvement de perception et d’évolution d
 La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle même
 
 Plusieurs personne peuvent être affectées à un même rôle 
- (Un focus peut être précisé clarifiant des périmètres différents) 
+(Un focus peut être précisé clarifiant des périmètres différents) 
+
+Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance du cercle. 
+Elle est alors représentante des autres.
 
 ##### Cercle 
 
