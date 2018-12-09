@@ -53,7 +53,7 @@ En approfondissant nos idées et nos connaissances dans une co-construction
 
 ##### Intention ?
 
-Car nous ressentons le besoin  
+Car nous avons envie  
 
 - d’explorer des façons d’être ensemble apportant de la joie et de l’efficacité
 - de participer au monde par la création d’un commun
