@@ -441,7 +441,7 @@ Affectation des Rôles du Cercle
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
 à sa manière en phase de lancement puis via la réunion de gouvernance
 
-##### RedevabilitésS complémentaires
+##### Redevabilités complémentaires
 
  Il est d'interdit d'ajouter des redevabilités à ce rôle
 
