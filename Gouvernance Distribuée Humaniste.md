@@ -385,7 +385,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 #### 3.10  Réunion d’inspir 
 
-Raison d’être 
+##### Raison d’être 
 
 Temps de construction du collectif autour d’un rendu co-élaboré
  (Le rendu sera une décision ou une proposition)
@@ -424,15 +424,15 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 #### 4.1  Lien Lead 
 
-#### RAISON D’ETRE 
+##### Raison d’être 
 
 Le Premier Lien porte la Raison d’Être de l’ensemble du Cercle.
 
-##### DOMAINE  
+##### Domaine  
 
 Affectation des Rôles du Cercle
 
-##### REDEVABILITES
+##### Redevabilités
 
 - Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont il est redevable
 - Sur demande : donner les priorités stratégiques voire résoudre les conflits de priorités entre les rôles
@@ -441,7 +441,7 @@ Affectation des Rôles du Cercle
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
 à sa manière en phase de lancement puis via la réunion de gouvernance
 
-##### REDEVABILITES complémentaires
+##### RedevabilitésS complémentaires
 
  Il est d'interdit d'ajouter des redevabilités à ce rôle
 
@@ -451,46 +451,46 @@ Le Premier Lien est en charge de tout ce qui n’est pas affecté
 
 #### 4.2  Facilitateur.e
 
-##### RAISON D’ETRE 
+##### Raison d’être 
 
 Les pratiques de réunions du Cercle sont conformes à la Constitution
 
-##### REDEVABILITES inamovible
+##### Redevabilités inamovible
 
 - Faciliter les réunions du Cercle requises par la Constitution
 - Auditer les réunions et les registres des cercles avals. Signaler au traceur et au débloqueur les observations incompatibles avec les règles de la Constitution
 
-##### REDEVABILITE ajoutée
+##### Redevabilités ajoutée
 
 Développer l'aisance des participants dans les processus pour qu'ils puissent tenir leurs tensions jusqu'à résolution sans prendre le pouvoir les uns sur les autres 
 
 #### 4.3  Traceur.e 
 
-##### RAISON D’ETRE 
+##### Raison d’être 
 
 Enregistrer les décisions dans les registres officiels du Cercle
 
-##### DOMAINE  
+##### Domaine  
 
 Tous les registres du Cercle requis par la Constitution
 
-##### REDEVABILITES inamovible
+##### Redevabilités inamovible
 
 - Organiser les réunions du Cercle requises par la Constitution et informer tous les invités des dates et lieux
 - Enregistrer et publier les résultats des réunions du Cercle qui sont requises, et maintenir une vue compilée de la Gouvernance en cours, des points de check-list et des indicateurs du Cercle
 - Interpréter la Gouvernance et la Constitution sur demande
 
-##### REDEVABILITES ajoutée 
+##### Redevabilités ajoutée 
 
 - Produire les enregistrements aux membres pour les aider à se repérer dans ce qui est écrit
 
 #### 4.4  débloqueur.e
 
-##### RAISON D’ETRE 
+##### Raison d’être 
 
 Les Tensions pertinentes à processer dans le cercle amont y sont apportées et traitées..
 
-##### REDEVABILITES
+##### Redevabilités
 
 - Éliminer au sein du cercle amont les contraintes qui limitent le cercle
 - Chercher à comprendre les Tensions transmises par les Membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
