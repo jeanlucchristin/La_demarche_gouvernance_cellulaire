@@ -206,6 +206,8 @@ La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de
 
 Plusieurs personne peuvent être affectées à un même rôle 
  (Un focus peut être précisé clarifiant des périmètres différents) 
+ (Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance du cercle. 
+Elle est alors représentante des autres)
 
 ##### Cercle 
 
