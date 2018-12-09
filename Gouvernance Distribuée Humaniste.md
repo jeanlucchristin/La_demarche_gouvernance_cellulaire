@@ -37,7 +37,7 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
 
 ##### Quoi ?
 
- - Donner forme à une pratique et à un rêve potentiel, renforcer notre crédibilité
+ - Donner forme à une pratique et à un rêve potentiel
  - Nous doter d’un outil d’intervention facilitant les apprentissages basiques pour nous permettre d’aller plus loin dans la réponse 
    aux attentes de nos clients
  - Renforcer notre visibilité, notre expertise et notre crédibilité 
