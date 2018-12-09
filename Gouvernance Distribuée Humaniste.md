@@ -422,7 +422,9 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 # 4) CONSTITUTION : Rôles préconstruits 
 
-#### 4.1  Lien Lead RAISON D’ETRE 
+#### 4.1  Lien Lead 
+
+#### RAISON D’ETRE 
 
 Le Premier Lien porte la Raison d’Être de l’ensemble du Cercle.
 
@@ -436,8 +438,8 @@ Affectation des Rôles du Cercle
 - Sur demande : donner les priorités stratégiques voire résoudre les conflits de priorités entre les rôles
 - Répartir les ressources disponibles du Cercle sur les différents Projets et/ou Rôles
 - Affecter des partenaires aux Rôles du Cercle 
-- Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : à sa manière en phase de 
-lancement puis via la réunion de gouvernance
+- Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
+à sa manière en phase de lancement puis via la réunion de gouvernance
 
 ##### REDEVABILITES complémentaires
 
@@ -445,7 +447,7 @@ lancement puis via la réunion de gouvernance
 
 Le Premier Lien est en charge de tout ce qui n’est pas affecté
 
-*Chacune de ces redevabilités peut être assurée autrement que par le lien lead : soit affectées à un autre rôle soit transférées au cercle par politique. Le cercle les remplit alors via ses processus*
+*Chacune de ces redevabilités peut être assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
 
 #### 4.2  Facilitateur.e
 
