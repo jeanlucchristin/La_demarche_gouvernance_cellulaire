@@ -308,7 +308,11 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Proposeur quelle est la proposition V2 (idem V1, modifiée ou retrait)
 5. Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection. Le facilitateur questionne chacun en tour de salle pour repérer les objections.
 6. Pour gagner du temps, préserver la capacité d’innovation et préparer l’intégration dans la proposition, le facilitateur aide les objecteurs à évaluer s’il est impératif d’intégrer leur objection à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples. 
-7. Résolution. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, le tour reprend. 
+7. Résolution. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, le tour d'objection redémarre. 
+(Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à
+ son objection tout en répondant à la tension de départ, il annonce qu’il va devoir suspendre l’objection. L’objecteur reviendra 
+avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension)
+
 8. Célébration et enregistrement quand toute les objections sont levées.
 
 ##### Cloture   
