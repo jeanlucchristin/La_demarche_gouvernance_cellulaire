@@ -9,7 +9,7 @@ Vous êtes ici sur le lieux de développement de la future version.
 
 Une discussion aura lieu qui aboutira soit à l'intégration de votre proposition dans la  future version soit à une réponse expliquant pourquoi le choix est de ne pas l'intégrer maintenant
 
-#### Vous pouvez questionner, discuter, échanger, donner votre avis, renseigner
+#### Vous pouvez questionner, discuter, échanger, donner votre avis, répondre ...
 
 Ca se passe sur le forum : ici
 
