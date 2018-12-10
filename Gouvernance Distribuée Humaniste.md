@@ -836,7 +836,8 @@ La gouvernance dynamique est rendue beaucoup plus facile grâce aux outils numé
 
 ##### Exemple 
 
-Un exemple à votre disposition [ici](https://trello.com/b/002WfWqn)
+Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/b/002WfWqn)
+Des outils plus puissants payants permettent de continuer l'aventure ensuite. 
 
 #### 5.17  Brique Accompagnement Extérieur
 
