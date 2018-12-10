@@ -1,5 +1,3 @@
-#### 5.22  Brique Entretien annuel  
-
 ##### Comment ça marche ici ? 
 
 Vous êtes ici sur le lieux de développement de la future version. 
