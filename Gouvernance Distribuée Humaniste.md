@@ -828,7 +828,19 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en gouvernance formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition dans le suivi de gouvernance 
 
-#### 5.16  Brique Accompagnement Extérieur
+#### 5.16  Brique Numérique
+
+##### Raison d’être 
+
+La gouvernance dynamique est rendue beaucoup plus facile grâce aux outils numérique offrant une possibilité de traçabilité simple, en temps réel et accessible
+
+##### Exemple 
+
+Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/b/002WfWqn)
+
+Des outils plus puissants payants permettent de continuer l'aventure ensuite. 
+
+#### 5.17  Brique Accompagnement Extérieur
 
 ##### Technicité 
 
@@ -846,7 +858,7 @@ Adopter une posture professionnelle : inclusive, disciplinée et ouverte prend l
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Distribuée Humaniste 
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu capables d’apporter leur éclairage. 
 
-#### 5.17  Brique de distanciation  
+#### 5.18  Brique de distanciation  
 
 ##### Raison d’être 
 
@@ -879,7 +891,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.18  Brique Frustration 
+#### 5.19  Brique Frustration 
 
 ##### Raison d’être 
 
@@ -903,7 +915,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau d’intention aide à préserver la fluidité dans l’équipe soit tout à la fois le bien-être et l’efficacité.
 
-#### 5.19  Brique Réciprocité 
+#### 5.20  Brique Réciprocité 
 
 ##### Exercice du pouvoir
 
@@ -920,7 +932,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 [plus de réflexion ici](http://k6.re/UU5fo)
 
-#### 5.20  Brique Posture Professionnelle  
+#### 5.21  Brique Posture Professionnelle  
 
 ##### Raison d’être 
 
@@ -949,7 +961,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
-#### 5.21  Brique 180°  
+#### 5.22  Brique 180°  
 
 ##### Raison d’être 
 
@@ -981,7 +993,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.22  Brique Entretien annuel  
+#### 5.23  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1010,7 +1022,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.23  Brique Charte Gouvernance Distribuée Humaniste  
+#### 5.24  Brique Charte Gouvernance Distribuée Humaniste  
 
 #### Contexte 
 
@@ -1046,7 +1058,7 @@ Signatures :
 **Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
 *
 
-#### 5.24  Brique séparation 
+#### 5.25  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1058,7 +1070,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.25  Brique Liberté Egalité Fraternité
+#### 5.26  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
@@ -1077,7 +1089,6 @@ Nous utilisons ce terme pour les notions d’importances égales de tous les mem
 Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour. 
 
 # 6  sources et références 
-
 
 
 ##### Gratitude 
