@@ -1,4 +1,4 @@
-# **Gouvernance Distribuée Humaniste** 
+# **Gouvernance Distribuée Humaniste   V1** 
 
  *(nom de construction)* 
 *Explorons une autre façon de travailler ensemble*  
