@@ -92,17 +92,18 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par
 
 # 3)  CONSTITUTION : Eléments du livret central 
 
-Notre proposition est de vous permettre une mise en mouvement de votre structure depuis l’une ou l’autre des briques ou éléments de 
-cette constitution. Rien n’impose de passer en mode Gouvernance Distribuée Humaniste. Le mode pyramidal bien mené, par exemple, peut 
+Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’une ou l’autre des briques et éléments 
+de cette constitution. Rien n’impose de passer en mode Gouvernance Distribuée Humaniste. Le mode pyramidal bien mené, par exemple, peut 
 donner satisfaction.
 
 Si vous adoptez le mode Gouvernance Distribuée Humaniste, vous mettez en place la constitution qui comporte des éléments centraux 
 requis et des briques modulaires optionnelles.
  
 #### Eléments requis
-Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
 
-**Rôle :** description de ce sur quoi les autres membres peuvent compter
+**Raison d’être :** une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
+
+**Rôle :** Description de ce sur quoi les autres membres peuvent compter
 
 **Cercle :** Rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
@@ -112,14 +113,14 @@ Raison d’être : une raison d’être (pour la structure et pour chaque rôle)
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
-  - Réunion de Gouvernance :  objectif d’améliorer l’organisation de l’équipe : organigramme, contenu, rôles, règles et politiques. 
-  - Réunion d’élection sans candidat :  élire une personne dans un rôle 
+  - Réunion de Gouvernance :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
+  - Réunion d’élection sans candidat :  Elire une personne dans un rôle 
 
-Espace Relation 
-  - Réunion d’accordage : exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
+**Espace Relation :**
+  - Réunion d’accordage : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
-Espace Présence : 
-  - Réunion d’inspir : se connecter ensemble à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
+**Espace Présence :** 
+  - Réunion d’inspir : Se connecter ensemble à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
     décision à fort enjeu
 
 #### 3.1  Raison d’être de structure  
