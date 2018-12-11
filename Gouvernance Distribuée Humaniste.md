@@ -351,7 +351,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 1. Traceur, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
 2. Tous : quelles sont les caractéristiques nécessaires pour tenir ce rôle ? (Concept « nuage de mots » : pas de recherche d’accord, chacun décidera de ses critères de sélection informellement)
-3. Chacun remplit son bulletin de vote (vote pour soi bienvenu)
+3. Chacun remplit son bulletin de vote (vote pour soi bienvenu) (abstention à éviter mais pas interdite)
 4. Je récupère et affiche le bulletins un par un, merci d’expliquer votre choix à tous 
 5. Après avoir écouté les arguments des autres, certains souhaitent ils reporter leur voix ? (report des voix)
 6. Soit consensuel : le facilitateur propose l’un des candidats avec le plus de voix. Soit créatif, le facilitateur demande une proposition parmi les candidats à qui reste au moins une voix. 
