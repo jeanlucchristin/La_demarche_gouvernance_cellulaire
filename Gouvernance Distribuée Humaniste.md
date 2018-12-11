@@ -109,7 +109,7 @@ requis et des briques modulaires optionnelles.
 
 **Responsabilité Ethique de Tension :** Chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanisme à sa porté pour réduire l’écart avec le soutien du collectif et de la structure.
 
-**Réunion et activités métiers :** les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
+**Réunion et activités métiers :** Les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
