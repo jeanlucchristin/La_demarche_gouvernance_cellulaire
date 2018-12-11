@@ -92,12 +92,18 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par
 
 # 3)  CONSTITUTION : Eléments du livret central 
 
-Notre proposition est de vous permettre une mise en mouvement de votre structure depuis l’une ou l’autre des briques et éléments de cette constitution. Rien n’impose de passer en mode Gouvernance Distribuée Humaniste. Le mode pyramidal bien mené, par exemple, peut donner satisfaction.Si vous adoptez le mode Gouvernance Distribuée Humaniste, vous mettez en place la constitution qui comporte des éléments centraux requis et des briques modulaires optionnelles.
+Notre proposition est de vous permettre une mise en mouvement de votre structure depuis l’une ou l’autre des briques ou éléments de 
+cette constitution. Rien n’impose de passer en mode Gouvernance Distribuée Humaniste. Le mode pyramidal bien mené, par exemple, peut 
+donner satisfaction.
+
+Si vous adoptez le mode Gouvernance Distribuée Humaniste, vous mettez en place la constitution qui comporte des éléments centraux 
+requis et des briques modulaires optionnelles.
  
 #### Eléments requis
 Raison d’être : une raison d’être pour la structure et pour chaque rôle qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
 
 **Rôle :** description de ce sur quoi les autres membres peuvent compter
+
 **Cercle :** Rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
 **Responsabilité Ethique de Tension :** Chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanisme à sa porté pour réduire l’écart avec le soutien du collectif et de la structure.
