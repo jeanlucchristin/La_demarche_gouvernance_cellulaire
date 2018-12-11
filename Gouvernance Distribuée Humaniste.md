@@ -92,36 +92,29 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par
 
 # 3)  CONSTITUTION : Eléments du livret central 
 
-Notre proposition est de vous permettre une mise en mouvement de votre structure depuis l’une ou l’autre des briques et éléments de cette constitution. 
- Pour donner un repère clef en main, la constitution Gouvernance Distribuée Humaniste comporte des éléments centraux requis et des briques modulaires optionnelles. 
-
+Notre proposition est de vous permettre une mise en mouvement de votre structure depuis l’une ou l’autre des briques et éléments de cette constitution. Rien n’impose de passer en mode Gouvernance Distribuée Humaniste. Le mode pyramidal bien mené, par exemple, peut donner satisfaction.Si vous adoptez le mode Gouvernance Distribuée Humaniste, vous mettez en place la constitution qui comporte des éléments centraux requis et des briques modulaires optionnelles.
+ 
 #### Eléments requis
-
-**Raison d’être :** une raison d’être pour la structure et pour chaque rôle qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
-
-
+Raison d’être : une raison d’être pour la structure et pour chaque rôle qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
 
 **Rôle :** description de ce sur quoi les autres membres peuvent compter
-
 **Cercle :** Rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
-
-
 
 **Responsabilité Ethique de Tension :** Chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanisme à sa porté pour réduire l’écart avec le soutien du collectif et de la structure.
 
-
-
 **Réunion et activités métiers :** les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
-**Réunion tactique :** permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
+**Espace Orga et Contrats :** 
+  - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
+  - Réunion de Gouvernance :  objectif d’améliorer l’organisation de l’équipe : organigramme, contenu, rôles, règles et politiques. 
+  - Réunion d’élection sans candidat :  élire une personne dans un rôle 
 
-**Réunion de Gouvernance :**  objectif d’améliorer l’organisation de l’équipe : organigramme, contenu, rôles, règles et politiques. 
+Espace Relation 
+  - Réunion d’accordage : exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
-**Réunion d’élection sans candidat :**  élire une personne dans un rôle 
-
-**Réunion d’accordage :** exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
-
-**Réunion d’inspir :** se connecter ensemble à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une décision à fort enjeu
+Espace Présence : 
+  - Réunion d’inspir : se connecter ensemble à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
+    décision à fort enjeu
 
 #### 3.1  Raison d’être de structure  
 
