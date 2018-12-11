@@ -100,7 +100,7 @@ Si vous adoptez le mode Gouvernance Distribuée Humaniste, vous mettez en place 
 requis et des briques modulaires optionnelles.
  
 #### Eléments requis
-Raison d’être : une raison d’être pour la structure et pour chaque rôle qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
+Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
 
 **Rôle :** description de ce sur quoi les autres membres peuvent compter
 
