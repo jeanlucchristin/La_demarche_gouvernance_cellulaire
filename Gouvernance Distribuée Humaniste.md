@@ -1088,7 +1088,7 @@ Nous utilisons ce terme pour les notions d’importances égales de tous les mem
 
 Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour. 
 
-# 6  sources et références 
+# 6  Bibliographie et Références 
 
 
 ##### Gratitude 
@@ -1097,16 +1097,21 @@ Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont
 
 Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu cela possible, nous citons ici ceux qui ont eu un impact direct dans ce travail. 
 
-[Plus d’info sur l’histoire qui a amené à la gouvernance distribuée humaniste ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
+Plus d’info sur l’histoire qui a amené à la gouvernance distribuée humaniste [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
 ##### Bibliographie 
 
-- Remerciement spécial à Brian Robertson dont la constitution holacracy® a facilité beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
-- L’élément humain de Will Schutz, en particulier pour les notions de concordance, d’ouverture, de choix et pour avoir facilité le fait d'autoriser les peurs, l'amour et la complétude en entreprise. [plus d'info ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
-- Jos de Blok pour l’existance modelisante de Buurzorg https://www.buurtzorg.com/
-- Vincent Lenhardt en particulier l'ouvrage Responsable porteur de sens 
-- Marshal Rosenberg gérer les conflits avec la CNV 
-- Fréderic Laloux Reinventing organisations 
-- Simon Sinek WHY
-- Mary Parker Follett, pour ses modélisation de la réciprocité, la distinction Power over and power with dès les années 1900
-- Pablo Sevigne l’entraide, l’autre loi de la jungle
+- Remerciement spécial à Brian Robertson dont la constitution holacracy® a entrainé beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
+- Will Schutz : l’élément humain en particulier pour avoir favorisé l’autorisation d’exprimer les peurs, l'amour et la complétude en entreprise et pour les notions de concordance, d’ouverture, de choix. plus d'info [ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
+- Jos de Blok pour l’existence modélisante de Buurzorg https://www.buurtzorg.com/
+- Vincent Lenhardt : Responsable porteur de sens  
+- Marshall Rosenberg : Dénouer les conflits par la communication non violente 
+- Fréderic Laloux : Reinventing Organisations 
+- Jims Collins : Good to Great pour le concept du hérisson en lien avec la raison d’être. Trois cercles : Ce qui me passionne. Ce que 
+  je sais bien faire. Ce dont le monde a besoin 
+- Simon Sinek : Start with why qui présente ces trois dimensions en cercles concentriques du WHY au HOW et au WHAT
+- Dan Buettner : pour la diffusion du concept japonais IKIGAI en ajoutant la dimension Ce pour quoi je peux être payé
+- Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en   
+  réponse à FW Taylor.
+- Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor 
+- Pablo Sevigne et Gauthier Chapelle : l’entraide, l’autre loi de la jungle
