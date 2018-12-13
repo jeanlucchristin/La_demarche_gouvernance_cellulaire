@@ -1107,9 +1107,9 @@ Plus d’info sur l’histoire qui a amené à la gouvernance distribuée humani
 - Vincent Lenhardt : Responsable porteur de sens  
 - Marshall Rosenberg : Dénouer les conflits par la communication non violente 
 - Fréderic Laloux : Reinventing Organisations 
-- Jims Collins : Good to Great pour le concept du hérisson en lien avec la raison d’être. Trois cercles : Ce qui me passionne. Ce que 
-  je sais bien faire. Ce dont le monde a besoin 
-- Simon Sinek : Start with why qui présente ces trois dimensions en cercles concentriques du WHY au HOW et au WHAT
+- Jims Collins : Good to Great et le concept du « hérisson » pour faire émerger la raison d’être :
+  Trois cercles : Ce qui me passionne. Ce que je sais bien faire. Ce dont le monde a besoin 
+- Simon Sinek : Start with why qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI en ajoutant la dimension Ce pour quoi je peux être payé
 - Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en   
   réponse à FW Taylor.
