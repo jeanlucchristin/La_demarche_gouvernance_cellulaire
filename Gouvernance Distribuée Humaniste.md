@@ -41,15 +41,12 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
  - Nous doter d’un outil d’intervention facilitant les apprentissages basiques pour nous permettre d’aller plus loin dans la réponse 
    aux attentes de nos clients
  - Renforcer notre visibilité, notre expertise et notre crédibilité 
- 
-Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
-activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci. 
-
 
 ##### Comment ?
 
-En approfondissant nos idées et nos connaissances dans une co-construction 
- en mode Gouvernance Distribuée Humaniste 
+- En approfondissant nos idées et nos connaissances dans une co-construction en mode Gouvernance Distribuée Humaniste 
+- Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
+activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci. 
 
 ##### Intention ?
 
@@ -61,7 +58,7 @@ Car nous avons envie
 
 #### <u>1.3 Impact sur les actionnaires</u>  
 
-Aucun impact, financement en mode don (pas d’actionnaire mais des financeurs)
+Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnaire mais des financeurs) 
 
 # 2)  Préambule 
 
