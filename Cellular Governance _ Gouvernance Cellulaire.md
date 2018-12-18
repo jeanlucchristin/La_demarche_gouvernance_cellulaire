@@ -1037,7 +1037,7 @@ Nous nous engageons à respecter le principe de non-ingérence :
  - Nous agirons dans le respect des règles définies par notre constitution
  - Nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
- L’Organisation adopte la Constitution Gouvernance Cellulaire           le __________________, à ______
+ L’organisation adopte la constitution Gouvernance Cellulaire           le __________________, à ______
 
 Signatures :
 
