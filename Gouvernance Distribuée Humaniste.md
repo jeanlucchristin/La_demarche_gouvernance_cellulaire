@@ -381,7 +381,7 @@ Le facilitateur rappelle la raison qui a déclenché ce temps d’accordage
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Si l’intention de restauration n’a pas été nommé : quelle est votre intention vis-à-vis de ce temps d’accordage ? 
+1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps d’accordage ? 
 2. Qui souhaite commencer ?
 3. Peux tu nous dire ce qu’il s’est passé ? (les événements), ce que tu as ressentis (les émotions), comment cela se passerait dans ton idéal, (le besoin) et ce que tu demandes concrètement à qui  (la demande). Merci de t’adresser à moi. Les autres écoutent en silence. (mode CNV)
 4. Interlocuteur, peux tu reformuler ce que tu retiens ? 
