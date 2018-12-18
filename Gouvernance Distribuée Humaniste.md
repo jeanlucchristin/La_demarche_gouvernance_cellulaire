@@ -678,7 +678,7 @@ La description du livret central sera la plus légère possible
 
 ##### Sobriété d’Organisation
 
-- Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver. 
+Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver. 
 
 ##### Intention
 
