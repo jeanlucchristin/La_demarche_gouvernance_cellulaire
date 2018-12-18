@@ -664,7 +664,7 @@ une posture nous semble bénéfique :
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.8  Brique principes Simplicité  
+#### 5.8  Brique Légèreté-Simplicité  
 
 ##### Contenu de la constitution
 
