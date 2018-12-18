@@ -1,9 +1,8 @@
-# **Gouvernance Distribuée Humaniste   V1** 
-
- *(nom de construction)* 
+# **Gouvernance Cellulaire   V1** 
+ 
 *Explorons une autre façon de travailler ensemble*  
 
-# 1)  Raison d’être de la constitution Gouvernance Distribuée Humaniste
+# 1)  Raison d’être de la constitution Gouvernance Cellulaire
 
 #### *<u>1.1  Impact sur le monde</u>* 
 
@@ -90,10 +89,10 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par
 # 3)  CONSTITUTION : Eléments du livret central 
 
 Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’une ou l’autre des briques et éléments 
-de cette constitution. Rien n’impose de passer en mode Gouvernance Distribuée Humaniste. Le mode pyramidal bien mené, par exemple, peut 
+de cette constitution. Rien n’impose de passer en mode Gouvernance Cellulaire. Le mode pyramidal bien mené, par exemple, peut 
 donner satisfaction.
 
-Si vous adoptez le mode Gouvernance Distribuée Humaniste, vous mettez en place la constitution qui comporte des éléments centraux 
+Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte des éléments centraux 
 requis et des briques modulaires optionnelles.
  
 #### Eléments requis
@@ -541,7 +540,7 @@ La non-emprise est une ligne directrice saine souvent plébiscitée mais diffici
 
 ##### Non-Blocage 
 
-Un collectif en Gouvernance Distribuée Humaniste ne laisse pas un partenaire sans soutien dans une situation bloquée
+Un collectif en Gouvernance Cellulaire ne laisse pas un partenaire sans soutien dans une situation bloquée
 
 ##### Plan B
 
@@ -829,7 +828,7 @@ Simplifier le processus, fonctionner à distance
 
 ##### Raison d’être 
 
-La gouvernance dynamique est rendue beaucoup plus facile grâce aux outils numérique offrant une possibilité de traçabilité simple, en temps réel et accessible
+La Gouvernance Cellulaire est rendue beaucoup plus facile grâce aux outils numérique offrant une possibilité de traçabilité simple, en temps réel et accessible
 
 ##### Exemple 
 
@@ -841,7 +840,7 @@ Des outils plus puissants payants permettent de continuer l'aventure ensuite.
 
 ##### Technicité 
 
-Un accompagnement extérieur par un spécialiste de la gouvernance distribuée humaniste peut être utile pour permettre une monté en compétence rapide des équipes impliquées. 
+Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire peut être utile pour permettre une monté en compétence rapide des équipes impliquées. 
  Il n’est pas indispensable. 
  A chaque équipe d’expérimenter et de décider si une aide pour progresser plus facilement et plus rapidement serait utile
 
@@ -852,7 +851,7 @@ Le changement culturel est très facile à comprendre intellectuellement, beauco
 Adopter une posture professionnelle : inclusive, disciplinée et ouverte prend le temps de désapprendre ses habitudes pour en adopter d’autres. 
  Ce changement est sans doute le plus délicat à mener. 
  Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficace. 
- Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Distribuée Humaniste 
+ Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu capables d’apporter leur éclairage. 
 
 #### 5.18  Brique de distanciation  
@@ -1019,11 +1018,11 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.24  Brique Charte Gouvernance Distribuée Humaniste  
+#### 5.24  Brique Charte Gouvernance Cellulaire 
 
 #### Contexte 
 
-Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Distribuée Humaniste , des rôles et des cercles ont été créés. 
+Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cercles ont été créés. 
 
 Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
 
@@ -1094,7 +1093,7 @@ Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont
 
 Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu cela possible, nous citons ici ceux qui ont eu un impact direct dans ce travail. 
 
-Plus d’info sur l’histoire qui a amené à la gouvernance distribuée humaniste [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
+Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
 ##### Bibliographie 
 
