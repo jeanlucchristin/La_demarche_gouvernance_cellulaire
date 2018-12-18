@@ -662,7 +662,7 @@ une posture nous semble bénéfique :
 - Réciprocité : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
 - Non-emprise : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
 
-Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux, demander dans la clôture d’une réunion un retour sur le niveau de « soin de soi » vécu  … 
+Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
 #### 5.8  Brique principes Simplicité  
 
