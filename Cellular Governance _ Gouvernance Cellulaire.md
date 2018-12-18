@@ -43,7 +43,7 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
 
 ##### Comment ?
 
-- En approfondissant nos idées et nos connaissances dans une co-construction en mode Gouvernance Distribuée Humaniste 
+- En approfondissant nos idées et nos connaissances dans une co-construction en mode Gouvernance Cellulaire
 - Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
 activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci. 
 
@@ -641,7 +641,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 ##### Humains 
 
-De notre expérience, la cohabitation de la culture hiérarchique et de la culture distribuée amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution. 
+De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution. 
 
 #### 5.7  Brique Bonté
 
