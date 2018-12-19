@@ -1022,9 +1022,31 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.24  Brique Charte Gouvernance Cellulaire 
+#### 5.24  Brique Composer avec nos différences 
 
-#### Contexte 
+##### Raison d’être 
+
+Découvrir les modes de fonctionnements internes étonnamment différents d’un collègue à l’autre.
+Apprendre à aller vers le fonctionnement de l’autre. Savoir expliquer son fonctionnement à nos partenaires.  
+
+##### Limite
+
+Une fois n’est pas coutume, nous ne connaissons pas pour cette brique d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre. 
+S’agissant de décrire les différentes modalités humaines, il nous parait précieux de se doter de cette aide.
+
+##### Méthodes 
+
+Beaucoup de méthodes partent d’un test de personnalité au travail, passent par une discussion avec la personne qui corrige les résultats vers ce qu’elle connait de son fonctionnement avant de montrer au collectif la diversité de fonctionnements qui le compose, les atouts de chaque forme et les pièges à éviter sous stress
+
+##### Exemples    
+
+Nous pensons par exempe au MBTI, au DISC, à Process Com, à Com Color, à PAPI, à Ennéagramme, à SOSIE…
+
+Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/). 
+
+#### 5.25  Brique Charte Gouvernance Cellulaire 
+
+##### Contexte 
 
 Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cercles ont été créés. 
 
@@ -1032,7 +1054,7 @@ Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabil
 
 Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
 
-#### Engagement
+##### Engagement
 
 Nous nous engageons à respecter le principe de non-ingérence :
 
@@ -1058,7 +1080,7 @@ Signatures :
 **Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
 *
 
-#### 5.25  Brique séparation 
+##### 5.26  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1070,7 +1092,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.26  Brique Liberté Egalité Fraternité
+#### 5.27  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
