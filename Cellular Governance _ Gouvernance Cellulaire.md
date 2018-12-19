@@ -2,7 +2,7 @@
  
 Explorons une autre façon de travailler ensemble 
 
-*Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. (lien  logo : [alt tag](https://user-images.githubusercontent.com/38285180/50233338-852f2700-03b3-11e9-8702-f99ae029a201.png))
+*Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. (lien  logo : [alt tag](https://user-images.githubusercontent.com/38285180/50234086-2ec2e800-03b5-11e9-9a84-4cb2a1377e7c.png))
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
