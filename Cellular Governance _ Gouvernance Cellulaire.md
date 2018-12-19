@@ -1084,7 +1084,7 @@ Nous utilisons ce terme pour les notions d’importances égales de tous les mem
 
 Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour. 
 
-# 6  Bibliographie et Références 
+# 6  CONSTITUTION : Bibliographie et Références 
 
 
 ##### Gratitude 
@@ -1107,7 +1107,32 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
   Trois cercles : Ce qui me passionne. Ce que je sais bien faire. Ce dont le monde a besoin 
 - Simon Sinek : Start with why qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI ajoutant la dimension Ce pour quoi je peux être payé
-- Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en   
-  réponse à FW Taylor.
-- Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor 
+- Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en réponse à FW Taylor. Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
 - Pablo Sevigne et Gauthier Chapelle : l’entraide, l’autre loi de la jungle
+
+# 7) CONSTITUTION : Licence 
+
+##### Licence 
+
+Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
+
+Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. (lien image logo VF-EN)
+La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
+
+**Vous devez simplement inclure un lien vers http: //cellulargovernance.org/constitution** quand vous l’utilisez.  
+
+##### Raison d'être
+
+Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre. 
+
+Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le coté viral de la licence ouverte, lâchez vous ! 
+
+##### Share Alike
+
+Le « Share Alike » impose un partage sous les mêmes conditions pour éviter la captation des biens communs par des brevets.
+
+##### Notre Choix
+
+- Notre méthodologie avec une personne source (auteur principal), une équipe souche et des contributeurs ouvre la possibilité à tous de participer.
+- Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
+
