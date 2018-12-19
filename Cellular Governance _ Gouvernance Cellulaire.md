@@ -366,7 +366,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider des partenaires en tension relationnelle à se distancier et à restaurer les conditions d’une relation plus saine et confiante
+Aider des partenaires en tension relationnelle à se distancier et à restaurer les conditions d’une relation plus saine et confiante. Le processus peut être modifié. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Logistique   
 
@@ -381,7 +381,7 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 
 Le facilitateur rappelle la raison qui a déclenché ce temps d’accordage
 
-##### Process d’accordage 
+##### Processus d’accordage 
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
