@@ -4,7 +4,7 @@ Explorons une autre façon de travailler ensemble
 
 *Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. (lien image logo VF-EN)
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
-Plus d’info à la fin de la constitution.*  
+Plus d’info à la fin de la constitution.*  https://upload.wikimedia.org/wikipedia/commons/4/4f/Fractal_Broccoli.jpg
 
 
 # 1)  Raison d’être de la constitution Gouvernance Cellulaire
