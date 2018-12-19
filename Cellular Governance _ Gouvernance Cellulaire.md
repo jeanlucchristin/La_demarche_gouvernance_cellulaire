@@ -366,7 +366,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider des partenaires en tension relationnelle à se distancier et à restaurer les conditions d’une relation plus saine et confiante. Le processus peut être modifié. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
+Aider des partenaires en tension relationnelle à se distancier et à restaurer les conditions d’une relation plus saine et confiante. Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Logistique   
 
@@ -404,7 +404,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 ##### Raison d’être 
 
 Temps de construction du collectif autour d’un rendu co-élaboré
- (Le rendu sera une décision ou une proposition)
+ (Le rendu sera une décision ou une proposition). Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Thèmes    
 
@@ -415,7 +415,7 @@ Raison d’être ; ambition ; lignes directrices (ou valeurs) ; objectifs ; prio
 Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
  Tour d’inclusion : comment je me sens en arrivant
 
-##### Process d’inspir 
+##### Processus d’inspir 
 
 Beaucoup d’alternatives et de variantes existent ici, brainstorming, 6 chapeaux …. Toutes à expérimenter
  Nous préférons les méthodes aves des alternance sous groupes, solo et plénière, nous avons observé qu’elles produisent des rendus solides
