@@ -366,7 +366,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider des partenaires en tension relationnelle à se distancier distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante. Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
+Aider des partenaires en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante. Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Logistique   
 
