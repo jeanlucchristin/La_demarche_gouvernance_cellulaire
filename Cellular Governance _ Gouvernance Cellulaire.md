@@ -1107,8 +1107,7 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
   Trois cercles : Ce qui me passionne. Ce que je sais bien faire. Ce dont le monde a besoin 
 - Simon Sinek : Start with why qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI ajoutant la dimension Ce pour quoi je peux être payé
-- Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en   
-  réponse à FW Taylor. Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor 
+- Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en réponse à FW Taylor. Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
 - Pablo Sevigne et Gauthier Chapelle : l’entraide, l’autre loi de la jungle
 
 # 7) CONSTITUTION : Licence 
@@ -1124,7 +1123,9 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 
 ##### Raison d'être
 
-Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre. Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le coté viral de la licence ouverte, lâchez vous ! 
+Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre. 
+
+Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le coté viral de la licence ouverte, lâchez vous ! 
 
 ##### Share Alike
 
