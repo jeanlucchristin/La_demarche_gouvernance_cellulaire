@@ -930,7 +930,7 @@ Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour
 Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe. 
  La lucidité et la fermeté seront également privilégiées comme ligne directrice utile.
 
-[plus de réflexion ici](http://k6.re/UU5fo)
+Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
 #### 5.21  Brique Posture Professionnelle  
 
@@ -1124,17 +1124,19 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 ##### Bibliographie 
 
 - Remerciement spécial à Brian Robertson dont la constitution holacracy® a entrainé beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
-- Will Schutz : l’élément humain en particulier pour avoir favorisé l’autorisation d’exprimer les peurs, l'amour et la complétude en entreprise et pour les notions de concordance, d’ouverture, de choix. plus d'info [ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
+- Will Schutz (2006), *L’Elément Humain*, InterEdition : en particulier pour avoir favorisé l’autorisation d’exprimer les peurs, l'amour et la complétude en entreprise et pour les notions de concordance, d’ouverture, de choix.  plus d'info [ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
 - Jos de Blok pour l’existence modélisante de Buurzorg https://www.buurtzorg.com/
-- Vincent Lenhardt : Responsable porteur de sens  
-- Marshall Rosenberg : Dénouer les conflits par la communication non violente 
-- Fréderic Laloux : Reinventing Organisations 
-- Jims Collins : Good to Great et le concept du « hérisson » pour faire émerger la raison d’être.
+- Vincent Lenhardt (1995), *Responsable porteur de sens*, Inseep Editions 
+- Marshall Rosenberg (2017), *Dénouer les conflits par la communication non violente*, Jouvence 
+- Fréderic Laloux (2014) *Reinventing Organisations*, Nelson Parker
+- Jims Collins (2001) *Good to Great*, Random House et le concept du « hérisson » pour faire émerger la raison d’être.
   Trois cercles : Ce qui me passionne. Ce que je sais bien faire. Ce dont le monde a besoin 
-- Simon Sinek : Start with why qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
+- Simon Sinek (2011) *Start with why*, Portfolio qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI ajoutant la dimension Ce pour quoi je peux être payé
-- Mary Parker Follett, pour ses modélisation de la réciprocité et la distinction Power over and power with dès les années 1900 en réponse à FW Taylor. Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
-- Pablo Sevigne et Gauthier Chapelle : l’entraide, l’autre loi de la jungle
+- Mary Parker Follett, (1918) *The New State*, Longmans Green pour ses modélisation de la réciprocité et la distinction « Power over and power with » dès les années 1900 en réponse à à FW Taylor, (1911) *The Principles of Scientific Management*, Harper et Brothers publisher.
+Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
+- Pablo Sevigne et Gauthier Chapelle (2017) *l’entraide, l’autre loi de la jungle*, Les liens qui libèrent éditions
+
 
 # 7) CONSTITUTION : Licence 
 
