@@ -1039,7 +1039,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 ##### Raison d’être 
 
 Découvrir les modes de fonctionnements internes étonnamment différents d’un collègue à l’autre.
-Apprendre à aller vers le fonctionnement de l’autre. Savoir expliquer son fonctionnement à nos partenaires.  
+Apprendre à aller vers le fonctionnement de l’autre. Savoir expliquer son fonctionnement à nos partenaires.  
 
 ##### Limite
 
@@ -1172,8 +1172,7 @@ Toute proposition d’évolution non intégrée dans les futures versions peut d
 ##### Devoir de Partage
 
 Le « Share Alike » impose un partage sous les mêmes conditions pour éviter la captation des biens communs par des brevets.
-Merci de prévenir la communauté si vous produisez une évolution ou si vous voyez une dérive sur le forum cellulargovernance.org
-
+Merci de prévenir la communauté sur le forum cellulargovernance.org si vous produisez une évolution ou si vous voyez une dérive 
 ##### Notre Choix
 
 - Notre méthodologie avec une personne source (auteur principal), une équipe souche et des contributeurs ouvre la possibilité à tous de participer.
