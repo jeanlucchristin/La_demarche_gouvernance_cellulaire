@@ -149,7 +149,7 @@ Nous souhaitons utiliser l’intuition motivante et confuse d’une personne sou
 
 ##### Pouvoir de proposition
 
-Chaque membre peut déclencher une réunion de décision pour créer une proposition d’évolution de la raison d’être de sa structure
+Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure
 
 Par défaut, la réunion est sous forme de Gestion par Consentement 
 
@@ -171,13 +171,13 @@ L’intention est de permettre à chacun
 
 •de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs
 
-[plus de réflexion en cliquant ici](http://k6.re/QiHRb)
+plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 
 #### 3.3  Actualisation de la Raison d’être de cercle  
 
 ##### Pouvoir de proposition
 
-Chaque membre peut déclencher une réunion de décision pour créer une proposition d’évolution de la raison d’être de son cercle.
+Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de son cercle.
 
 Par défaut, la réunion est sous forme de Gestion par Consentement 
 
@@ -233,22 +233,24 @@ Un cercle comprend impérativement
 Sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont. 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
-#### 3.5  Responsabilité éthique de tensions 
+#### 3.5  Responsabilité éthique de Tension/Envie 
 
 ##### Responsabilité
 
 Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
- Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes.
 
-##### Tension de rôle 
+Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (douleur)
+
+
+##### Tension/Envie de rôle 
 
 Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande de mobilisation adressée à un rôle.
 
-##### Tension de personne 
+##### Tension/Envie de personne 
 
-la tension de rôle se maintient si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande de mobilisation adressée à un rôle ou à une personne du cercle.
+Contrairement à la tension de rôle qui se maintient si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande de mobilisation adressée à un rôle ou à une personne du cercle.
 
-##### Tension de cercle 
+##### Tension/Envie de cercle 
 
 La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent au lien lead ou au cercle
 
@@ -366,9 +368,11 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider des partenaires en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante. Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
+Aider des partenaires en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante.
 
 ##### Logistique   
+
+Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 Périodicité : sur demande. Participants : les partenaires impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
 
@@ -404,7 +408,11 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 ##### Raison d’être 
 
 Temps de construction du collectif autour d’un rendu co-élaboré
- (Le rendu sera une décision ou une proposition). Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
+ (Le rendu sera une décision ou une proposition).
+ 
+##### Logistique 
+
+Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Thèmes    
 
@@ -792,7 +800,7 @@ Lors de l’intégration des objections, les idées sont des temps de créativit
 
 Cette alternance de temps de créativité et de sélectivité fait de ce processus un temps d’intelligence collective. 
 
-[plus de réflexion ici](http://k6.re/VEaxz)
+plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf)
 
 #### 5.14  Brique Magique 
 
@@ -924,12 +932,15 @@ Le leadership tournant est systématisé par la gouvernance en mode rôles : cha
 
 ##### Groupe Solidaire 
 
-Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres. La solidarité sera privilégiée comme ligne directrice utile.
+Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres.
+
+**La solidarité sera privilégiée comme ligne directrice utile.
 
 ##### Membre solitaire 
 
 Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe. 
- La lucidité et la fermeté seront également privilégiées comme ligne directrice utile.
+
+**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.
 
 Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
@@ -1028,7 +1039,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 ##### Raison d’être 
 
 Découvrir les modes de fonctionnements internes étonnamment différents d’un collègue à l’autre.
-Apprendre à aller vers le fonctionnement de l’autre. Savoir expliquer son fonctionnement à nos partenaires.  
+Apprendre à aller vers le fonctionnement de l’autre. Savoir expliquer son fonctionnement à nos partenaires.  
 
 ##### Limite
 
@@ -1150,18 +1161,21 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 
 **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.**  
 
+Vous pouvez copier, distribuer, communiquer et transformer ces contenus pour toute utilisation y compris commerciales
+
 ##### Raison d'être
 
 Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre. 
 
 Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le coté viral de la licence ouverte, lâchez vous ! 
 
-##### Share Alike
+##### Devoir de Partage
 
 Le « Share Alike » impose un partage sous les mêmes conditions pour éviter la captation des biens communs par des brevets.
-
+Merci de prévenir la communauté sur le forum cellulargovernance.org si vous produisez une évolution ou si vous voyez une dérive 
 ##### Notre Choix
 
 - Notre méthodologie avec une personne source (auteur principal), une équipe souche et des contributeurs ouvre la possibilité à tous de participer.
+- Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
 - Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
 
