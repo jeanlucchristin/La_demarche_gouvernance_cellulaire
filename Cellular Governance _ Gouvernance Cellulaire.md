@@ -115,7 +115,7 @@ requis et des briques modulaires optionnelles.
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
   - Réunion de Gouvernance :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
-  - Réunion d’élection sans candidat :  Elire une personne dans un rôle 
+  - Réunion d’élection sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
   - Réunion d’accordage : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
