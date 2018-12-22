@@ -120,8 +120,8 @@ requis et des briques modulaires optionnelles.
 **Espace Relation :**
   - Réunion d’accordage : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
-**Espace Présence :** 
-  - Réunion d’inspir : Se connecter ensemble à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
+**Espace Sens :** 
+  - Réunion d’inspir : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
     décision à fort enjeu
 
 #### 3.1  Raison d’être de structure  
