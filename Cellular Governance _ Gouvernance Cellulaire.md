@@ -72,8 +72,8 @@ Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent pl
  Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur 
 
 - le respect des capacités, des élans et des choix des humains qui composent l’entreprise (Choix, liberté)
-- Faire avec le mouvement du monde dans l’unité avec notre environnement (Unicité, Inclusion, égalité de valeur)
-- Faire ensemble avec soutien et stimulation mutuels (ouverture, Amour, fraternité)
+- faire avec le mouvement du monde dans l’unité avec notre environnement (Unicité, Inclusion, égalité de valeur)
+- faire ensemble avec soutien et stimulation mutuels (ouverture, Amour, fraternité)
 
 #### Propriété 
 
