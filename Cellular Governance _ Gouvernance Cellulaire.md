@@ -240,6 +240,12 @@ Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve en
 
 Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (douleur)
 
+##### Moyens
+
+Sur la base d’une tension, les réunions de triage sont à disposition de tous pour engager les autres dans une action ou une réunion en leur adressant une demande. Il est possible d’adresser ces demandes hors réunion. 
+
+Pour les demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités, la réponse est obligatoirement positive.
+
 
 ##### Tension/Envie de rôle 
 
