@@ -31,8 +31,8 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 ##### Intention ? 
 
 - Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre.
-  En GDH la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
-  En GDH, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
+  En gouvernance cellulaire, la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
+  En gouvernance cellulaire, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
 - Nous considérons qu'en tant qu'humain, nous avons besoin que notre structure performe suffisamment pour bien vivre, et que notre structure a besoin que nous soyons suffisamment sereins pour performer
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaire.  
@@ -83,7 +83,7 @@ Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons p
 
 Nous croyons que le mouvement vers plus d’harmonie est facilité par
 
-- La recherche permanente et dans le mouvement d’ajustement vers un équilibre sain
+- La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain
 - L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu.
 - le travail individuel et collectif sur 
 - La présence au monde (méditation, prière, contemplation…)
@@ -199,11 +199,10 @@ Permettre à chacun de participer au mouvement de perception et d’évolution d
 
 ##### Contenu de rôle 
 
-•Une raison d’être : ce qui manquerait au cercle s’il n’était pas là
-
-•Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir 
-
-•Eventuellement un domaine : une chasse gardée 
+- Un titre et au moins un éléments parmi : 
+  - Une raison d’être : ce qui manquerait au cercle s’il n’était pas là
+  - Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir 
+- Eventuellement un domaine : une chasse gardée 
 
 ##### Fonctionnement  
 
@@ -575,7 +574,7 @@ La séquence d’idées ne cherche pas à changer la réponse qui a été fourni
 
 Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre une atmosphère de travail qui permette de
 
-- Préserver la liberté de chacun de s’orienter et de choisir Choix, (liberté)
+- Préserver la liberté de chacun de s’orienter et de choisir (Choix, liberté)
 - Considérer chaque personne et chaque élan comme ayant de la valeur (Inclusion, égalité)
 - Soutenir les tensions ressenties par les membres et de chercher une réponse (Entraide, Amour, fraternité)
 
@@ -607,7 +606,7 @@ Chaque structure peut inventer les réunions complémentaires dont elle a besoin
 ##### Cercle d’ancrage
 
 Le cercle d’ancrage est celui qui chapeaute la structure. Nul ne lui fournit sa raison d’être. 
- Un rôle source existe créé dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres. 
+ Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres. 
 
 ##### Raison d’être du rôle source 
 
