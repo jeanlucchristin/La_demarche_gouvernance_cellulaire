@@ -257,7 +257,7 @@ Contrairement à la tension de rôle qui se maintient si le rôle est transfér�
 
 ##### Tension/Envie de cercle 
 
-La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent au lien lead ou au cercle
+La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent soit au lien lead,  soit, en mode gestion par consentement, au cercle.
 
 #### 3.6  Réunion tactique
 
