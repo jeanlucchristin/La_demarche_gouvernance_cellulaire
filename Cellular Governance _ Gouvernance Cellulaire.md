@@ -86,10 +86,10 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par
 - La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain
 - L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu.
 - le travail individuel et collectif sur 
-- La présence au monde (méditation, prière, contemplation…)
-- La conscience de soi (introspection, accueil, évolution)
-- La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système)
-- le choix des actions en responsabilité et leur réalisation
+  - La présence au monde (méditation, prière, contemplation…)
+  - La conscience de soi (introspection, accueil, évolution)
+  - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système)
+  - le choix des actions en responsabilité et leur réalisation
 
 # 3)  CONSTITUTION : Eléments du livret central 
 
