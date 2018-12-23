@@ -606,7 +606,7 @@ Chaque structure peut inventer les réunions complémentaires dont elle a besoin
 ##### Cercle d’ancrage
 
 Le cercle d’ancrage est celui qui chapeaute la structure. Nul ne lui fournit sa raison d’être. 
- Un rôle source existe créé dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres. 
+ Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres. 
 
 ##### Raison d’être du rôle source 
 
