@@ -31,8 +31,8 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 ##### Intention ? 
 
 - Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre.
-  En GDH la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
-  En GDH, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
+  En gouvernance cellulaire, la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
+  En gouvernance cellulaire, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
 - Nous considérons qu'en tant qu'humain, nous avons besoin que notre structure performe suffisamment pour bien vivre, et que notre structure a besoin que nous soyons suffisamment sereins pour performer
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaire.  
