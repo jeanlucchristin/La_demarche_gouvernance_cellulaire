@@ -574,7 +574,7 @@ La séquence d’idées ne cherche pas à changer la réponse qui a été fourni
 
 Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre une atmosphère de travail qui permette de
 
-- Préserver la liberté de chacun de s’orienter et de choisir Choix, (liberté)
+- Préserver la liberté de chacun de s’orienter et de choisir (Choix, liberté)
 - Considérer chaque personne et chaque élan comme ayant de la valeur (Inclusion, égalité)
 - Soutenir les tensions ressenties par les membres et de chercher une réponse (Entraide, Amour, fraternité)
 
