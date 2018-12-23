@@ -240,18 +240,26 @@ Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve en
 
 Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (douleur)
 
+##### Moyens
+
+Sur la base d’une tension, les réunions de triage sont à disposition de tous pour engager les autres dans une action ou une réunion en leur adressant une demande. Il est possible d’adresser ces demandes hors réunion. 
+
+Pour les demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités, la réponse est obligatoirement positive.
+
 
 ##### Tension/Envie de rôle 
 
-Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande de mobilisation adressée à un rôle.
+Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle.
 
 ##### Tension/Envie de personne 
 
-Contrairement à la tension de rôle qui se maintient si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande de mobilisation adressée à un rôle ou à une personne du cercle.
+Contrairement à la tension de rôle qui se maintient si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle.
 
 ##### Tension/Envie de cercle 
 
-La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent au lien lead ou au cercle
+La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent
+- soit au lien lead
+- soit au cercle  en mode gestion par consentement dans une réunion dédiée.
 
 #### 3.6  Réunion tactique
 
