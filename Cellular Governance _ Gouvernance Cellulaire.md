@@ -83,7 +83,7 @@ Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons p
 
 Nous croyons que le mouvement vers plus d’harmonie est facilité par
 
-- La recherche permanente et dans le mouvement d’ajustement vers un équilibre sain
+- La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain
 - L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu.
 - le travail individuel et collectif sur 
 - La présence au monde (méditation, prière, contemplation…)
