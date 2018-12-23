@@ -401,7 +401,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-[plus de réflexion ici](http://k6.re/31ro3)  (avec toutes nos excuses aux chacals)
+plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
 #### 3.10  Réunion d’inspir 
 
