@@ -1,4 +1,4 @@
-# **Gouvernance Cellulaire   V1** 
+# **Gouvernance Cellulaire   V1.1** 
  
 Explorons une autre façon de travailler ensemble 
 
