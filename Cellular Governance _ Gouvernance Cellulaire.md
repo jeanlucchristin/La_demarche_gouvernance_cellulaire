@@ -249,11 +249,11 @@ Pour les demandes adressées à un rôle dans le cadre de sa raison d’être ou
 
 ##### Tension/Envie de rôle 
 
-Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande de mobilisation adressée à un rôle.
+Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle.
 
 ##### Tension/Envie de personne 
 
-Contrairement à la tension de rôle qui se maintient si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande de mobilisation adressée à un rôle ou à une personne du cercle.
+Contrairement à la tension de rôle qui se maintient si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle.
 
 ##### Tension/Envie de cercle 
 
