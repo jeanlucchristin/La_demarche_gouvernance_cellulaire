@@ -201,10 +201,8 @@ Permettre à chacun de participer au mouvement de perception et d’évolution d
 
 - Un titre et au moins un éléments parmi : 
   - Une raison d’être : ce qui manquerait au cercle s’il n’était pas là
-
- - Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir 
-
-•Eventuellement un domaine : une chasse gardée 
+  - Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir 
+- Eventuellement un domaine : une chasse gardée 
 
 ##### Fonctionnement  
 
