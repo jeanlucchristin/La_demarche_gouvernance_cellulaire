@@ -270,7 +270,8 @@ l’objectif est d’aider chacun à engager les autres dans ce qui doit être f
 ##### Logistique   
 
 Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
-
+Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle. 
+ 
 ##### Inclusion  
 
 Temps d’embarquement dans la réunion, chacun nomme comment il arrive
@@ -293,7 +294,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 \- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? – Que demandes tu concrètement ? 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ?
 - *A la personne concernée :* Quelle est ta réponse ? 
-- *Au rôle demandeur :* Moyennant cette action, as-tu ce dont tu as besoin ? 
+- *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
 
 ##### Cloture   
 
