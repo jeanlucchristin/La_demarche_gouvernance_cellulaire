@@ -242,10 +242,9 @@ Il a également la responsabilité et le pouvoir de tenter de réduire ces tensi
 
 ##### Moyens
 
-Sur la base d’une tension, les réunions de triage sont à disposition de tous pour engager les autres dans une action ou une réunion en leur adressant une demande. Il est possible d’adresser ces demandes hors réunion. 
+Sur la base d’une tension, les réunions tactiques sont à disposition de tous pour engager les autres dans une action ou une réunion en leur adressant une demande. Il est possible d’adresser ces demandes hors réunion. 
 
-Pour les demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités, la réponse est obligatoirement positive.
-
+La réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.
 
 ##### Tension/Envie de rôle 
 
@@ -259,18 +258,23 @@ Contrairement à la tension de rôle qui se maintient si le rôle est transfér�
 
 La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent
 - soit au lien lead
+- soit à tous les membres du cercle 
 - soit au cercle  en mode gestion par consentement dans une réunion dédiée.
 
 #### 3.6  Réunion tactique
 
 ##### Raison d’être 
 
-l’objectif est d’aider chacun à engager les autres dans ce qui doit être fait pour lui permettre de réaliser son propre rôle. Les engagements peuvent tout a fait être pris en dehors de cette réunion. 
+l’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait. 
+
+Les engagements peuvent tout a fait être pris en dehors de cette réunion. 
 
 ##### Logistique   
 
 Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle.* 
+ 
 ##### Inclusion  
 
 Temps d’embarquement dans la réunion, chacun nomme comment il arrive
@@ -290,7 +294,10 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le facilitateur mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-\- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? – Que demandes tu concrètement ? Au rôle concerné : - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? Au rôle demandeur : Moyennant cette action, as-tu ce dont tu as besoin ? 
+\- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? – Que demandes tu concrètement ? 
+- *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ?
+- *A la personne concernée :* Quelle est ta réponse ? 
+- *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
 
 ##### Cloture   
 
@@ -379,9 +386,9 @@ Aider des partenaires en tension relationnelle à se distancier de la situation 
 
 ##### Logistique   
 
-Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
-
 Périodicité : sur demande. Participants : les partenaires impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
+
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.*
 
 ##### Inclusion  
 
@@ -419,7 +426,7 @@ Temps de construction du collectif autour d’un rendu co-élaboré
  
 ##### Logistique 
 
-Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.*
 
 ##### Thèmes    
 
