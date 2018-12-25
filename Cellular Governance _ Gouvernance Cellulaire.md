@@ -265,7 +265,9 @@ La tension de cercle est relative directement à la réalisation des raison d’
 
 ##### Raison d’être 
 
-l’objectif est d’aider chacun à engager les autres dans ce qui doit être fait pour lui permettre de réaliser son propre rôle. Les engagements peuvent tout a fait être pris en dehors de cette réunion. 
+l’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait. 
+
+Les engagements peuvent tout a fait être pris en dehors de cette réunion. 
 
 ##### Logistique   
 
