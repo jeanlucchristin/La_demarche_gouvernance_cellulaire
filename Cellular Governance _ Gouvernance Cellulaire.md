@@ -108,7 +108,7 @@ requis et des briques modulaires optionnelles.
 
 **Cercle :** Rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
-**Responsabilité Ethique de Tension :** Chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanisme à sa porté pour réduire l’écart avec le soutien du collectif et de la structure.
+**Responsabilité Ethique de Tension :** Chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanisme à sa porté pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires. 
 
 **Réunion et activités métiers :** Les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
@@ -234,17 +234,18 @@ Sur demande, un débloqueur peut être élu, il devient alors aussi membre du ce
 
 #### 3.5  Responsabilité éthique de Tension/Envie 
 
-##### Responsabilité
+##### Responsabilité de membre 
 
 Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
 
 Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (douleur)
 
-##### Moyens
+##### Responsabilité de structure 
 
-Sur la base d’une tension, les réunions tactiques sont à disposition de tous pour engager les autres dans une action ou une réunion en leur adressant une demande. Il est possible d’adresser ces demandes hors réunion. 
-
-La réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.
+Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de
+- Préserver la liberté de chacun de s’orienter et de choisir (liberté)
+- Considérer chaque personne et chaque élan comme ayant de la valeur (Inclusion, égalité)
+- Soutenir les tensions ressenties par les membres et de chercher une réponse (Entraide, Amour, fraternité)
 
 ##### Tension/Envie de rôle 
 
@@ -294,8 +295,8 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le facilitateur mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-\- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? – Que demandes tu concrètement ? 
-- *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ?
+\- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes tu concrètement ? 
+- *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (La réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
 - *A la personne concernée :* Quelle est ta réponse ? 
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
 
@@ -583,40 +584,7 @@ Quand la réponse apportée à une demande n’est pas suffisante pour résoudre
 La séquence d’idées ne cherche pas à changer la réponse qui a été fournie préalablement, ce serait prendre le pouvoir sur la liberté du rôle répondant. Elle ne cherche pas non plus à protéger le répondant qui assume les conséquences de ses décisions. 
  Les idées peuvent être des solutions alternatives concrètes, l’affectation du rôle à une autre personne en complément ou en remplacement.  
 
-#### 5.3  Brique Responsabilité de Structure 
-
-##### Responsabilité
-
-Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre une atmosphère de travail qui permette de
-
-- Préserver la liberté de chacun de s’orienter et de choisir (Choix, liberté)
-- Considérer chaque personne et chaque élan comme ayant de la valeur (Inclusion, égalité)
-- Soutenir les tensions ressenties par les membres et de chercher une réponse (Entraide, Amour, fraternité)
-
-##### Organisation  
-
-La structure construit son organisation comprenant les organigrammes, les règles, les politiques afin que les membres puissent s’orienter 
-
-##### Réunions et Processus d’Harmonisation
-
-Des réunions et des processus de décisions sont à disposition des membres pour prendre en compte la réalité, dont les résultats, exploiter les tensions, agir de pour répondre aux élans révélés par les tensions. 
-
-- METIER
-  - Réunions métier (formes multiples non précisée ici, se voir pour faire le job, les projets)
-- CONTRAT  (liberté _ choix)
-  - Réunion tactique pour contractualiser l’opérationnel
-  - Réunion de gouvernance pour les réorganisations
-  - Décision inéluctable par consentement pour les décisions à prendre rapidement 
-  - Décision par concordance pour les décisions à fort enjeu
-  - Décision par référendum
-- RELATION ( Fraternité _ Amour _ Ouverture) 
-- - Réunion de régulation pour restaurer la relation 
-- INSPIRATION (Egalité _ Unicité _ Inclusion)
-- - Réunion d’inspiration pour travailler la raison d’être 
-
-Chaque structure peut inventer les réunions complémentaires dont elle a besoin
-
-#### 5.4  Brique Rôle Source 
+#### 5.3  Brique Rôle Source 
 
 ##### Cercle d’ancrage
 
@@ -641,7 +609,7 @@ Un domaine peut être précisé. Par exemple pour cette constitution, le rôle s
 
 Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage. 
 
-#### 5.5  Brique Equilibre Ethique
+#### 5.4  Brique Equilibre Ethique
 
 #### Priorisation éthique, Produire et Prendre Soin Essentiel et Important 
 
@@ -655,7 +623,7 @@ Les membres de l’organisation assument qu’ils n’ont pas les compétences p
 Ne pas prendre soin du travail sans considération des humains :considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
  Préserver la structure et les humains qui la composent.
 
-#### 5.6  Brique Compatibilité système pyramidal
+#### 5.5  Brique Compatibilité système pyramidal
 
 ##### Système 
 
@@ -670,7 +638,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution. 
 
-#### 5.7  Brique Bonté
+#### 5.6  Brique Bonté
 
 ##### Prendre Soin  
 
@@ -690,7 +658,7 @@ une posture nous semble bénéfique :
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.8  Brique Légèreté-Simplicité  
+#### 5.7  Brique Légèreté-Simplicité  
 
 ##### Contenu de la constitution
 
@@ -712,7 +680,7 @@ Permettre à des utilisateurs de rapidement s’emparer de la constitution plut�
 
 Focaliser leur attention sur les seuls sujets qui le nécessitent
 
-#### 5.9  Brique du Consentement au Contentement 
+#### 5.8  Brique du Consentement au Contentement 
 
 ##### Se contenter 
 
@@ -728,7 +696,7 @@ Focaliser leur attention sur les seuls sujets qui le nécessitent
 
 De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains.
 
-#### 5.10  Brique principe de Choix - Autodétermination 
+#### 5.9  Brique principe de Choix - Autodétermination 
 
 ##### Liberté 
 
@@ -742,28 +710,19 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment. 
 
-#### 5.11  Brique Zoom gouvernance
-
-##### Bénéfices Besoins Humains
-
-<u>Reconnaissance :</u> chacun peut faire reconnaitre un rôle qu’il tient quand il en ressent le besoin en le formalisant officiellement. La reconnaissance est celle de l’importance de mon action. Elle n’a rien à voir avec ce qui est habituellement nommé reconnaissance et qui est de la rétribution. Nous croyons que l’importance de chacun n’a rien à voir avec leur rétribution.
-
-<u>Non-abus :</u> Chacun peut formaliser des actions qu’il vit d’une manière ambiguë. Le fait de passer en explicite évite des vécus différents. 
- Nous nommons ici qu’il peut y avoir sensation d’abus sans qu’il y ait forcément un comportement d’abuseur. La formalisation évite le piège de l’implicite.
+#### 5.10  Brique Variante réunion de gouvernance
 
 ##### Variante « Boite à idée » 
 
-Sur demande du proposeur
-
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Proposeur, quelle tension souhaites tu réduire ? 
+1. Demandeur, quelle tension souhaites tu réduire ? 
 2. Tous, avez-vous des besoins de clarification ? ? (par exemple : est ce une tension de rôles, de personne ou de cercle ?) 
 3. Chacun en une seule fois : quelle est votre meilleure idées, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Proposeur quelle est ta proposition (le process redevient celui de la gouvernance après la V2 :
+4. Demandeur quelle est ta proposition (le process redevient celui de la gouvernance après la V2 :
    Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection… )
 
-#### 5.12  Brique Décision par Concordance 
+#### 5.11  Brique Décision par Concordance 
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -787,7 +746,7 @@ Le failitateur revient ensuite vers les membres qui n’ont pas prononcé exacte
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin.  
 
-#### 5.13  Brique Décision inéluctable par consentement 
+#### 5.12  Brique Décision inéluctable par consentement 
 
 ##### Utilité  
 
@@ -817,7 +776,7 @@ Cette alternance de temps de créativité et de sélectivité fait de ce process
 
 plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf)
 
-#### 5.14  Brique Magique 
+#### 5.13  Brique Magique 
 
 ##### Raison d’être : répondre au besoin de votre cercle 
 
@@ -837,7 +796,7 @@ A vous de jouer !
 
 
 
-#### 5.15  Brique Gouv Hors Gouv 
+#### 5.14  Brique Gouv Hors Gouv 
 
 ##### Raison d’être 
 
@@ -852,7 +811,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en gouvernance formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition dans le suivi de gouvernance 
 
-#### 5.16  Brique Numérique
+#### 5.15  Brique Numérique
 
 ##### Raison d’être 
 
@@ -864,7 +823,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite. 
 
-#### 5.17  Brique Accompagnement Extérieur
+#### 5.16  Brique Accompagnement Extérieur
 
 ##### Technicité 
 
@@ -882,7 +841,7 @@ Adopter une posture professionnelle : inclusive, disciplinée et ouverte prend l
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu capables d’apporter leur éclairage. 
 
-#### 5.18  Brique de distanciation  
+#### 5.17  Brique de distanciation  
 
 ##### Raison d’être 
 
@@ -915,7 +874,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.19  Brique Frustration 
+#### 5.18  Brique Frustration 
 
 ##### Raison d’être 
 
@@ -939,7 +898,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau d’intention aide à préserver la fluidité dans l’équipe soit tout à la fois le bien-être et l’efficacité.
 
-#### 5.20  Brique Réciprocité 
+#### 5.19  Brique Réciprocité 
 
 ##### Exercice du pouvoir
 
@@ -959,7 +918,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
-#### 5.21  Brique Posture Professionnelle  
+#### 5.20  Brique Posture Professionnelle  
 
 ##### Raison d’être 
 
@@ -988,7 +947,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
-#### 5.22  Brique 180°  
+#### 5.21  Brique 180°  
 
 ##### Raison d’être 
 
@@ -1020,7 +979,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.23  Brique Entretien annuel  
+#### 5.22  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1049,7 +1008,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.24  Brique Composer avec nos différences 
+#### 5.23  Brique Composer avec nos différences 
 
 ##### Raison d’être 
 
@@ -1071,7 +1030,7 @@ Nous pensons par exempe au MBTI, au DISC, à Process Com, à Com Color, à PAPI,
 
 Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/). 
 
-#### 5.25  Brique Charte Gouvernance Cellulaire 
+#### 5.24  Brique Charte Gouvernance Cellulaire 
 
 ##### Contexte 
 
@@ -1107,7 +1066,7 @@ Signatures :
 **Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
 *
 
-##### 5.26  Brique séparation 
+##### 5.25  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1119,7 +1078,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.27  Brique Liberté Egalité Fraternité
+#### 5.26  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
