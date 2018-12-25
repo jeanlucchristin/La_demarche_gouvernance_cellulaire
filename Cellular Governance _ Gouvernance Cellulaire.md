@@ -794,7 +794,8 @@ Il inclue chacun et favorise la créativité,
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Ecoute du centre. Chacun nomme ce qu’il a en tête de la situation, la décision à prendre, ses ressentis, préférences, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils disent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+1. Ecoute du réel. Chacun nomme ce qu’il a en tête du contexte, de la décision à prendre. Ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils disent la même chose. Aucun débat.
+Temps d’imprégnation et de présence. 
 2. Chacun rédige sa proposition en silence. (temps de créativité divergente)
 3. Appel a proposition. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. (temps de sélectivité convergente)
 4. Proposeur quelle est ta proposition V1 (le process redevient celui de la gouvernance à partir de la proposition V1)
