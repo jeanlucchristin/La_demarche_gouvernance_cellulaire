@@ -272,7 +272,8 @@ Les engagements peuvent tout a fait être pris en dehors de cette réunion.
 ##### Logistique   
 
 Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
-Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle. 
+
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle. 
  
 ##### Inclusion  
 
@@ -385,9 +386,9 @@ Aider des partenaires en tension relationnelle à se distancier de la situation 
 
 ##### Logistique   
 
-Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
-
 Périodicité : sur demande. Participants : les partenaires impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
+
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Inclusion  
 
@@ -425,7 +426,7 @@ Temps de construction du collectif autour d’un rendu co-élaboré
  
 ##### Logistique 
 
-Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.
 
 ##### Thèmes    
 
