@@ -570,7 +570,7 @@ Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscri
 
 ##### Comment activer une brique ? 
 
-Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion de gouvernance
+Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion d'organisation
 
 ##### Conséquence de l’activation  
 
@@ -797,7 +797,7 @@ Simplifier le processus, fonctionner à distance
 3. Il prend connaissance des réactions
 4. Si un membre demande à ce que le point passe en d’organisation formelle, le process est stoppé  
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
-6. Le traceur enregistre la proposition dans le suivi de gouvernance 
+6. Le traceur enregistre la proposition 
 
 #### 5.14  Brique Numérique
 
