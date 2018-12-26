@@ -203,7 +203,7 @@ Elle est alors représentante des autres.
 ##### Cercle 
 
 Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle.
- (Cette évolution doit passer en réunion de gouvernance vu que cela impacte la structure du cercle)
+ (Cette évolution doit passer en réunion d'organisation vu que cela impacte la structure du cercle)
 
 ##### Rôles préconstruits
 
@@ -390,7 +390,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Je récupère et affiche le bulletins un par un, merci d’expliquer votre choix à tous 
 5. Après avoir écouté les arguments des autres, certains souhaitent ils reporter leur voix ? (report des voix)
 6. Soit consensuel : le facilitateur propose l’un des candidats avec le plus de voix. Soit créatif, le facilitateur demande une proposition parmi les candidats à qui reste au moins une voix. 
-7. (le process redevient celui d’organisation à partir des objections) :  Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection…
+7. (le process redevient celui de consentement à partir des objections) :  Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection…
 
 ##### Cloture   
 
@@ -736,7 +736,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 1. Demandeur, quelle tension souhaites tu réduire ? 
 2. Tous, avez-vous des besoins de clarification ? ? (par exemple : est ce une tension de rôles, de personne ou de cercle ?) 
 3. Chacun en une seule fois : quelle est votre meilleure idées, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Demandeur quelle est ta proposition (le process redevient celui d’organisation après la V2 :
+4. Demandeur quelle est ta proposition (le process redevient celui de consentement après la V2 :
    Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection… )
 
 #### 5.11  Brique Décision par Concordance 
