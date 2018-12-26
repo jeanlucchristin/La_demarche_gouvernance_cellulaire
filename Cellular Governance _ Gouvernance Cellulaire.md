@@ -1164,8 +1164,10 @@ Merci de prévenir la communauté sur le forum cellulargovernance.org si vous pr
 
 ##### Notre Choix
 
-- Notre méthodologie avec une personne source (Jean-Luc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
-- Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
-- Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
+Notre méthodologie avec une personne source (Jean-Luc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
+
+Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
+
+Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
 
 
