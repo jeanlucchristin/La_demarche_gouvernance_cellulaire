@@ -1022,7 +1022,7 @@ S’agissant de décrire les différentes modalités humaines, il nous parait pr
 
 ##### Méthodes 
 
-Beaucoup de méthodes partent d’un test de personnalité au travail, passent par une discussion avec la personne qui corrige les résultats vers ce qu’elle connait de son fonctionnement avant de montrer au collectif la diversité de fonctionnements qui le compose, les atouts de chaque forme et les pièges à éviter sous stress
+Beaucoup de méthodes partent d’une observation de personnalité au travail, passent par une discussion avec la personne qui corrige les résultats vers ce qu’elle connait de son fonctionnement avant de montrer au collectif la diversité de fonctionnements qui le compose, les atouts de chaque forme et les pièges à éviter sous stress
 
 ##### Exemples    
 
