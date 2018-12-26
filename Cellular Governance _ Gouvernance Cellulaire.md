@@ -278,7 +278,7 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le facilitateur mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-\- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes tu concrètement ? 
+- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes tu concrètement ? 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (La réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
 - *A la personne concernée :* Quelle est ta réponse ? 
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
@@ -299,13 +299,13 @@ Il inclue chacun et favorise la créativité,
 ##### Process : Gestion Par Consentement
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
-1 - **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+ 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
 
-2 - Chacun rédige sa **proposition en silence.**
+ 2 Chacun rédige sa **proposition en silence.**
 
-3 - **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
-4 - Proposeur quelle est ta **proposition V1** ?
-5 - Tous, avez-vous des besoins de **clarification** ?
+ 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
+ 4 Proposeur quelle est ta **proposition V1** ?
+ 5 Tous, avez-vous des besoins de **clarification** ?
 6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleurs idées,  suggestions, influences ? 
 7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait)
 8 - Chacun se questionne : **puis je composer avec** cette proposition ou ne puis je pas ? Ceux qui ne peuvent pas ont une objection. Le facilitateur questionne chacun en tour de salle pour repérer les objections.
