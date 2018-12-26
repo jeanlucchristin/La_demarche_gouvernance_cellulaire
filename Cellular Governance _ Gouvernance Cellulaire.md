@@ -149,18 +149,20 @@ Nous souhaitons utiliser l’intuition motivante et confuse d’une personne sou
 
 ##### Pouvoir de proposition
 
-Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de son cercle 
+Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de son cercle. 
 Par défaut, la réunion est sous forme de Gestion par Consentement 
 
 Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
 - Cercle amont pour une évolution de la raison d’être de son cercle
 - Cercle ancrage pour une évolution de la raison d’être de sa structure
+
 *l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
  
 
 ##### Devoir de réponse
 
 Une réponse doit être fournie. Elle peut prendre deux forme : 
+
 - « La raison d’être est modifiée ainsi … » 
 - « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet »
 
