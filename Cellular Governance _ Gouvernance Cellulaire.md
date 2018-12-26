@@ -696,7 +696,7 @@ Permettre à des utilisateurs de rapidement s’emparer de la constitution plut�
 
 Focaliser leur attention sur les seuls sujets qui le nécessitent
 
-#### 5.8  Brique du Consentement au Contentement 
+#### 5.8  Brique contentement 
 
 ##### Se contenter 
 
@@ -712,7 +712,7 @@ Focaliser leur attention sur les seuls sujets qui le nécessitent
 
 De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
 
-#### 5.9  Brique principe de choix - autodétermination 
+#### 5.9  Brique choix - souveraineté 
 
 ##### Liberté 
 
