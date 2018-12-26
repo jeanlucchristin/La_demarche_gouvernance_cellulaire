@@ -22,7 +22,7 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 
 ##### Comment ?  
 
-- Un livret central avec des éléments centraux requis
+- Un livret central avec des éléments cœur requis
 - Des briques modulaires optionnelles 
 - Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
@@ -97,7 +97,7 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
 de cette constitution. Rien n’impose de passer en mode Gouvernance Cellulaire. Le mode pyramidal bien mené, par exemple, peut 
 donner satisfaction.
 
-Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte des éléments centraux 
+Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte des éléments cœur 
 requis et des briques modulaires optionnelles.
  
 #### Eléments requis
@@ -560,7 +560,7 @@ Les Tensions pertinentes à processer dans le cercle amont y sont apportées et 
 
 Les briques sont des modules autonomes compatibles. 
  Cela signifie que vous pouvez activer une brique, ou plusieurs, en fonction de ce qui est utile pour vous. 
- Elles sont interdépendantes : activer une brique aura un impact sur l’usage des éléments du livret central et des autres briques 
+ Elles sont interdépendantes : activer une brique aura un impact sur l’usage des éléments cœur du livret central et des autres briques 
 
  Elle se veulent à la fois inspirantes et guidantes. 
 
@@ -575,7 +575,7 @@ Activer une brique est une politique. Par conséquent, cela se formalise en réu
 
 ##### Conséquence de l’activation  
 
-Une brique activée a le même poids qu’un élément du livret central : elle devient constitutionnelle. 
+Une brique activée a le même poids qu’un élément cœur : elle devient constitutionnelle. 
 
 #### 5.2  Brique Principe de PLAN B
 
