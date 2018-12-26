@@ -1143,7 +1143,8 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
-Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. (lien image logo VF-EN)
+Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien logo](https://user-images.githubusercontent.com/38285180/50234086-2ec2e800-03b5-11e9-9a84-4cb2a1377e7c.png)
+
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 
 **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.**  
@@ -1160,9 +1161,11 @@ Toute proposition d’évolution non intégrée dans les futures versions peut d
 
 Le « Share Alike » impose un partage sous les mêmes conditions pour éviter la captation des biens communs par des brevets.
 Merci de prévenir la communauté sur le forum cellulargovernance.org si vous produisez une évolution ou si vous voyez une dérive 
+
 ##### Notre Choix
 
-- Notre méthodologie avec une personne source (auteur principal), une équipe souche et des contributeurs ouvre la possibilité à tous de participer.
+- Notre méthodologie avec une personne source (Jean-Luc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
 - Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
 - Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
+
 
