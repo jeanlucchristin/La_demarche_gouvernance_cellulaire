@@ -299,22 +299,32 @@ Il inclue chacun et favorise la créativité,
 ##### Process : Gestion Par Consentement
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
+
  1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
 
  2 Chacun rédige sa **proposition en silence.**
 
  3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
- 4 Proposeur quelle est ta **proposition V1** ?
- 5 Tous, avez-vous des besoins de **clarification** ?
+
+4 Proposeur quelle est ta **proposition V1** ?
+
+5 Tous, avez-vous des besoins de **clarification** ?
+
 6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleurs idées,  suggestions, influences ? 
+
 7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait)
-8 - Chacun se questionne : **puis je composer avec** cette proposition ou ne puis je pas ? Ceux qui ne peuvent pas ont une objection. Le facilitateur questionne chacun en tour de salle pour repérer les objections.
+
+8 - Chacun se questionne : **puis je composer avec** cette proposition ou ne puis je pas ? Ceux qui ne peuvent pas ont une objection. 
+Le facilitateur questionne chacun en tour de salle pour repérer les objections.
+
 9 - Le facilitateur aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples.
 
 *Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition* 
+
 10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
 
 *(Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension)*
+
 11 - **Célébration et enregistrement** quand toute les objections sont levées.
 
 ##### Cloture   
