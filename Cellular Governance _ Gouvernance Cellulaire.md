@@ -999,7 +999,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 
 ##### transparence sur demande 
 
-- Projets et actions : tout projet ou action engagé est partagé 
+- Projets et actions :partager tout projet ou action engagé 
 - Priorité Relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir
 - Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
 mais une estimation qui peut varier en fonction des imprévus. 
