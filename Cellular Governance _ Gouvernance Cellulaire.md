@@ -114,7 +114,8 @@ requis et des briques modulaires optionnelles.
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
-  - Réunion dd’organisation :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
+  - Décision Inéluctable par Consentement : Aider le collectif à statuer sur une décision plutôt rapide 
+  - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
   - Réunion d’élection sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
@@ -277,7 +278,7 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le facilitateur mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-\- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes tu concrètement ? 
+- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes tu concrètement ? 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (La réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
 - *A la personne concernée :* Quelle est ta réponse ? 
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
@@ -287,7 +288,51 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.6  Réunion d’organisation
+#### 3.6 Décision Inéluctable par Consentement 
+
+##### Utilité  
+
+Ce processus est utile dans toute réunion nécessitant une prise de décision plutôt rapide
+Il aide les participants à ne pas terminer la séquence sans que la décision soit réellement prise
+Il inclue chacun et favorise la créativité, 
+
+##### Process : Gestion Par Consentement
+
+Le facilitateur distribue la parole selon les étapes suivantes : 
+
+ 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+
+ 2 Chacun rédige sa **proposition en silence.**
+
+ 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
+
+4 Proposeur quelle est ta **proposition V1** ?
+
+5 Tous, avez-vous des besoins de **clarification** ?
+
+6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleurs idées,  suggestions, influences ? 
+
+7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait)
+
+8 - Chacun se questionne : **puis je composer avec** cette proposition ou ne puis je pas ? Ceux qui ne peuvent pas ont une objection. 
+Le facilitateur questionne chacun en tour de salle pour repérer les objections.
+
+9 - Le facilitateur aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples.
+
+*Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition* 
+
+10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
+
+*(Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension)*
+
+11 - **Célébration et enregistrement** quand toute les objections sont levées.
+
+##### Cloture   
+
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 			Plus de réflexion ici
+
+
+#### 3.7  Réunion d’organisation
 
 ##### Raison d’être 
 
@@ -305,29 +350,19 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 
 Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter. 
 
-##### Process d’organisation  
+##### Process par consentement 
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
-2. Tous, avez-vous des besoins de clarification ? (par exemple : est ce une tension de rôles, de personne ou de cercle ?) 
-3. Chacun en une seule fois : quelles sont vos réactions, préférences, meilleures idées, influences, ressentis ? 
-4. Proposeur quelle est la proposition V2 (idem V1, modifiée ou retrait)
-5. Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection. Le facilitateur questionne chacun en tour de salle pour repérer les objections.
-6. Pour gagner du temps, préserver la capacité d’innovation et préparer l’intégration dans la proposition, le facilitateur aide les objecteurs à évaluer s’il est impératif d’intégrer leur objection à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples. 
-7. Résolution. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.                     
-(Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à
- son objection tout en répondant à la tension de départ, , il annonce que son rôle va exiger de lui qu’il suspende l’objection. 
- L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin 
- pour réduire sa tension)
+Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
 
-8. Célébration et enregistrement quand toute les objections sont levées.
+Le facilitateur enchaine sur le process par consentement à partir de « proposition V1 »
 
 ##### Cloture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
-#### 3.7  Réunion d’élection sans candidat
+#### 3.8  Réunion d’élection sans candidat
 
 ##### Raison d’être 
 
@@ -361,7 +396,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.8  Réunion d’accordage 
+#### 3.9  Réunion d’accordage 
 
 ##### Raison d’être 
 
@@ -400,7 +435,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.9  Réunion d’inspir 
+#### 3.10  Réunion d’inspir 
 
 ##### Raison d’être 
 
@@ -728,37 +763,7 @@ Le failitateur revient ensuite vers les membres qui n’ont pas prononcé exacte
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin.  
 
-#### 5.12  Brique Décision inéluctable par consentement 
-
-##### Utilité  
-
-Ce processus est utile dans toute réunion métier nécessitant une prise de décision plutôt rapide
-
-Il aide les participants à ne pas terminer la séquence sans que la décision soit réellement prise
-
-Il inclue chacun et favorise la créativité, 
-
-##### Process de Décision par Consentement   
-
-Le facilitateur distribue la parole selon les étapes suivantes : 
-
-1. Ecoute du réel. Chacun nomme ce qu’il a en tête du contexte, de la décision à prendre. Ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils disent la même chose. Aucun débat.
-Temps d’imprégnation et de présence. 
-2. Chacun rédige sa proposition en silence. (temps de créativité divergente)
-3. Appel a proposition. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. (temps de sélectivité convergente)
-4. Proposeur quelle est ta proposition V1 (le process redevient celui d’organisation à partir de la proposition V1)
-
-Le temps de réactions, préférences, meilleures idées, influences, ressentis est à nouveau un temps de créativité divergente, 
-
-Celui d’élaboration de la V2 est à nouveau un temps de sélectivité convergente
-
-Lors de l’intégration des objections, les idées sont des temps de créativité divergente, le repérage par l’objecteur de l’idée qui lève sa tension est un temps de sélectivité convergente. 
-
-Cette alternance de temps de créativité et de sélectivité fait de ce processus un temps d’intelligence collective. 
-
-plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf)
-
-#### 5.13  Brique Magique 
+#### 5.12  Brique Magique 
 
 ##### Raison d’être : répondre au besoin de votre cercle 
 
@@ -778,7 +783,7 @@ A vous de jouer !
 
 
 
-#### 5.14  Brique Orga hors Orga
+#### 5.13  Brique Orga hors Orga
 
 ##### Raison d’être 
 
@@ -793,7 +798,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition dans le suivi de gouvernance 
 
-#### 5.15  Brique Numérique
+#### 5.14  Brique Numérique
 
 ##### Raison d’être 
 
@@ -805,7 +810,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite. 
 
-#### 5.16  Brique Accompagnement Extérieur
+#### 5.15  Brique Accompagnement Extérieur
 
 ##### Technicité 
 
@@ -823,7 +828,7 @@ Adopter une posture professionnelle : inclusive, disciplinée et ouverte prend l
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu capables d’apporter leur éclairage. 
 
-#### 5.17  Brique de distanciation  
+#### 5.16  Brique de distanciation  
 
 ##### Raison d’être 
 
@@ -856,7 +861,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.18  Brique Frustration 
+#### 5.17  Brique Frustration 
 
 ##### Raison d’être 
 
@@ -880,7 +885,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau d’intention aide à préserver la fluidité dans l’équipe soit tout à la fois le bien-être et l’efficacité.
 
-#### 5.19  Brique Réciprocité 
+#### 5.18  Brique Réciprocité 
 
 ##### Exercice du pouvoir
 
@@ -900,7 +905,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
-#### 5.20  Brique Posture Professionnelle  
+#### 5.19  Brique Posture Professionnelle  
 
 ##### Raison d’être 
 
@@ -929,7 +934,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
-#### 5.21  Brique 180°  
+#### 5.20  Brique 180°  
 
 ##### Raison d’être 
 
@@ -961,7 +966,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.22 Brique Responsabilités de membre 
+#### 5.21 Brique Responsabilités de membre 
 
 ##### Priorisation
 
@@ -987,7 +992,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus. 
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.23  Brique Entretien annuel  
+#### 5.22  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1016,7 +1021,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.24  Brique Composer avec nos différences 
+#### 5.23  Brique Composer avec nos différences 
 
 ##### Raison d’être 
 
@@ -1038,7 +1043,7 @@ Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à PAPI
 
 Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/). 
 
-#### 5.25  Brique Charte Gouvernance Cellulaire 
+#### 5.24  Brique Charte Gouvernance Cellulaire 
 
 ##### Contexte 
 
@@ -1074,7 +1079,7 @@ Signatures :
 **Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
 *
 
-##### 5.26  Brique séparation 
+##### 5.25  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1086,7 +1091,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.27  Brique Liberté Egalité Fraternité
+#### 5.26  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
@@ -1138,7 +1143,8 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
-Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. (lien image logo VF-EN)
+Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien logo](https://user-images.githubusercontent.com/38285180/50234086-2ec2e800-03b5-11e9-9a84-4cb2a1377e7c.png)
+
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 
 **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.**  
@@ -1155,9 +1161,13 @@ Toute proposition d’évolution non intégrée dans les futures versions peut d
 
 Le « Share Alike » impose un partage sous les mêmes conditions pour éviter la captation des biens communs par des brevets.
 Merci de prévenir la communauté sur le forum cellulargovernance.org si vous produisez une évolution ou si vous voyez une dérive 
+
 ##### Notre Choix
 
-- Notre méthodologie avec une personne source (auteur principal), une équipe souche et des contributeurs ouvre la possibilité à tous de participer.
-- Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
-- Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
+Notre méthodologie avec une personne source (Jean-Luc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
+
+Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
+
+Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté. 
+
 
