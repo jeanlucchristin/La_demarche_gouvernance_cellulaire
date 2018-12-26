@@ -979,7 +979,32 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.22  Brique Entretien annuel  
+#### 5.22 Brique Responsabilités de membre 
+
+##### Priorisation
+
+Chacun examine régulièrement les prochaines actions utiles à ses rôles et déclenche celle qui lui parait apporter le plus. Il a autorité pour ce choix lié à ses Rôles. Il ne peut pas exercer de contrôle sur un autre Rôle.
+
+##### Suivi
+
+Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand il s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
+- sur le collectif en mode ajustement itératif 
+- sur ses rôles qui pourront, par exemple, être affectés différemment
+
+##### Priorité de coopération   
+
+- Prendre en compte les demandes  des autres Membres (c’est à dire inscrire comme prochaine action, pas exécuter)
+- Si un membre le demande, participer à une  réunion (sauf réunion d’accordage qui n’a pas de sens si elle est imposée) 
+- Décider de ses actions en fonction des priorités  et stratégies du Cercle
+
+##### transparence sur demande 
+
+- Projets et actions : tout projet ou action engagé est partagé 
+- Priorité Relative : le jugement concernant la priorité relative de ses projets et actions à venir est exprimé 
+- Projections : la date  à laquelle vous pensez terminer tout projets et actions est fournie. Ce n’est pas un engagement qui vous lie. 
+- Les Check-list et Indicateurs qui concernent vos rôles sont renseignés 
+
+#### 5.23  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1008,7 +1033,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.23  Brique Composer avec nos différences 
+#### 5.24  Brique Composer avec nos différences 
 
 ##### Raison d’être 
 
@@ -1030,7 +1055,7 @@ Nous pensons par exempe au MBTI, au DISC, à Process Com, à Com Color, à PAPI,
 
 Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/). 
 
-#### 5.24  Brique Charte Gouvernance Cellulaire 
+#### 5.25  Brique Charte Gouvernance Cellulaire 
 
 ##### Contexte 
 
@@ -1066,7 +1091,7 @@ Signatures :
 **Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
 *
 
-##### 5.25  Brique séparation 
+##### 5.26  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1078,7 +1103,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.26  Brique Liberté Egalité Fraternité
+#### 5.27  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
