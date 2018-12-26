@@ -114,7 +114,7 @@ requis et des briques modulaires optionnelles.
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
-  - Réunion de Gouvernance :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
+  - Réunion dd’organisation :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
   - Réunion d’élection sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
@@ -287,7 +287,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.6  Réunion de gouvernance
+#### 3.6  Réunion d’organisation
 
 ##### Raison d’être 
 
@@ -305,7 +305,7 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 
 Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter. 
 
-##### Process de Gouvernance  
+##### Process d’organisation  
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
@@ -355,7 +355,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Je récupère et affiche le bulletins un par un, merci d’expliquer votre choix à tous 
 5. Après avoir écouté les arguments des autres, certains souhaitent ils reporter leur voix ? (report des voix)
 6. Soit consensuel : le facilitateur propose l’un des candidats avec le plus de voix. Soit créatif, le facilitateur demande une proposition parmi les candidats à qui reste au moins une voix. 
-7. (le process redevient celui de la gouvernance à partir des objections) :  Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection…
+7. (le process redevient celui d’organisation à partir des objections) :  Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection…
 
 ##### Cloture   
 
@@ -692,7 +692,7 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment. 
 
-#### 5.10  Brique Variante réunion de gouvernance
+#### 5.10  Brique Variante réunion d’organisation
 
 ##### Variante « Boite à idée » 
 
@@ -701,7 +701,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 1. Demandeur, quelle tension souhaites tu réduire ? 
 2. Tous, avez-vous des besoins de clarification ? ? (par exemple : est ce une tension de rôles, de personne ou de cercle ?) 
 3. Chacun en une seule fois : quelle est votre meilleure idées, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Demandeur quelle est ta proposition (le process redevient celui de la gouvernance après la V2 :
+4. Demandeur quelle est ta proposition (le process redevient celui d’organisation après la V2 :
    Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection… )
 
 #### 5.11  Brique Décision par Concordance 
@@ -746,7 +746,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 Temps d’imprégnation et de présence. 
 2. Chacun rédige sa proposition en silence. (temps de créativité divergente)
 3. Appel a proposition. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. (temps de sélectivité convergente)
-4. Proposeur quelle est ta proposition V1 (le process redevient celui de la gouvernance à partir de la proposition V1)
+4. Proposeur quelle est ta proposition V1 (le process redevient celui d’organisation à partir de la proposition V1)
 
 Le temps de réactions, préférences, meilleures idées, influences, ressentis est à nouveau un temps de créativité divergente, 
 
@@ -778,7 +778,7 @@ A vous de jouer !
 
 
 
-#### 5.14  Brique Gouv Hors Gouv 
+#### 5.14  Brique Orga hors Orga
 
 ##### Raison d’être 
 
@@ -789,8 +789,8 @@ Simplifier le processus, fonctionner à distance
 1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles.
 2. Il répond aux questions de clarifications
 3. Il prend connaissance des réactions
-4. Si un membre demande à ce que le point passe en gouvernance formelle, le process est stoppé  
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en gouvernance formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
+4. Si un membre demande à ce que le point passe en d’organisation formelle, le process est stoppé  
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition dans le suivi de gouvernance 
 
 #### 5.15  Brique Numérique
@@ -1034,7 +1034,7 @@ Beaucoup de méthodes partent d’une observation de personnalité au travail, p
 
 ##### Exemples    
 
-Nous pensons par exempe au MBTI, au DISC, à Process Com, à Com Color, à PAPI, à Ennéagramme, à SOSIE…
+Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à PAPI, à Ennéagramme, à SOSIE…
 
 Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/). 
 
