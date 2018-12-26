@@ -494,7 +494,7 @@ Affectation des rôles du cercle
 - Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
 - Affecter des partenaires aux rôles du cercle 
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
-à sa manière en phase de lancement puis via la réunion de gouvernance
+à sa manière en phase de lancement puis via la réunion d'organisation
 
 ##### Redevabilités complémentaires
 
