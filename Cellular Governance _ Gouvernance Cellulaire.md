@@ -145,57 +145,39 @@ Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l�
 
 Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à un cercle. 
 
-#### 3.2  Actualisation de la Raison d’être de structure 
+#### 3.2  Actualisation de la Raison d’être 
 
 ##### Pouvoir de proposition
 
-Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure
-
+Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de son cercle. 
 Par défaut, la réunion est sous forme de Gestion par Consentement 
 
-Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation. 
+Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
+- Cercle amont pour une évolution de la raison d’être de son cercle
+- Cercle ancrage pour une évolution de la raison d’être de sa structure
+
+*l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
+ 
 
 ##### Devoir de réponse
 
 Une réponse doit être fournie. Elle peut prendre deux forme : 
 
-•La raison d’être est modifiée ainsi 
+- « La raison d’être est modifiée ainsi … » 
+- « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet »
 
-•La raison d’être n’est pas modifiée, cette proposition constitue un autre projet
 
 ##### Intention
 
 L’intention est de permettre à chacun 
 
-•un consentement éclairé et actif à la raison d’être de la structure
+- un consentement éclairé et actif à la raison d’être de la structure
 
-•de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs
+- de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs
 
 plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 
-#### 3.3  Actualisation de la Raison d’être de cercle  
-
-##### Pouvoir de proposition
-
-Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de son cercle.
-
-Par défaut, la réunion est sous forme de Gestion par Consentement 
-
-Le livrable de la réunion est une proposition pour le cercle amont en charge de cette actualisation. 
-
-##### Devoir de réponse
-
-Une réponse doit être fournie qui peut prendre deux forme : 
-
-•La raison d’être est modifiée ainsi 
-
-•La raison d’être n’est pas modifiée, cette proposition constitue un autre projet
-
-##### Intention
-
-Permettre à chacun de participer au mouvement de perception et d’évolution de la raison d’être de son cercle.
-
-#### 3.4  Role, Cercle et lead
+#### 3.3  Role, Cercle et lead
 
 ##### Contenu de rôle 
 
@@ -232,7 +214,7 @@ Un cercle comprend impérativement
 Sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont. 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
-#### 3.5  Responsabilité éthique de Tension/Envie 
+#### 3.4  Responsabilité éthique de Tension/Envie 
 
 ##### Responsabilité de membre 
 
@@ -262,7 +244,7 @@ La tension de cercle est relative directement à la réalisation des raison d’
 - soit à tous les membres du cercle 
 - soit au cercle  en mode gestion par consentement dans une réunion dédiée.
 
-#### 3.6  Réunion tactique
+#### 3.5  Réunion tactique
 
 ##### Raison d’être 
 
@@ -305,7 +287,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.7  Réunion de gouvernance
+#### 3.6  Réunion de gouvernance
 
 ##### Raison d’être 
 
@@ -345,7 +327,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.8  Réunion d’élection sans candidat
+#### 3.7  Réunion d’élection sans candidat
 
 ##### Raison d’être 
 
@@ -379,7 +361,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.9  Réunion d’accordage 
+#### 3.8  Réunion d’accordage 
 
 ##### Raison d’être 
 
@@ -418,7 +400,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.10  Réunion d’inspir 
+#### 3.9  Réunion d’inspir 
 
 ##### Raison d’être 
 
