@@ -1000,9 +1000,10 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 ##### transparence sur demande 
 
 - Projets et actions : tout projet ou action engagé est partagé 
-- Priorité Relative : le jugement concernant la priorité relative de ses projets et actions à venir est exprimé 
-- Projections : la date  à laquelle vous pensez terminer tout projets et actions est fournie. Ce n’est pas un engagement qui vous lie. 
-- Les Check-list et Indicateurs qui concernent vos rôles sont renseignés 
+- Priorité Relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir
+- Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
+mais une estimation qui peut varier en fonction des imprévus. 
+- Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
 #### 5.23  Brique Entretien annuel  
 
