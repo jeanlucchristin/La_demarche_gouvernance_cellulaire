@@ -13,29 +13,29 @@ Plus d’info à la fin de la constitution.*
 
 ##### Quoi ?
 
-Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple qui 
-
-- Veille à l’équilibre éthique entre Produire et Prendre Soin :
-  - Permette aux structures d’évoluer vers ce qui compte pour elles,
-  - Permette la même chose aux humains qui les composent
-  - Propose de rechercher cet équilibre dans le mouvement, l'ajustement
+Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple qui veille à l’équilibre éthique entre Produire et Prendre Soin en:
+  - Permettant aux structures d’évoluer vers ce qui compte pour elles,
+  - Permettant la même chose aux humains qui les composent
+  - Proposant de rechercher cet équilibre dans le mouvement, l'ajustement
 
 ##### Comment ?  
 
-- Un livret central avec des éléments cœur requis
+Un livret central avec 
+- des éléments cœur requis
 - Des briques modulaires optionnelles 
-- Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
+
+Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
 
 
 ##### Intention ? 
 
-- Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre.
+- Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre
   En gouvernance cellulaire, la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt
   En gouvernance cellulaire, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins
 - Nous considérons qu'en tant qu'humain, nous avons besoin que notre structure performe suffisamment pour bien vivre, et que notre structure a besoin que nous soyons suffisamment sereins pour performer
 
-Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaire.  
+Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires  
 
 #### *<u>1.2  Impact sur les contributeurs</u>* 
 
@@ -50,11 +50,11 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
 
 - En approfondissant nos idées et nos connaissances dans une co-construction en mode Gouvernance Cellulaire
 - Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
-activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci. 
+activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci
 
 ##### Intention ?
 
-Car nous avons envie  
+Car nous avons envie :
 
 - d’explorer des façons d’être ensemble apportant de la joie et de l’efficacité
 - de participer au monde par la création d’un commun
@@ -68,54 +68,54 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 
 #### Principe du Vivant 
 
-Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façon de faire plus agiles. 
- Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur 
+Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façon de faire plus agiles
+ Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur : 
 
-- le respect des capacités, des élans et des choix des humains qui composent l’entreprise (Choix, liberté)
-- faire avec le mouvement du monde dans l’unité avec notre environnement (Unicité, Inclusion, égalité de valeur)
-- faire ensemble avec soutien et stimulation mutuels (ouverture, Amour, fraternité)
+- le respect des capacités, des élans et des choix des humains qui composent l’entreprise (choix, liberté)
+- faire avec le mouvement du monde dans l’unité avec notre environnement (unicité, inclusion, égalité de valeur)
+- faire ensemble avec soutien et stimulation mutuels (ouverture, amour, fraternité)
 
 #### Propriété 
 
-Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons pas ici à nous l’approprier mais à y participer en proposant une forme suffisamment nette pour servir de repère. Par conséquent, cette constitution est un commun CCbySA sans aucun terme protégé. 
+Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons pas ici à nous l’approprier mais à y participer en proposant une forme suffisamment nette pour servir de repère. Par conséquent, cette constitution est un commun CCbySA sans aucun terme protégé 
 
 #### Posture 
 
-Nous croyons que le mouvement vers plus d’harmonie est facilité par
+Nous croyons que le mouvement vers plus d’harmonie est facilité par :
 
 - La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain
-- L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu.
-- le travail individuel et collectif sur 
+- L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu
+- le travail individuel et collectif sur :
   - La présence au monde (méditation, prière, contemplation…)
   - La conscience de soi (introspection, accueil, évolution)
   - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système)
-  - le choix des actions en responsabilité et leur réalisation
+  - Le choix des actions en responsabilité et leur réalisation
 
 # 3)  CONSTITUTION : Eléments du livret central 
 
 Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’une ou l’autre des briques et éléments 
 de cette constitution. Rien n’impose de passer en mode Gouvernance Cellulaire. Le mode pyramidal bien mené, par exemple, peut 
-donner satisfaction.
+donner satisfaction
 
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte des éléments cœur 
-requis et des briques modulaires optionnelles.
+requis et des briques modulaires optionnelles
  
 #### Eléments requis
 
-**Raison d’être :** une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser. 
+**Raison d’être :** une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser
 
-**Rôle :** Description de ce sur quoi les autres membres peuvent compter
+**Rôle :** description de ce sur quoi les autres membres peuvent compter
 
-**Cercle :** Rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
+**Cercle :** rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
-**Responsabilité Ethique de Tension :** Chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanisme à sa porté pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires. 
+**Responsabilité Ethique de Tension :** chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires
 
-**Réunion et activités métiers :** Les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
+**Réunion et activités métiers :** les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
-  - Décision Inéluctable par Consentement : Aider le collectif à statuer sur une décision plutôt rapide 
-  - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe : organigramme, contenu des rôles, règles et politiques. 
+  - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
+  - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Réunion d’élection sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
@@ -129,11 +129,11 @@ requis et des briques modulaires optionnelles.
 
 ##### Nécessité
 
-Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout membre, toute réunion, toute action, tout instant. 
+Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout membre, toute réunion, toute action, tout instant
 
 ##### Contenu
 
-Les trois dimensions suivantes doivent apparaitre explicitement dans la raison d’être de l’entreprise avec une priorisation 
+Les trois dimensions suivantes doivent apparaitre explicitement dans la raison d’être de l’entreprise avec une priorisation :
 
 - Impact sur le monde 
 - Impact sur ses membres 
@@ -144,9 +144,9 @@ Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l�
 
 ##### Rôle Source
 
-Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à un cercle. 
+Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à un cercle
 
-#### 3.2  Actualisation de la Raison d’être 
+#### 3.2  Actualisation de la raison d’être 
 
 ##### Pouvoir de proposition
 
@@ -154,8 +154,8 @@ Chaque membre peut déclencher une réunion pour créer une proposition d’évo
 Par défaut, la réunion est sous forme de Gestion par Consentement 
 
 Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- Cercle amont pour une évolution de la raison d’être de son cercle
-- Cercle ancrage pour une évolution de la raison d’être de sa structure
+- cercle amont pour une évolution de la raison d’être de son cercle
+- cercle ancrage pour une évolution de la raison d’être de sa structure
 
 *l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
  
@@ -170,49 +170,47 @@ Une réponse doit être fournie. Elle peut prendre deux forme :
 
 ##### Intention
 
-L’intention est de permettre à chacun 
+L’intention est de permettre à chacun :
 
 - un consentement éclairé et actif à la raison d’être de la structure
-
 - de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs
 
 plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 
-#### 3.3  Role, Cercle et lead
+#### 3.3  Role, cercle et lead
 
 ##### Contenu de rôle 
 
 - Un titre et au moins un éléments parmi : 
-  - Une raison d’être : ce qui manquerait au cercle s’il n’était pas là
-  - Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir 
-- Eventuellement un domaine : une chasse gardée 
+  - une raison d’être : ce qui manquerait au cercle s’il n’était pas là
+  - des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir 
+- éventuellement un domaine : une chasse gardée 
 
 ##### Fonctionnement  
 
  Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font
- (Les attendus d’un rôle peuvent être répondus pas d’autres)
+ (les attendus d’un rôle peuvent être répondus par d’autres)
 
 La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle même
 
 Plusieurs personne peuvent être affectées à un même rôle 
-(Un focus peut être précisé clarifiant des périmètres différents) 
+(un focus peut être précisé clarifiant des périmètres différents) 
 
 Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance du cercle. 
-Elle est alors représentante des autres.
+Elle est alors représentante des autres
 
 ##### Cercle 
 
-Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle.
- (Cette évolution doit passer en réunion d'organisation vu que cela impacte la structure du cercle)
+Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle
+ (cette évolution doit passer en réunion d'organisation vu que cela impacte la structure du cercle)
 
 ##### Rôles préconstruits
 
-Un cercle comprend impérativement 
+Un cercle comprend impérativement :
 
 - un facilitateur et un traceur élus pour une période
-- Un lien lead nommé par le cercle amont 
-
-Sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont. 
+- un lien lead nommé par le cercle amont 
+- sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
 #### 3.4  Responsabilité éthique de Tension/Envie 
@@ -225,39 +223,39 @@ Il a également la responsabilité et le pouvoir de tenter de réduire ces tensi
 
 ##### Responsabilité de structure 
 
-Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de
-- Préserver la liberté de chacun de s’orienter et de choisir (liberté)
-- Considérer chaque personne et chaque élan comme ayant de la valeur (Inclusion, égalité)
-- Soutenir les tensions ressenties par les membres et de chercher une réponse (Entraide, Amour, fraternité)
+Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
+- préserver la liberté de chacun de s’orienter et de choisir (liberté)
+- considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité)
+- soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité)
 
 ##### Tension/Envie de rôle 
 
-Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle.
+Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle
 
 ##### Tension/Envie de personne 
 
-Contrairement à la tension de rôle qui disparait si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle.
+Contrairement à la tension de rôle qui disparait si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle
 
 ##### Tension/Envie de cercle 
 
-La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent
+La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent :
 - soit au lien lead
 - soit à tous les membres du cercle 
-- soit au cercle  en mode gestion par consentement dans une réunion dédiée.
+- soit au cercle  en mode consentement dans une réunion dédiée.
 
 #### 3.5  Réunion tactique
 
 ##### Raison d’être 
 
-l’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait. 
+L’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait
 
-Les engagements peuvent tout a fait être pris en dehors de cette réunion. 
+Les engagements peuvent tout a fait être pris en dehors de cette réunion
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
+Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés
 
-*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle.* 
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle* 
  
 ##### Inclusion  
 
@@ -265,21 +263,21 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 
 ##### Préambule  
 
-Le cercle revoit la check list et les indicateurs avant de commencer. 
+Le cercle revoit la check list et les indicateurs avant de commencer
  Un temps de parole sobre est également ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour réaliser cette réunion
 
 ##### Ordre du jour  
 
-Chacun peut donner un ou deux mots pour réserver un créneau. 
+Chacun peut donner un ou deux mots pour réserver un créneau
 
-Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont il voudrait qu’elles se passent.
+Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont il voudrait qu’elles se passent
 
 ##### Triage  
 
 Le facilitateur mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes tu concrètement ? 
-- *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (La réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
+- Quelle est la tension ? – De quoi as-tu besoin ? – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes-tu concrètement ? 
+- *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (la réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive)
 - *A la personne concernée :* Quelle est ta réponse ? 
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
 
@@ -288,44 +286,44 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.6 Décision Inéluctable par Consentement 
+#### 3.6 Décision Inéluctable par Consentement (DIC) 
 
 ##### Utilité  
 
 Ce processus est utile dans toute réunion nécessitant une prise de décision plutôt rapide
 Il aide les participants à ne pas terminer la séquence sans que la décision soit réellement prise
-Il inclue chacun et favorise la créativité, 
+Il inclue chacun et favorise la créativité
 
-##### Process : Gestion Par Consentement
+##### Process : Gestion Par Consentement (GPC)
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
- 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+ 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence 
 
- 2 Chacun rédige sa **proposition en silence.**
+ 2 Chacun rédige sa **proposition en silence**
 
- 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
+ 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur 
 
 4 Proposeur quelle est ta **proposition V1** ?
 
 5 Tous, avez-vous des besoins de **clarification** ?
 
-6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleurs idées,  suggestions, influences ? 
+6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleures idées,  suggestions, influences ? 
 
 7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait)
 
-8 - Chacun se questionne : **puis je composer avec** cette proposition ou ne puis je pas ? Ceux qui ne peuvent pas ont une objection. 
-Le facilitateur questionne chacun en tour de salle pour repérer les objections.
+8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection. 
+Le facilitateur questionne chacun en tour de salle pour repérer les objections
 
-9 - Le facilitateur aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples.
+9 - Le facilitateur aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples
 
 *Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition* 
 
-10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
+10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre
 
-*(Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension)*
+*Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension*
 
-11 - **Célébration et enregistrement** quand toute les objections sont levées.
+11 - **Célébration et enregistrement** quand toutes les objections sont levées.
 
 ##### Cloture   
 
@@ -340,7 +338,7 @@ Création, suppression, évolution, clarification des rôles et des politiques
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 25’ minutes pour un point par semaine. Si une liste de sujet en attente existe, une réunion spécifique peut être demandée. 
+Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
 
 ##### Inclusion  
 
@@ -348,15 +346,15 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 
 ##### Ordre du jour  
 
-Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter. 
+Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter
 
 ##### Process par consentement 
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
+1- Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
 
-Le facilitateur enchaine sur le process par consentement à partir de « proposition V1 »
+2- Le facilitateur enchaine sur le process par consentement à partir de la « proposition V1 »
 
 ##### Cloture   
 
@@ -366,15 +364,15 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Affecter un rôle élu : soit un rôle de la constitution, soit les rôles que le lien lead choisit d’affecter en mode élection sans candidat.
+Affecter un rôle élu : soit un rôle de la constitution, soit les rôles que le lien lead choisit d’affecter en mode élection sans candidat
 
 ##### Logistique   
 
-Périodicité : sur demande ou à échéance des rôles élus . Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 15’ minutes pour une élection. 
+Périodicité : sur demande ou à échéance des rôles élus . Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 15 minutes pour une élection 
 
 ##### Inclusion  
 
-Temps d’embarquement dans la réunion, chacun nomme comment il arrive
+Temps d’embarquement dans la réunion : chacun nomme comment il arrive
 
 ##### Ordre du jour  
 
@@ -387,10 +385,10 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 1. Traceur, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
 2. Tous : quelles sont les caractéristiques nécessaires pour tenir ce rôle ? (Concept « nuage de mots » : pas de recherche d’accord, chacun décidera de ses critères de sélection informellement)
 3. Chacun remplit son bulletin de vote (vote pour soi bienvenu) (un seul nom par bulletin) (noter « untel vote pour ... »)
-4. Je récupère et affiche le bulletins un par un, merci d’expliquer votre choix à tous 
-5. Après avoir écouté les arguments des autres, certains souhaitent ils reporter leur voix ? (report des voix)
-6. Soit consensuel : le facilitateur propose l’un des candidats avec le plus de voix. Soit créatif, le facilitateur demande une proposition parmi les candidats à qui reste au moins une voix. 
-7. (le process redevient celui de consentement à partir des objections) :  Chacun se questionne : puis je composer avec cette proposition ou ne puis je pas ? Ceux ne peuvent pas ont une objection…
+4. Je récupère et affiche les bulletins un par un, merci d’expliquer votre choix à tous 
+5. Après avoir écouté les arguments des autres, certains souhaitent-ils reporter leur voix ?
+6. Option consensuelle : le facilitateur propose l’un des candidats avec le plus de voix. Option créative, le facilitateur demande une proposition parmi les candidats à qui il reste au moins une voix. 
+7. Le process redevient celui de consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
 ##### Cloture   
 
@@ -400,18 +398,18 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider des partenaires en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante.
+Aider des partenaires en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante
 
 ##### Logistique   
 
 Périodicité : sur demande. Participants : les partenaires impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
 
-*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.*
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
 ##### Inclusion  
 
 Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arrivant, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. 
- Les autres écoutent en silence. 
+ Les autres écoutent en silence
 
 ##### Ordre du jour  
 
@@ -423,10 +421,10 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps d’accordage ? 
 2. Qui souhaite commencer ?
-3. Peux tu nous dire ce qu’il s’est passé ? (les événements), ce que tu as ressentis (les émotions), comment cela se passerait dans ton idéal, (le besoin) et ce que tu demandes concrètement à qui  (la demande). Merci de t’adresser à moi. Les autres écoutent en silence. (mode CNV)
-4. Interlocuteur, peux tu reformuler ce que tu retiens ? 
-5. À l’émeteur : est ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
-6. Au receveur : que décides tu ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
+3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV)
+4. Interlocuteur, peux-tu reformuler ce que tu retiens ? 
+5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
+6. Au receveur : que décides-tu ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
 7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
 
 ##### Cloture   
@@ -440,11 +438,11 @@ plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses
 ##### Raison d’être 
 
 Temps de construction du collectif autour d’un rendu co-élaboré
- (Le rendu sera une décision ou une proposition).
+ (le rendu sera une décision ou une proposition)
  
 ##### Logistique 
 
-*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin.*
+*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
 ##### Thèmes    
 
@@ -453,22 +451,23 @@ Raison d’être ; ambition ; lignes directrices (ou valeurs) ; objectifs ; prio
 ##### Inclusion  
 
 Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
- Tour d’inclusion : comment je me sens en arrivant
+ Tour d’inclusion : comment je me sens en arrivant ?
 
 ##### Processus d’inspir 
 
-Beaucoup d’alternatives et de variantes existent ici, brainstorming, 6 chapeaux …. Toutes à expérimenter
- Nous préférons les méthodes aves des alternance sous groupes, solo et plénière, nous avons observé qu’elles produisent des rendus solides
+Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux …. Toutes à expérimenter
+
+Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
 1. Présentation du thème et de la question préparée par l’organisateur
 2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes 
-3. Sous groupe : 15’ Où en sommes nous de sur ce thème ? En quoi est ce important de le travailler ?
-4. Restitution rapide des sous groupe en plénière 
-5. Solo : chacun prépare une proposition par écrit. (Eventuellement sous groupes par affinités selon la taille du groupe)
-6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles.
-7. Préparation de la sélection : chacun dispose de trois points à affecter selon ses préférences. (barrettes ou gommettes)
+3. Sous-groupe : 15’ Où en sommes-nous sur ce thème ? En quoi est-ce important de le travailler ?
+4. Restitution rapide des sous-groupe en plénière 
+5. Solo : chacun prépare une proposition par écrit (éventuellement sous groupes par affinités selon la taille du groupe)
+6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles
+7. Préparation de la sélection : chacun dispose de trois points à affecter selon ses préférences (barrettes ou gommettes)
 8. Le groupe décide de la solution qu’il retient (décision spontanée ou consentement)
 9. Solidification de la décision par concordance
 
@@ -478,22 +477,22 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 # 4) CONSTITUTION : Rôles préconstruits 
 
-#### 4.1  Lien Lead 
+#### 4.1  Lien lead 
 
 ##### Raison d’être 
 
-Le Premier Lien porte la Raison d’Être de l’ensemble du Cercle.
+Le lien lead porte la raison d’être de l’ensemble du cercle
 
 ##### Domaine  
 
-Affectation des Rôles du Cercle
+Affectation des rôles du cercle
 
 ##### Redevabilités
 
 - Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont il est redevable
 - Sur demande : donner les priorités stratégiques voire résoudre les conflits de priorités entre les rôles
-- Répartir les ressources disponibles du Cercle sur les différents Projets et/ou Rôles
-- Affecter des partenaires aux Rôles du Cercle 
+- Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
+- Affecter des partenaires aux rôles du cercle 
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
 à sa manière en phase de lancement puis via la réunion de gouvernance
 
@@ -501,7 +500,7 @@ Affectation des Rôles du Cercle
 
  Il est d'interdit d'ajouter des redevabilités à ce rôle
 
-Le Premier Lien est en charge de tout ce qui n’est pas affecté
+Le lien lead est en charge de tout ce qui n’est pas affecté
 
 *Chacune de ces redevabilités peut être assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
 
@@ -509,12 +508,12 @@ Le Premier Lien est en charge de tout ce qui n’est pas affecté
 
 ##### Raison d’être 
 
-Les pratiques de réunions du Cercle sont conformes à la Constitution
+Les pratiques de réunions du cercle sont conformes à la constitution
 
 ##### Redevabilités inamovible
 
-- Faciliter les réunions du Cercle requises par la Constitution
-- Auditer les réunions et les registres des cercles avals. Signaler au traceur et au débloqueur les observations incompatibles avec les règles de la Constitution
+- Faciliter les réunions du cercle requises par la constitution
+- Auditer les réunions et les registres des cercles avals. Signaler au traceur et au débloqueur les observations incompatibles avec les règles de la constitution
 
 ##### Redevabilités ajoutée
 
@@ -524,17 +523,17 @@ Développer l'aisance des participants dans les processus pour qu'ils puissent t
 
 ##### Raison d’être 
 
-Enregistrer les décisions dans les registres officiels du Cercle
+Enregistrer les décisions dans les registres officiels du cercle
 
 ##### Domaine  
 
-Tous les registres du Cercle requis par la Constitution
+Tous les registres du cercle requis par la constitution
 
 ##### Redevabilités inamovible
 
-- Organiser les réunions du Cercle requises par la Constitution et informer tous les invités des dates et lieux
-- Enregistrer et publier les résultats des réunions du Cercle qui sont requises, et maintenir une vue compilée de la Gouvernance en cours, des points de check-list et des indicateurs du Cercle
-- Interpréter la Gouvernance et la Constitution sur demande
+- Organiser les réunions du cercle requises par la constitution et informer tous les invités des dates et lieux
+- Enregistrer et publier les résultats des réunions du cercle qui sont requises, et maintenir une vue compilée de la gouvernance en cours, des points de check-list et des indicateurs du cercle
+- Interpréter la gouvernance et la constitution sur demande
 
 ##### Redevabilités ajoutée 
 
@@ -544,44 +543,44 @@ Tous les registres du Cercle requis par la Constitution
 
 ##### Raison d’être 
 
-Les Tensions pertinentes à processer dans le cercle amont y sont apportées et traitées..
+Les tensions pertinentes à processer dans le cercle amont y sont apportées et traitées..
 
 ##### Redevabilités
 
 - Éliminer au sein du cercle amont les contraintes qui limitent le cercle
-- Chercher à comprendre les Tensions transmises par les Membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
+- Chercher à comprendre les tensions transmises par les membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
 - Donner de la visibilité au cercle amont sur la santé du cercle (niveau de sérénité) et sur la performance du cercle (niveau de déliverabilité
 
-# 5)  CONSTITUTION : Briques Optionnelles  
+# 5)  CONSTITUTION : Briques optionnelles  
 
 #### 5.1  Briques
 
 ##### Qu’est ce qu’une brique ? 
 
-Les briques sont des modules autonomes compatibles. 
- Cela signifie que vous pouvez activer une brique, ou plusieurs, en fonction de ce qui est utile pour vous. 
+Les briques sont des modules autonomes compatibles
+ Cela signifie que vous pouvez activer une brique, ou plusieurs, en fonction de ce qui est utile pour vous 
  Elles sont interdépendantes : activer une brique aura un impact sur l’usage des éléments cœur du livret central et des autres briques 
 
- Elle se veulent à la fois inspirantes et guidantes. 
+ Elle se veulent à la fois inspirantes et guidantes
 
-Comme tout le reste de notre travail, elles sont hautement imparfaites, en cours d’évolution, discutables et ajustables (par politiques formalisées).
+Comme tout le reste de notre travail, elles sont hautement imparfaites, en cours d’évolution, discutables et ajustables (par politiques formalisées)
 
-Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
+Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici
  Elle peuvent être activées pour un cercle, un cercle et ses sous cercle ou pour toute la structure
 
 ##### Comment activer une brique ? 
 
-Activer une brique est une politique. Par conséquent, cela se formalise en réunion de gouvernance. 
+Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion de gouvernance
 
 ##### Conséquence de l’activation  
 
 Une brique activée a le même poids qu’un élément cœur : elle devient constitutionnelle. 
 
-#### 5.2  Brique Principe de PLAN B
+#### 5.2  Brique principe de PLAN B
 
 ##### Intention de non-emprise 
 
-La non-emprise est une ligne directrice saine souvent plébiscitée mais difficile à respecter au quotidien, en particulier quand un partenaire en charge d’un rôle ne délivre pas ce dont un autre partenaire a besoin. Le réflexe peut être une manipulation involontaire pour que le premier réalise ce qu’il doit faire dans son rôle.
+La non-emprise est une ligne directrice saine souvent plébiscitée mais difficile à respecter au quotidien, en particulier quand un partenaire en charge d’un rôle ne délivre pas ce dont un autre partenaire a besoin. Le réflexe peut être une manipulation involontaire pour que le premier réalise ce qu’il doit faire dans son rôle
 
 ##### Non-Blocage 
 
@@ -598,15 +597,15 @@ Quand la réponse apportée à une demande n’est pas suffisante pour résoudre
 
 ##### Posture 
 
-La séquence d’idées ne cherche pas à changer la réponse qui a été fournie préalablement, ce serait prendre le pouvoir sur la liberté du rôle répondant. Elle ne cherche pas non plus à protéger le répondant qui assume les conséquences de ses décisions. 
- Les idées peuvent être des solutions alternatives concrètes, l’affectation du rôle à une autre personne en complément ou en remplacement.  
+La séquence d’idées ne cherche pas à changer la réponse qui a été fournie préalablement, ce serait prendre le pouvoir sur la liberté du rôle répondant. Elle ne cherche pas non plus à protéger le répondant qui assume les conséquences de ses décisions
+ Les idées peuvent être des solutions alternatives concrètes, l’affectation du rôle à une autre personne en complément ou en remplacement
 
-#### 5.3  Brique Rôle Source 
+#### 5.3  Brique rôle Source 
 
 ##### Cercle d’ancrage
 
 Le cercle d’ancrage est celui qui chapeaute la structure. Nul ne lui fournit sa raison d’être. 
- Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres. 
+ Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres
 
 ##### Raison d’être du rôle source 
 
@@ -614,59 +613,59 @@ Tenir le cap de son intuition de ce que pourrait devenir la structure
 
 ##### Redevabilités  
 
-- Actualiser la raison d’être en tenant compte des remontés des membres de la structure et de l’évolution de son intuition au contact du réel. 
-- 
+- Actualiser la raison d’être en tenant compte des remontées des membres de la structure et de l’évolution de son intuition au contact du réel
+
 - Faire son possible pour que cette intuition devienne réalité
 
 ##### Domaine  
 
-Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale. 
+Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale 
 
 ##### Réutilisation
 
-Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage. 
+Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
-#### 5.4  Brique Equilibre Ethique
+#### 5.4  Brique équilibre éthique
 
-#### Priorisation éthique, Produire et Prendre Soin Essentiel et Important 
+#### Priorisation éthique : produire et prendre soin 
 
-Le collectif compose entre l’humain-essentiel et le travail-important de façon à ne pas bloquer le travail des membres. 
- Une tension de personne est dite essentielle et peut devenir ponctuellement prioritaire sur toutes les actions importantes si la personne concernée le demande.
+Le collectif compose entre l’humain (essentiel) et le travail(important) de façon à ne pas bloquer le travail des membres. 
+ Une tension de personne est dite essentielle et peut devenir ponctuellement prioritaire sur toutes les actions importantes si la personne concernée le demande
 
-Les membres de l’organisation assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure.
+Les membres de l’organisation assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure
 
 #### Intention
 
-Ne pas prendre soin du travail sans considération des humains :considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
- Préserver la structure et les humains qui la composent.
+Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
+ Préserver la structure et les humains qui la composent
 
-#### 5.5  Brique Compatibilité système pyramidal
+#### 5.5  Brique compatibilité système pyramidal
 
 ##### Système 
 
-L’organisation en cercle est totalement compatible avec une organisation pyramidale du point de vue structurel.
+L’organisation en cercle est totalement compatible avec une organisation pyramidale du point de vue structurel :
 
-- Si le cercle amont dépend d’une structure pyramidale, le premier lien du cercle amont a la charge de faire valider la raison d’être et les redevabilités du cercle par la structure pyramidale. 
+- Si le cercle amont dépend d’une structure pyramidale, le lien lead du cercle amont a la charge de faire valider la raison d’être et les redevabilités du cercle par la structure pyramidale. 
   Il n’y a alors pas de cercle d’ancrage mais un « premier cercle »
-- Si une équipe avale est organisée en mode pyramidal, elle reçoit sa raison d’être et ses redevabilités via son responsable qui siège dans le cercle amont (en tant que premier lien). 
-  Le responsable organise son équipe selon les règles pyramidale de sa structure pour que l’équipe remplisse son rôle. 
+- Si une équipe avale est organisée en mode pyramidal, elle reçoit sa raison d’être et ses redevabilités via son responsable qui siège dans le cercle amont (en tant que lien lead)
+  Le responsable organise son équipe selon les règles pyramidales de sa structure pour que l’équipe remplisse son rôle
 
 ##### Humains 
 
-De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution. 
+De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.6  Brique Bonté
+#### 5.6  Brique bonté
 
 ##### Prendre Soin  
 
 Fonctionner dans un environnement solidaire signifie que chacun prend soin des autres de son mieux
 
-une posture nous semble bénéfique : 
+Une posture nous semble bénéfique : 
 
 - Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun
 - Entretenir notre **confiance** : considérer nos partenaires capables de trouver leur propre solution
 - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
-- Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui mêmes les aspects qu’il souhaite favoriser ou corriger.
+- Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
 - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
 - **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, alerter un partenaire quand on imagine qu’il se met en danger … 
 - **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
