@@ -1043,7 +1043,29 @@ Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à PAPI
 
 Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
-#### 5.24  Brique Charte gouvernance cellulaire 
+#### 5.24 Brique changement 
+
+##### Intention
+
+Donner des repères sur les étapes que traversent souvent les équipes quand elles décident de changer leur façon de procéder, en particulier lors d’une évolution vers une gouvernance de type cellulaire
+
+##### Etapes de changement 
+
+Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé et qui a été abondement documenté
+
+Cette liste sert de repère, l’ordre peut être différent, des séquences peuvent ne pas apparaitre dans une équipe
+
+1.  Enthousiasme : l’équipe voit les difficultés quotidienne que la nouvelle façon de faire dépasse
+2.  Expérimentation : l’épreuve du réel 
+3.1 Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles
+3.2 Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
+3.3 Déception : la nouvelle façon de faire ne répond pas à toutes les frustration, des illusions tombent
+4.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
+
+5.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
+
+
+#### 5.25 Brique Charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1079,7 +1101,7 @@ Signatures :
 **Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
 *
 
-##### 5.25  Brique séparation 
+##### 5.26  Brique séparation 
 
 ##### Processus de séparation
 
@@ -1091,7 +1113,7 @@ Par défaut, cette décision est prise en concordance
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
 
-#### 5.26  Brique Liberté Egalité Fraternité
+#### 5.27  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
