@@ -1064,9 +1064,10 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 *« 3 ; 4 et 5 » correspondent à un point bas dans la dynamique de changement pendant lequel il peut être bénéfique de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode choisie (ce stade est facilement porteur d’un effet fantasme)*
 
-6.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
+6.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient 
+7.  Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
 
-7.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
+8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
 
 
 #### 5.25 Brique Charte gouvernance cellulaire 
