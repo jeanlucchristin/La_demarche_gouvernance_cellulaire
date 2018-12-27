@@ -1062,7 +1062,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 4.  Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
 5.  Déception : la nouvelle façon de faire ne répond pas à toutes les frustration, des illusions tombent
 
-*3. 4. et 5. correspondent à un point bas dans la dynamique de changement pendant lequel il est utile de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode (il y a facilement une effet fantasme à ce stade)*
+*« 3 ; 4 et 5 » correspondent à un point bas dans la dynamique de changement pendant lequel il est utile de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode (il y a facilement une effet fantasme à ce stade)*
 
 6.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
 
