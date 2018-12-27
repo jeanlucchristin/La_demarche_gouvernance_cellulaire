@@ -1056,13 +1056,17 @@ Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé e
 Cette liste sert de repère, l’ordre peut être différent, des séquences peuvent ne pas apparaitre dans une équipe
 
 1.  Enthousiasme : l’équipe voit les difficultés quotidienne que la nouvelle façon de faire dépasse
-2.  Expérimentation : l’épreuve du réel 
-3.1 Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles
-3.2 Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
-3.3 Déception : la nouvelle façon de faire ne répond pas à toutes les frustration, des illusions tombent
-4.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
+2.  Expérimentation : l’épreuve du réel
 
-5.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
+3.  Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles
+4.  Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
+5.  Déception : la nouvelle façon de faire ne répond pas à toutes les frustration, des illusions tombent
+
+*3. 4. et 5. correspondent à un point bas dans la dynamique de changement pendant lequel il est utile de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode (il y a facilement une effet fantasme à ce stade)*
+
+6.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
+
+7.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
 
 
 #### 5.25 Brique Charte gouvernance cellulaire 
