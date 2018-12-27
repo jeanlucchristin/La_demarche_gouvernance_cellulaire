@@ -701,11 +701,11 @@ Focaliser leur attention sur les seuls sujets qui le nécessitent
 ##### Se contenter 
 
 - L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux »
-- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou il) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente
+- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente
 
 ##### Se contenter est rendu possible par
 
-- les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tensions quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous même, devenons capable de décider de la suite 
+- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
 - L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres, fonctionnement que nous ne souhaitons précisément pas (nous) permettre
 
 ##### Contentement 
@@ -726,17 +726,17 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment
 
-#### 5.10  Brique variante réunion d’organisation
+#### 5.10  Brique * réunion d’organisation
 
 ##### Variante « boite à idée » 
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Demandeur, quelle tension souhaites tu réduire ? 
+1. Demandeur, quelle tension souhaites-tu réduire ? 
 2. Tous, avez-vous des besoins de clarification ?
-3. Chacun en une seule fois : quelle est votre meilleure idées, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Demandeur quelle est ta proposition (le process redevient celui de consentement après la V2 :
-   chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux ne peuvent pas ont une objection… )
+3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
+4. Demandeur quelle est ta proposition ?
+5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
 #### 5.11  Brique décision par concordance 
 
@@ -755,14 +755,14 @@ La décision est préparée jusqu’au stade où les participants ont l’impres
 Le facilitateur demande aux participants de fermer les yeux, leur demande de se remémorer les étapes qui ont conduit à la décision, lit le résultat et leur demande s’ils sont 100% d’accord. 
  Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ca me va »
 
-Le facilitateur procède à un tour de salle en posant la question « es tu 100% d’accord avec ce résultat ? » en écoutant les réponses 
+Le facilitateur procède à un tour de salle en posant la question « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
 
 Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
- Ce temps de recherche produit souvent des bonifications créatives utiles
+ Ce temps de recherche produit souvent des améliorations créatives utiles
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
-#### 5.12  Brique Magique 
+#### 5.12  Brique magique 
 
 ##### Raison d’être : 
 
@@ -795,15 +795,15 @@ Simplifier le processus, fonctionner à distance
 1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles
 2. Il répond aux questions de clarifications
 3. Il prend connaissance des réactions
-4. Si un membre demande à ce que le point passe en d’organisation formelle, le process est stoppé  
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
+4. Si un membre demande à ce que le point passe en réunion d’organisation formelle, le process est stoppé
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion d'organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
-#### 5.14  Brique Numérique
+#### 5.14  Brique numérique
 
 ##### Raison d’être 
 
-La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numérique offrant une possibilité de traçabilité simple, en temps réel et accessible
+La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible
 
 ##### Exemple 
 
@@ -815,7 +815,7 @@ Des outils plus puissants payants permettent de continuer l'aventure ensuite
 
 ##### Technicité 
 
-Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire peut être utile pour permettre une monté en compétence rapide des équipes impliquées. 
+Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
  Il n’est pas indispensable. 
  A chaque équipe d’expérimenter et de décider si une aide pour progresser plus facilement et plus rapidement serait utile
 
@@ -823,11 +823,11 @@ Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire pe
 
 Le changement culturel est très facile à comprendre intellectuellement, beaucoup plus délicat à mettre en œuvre pour chacun de nous
 
-Adopter une posture professionnelle : inclusive, disciplinée et ouverte prend le temps de désapprendre ses habitudes pour en adopter d’autres. 
+Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécessite le temps de désapprendre ses habitudes pour en adopter d’autres. 
  Ce changement est sans doute le plus délicat à mener. 
- Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficace. 
+ Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficaces. 
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
- Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu capables d’apporter leur éclairage
+ Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage
 
 #### 5.16  Brique distanciation  
 
@@ -839,7 +839,8 @@ plus sereine. Elle est en particulier pertinente en amont d’une réunion d’a
 
 ##### Logistique   
 
-Périodicité : sur demande. Participants : un partenaire impacté demandeur et s’il le souhaite un facilitateur de séance. (cette séance peut être menée seul)
+Périodicité : sur demande. 
+Participants : un partenaire impacté seul ou aidé par un facilitateur qu'il sollicite
 
 ##### Inclusion  
 
@@ -847,15 +848,15 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 
 ##### Process de distanciation  
 
-Le facilitateur aide la personne à repérer ce qui se vit en elle en descendant cette échelle (souvent en plusieurs boucles) :
+Le facilitateur aide la personne à repérer ce qui se vit en elle selon les étapes ci dessous (souvent en plusieurs boucles) :
 
-1. De quoi souhaites tu parler ? 
+1. De quoi souhaites-tu parler ? 
 2. Quels sont les plaintes ou les critiques qui te viennent en évoquant ce sujet ? 
 3. Quelles sont tes ressentis, émotions ?
-4. A quel moment se déclenchent ces ressentis ? (quel endroit, quelle action, chercher les détails)
-5. Quelle impression as-tu de ce que tes interlocuteurs pensent de toi à cet instant ? ( ou Que n’aimerais tu pas qu’ils pensent de toi ? ; que crains tu qu’ils pensent de toi ? )    Que tu es …
-6. Quelle peur cela déclenche t il chez toi ? Plutôt d’être quantité négligeable, l’abandon ? Ou d’être mis face à un échec, l’humiliation ? Ou de sentir que tu n’est pas apprécié, le rejet ?
-7. Derrière chacun de ces peurs se cache un besoin : dans l’ordre de se sentir important/reconnu, ou compétent/capable, ou aimé/appréciable. Observe la réalité du danger : est ce une peur liée à un danger existant ou potentiel ? 
+4. A quel moment se déclenchent ces ressentis (quel lieu, quelle action ; chercher les détails) ?
+5. Quelle impression as-tu de ce que tes interlocuteurs pensent de toi à cet instant ? ( ou Que n’aimerais-tu pas qu’ils pensent de toi ? ; que crains-tu qu’ils pensent de toi ? )    Que tu es …
+6. Quelle peur cela déclenche-t-il chez toi ? Plutôt d’être quantité négligeable, *l’abandon* ? Ou d’être mis face à un échec, *l’humiliation* ? Ou de sentir que tu n’es pas apprécié, *le rejet* ?
+7. Derrière chacune de ces peurs se cache un besoin. Dans l’ordre : de se sentir *important/reconnu*, ou *compétent/capable*, ou *aimé/appréciable*. Observons la réalité du danger : est-ce une peur liée à un danger existant ou potentiel ? 
 8. De quoi as-tu besoin pour nourrir se sentiment d’importance/de compétence/d’être apprécié ?  Vis-à-vis des autres ? Vis-à-vis de toi ? 
 
 ##### Cloture   
@@ -883,7 +884,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 ##### Bénéfice   
 
-La gestion d’un haut niveau d’intention aide à préserver la fluidité dans l’équipe soit tout à la fois le bien-être et l’efficacité
+La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
 
 #### 5.18  Brique réciprocité 
 
@@ -891,7 +892,7 @@ La gestion d’un haut niveau d’intention aide à préserver la fluidité dans
 
 Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les partenaires de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
 
-##### Groupe Solidaire 
+##### Groupe solidaire 
 
 Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
 
@@ -905,7 +906,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
-#### 5.19  Brique Posture Professionnelle  
+#### 5.19  Brique posture professionnelle  
 
 ##### Raison d’être 
 
@@ -913,24 +914,24 @@ Décrire des questionnements aidants pour cultiver une posture professionnelle b
 
 ##### Inclusion
 
-- Ma présence, ma complétude, ma plénitude. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
-- Vis-à-vis des autres : est ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
+- **Ma présence, ma complétude, ma plénitude**. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
+- **Vis-à-vis des autres** : est-ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
 
 ##### Contrôle 
 
-- Mon auto-détermination, ma capacité à décider sans avoir besoin d’entendre l’accord du groupe ou d’une autorité
-- Vis-à-vis des autres : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
+- **Mon auto-détermination, ma capacité à décider** sans avoir besoin d’entendre l’accord du groupe ou d’une autorité
+- **Vis-à-vis des autres** : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
 
 ##### Ouverture 
 
-- Ma lucidité sur mes fonctionnements. Ma conscience de moi. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
-- Vis-à-vis des autres est ce que j’ose exprimer ce que je vis dans les moments intenses ou est ce que j’adopte un masque consensuel ? Comment est ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussi à prendre sur moi quand la situation n’est pas favorable à l'expression des ressentis ?
+- **Ma conscience de moi**. Ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
+- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
 
 #### Leader « as a completer »
 
 Du terme anglais « completer » qui signifie à la fois terminer et complémenter
  - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
- - Chaque membre est partenaire du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment en « sérénité d’être »)
+ - Chaque membre est partenaire du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
@@ -940,13 +941,13 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 Aider un partenaire en tension interne à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire
 
-##### Le paradigme :
+##### Paradigme
 
-Technique : Faire des expériences nouvelles pour s’extraire de situations répétitives
+Technique : faire des expériences nouvelles pour s’extraire de situations répétitives
 
-Principe Stratégique : J’assume que je rentre en relation et parle pour obtenir quelque chose
+Principe stratégique : j’assume que je rentre en relation et parle pour obtenir quelque chose
 
-Philosophie : Mon environnement me construit tout pendant que je le façonne : co-construction 
+Philosophie : mon environnement me construit en même temps que je le façonne (co-construction) 
 
 ##### Process 180°
 
@@ -954,9 +955,9 @@ Le facilitateur discute avec la personne demandeuse en suivant le canevas ci-des
 
 1. Quel est le problème précisément (exemples factuels, ressentis et émotions)
 2. A quoi sens-tu que tu as envie de trouver une solution ? 
-3. comment ce serait concrètement si c’était mieux ? 
-4. Listons les tentatives de solutions que tu as faite
-5. Nous faisons aujourd’hui l’hypothèse qu’elles ont maintenu le problème par répétition. Repérons ensemble ce qui les sous tend : l’implicite qu’elles comportent, le message qu’elles envoient
+3. Comment ce serait concrètement si c’était mieux ? 
+4. Listons les tentatives de solutions que tu as faites
+5. Nous faisons aujourd’hui l’hypothèse qu’elles ont maintenu le problème par répétition. Repérons ensemble ce qui les sous-tend : l’implicite qu’elles comportent, le message qu’elles envoient
 6. Ma recommandation est d’arrêter ces tentatives vu qu’elles ne marchent pas : arrêter de faire plus de la même chose
 7. Qu’est ce que ce serait d’aller à l’inverse ? A l’opposé de ce que tu as tenté depuis longtemps et qui, à l’évidence, échoue ? 
 
@@ -974,20 +975,20 @@ Chacun examine régulièrement les prochaines actions utiles à ses rôles et d�
 
 ##### Suivi
 
-Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand il s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
+Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
 - sur le collectif en mode ajustement itératif 
 - sur ses rôles qui pourront, par exemple, être affectés différemment
 
 ##### Priorité de coopération   
 
-- Prendre en compte les demandes  des autres Membres (c’est à dire inscrire comme prochaine action, pas exécuter)
+- Prendre en compte les demandes  des autres membres (c’est à dire inscrire comme prochaine action, pas exécuter)
 - Si un membre le demande, participer à une  réunion (sauf réunion d’accordage qui n’a pas de sens si elle est imposée) 
-- Décider de ses actions en fonction des priorités  et stratégies du Cercle
+- Décider de ses actions en fonction des priorités  et stratégies du cercle
 
-##### transparence sur demande 
+##### Transparence sur demande 
 
 - Projets et actions :partager tout projet ou action engagé 
-- Priorité Relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir
+- Priorité relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir
 - Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
@@ -996,7 +997,7 @@ mais une estimation qui peut varier en fonction des imprévus
 
 ##### Raison d’être 
 
-Répondre au besoin de certaine structures ou de certains partenaires de disposer d’un processus d’entretien annuel
+Répondre au besoin de certaines structures ou de certains partenaires de disposer d’un processus d’entretien annuel
 
 ##### Limite
 
@@ -1010,7 +1011,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
    - celui de la structure
    - une grille fournie par le demandeur
-   - la brique « posture professionnelle » complétée de 
+   - la brique « posture professionnelle » complétée de :
      - la question « comment vis-tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
      - Dans ton idéal, qu’est-ce qui changerait l’an prochain ? 
 
@@ -1025,29 +1026,37 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prend
 
 ##### Raison d’être 
 
-Découvrir les modes de fonctionnements internes étonnamment différents d’un collègue à l’autre
-Apprendre à aller vers le fonctionnement de l’autre. Savoir expliquer son fonctionnement à nos partenaires  
+Découvrir les modes de fonctionnements étonnamment différents d’un collègue à l’autre
+
+Apprendre à découvrir le fonctionnement des autres pour mieux travailler avec eux 
+
+Savoir expliquer son fonctionnement à nos partenaires 
 
 ##### Limite
 
-Une fois n’est pas coutume, nous ne connaissons pas pour cette brique d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre. 
+Une fois n’est pas coutume, nous ne connaissons pas pour cette brique d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre
+
 S’agissant de décrire les différentes modalités humaines, il nous parait précieux de se doter de cette aide
 
-##### Méthodes 
+##### Approche 
 
-Beaucoup de méthodes partent d’une observation de personnalité au travail, passent par une discussion avec la personne qui corrige les résultats vers ce qu’elle connait de son fonctionnement avant de montrer au collectif la diversité de fonctionnements qui le compose, les atouts de chaque forme et les pièges à éviter sous stress
+Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe, de la structure de manière appropriée et efficace
+
+Pour ce faire, une multitudes d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents  et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement)
 
 ##### Exemples    
 
-Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à PAPI, à Ennéagramme, à SOSIE…
+Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme …
 
-Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle n’est pas basée sur un test mais nécessite aussi un professionnel maîtrisant la méthodologie. Elle s’adresse à des équipes peu nombreuses. Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
+Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
+
+Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
 #### 5.24 Brique changement 
 
 ##### Intention
 
-Donner des repères sur les étapes que traversent souvent les équipes quand elles décident de changer leur façon de procéder, en particulier lors d’une évolution vers une gouvernance de type cellulaire
+Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type cellulaire »
 
 ##### Etapes de changement 
 
@@ -1055,30 +1064,30 @@ Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé e
 
 Cette liste sert de repère, l’ordre peut être différent, des séquences peuvent ne pas apparaitre dans une équipe
 
-1.  Enthousiasme : l’équipe voit les difficultés quotidienne que la nouvelle façon de faire dépasse
-2.  Expérimentation : l’épreuve du réel
+1.  Enthousiasme : l’équipe voit les difficultés quotidiennes que la nouvelle façon de faire dépasse
+2.  Premiers essais : l’épreuve du réel
 
 3.  Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles
 4.  Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
-5.  Déception : la nouvelle façon de faire ne répond pas à toutes les frustration, des illusions tombent
+5.  Déception : la nouvelle façon de faire ne répond pas à toutes les frustrations, des illusions tombent
 
-*« 3 ; 4 et 5 » correspondent à un point bas dans la dynamique de changement pendant lequel il peut être approprié de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode choisie (ce stade est facilement porteur d’un effet fantasme)*
+*« 3, 4 et 5 » correspondent à un point bas dans la dynamique de changement pendant lequel il peut être approprié de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode choisie (ce stade est facilement porteur d’un effet fantasme)*
 
-6.  Construction : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient 
+6.  Expérimentation : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient 
 7.  Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
 
 8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
 
 
-#### 5.25 Brique Charte gouvernance cellulaire 
+#### 5.25 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
-Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cercles ont été créés. 
+Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cercles ont été créés.
 
-Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandées par les autres rôles. 
+Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
 
-Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raisons d’être et assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchée en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
+Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
 
 ##### Engagement
 
@@ -1122,17 +1131,17 @@ Eviter les situations de blocages délétères tout en prenant soin autant que p
 
 ##### Intention
 
-Ce travail a émergé en France. Nous avons eu envie de jouer avec la devise de notre état pour retrouver certains de nos principes fondamentaux. L’idée est un clin d’œil, faire des choses sérieuses sans se prendre au sérieux
+Ce travail a émergé en France. Nous avons eu envie de jouer avec la devise de notre état pour retrouver certains de nos principes fondamentaux. L’idée est un clin d’œil : faire des choses sérieuses sans se prendre au sérieux
 
-##### Liberté _ Choix 
+##### Liberté - choix 
 
 Le terme liberté nous permet d’aborder les sujets du choix, de l’autonomie, de l’auto-détermination, de la souveraineté, du pouvoir d’agir. Les libertés des uns doivent composer avec celles des autres, de façon à éviter l’emprise (le pouvoir sur l’autre) tout en encourageant la capacité d’agir (le pouvoir avec le collectif ou une réalisation)
 
-##### Egalité _ Unicité _ Inclusion
+##### Egalité - unicité - inclusion
 
-Nous utilisons ce terme pour les notions d’importances égales de tous les membres, de toutes les tensions et de tous les élans. Il est associé à la notion de réciprocité : de leadership tournant. Il permet enfin, avec un peu de laxité vis-à-vis du sens de « égalité », de nommer l’unité dans laquelle nous vivons : à la fois nous sommes construit par notre environnement, nos structures, et à la fois nous les construisons. C’est l’impact mutuel, l’interdépendance
+Nous utilisons ce terme pour les notions d’importance égale de tous les membres, de toutes les tensions et de tous les élans. Il est associé à la notion de réciprocité : de leadership tournant. Il permet enfin, avec un peu de laxité vis-à-vis du sens de « égalité », de nommer l’unité dans laquelle nous vivons : à la fois nous sommes construit par notre environnement, nos structures, et à la fois nous les construisons. C’est l’impact mutuel, l’interdépendance
 
-##### Fraternité _ Amour  
+##### Fraternité - amour  
 
 Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
 
@@ -1175,7 +1184,7 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 
 **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez**  
 
-Vous pouvez copier, distribuer, communiquer et transformer ces contenus pour toute utilisation y compris commerciales
+Vous pouvez copier, distribuer, communiquer et transformer ces contenus pour toute utilisation y compris commerciale
 
 ##### Raison d'être
 
