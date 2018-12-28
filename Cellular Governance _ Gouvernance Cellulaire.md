@@ -197,7 +197,7 @@ Plusieurs personne peuvent être affectées à un même rôle
 (un focus peut être précisé clarifiant des périmètres différents) 
 
 Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance du cercle. 
-Elle est alors représentante des autres
+Elle est alors « référent » des autres
 
 ##### Cercle 
 
