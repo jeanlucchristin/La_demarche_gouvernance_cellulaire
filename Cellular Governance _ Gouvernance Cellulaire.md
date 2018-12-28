@@ -321,7 +321,7 @@ Le facilitateur questionne chacun en tour de salle pour repérer les objections
 
 10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre
 
-*Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension*
+*Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le facilitateur devra retirer la proposition. Retour à l’appel à proposition.*
 
 11 - **Célébration et enregistrement** quand toutes les objections sont levées.
 
