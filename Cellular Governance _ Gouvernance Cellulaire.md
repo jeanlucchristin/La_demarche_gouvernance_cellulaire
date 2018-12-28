@@ -1,6 +1,6 @@
 # **Gouvernance Cellulaire   V1.1** 
  
-Explorons une autre façon de travailler ensemble 
+Explorons une autre façon de travailler ensembles 
 
 *Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/50234086-2ec2e800-03b5-11e9-9a84-4cb2a1377e7c.png). 
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
