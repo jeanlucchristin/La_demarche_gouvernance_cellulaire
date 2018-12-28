@@ -599,120 +599,8 @@ Quand la réponse apportée à une demande n’est pas suffisante pour résoudre
 
 La séquence d’idées ne cherche pas à changer la réponse qui a été fournie préalablement, ce serait prendre le pouvoir sur la liberté du rôle répondant. Elle ne cherche pas non plus à protéger le répondant qui assume les conséquences de ses décisions
  Les idées peuvent être des solutions alternatives concrètes, l’affectation du rôle à une autre personne en complément ou en remplacement
-
-#### 5.3  Brique rôle Source 
-
-##### Cercle d’ancrage
-
-Le cercle d’ancrage est celui qui chapeaute la structure. Nul ne lui fournit sa raison d’être. 
- Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres
-
-##### Raison d’être du rôle source 
-
-Tenir le cap de son intuition de ce que pourrait devenir la structure
-
-##### Redevabilités  
-
-- Actualiser la raison d’être en tenant compte des remontées des membres de la structure et de l’évolution de son intuition au contact du réel
-
-- Faire son possible pour que cette intuition devienne réalité
-
-##### Domaine  
-
-Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale 
-
-##### Réutilisation
-
-Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
-
-#### 5.4  Brique équilibre éthique
-
-#### Priorisation éthique : produire et prendre soin 
-
-Le collectif compose entre l’humain (essentiel) et le travail(important) de façon à ne pas bloquer le travail des membres. 
- Une tension de personne est dite essentielle et peut devenir ponctuellement prioritaire sur toutes les actions importantes si la personne concernée le demande
-
-Les membres de l’organisation assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure
-
-#### Intention
-
-Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
- Préserver la structure et les humains qui la composent
-
-#### 5.5  Brique compatibilité système pyramidal
-
-##### Système 
-
-L’organisation en cercle est totalement compatible avec une organisation pyramidale du point de vue structurel :
-
-- Si le cercle amont dépend d’une structure pyramidale, le lien lead du cercle amont a la charge de faire valider la raison d’être et les redevabilités du cercle par la structure pyramidale. 
-  Il n’y a alors pas de cercle d’ancrage mais un « premier cercle »
-- Si une équipe avale est organisée en mode pyramidal, elle reçoit sa raison d’être et ses redevabilités via son responsable qui siège dans le cercle amont (en tant que lien lead)
-  Le responsable organise son équipe selon les règles pyramidales de sa structure pour que l’équipe remplisse son rôle
-
-##### Humains 
-
-De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
-
-#### 5.6  Brique bonté
-
-##### Prendre Soin  
-
-Fonctionner dans un environnement solidaire signifie que chacun prend soin des autres de son mieux
-
-Une posture nous semble bénéfique : 
-
-- Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun
-- Entretenir notre **confiance** : considérer nos partenaires capables de trouver leur propre solution
-- Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
-- Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
-- Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
-- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, alerter un partenaire quand on imagine qu’il se met en danger … 
-- **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
-- **Réciprocité** : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
-- **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
-
-Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
-
-#### 5.7  Brique légèreté-simplicité  
-
-##### Contenu de la constitution
-
-- Les termes utilisés sont simples, issus du langage courant
-- Les rubriques sont celles nécessaires pour aider à l’harmonisation entre les personnes dans le cadre de leur travail
-- Des annexes préciseront des réponses possibles lors de difficultés
-
-##### Sobriété de la constitution 
-
-La description du livret central sera la plus légère possible 
-
-##### Sobriété d’Organisation
-
-Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver 
-
-##### Intention
-
-Permettre à des utilisateurs de rapidement s’emparer de la constitution plutôt que de répondre par anticipation à tous les sujets. 
-
-Focaliser leur attention sur les seuls sujets qui le nécessitent
-
-#### 5.8  Brique contentement 
-
-##### Se contenter 
-
-- L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux »
-- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente
-
-##### Se contenter est rendu possible par
-
-- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
-- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres, fonctionnement que nous ne souhaitons précisément pas (nous) permettre
-
-##### Contentement 
-
-De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
-
-#### 5.9  Brique choix - souveraineté 
+ 
+#### 5.3  Brique choix - souveraineté 
 
 ##### Liberté 
 
@@ -726,92 +614,82 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment
 
-#### 5.10  Brique * réunion d’organisation
-
-##### Variante « boite à idée » 
-
-Le facilitateur distribue la parole selon les étapes suivantes : 
-
-1. Demandeur, quelle tension souhaites-tu réduire ? 
-2. Tous, avez-vous des besoins de clarification ?
-3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Demandeur quelle est ta proposition ?
-5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
-
-#### 5.11  Brique décision par concordance 
-
-##### Raison d’être : forts enjeux humains 
-
-Contrairement à la décision inéluctable par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants
-
-Elle est plus longue qu’une décision par consentement, cherche la meilleure issue possible. Par conséquent, elle est réservée aux décisions à fort enjeu humain 
-
-##### Préparation
-
-La décision est préparée jusqu’au stade où les participants ont l’impression d’être d’accord, par consensus, ou par consentement ou autre. La décision peut même avoir été décidée et qu’une concordance soit déclenchée pour solidifier la décision
-
-##### Processus
-
-Le facilitateur demande aux participants de fermer les yeux, leur demande de se remémorer les étapes qui ont conduit à la décision, lit le résultat et leur demande s’ils sont 100% d’accord. 
- Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ca me va »
-
-Le facilitateur procède à un tour de salle en posant la question « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
-
-Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
- Ce temps de recherche produit souvent des améliorations créatives utiles
-
-Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
-
-#### 5.12  Brique magique 
-
-##### Raison d’être : 
-
-Répondre au besoin de votre cercle 
-
-A vous de jouer !  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 5.13  Brique orga hors orga
+#### 5.4  Brique posture professionnelle  
 
 ##### Raison d’être 
 
-Simplifier le processus, fonctionner à distance 
+Décrire des questionnements aidants pour cultiver une posture professionnelle bénéfique à la fois pour moi, mes interlocuteurs, mon collectif et mon travail
 
-##### Processus 
+##### Inclusion
 
-1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles
-2. Il répond aux questions de clarifications
-3. Il prend connaissance des réactions
-4. Si un membre demande à ce que le point passe en réunion d’organisation formelle, le process est stoppé
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion d'organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
-6. Le traceur enregistre la proposition 
+- **Ma présence, ma complétude, ma plénitude**. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
+- **Vis-à-vis des autres** : est-ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
 
-#### 5.14  Brique numérique
+##### Contrôle 
 
-##### Raison d’être 
+- **Mon auto-détermination, ma capacité à décider** sans avoir besoin d’entendre l’accord du groupe ou d’une autorité
+- **Vis-à-vis des autres** : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
 
-La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible
+##### Ouverture 
 
-##### Exemple 
+- **Ma conscience de moi**. Ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
+- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
 
-Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/b/002WfWqn)
+#### Leader « as a completer »
 
-Des outils plus puissants payants permettent de continuer l'aventure ensuite 
+Du terme anglais « completer » qui signifie à la fois terminer et complémenter
+ - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
+ - Chaque membre est partenaire du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
 
-#### 5.15  Brique Accompagnement Extérieur
+*Plus de réflexion avec l’élément humain de Will Schutz*
+
+#### 5.5  Brique réciprocité 
+
+##### Exercice du pouvoir
+
+Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les partenaires de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
+
+##### Groupe solidaire 
+
+Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
+
+**La solidarité sera privilégiée comme ligne directrice utile**
+
+##### Membre solitaire 
+
+Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe
+
+**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
+
+Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
+
+#### 5.6 Brique changement 
+
+##### Intention
+
+Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type cellulaire »
+
+##### Etapes de changement 
+
+Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé et qui a été abondement documenté
+
+Cette liste sert de repère, l’ordre peut être différent, des séquences peuvent ne pas apparaitre dans une équipe
+
+1.  Enthousiasme : l’équipe voit les difficultés quotidiennes que la nouvelle façon de faire dépasse
+2.  Premiers essais : l’épreuve du réel
+
+3.  Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles
+4.  Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
+5.  Déception : la nouvelle façon de faire ne répond pas à toutes les frustrations, des illusions tombent
+
+*« 3, 4 et 5 » correspondent à un point bas dans la dynamique de changement pendant lequel il peut être approprié de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode choisie (ce stade est facilement porteur d’un effet fantasme)*
+
+6.  Expérimentation : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient 
+7.  Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
+
+8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
+
+#### 5.7  Brique Accompagnement Extérieur
 
 ##### Technicité 
 
@@ -829,7 +707,35 @@ Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécess
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage
 
-#### 5.16  Brique distanciation  
+##### 5.8  Brique séparation 
+
+##### Processus de séparation
+
+La structure doit posséder un processus de fin de coopération visant une décision co-construite tout en assumant, quand ce n’est pas possible, d’imposer cette décision à la personne concernée
+
+Par défaut, cette décision est prise en concordance
+
+##### Intention
+
+Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
+
+#### 5.9  Brique contentement 
+
+##### Se contenter 
+
+- L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux »
+- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente
+
+##### Se contenter est rendu possible par
+
+- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
+- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres, fonctionnement que nous ne souhaitons précisément pas (nous) permettre
+
+##### Contentement 
+
+De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
+
+#### 5.10  Brique distanciation  
 
 ##### Raison d’être 
 
@@ -863,7 +769,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle selon les ét
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.17  Brique Frustration 
+#### 5.11  Brique Frustration 
 
 ##### Raison d’être 
 
@@ -886,56 +792,37 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
 
-#### 5.18  Brique réciprocité 
-
-##### Exercice du pouvoir
-
-Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les partenaires de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
-
-##### Groupe solidaire 
-
-Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
-
-**La solidarité sera privilégiée comme ligne directrice utile**
-
-##### Membre solitaire 
-
-Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe
-
-**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
-
-Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
-
-#### 5.19  Brique posture professionnelle  
+#### 5.12  Brique composer avec nos différences 
 
 ##### Raison d’être 
 
-Décrire des questionnements aidants pour cultiver une posture professionnelle bénéfique à la fois pour moi, mes interlocuteurs, mon collectif et mon travail
+Découvrir les modes de fonctionnements étonnamment différents d’un collègue à l’autre
 
-##### Inclusion
+Apprendre à découvrir le fonctionnement des autres pour mieux travailler avec eux 
 
-- **Ma présence, ma complétude, ma plénitude**. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
-- **Vis-à-vis des autres** : est-ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
+Savoir expliquer son fonctionnement à nos partenaires 
 
-##### Contrôle 
+##### Limite
 
-- **Mon auto-détermination, ma capacité à décider** sans avoir besoin d’entendre l’accord du groupe ou d’une autorité
-- **Vis-à-vis des autres** : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
+Une fois n’est pas coutume, nous ne connaissons pas pour cette brique d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre
 
-##### Ouverture 
+S’agissant de décrire les différentes modalités humaines, il nous parait précieux de se doter de cette aide
 
-- **Ma conscience de moi**. Ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
-- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
+##### Approche 
 
-#### Leader « as a completer »
+Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe, de la structure de manière appropriée et efficace
 
-Du terme anglais « completer » qui signifie à la fois terminer et complémenter
- - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
- - Chaque membre est partenaire du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
+Pour ce faire, une multitudes d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents  et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement)
 
-*Plus de réflexion avec l’élément humain de Will Schutz*
+##### Exemples    
 
-#### 5.20  Brique 180°  
+Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme …
+
+Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
+
+Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
+
+#### 5.13  Brique 180°  
 
 ##### Raison d’être 
 
@@ -967,7 +854,92 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.21 Brique responsabilités de membre 
+#### 5.14  Brique équilibre éthique
+
+#### Priorisation éthique : produire et prendre soin 
+
+Le collectif compose entre l’humain (essentiel) et le travail(important) de façon à ne pas bloquer le travail des membres. 
+ Une tension de personne est dite essentielle et peut devenir ponctuellement prioritaire sur toutes les actions importantes si la personne concernée le demande
+
+Les membres de l’organisation assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure
+
+#### Intention
+
+Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
+ Préserver la structure et les humains qui la composent
+
+#### 5.15  Brique bonté
+
+##### Prendre Soin  
+
+Fonctionner dans un environnement solidaire signifie que chacun prend soin des autres de son mieux
+
+Une posture nous semble bénéfique : 
+
+- Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun
+- Entretenir notre **confiance** : considérer nos partenaires capables de trouver leur propre solution
+- Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
+- Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
+- Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
+- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, alerter un partenaire quand on imagine qu’il se met en danger … 
+- **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
+- **Réciprocité** : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
+- **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
+
+Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
+
+#### 5.16  Brique décision par concordance 
+
+##### Raison d’être : forts enjeux humains 
+
+Contrairement à la décision inéluctable par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants
+
+Elle est plus longue qu’une décision par consentement, cherche la meilleure issue possible. Par conséquent, elle est réservée aux décisions à fort enjeu humain 
+
+##### Préparation
+
+La décision est préparée jusqu’au stade où les participants ont l’impression d’être d’accord, par consensus, ou par consentement ou autre. La décision peut même avoir été décidée et qu’une concordance soit déclenchée pour solidifier la décision
+
+##### Processus
+
+Le facilitateur demande aux participants de fermer les yeux, leur demande de se remémorer les étapes qui ont conduit à la décision, lit le résultat et leur demande s’ils sont 100% d’accord. 
+ Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ca me va »
+
+Le facilitateur procède à un tour de salle en posant la question « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
+
+Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
+ Ce temps de recherche produit souvent des améliorations créatives utiles
+
+Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
+
+#### 5.17  Brique variante réunion d’organisation
+
+##### Variante « boite à idée » 
+
+Le facilitateur distribue la parole selon les étapes suivantes : 
+
+1. Demandeur, quelle tension souhaites-tu réduire ? 
+2. Tous, avez-vous des besoins de clarification ?
+3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
+4. Demandeur quelle est ta proposition ?
+5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
+
+#### 5.18  Brique orga hors orga
+
+##### Raison d’être 
+
+Simplifier le processus, fonctionner à distance 
+
+##### Processus 
+
+1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles
+2. Il répond aux questions de clarifications
+3. Il prend connaissance des réactions
+4. Si un membre demande à ce que le point passe en réunion d’organisation formelle, le process est stoppé
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion d'organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
+6. Le traceur enregistre la proposition 
+
+#### 5.19 Brique responsabilités de membre 
 
 ##### Priorisation
 
@@ -993,7 +965,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.22  Brique Entretien annuel  
+#### 5.20  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1022,64 +994,108 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.23  Brique composer avec nos différences 
+#### 5.21  Brique numérique
 
 ##### Raison d’être 
 
-Découvrir les modes de fonctionnements étonnamment différents d’un collègue à l’autre
+La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible
 
-Apprendre à découvrir le fonctionnement des autres pour mieux travailler avec eux 
+##### Exemple 
 
-Savoir expliquer son fonctionnement à nos partenaires 
+Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/b/002WfWqn)
 
-##### Limite
+Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-Une fois n’est pas coutume, nous ne connaissons pas pour cette brique d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre
+#### 5.22  Brique magique 
 
-S’agissant de décrire les différentes modalités humaines, il nous parait précieux de se doter de cette aide
+##### Raison d’être : 
 
-##### Approche 
+Répondre au besoin de votre cercle 
 
-Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe, de la structure de manière appropriée et efficace
+A vous de jouer !  
 
-Pour ce faire, une multitudes d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents  et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement)
 
-##### Exemples    
 
-Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme …
 
-Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
 
-Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
-#### 5.24 Brique changement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 5.23  Brique rôle Source 
+
+##### Cercle d’ancrage
+
+Le cercle d’ancrage est celui qui chapeaute la structure. Nul ne lui fournit sa raison d’être. 
+ Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres
+
+##### Raison d’être du rôle source 
+
+Tenir le cap de son intuition de ce que pourrait devenir la structure
+
+##### Redevabilités  
+
+- Actualiser la raison d’être en tenant compte des remontées des membres de la structure et de l’évolution de son intuition au contact du réel
+
+- Faire son possible pour que cette intuition devienne réalité
+
+##### Domaine  
+
+Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale 
+
+##### Réutilisation
+
+Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
+
+#### 5.24  Brique légèreté-simplicité  
+
+##### Contenu de la constitution
+
+- Les termes utilisés sont simples, issus du langage courant
+- Les rubriques sont celles nécessaires pour aider à l’harmonisation entre les personnes dans le cadre de leur travail
+- Des annexes préciseront des réponses possibles lors de difficultés
+
+##### Sobriété de la constitution 
+
+La description du livret central sera la plus légère possible 
+
+##### Sobriété d’Organisation
+
+Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver 
 
 ##### Intention
 
-Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type cellulaire »
+Permettre à des utilisateurs de rapidement s’emparer de la constitution plutôt que de répondre par anticipation à tous les sujets. 
 
-##### Etapes de changement 
+Focaliser leur attention sur les seuls sujets qui le nécessitent
 
-Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé et qui a été abondement documenté
+#### 5.25  Brique compatibilité système pyramidal
 
-Cette liste sert de repère, l’ordre peut être différent, des séquences peuvent ne pas apparaitre dans une équipe
+##### Système 
 
-1.  Enthousiasme : l’équipe voit les difficultés quotidiennes que la nouvelle façon de faire dépasse
-2.  Premiers essais : l’épreuve du réel
+L’organisation en cercle est totalement compatible avec une organisation pyramidale du point de vue structurel :
 
-3.  Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles
-4.  Peur : va- t-on pouvoir continuer à choisir comment nous voulons procéder ? 
-5.  Déception : la nouvelle façon de faire ne répond pas à toutes les frustrations, des illusions tombent
+- Si le cercle amont dépend d’une structure pyramidale, le lien lead du cercle amont a la charge de faire valider la raison d’être et les redevabilités du cercle par la structure pyramidale. 
+  Il n’y a alors pas de cercle d’ancrage mais un « premier cercle »
+- Si une équipe avale est organisée en mode pyramidal, elle reçoit sa raison d’être et ses redevabilités via son responsable qui siège dans le cercle amont (en tant que lien lead)
+  Le responsable organise son équipe selon les règles pyramidales de sa structure pour que l’équipe remplisse son rôle
 
-*« 3, 4 et 5 » correspondent à un point bas dans la dynamique de changement pendant lequel il peut être approprié de se rappeler pourquoi ce changement va être utile à l'équipe et quelle est la réalité de la méthode choisie (ce stade est facilement porteur d’un effet fantasme)*
+##### Humains 
 
-6.  Expérimentation : le niveau de compétence sur la nouvelle façon de faire augmente, la sérénité revient 
-7.  Maîtrise : le collectif sait se servir de la nouvelle façon de faire, bénéficie des atouts, évite les points faibles, utilise les marges de manœuvre habilement  
+De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
-
-
-#### 5.25 Brique charte gouvernance cellulaire 
+#### 5.26 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1115,18 +1131,6 @@ Signatures :
 *¤ Cet engagement pourra aussi être proposé à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
-
-##### 5.26  Brique séparation 
-
-##### Processus de séparation
-
-La structure doit posséder un processus de fin de coopération visant une décision co-construite tout en assumant, quand ce n’est pas possible, d’imposer cette décision à la personne concernée
-
-Par défaut, cette décision est prise en concordance
-
-##### Intention
-
-Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
 
 #### 5.27  Brique Liberté Egalité Fraternité
 
