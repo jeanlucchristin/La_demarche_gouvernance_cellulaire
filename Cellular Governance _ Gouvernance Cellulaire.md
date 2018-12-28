@@ -1112,8 +1112,9 @@ Signatures :
 
 
 
-**Cette charte pourra aussi être proposée à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur 
-*
+*¤ Cet engagement pourra aussi être proposé à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur
+
+¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
 ##### 5.26  Brique séparation 
 
