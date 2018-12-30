@@ -50,6 +50,7 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 Un livret central avec 
 - des éléments cœur requis
 - Des rôles préconstruits 
+
 Des briques modulaires optionnelles 
 
 Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
