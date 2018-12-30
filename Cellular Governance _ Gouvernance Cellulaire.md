@@ -34,6 +34,9 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par :
   - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système)
   - Le choix des actions en responsabilité et leur réalisation
   
+#### Proposition
+Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’un ou l’autre des éléments de cette constitution. Rien n’impose de passer intégralement en mode Gouvernance Cellulaire
+
 # 2)  Raison d’être de la gouvernance cellulaire
 
 #### *<u>2.1  Impact sur le monde</u>* 
@@ -96,10 +99,6 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 
 
 # 3)  Livret central : Eléments cœurs requis 
-
-Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’une ou l’autre des briques et éléments 
-de cette constitution. Rien n’impose de passer en mode Gouvernance Cellulaire. Le mode pyramidal bien mené, par exemple, peut 
-donner satisfaction
 
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis, 4 rôles préconstruits et des briques modulaires optionnelles
  
