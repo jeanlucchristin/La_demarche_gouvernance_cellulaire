@@ -1,4 +1,4 @@
-# **Gouvernance Cellulaire   V1.1** 
+# **Gouvernance Cellulaire   V1.2** 
  
 Explorons une autre façon de travailler ensemble
 
@@ -36,7 +36,7 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par :
   
 # 2)  Raison d’être de la gouvernance cellulaire
 
-#### *<u>1.1  Impact sur le monde</u>* 
+#### *<u>2.1  Impact sur le monde</u>* 
 
 ##### Quoi ?
 
@@ -64,7 +64,7 @@ Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires  
 
-#### *<u>1.2  Impact sur les contributeurs (les créateurs)</u>* 
+#### *<u>2.2  Impact sur les contributeurs (les créateurs)</u>* 
 
 ##### Quoi ?
 
@@ -87,7 +87,7 @@ Car nous avons envie :
 - de participer au monde par la création d’un commun
 
 
-#### <u>1.3 Impact sur les actionnaires</u>  
+#### <u>2.3 Impact sur les actionnaires</u>  
 
 Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnaire mais des financeurs) 
 
