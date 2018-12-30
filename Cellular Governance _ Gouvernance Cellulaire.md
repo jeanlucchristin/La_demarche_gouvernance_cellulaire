@@ -127,24 +127,27 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion d’inspir : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
     décision à fort enjeu
 
-#### 3.1  Raison d’être de structure  
+#### 3.1  Raison d’être  
 
 ##### Nécessité
 
-Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout membre, toute réunion, toute action, tout instant
+Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout ses membres, toute réunion, toute action, tout instant
+
+Chaque rôle et chaque cercle reçoit une raison d'être pour les mêmes raisons
 
 ##### Contenu
 
-Les trois dimensions suivantes doivent apparaitre explicitement dans la raison d’être de l’entreprise avec une priorisation :
+Trois dimensions apparaissent dans la raison d’être de structure avec une priorisation :
 
 - Impact sur le monde 
 - Impact sur ses membres 
 - Impact sur ses actionnaires 
 
-Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention 
- (le parce que)
+Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention (le parce que)
 
 ##### Rôle Source
+
+La raison d’être d’une structure est intuitive, perceptible et évolutive
 
 Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à un cercle
 
