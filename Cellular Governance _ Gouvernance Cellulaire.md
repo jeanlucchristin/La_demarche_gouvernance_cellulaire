@@ -102,7 +102,7 @@ donner satisfaction
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte des éléments cœur 
 requis et des briques modulaires optionnelles
  
-#### Eléments requis
+#### 11 Eléments requis
 
 **Raison d’être :** une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser
 
