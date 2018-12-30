@@ -7,16 +7,43 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
-# 1)  Raison d’être de la gouvernance cellulaire
+# 1)  Préambule 
+
+#### Principe du Vivant 
+
+Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façon de faire plus agiles
+ Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur : 
+
+- le respect des capacités, des élans et des choix des humains qui composent l’entreprise (choix, liberté)
+- faire avec le mouvement du monde dans l’unité avec notre environnement (unicité, inclusion, égalité de valeur)
+- faire ensemble avec soutien et stimulation mutuels (ouverture, amour, fraternité)
+
+#### Propriété 
+
+Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons pas ici à nous l’approprier mais à y participer en proposant une forme suffisamment nette pour servir de repère. Par conséquent, cette constitution est un commun CCbySA sans aucun terme protégé 
+
+#### Posture 
+
+Nous croyons que le mouvement vers plus d’harmonie est facilité par :
+
+- La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain
+- L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu
+- le travail individuel et collectif sur :
+  - La présence au monde (méditation, prière, contemplation…)
+  - La conscience de soi (introspection, accueil, évolution)
+  - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système)
+  - Le choix des actions en responsabilité et leur réalisation
+  
+# 2)  Raison d’être de la gouvernance cellulaire
 
 #### *<u>1.1  Impact sur le monde</u>* 
 
 ##### Quoi ?
 
-Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple qui veille à l’équilibre éthique entre Produire et Prendre Soin en:
-  - Permettant aux structures d’évoluer vers ce qui compte pour elles,
-  - Permettant la même chose aux humains qui les composent
-  - Proposant de rechercher cet équilibre dans le mouvement, l'ajustement
+Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple qui veille à l’équilibre éthique entre « agir » et « prendre soin » :
+  - Permette aux structures d’évoluer vers ce qui compte pour elles
+  - Permette la même chose aux humains qui les composent
+  - Propose de rechercher cet équilibre dans le mouvement, l'ajustement
 
 ##### Comment ?  
 
@@ -37,7 +64,7 @@ Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires  
 
-#### *<u>1.2  Impact sur les contributeurs</u>* 
+#### *<u>1.2  Impact sur les contributeurs (les créateurs)</u>* 
 
 ##### Quoi ?
 
@@ -64,32 +91,7 @@ Car nous avons envie :
 
 Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnaire mais des financeurs) 
 
-# 2)  Préambule 
 
-#### Principe du Vivant 
-
-Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façon de faire plus agiles
- Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur : 
-
-- le respect des capacités, des élans et des choix des humains qui composent l’entreprise (choix, liberté)
-- faire avec le mouvement du monde dans l’unité avec notre environnement (unicité, inclusion, égalité de valeur)
-- faire ensemble avec soutien et stimulation mutuels (ouverture, amour, fraternité)
-
-#### Propriété 
-
-Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons pas ici à nous l’approprier mais à y participer en proposant une forme suffisamment nette pour servir de repère. Par conséquent, cette constitution est un commun CCbySA sans aucun terme protégé 
-
-#### Posture 
-
-Nous croyons que le mouvement vers plus d’harmonie est facilité par :
-
-- La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain
-- L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu
-- le travail individuel et collectif sur :
-  - La présence au monde (méditation, prière, contemplation…)
-  - La conscience de soi (introspection, accueil, évolution)
-  - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système)
-  - Le choix des actions en responsabilité et leur réalisation
 
 # 3)  CONSTITUTION : Eléments du livret central 
 
