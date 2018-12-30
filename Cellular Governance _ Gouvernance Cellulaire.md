@@ -95,16 +95,15 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 
 
 
-# 3)  CONSTITUTION : Eléments du livret central 
+# 3)  Livret central : Eléments cœurs requis 
 
 Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’une ou l’autre des briques et éléments 
 de cette constitution. Rien n’impose de passer en mode Gouvernance Cellulaire. Le mode pyramidal bien mené, par exemple, peut 
 donner satisfaction
 
-Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte des éléments cœur 
-requis et des briques modulaires optionnelles
+Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis et des briques modulaires optionnelles
  
-#### 11 Eléments requis
+#### Eléments cœurs requis
 
   - Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser
 
