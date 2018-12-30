@@ -478,7 +478,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion   
 
-# 4) CONSTITUTION : Rôles préconstruits 
+# 4) Livret central : Rôles préconstruits 
 
 #### 4.1  Lien lead 
 
