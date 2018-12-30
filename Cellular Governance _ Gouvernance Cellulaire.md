@@ -101,7 +101,7 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
 de cette constitution. Rien n’impose de passer en mode Gouvernance Cellulaire. Le mode pyramidal bien mené, par exemple, peut 
 donner satisfaction
 
-Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis et des briques modulaires optionnelles
+Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis, 4 rôles préconstruits et des briques modulaires optionnelles
  
 #### Eléments cœurs requis
 
