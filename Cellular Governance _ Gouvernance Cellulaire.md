@@ -7,7 +7,7 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
-# 1)  Raison d’être de la constitution Gouvernance Cellulaire
+# 1)  Raison d’être de la gouvernance cellulaire
 
 #### *<u>1.1  Impact sur le monde</u>* 
 
