@@ -104,15 +104,15 @@ requis et des briques modulaires optionnelles
  
 #### 11 Eléments requis
 
-**Raison d’être :** une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser
+  - Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser
 
-**Rôle :** description de ce sur quoi les autres membres peuvent compter
+  - Rôle : description de ce sur quoi les autres membres peuvent compter
 
-**Cercle :** rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
+  - Cercle : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
-**Responsabilité Ethique de Tension :** chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires
+  - Responsabilité Ethique de Tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires
 
-**Réunion et activités métiers :** les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
+  - Réunion et activités métiers : les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
