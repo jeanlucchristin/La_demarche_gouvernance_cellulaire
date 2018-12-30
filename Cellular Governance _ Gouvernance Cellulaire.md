@@ -69,7 +69,7 @@ Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires  
 
-#### *<u>2.2  Impact sur les contributeurs (les créateurs)</u>* 
+#### *<u>2.2  Impact sur les contributeurs</u>* 
 
 ##### Quoi ?
 
