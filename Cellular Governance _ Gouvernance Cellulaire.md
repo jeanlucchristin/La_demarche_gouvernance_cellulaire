@@ -14,7 +14,7 @@ Plus d’info à la fin de la constitution.*
 Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façon de faire plus agiles
  Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur : 
 
-- le respect des capacités, des élans et des choix des humains qui composent l’entreprise (choix, liberté)
+- le respect des capacités, des élans et des choix des humains qui composent la structure (choix, liberté)
 - faire avec le mouvement du monde dans l’unité avec notre environnement (unicité, inclusion, égalité de valeur)
 - faire ensemble avec soutien et stimulation mutuels (ouverture, amour, fraternité)
 
@@ -260,7 +260,7 @@ Les engagements peuvent tout a fait être pris en dehors de cette réunion
 
 Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés
 
-*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle* 
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle* 
  
 ##### Inclusion  
 
@@ -409,7 +409,7 @@ Aider des partenaires en tension relationnelle à se distancier de la situation 
 
 Périodicité : sur demande. Participants : les partenaires impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
 
-*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
 ##### Inclusion  
 
@@ -447,7 +447,7 @@ Temps de construction du collectif autour d’un rendu co-élaboré
  
 ##### Logistique 
 
-*Le processus peut être différent. Par contre, une organisation en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
 ##### Thèmes    
 
@@ -866,7 +866,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 Le collectif compose entre l’humain (essentiel) et le travail(important) de façon à ne pas bloquer le travail des membres. 
  Une tension de personne est dite essentielle et peut devenir ponctuellement prioritaire sur toutes les actions importantes si la personne concernée le demande
 
-Les membres de l’organisation assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure
+Les membres de la structure assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure
 
 #### Intention
 
@@ -1075,7 +1075,7 @@ Au sein d’une structure, le rôle source peut être donné à un membre dans l
 
 La description du livret central sera la plus légère possible 
 
-##### Sobriété d’Organisation
+##### Sobriété d’organisation
 
 Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver 
 
