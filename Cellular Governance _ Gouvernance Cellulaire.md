@@ -101,6 +101,8 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 # 3)  Livret central : Eléments cœurs requis 
 
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis, 4 rôles préconstruits et des briques modulaires optionnelles
+
+Chaque élément sera détaillé après ce sommaire
  
 #### Eléments cœurs requis
 
@@ -110,15 +112,15 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
 
   - Cercle : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
-  - Responsabilité Ethique de Tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires
+  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires
 
   - Réunion et activités métiers : les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
 **Espace Orga et Contrats :** 
-  - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour lui permettre de travailler
+  - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
-  - Réunion d’élection sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
+  - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
   - Réunion d’accordage : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
@@ -182,7 +184,7 @@ L’intention est de permettre à chacun :
 
 plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 
-#### 3.3  Role, cercle et lead
+#### 3.3  Rôle et cercle
 
 ##### Contenu de rôle 
 
@@ -198,7 +200,7 @@ plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 
 La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle même
 
-Plusieurs personne peuvent être affectées à un même rôle 
+Plusieurs personnes peuvent être affectées à un même rôle 
 (un focus peut être précisé clarifiant des périmètres différents) 
 
 Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance du cercle. 
@@ -218,13 +220,13 @@ Un cercle comprend impérativement :
 - sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
-#### 3.4  Responsabilité éthique de Tension/Envie 
+#### 3.4  Responsabilité éthique de Tension/envie 
 
 ##### Responsabilité de membre 
 
 Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
 
-Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (douleur)
+Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (rejet)
 
 ##### Responsabilité de structure 
 
@@ -243,7 +245,7 @@ Contrairement à la tension de rôle qui disparait si le rôle est transféré �
 
 ##### Tension/Envie de cercle 
 
-La tension de cercle est relative directement à la réalisation des raison d’être et redevabilités du cercle. Les actions demandées s’adressent :
+La tension de cercle est relative directement à la réalisation des raisons d’être et redevabilités du cercle. Les actions demandées s’adressent :
 - soit au lien lead
 - soit à tous les membres du cercle 
 - soit au cercle  en mode consentement dans une réunion dédiée.
@@ -365,7 +367,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
-#### 3.8  Réunion d’élection sans candidat
+#### 3.8  Election sans candidat
 
 ##### Raison d’être 
 
@@ -429,7 +431,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV)
 4. Interlocuteur, peux-tu reformuler ce que tu retiens ? 
 5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
-6. Au receveur : que décides-tu ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
+6. Au receveur : que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
 7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
 
 ##### Cloture   
@@ -589,7 +591,7 @@ La non-emprise est une ligne directrice saine souvent plébiscitée mais diffici
 
 ##### Non-Blocage 
 
-Un collectif en Gouvernance Cellulaire ne laisse pas un partenaire sans soutien dans une situation bloquée
+Un collectif en gouvernance cellulaire ne laisse pas un partenaire sans soutien dans une situation bloquée
 
 ##### Plan B
 
