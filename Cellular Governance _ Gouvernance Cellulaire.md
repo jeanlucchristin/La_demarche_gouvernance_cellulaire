@@ -839,13 +839,17 @@ Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-el
 
 Lors d’une fusion de deux équipes ou de deux structures, il y a une « absorption administrative ». Une structure est absorbée par l’autre
 
- Cette logique administrative n’est pas la logique humaine : humainement, il y a inclusion de l’un par l’autre, ce qui modifie l’identité des deux parties pour en créer une nouvelle
-Ligne directrice 
+ Cette logique administrative n’est pas la logique humaine : humainement, il y a inclusion de chacun, ce qui modifie l’identité des deux parties pour en créer une nouvelle
+ 
+##### Ligne directrice 
+
 L’objectif va être de faire apparaitre une mosaïque de vécus complémentaires, en aucun cas de chercher la vérité
 
 ##### Inclusion  
 
-Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arrivant, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencerLes autres écoutent en silence
+Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arrivant, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer
+
+Les autres écoutent en silence
 
 ##### Process inclusion 
 
