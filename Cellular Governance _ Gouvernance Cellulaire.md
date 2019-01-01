@@ -859,7 +859,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité
 2. Présentations en plénière 
 3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises etc)
-4. Temps de décision des prochaines actions utiles (par défaut en mode consentement)
+4. Temps de décision collectif des prochaines actions utiles (par défaut en mode consentement)
 
 ##### Cloture   
 
