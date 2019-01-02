@@ -934,7 +934,39 @@ Une posture nous semble bénéfique :
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.17  Brique décision par concordance 
+#### 5.17  Brique feedback
+
+##### Raison d’être 
+
+Donner des informations aux autres pour qu’ils gagnent en conscience de ce que leurs actions ou comportements déclenchent
+
+Reconnaitre nos partenaires dans ce qu’ils apportent 
+
+##### Préparation
+
+Il nous faudra être attentifs au fait que notre perception des actions et comportements d’un partenaire est biaisée par : 
+
+la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce partenaire) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation par une préparation
+
+##### 
+Intention 
+Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires
+
+##### Process
+Un feedback utile professionnellement comporte
+ - une observation (tu as fait ceci … )
+ - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnais/nie mon travail … )
+ - une demande éventuelle (c’est top, continue / une autre fois merci de …)
+
+##### Indigestion 
+
+Comme pour la nourriture, chacun a ses besoins et ses limites en terme de feedbacks (qui sont des signes de reconnaissance)
+
+Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister
+
+Il est bénéfique d’être attentif à ses propres besoins : demander une feedback, s’en donner à soi même
+
+#### 5.18  Brique décision par concordance 
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -958,7 +990,7 @@ Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exact
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
-#### 5.18  Brique variante réunion d’organisation
+#### 5.19  Brique variante réunion d’organisation
 
 ##### Variante « boite à idée » 
 
@@ -970,7 +1002,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.19  Brique orga hors orga
+#### 5.20  Brique orga hors orga
 
 ##### Raison d’être 
 
@@ -985,7 +1017,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion d'organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
-#### 5.20 Brique responsabilités de membre 
+#### 5.21 Brique responsabilités de membre 
 
 ##### Priorisation
 
@@ -1011,7 +1043,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.21  Brique Entretien annuel  
+#### 5.22  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1040,7 +1072,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.22  Brique numérique
+#### 5.23  Brique numérique
 
 ##### Raison d’être 
 
@@ -1052,7 +1084,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-#### 5.23  Brique magique 
+#### 5.24  Brique magique 
 
 ##### Raison d’être : 
 
@@ -1079,7 +1111,7 @@ A vous de jouer !
 
 
 
-#### 5.24  Brique rôle Source 
+#### 5.25  Brique rôle Source 
 
 ##### Cercle d’ancrage
 
@@ -1104,7 +1136,7 @@ Un domaine peut être précisé. Par exemple pour cette constitution, le rôle s
 
 Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
-#### 5.25  Brique légèreté-simplicité  
+#### 5.26  Brique légèreté-simplicité  
 
 ##### Contenu de la constitution
 
@@ -1126,7 +1158,7 @@ Permettre à des utilisateurs de rapidement s’emparer de la constitution plut�
 
 Focaliser leur attention sur les seuls sujets qui le nécessitent
 
-#### 5.26  Brique compatibilité système pyramidal
+#### 5.27  Brique compatibilité système pyramidal
 
 ##### Système 
 
@@ -1141,7 +1173,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.27 Brique charte gouvernance cellulaire 
+#### 5.28 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1178,7 +1210,7 @@ Signatures :
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.28  Brique Liberté Egalité Fraternité
+#### 5.29  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
