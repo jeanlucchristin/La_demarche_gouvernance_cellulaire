@@ -948,8 +948,8 @@ Il nous faudra être attentifs au fait que notre perception des actions et compo
 
 la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce partenaire) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation par une préparation
 
-##### 
-Intention 
+##### Intention 
+
 Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires
 
 ##### Process
