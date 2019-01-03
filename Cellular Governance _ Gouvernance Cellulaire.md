@@ -591,7 +591,7 @@ La non-emprise est une ligne directrice saine souvent plébiscitée mais diffici
 
 ##### Non-Blocage 
 
-Un collectif en gouvernance cellulaire ne laisse pas un partenaire sans soutien dans une situation bloquée
+En gouvernance cellulaire, il est interdit d’être bloqué : quand un partenaire est empêché d’agir, le collectif le soutien dans une recherche de libération
 
 ##### Plan B
 
