@@ -621,6 +621,8 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment
 
+Plus de réflexion [ici](https://youtu.be/ywD9P9GCQJ8)
+
 #### 5.4  Brique posture professionnelle  
 
 ##### Raison d’être 
