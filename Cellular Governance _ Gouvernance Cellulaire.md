@@ -118,8 +118,8 @@ Chaque élément sera détaillé après ce sommaire
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
-  - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
+  - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
@@ -293,7 +293,37 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.6 Décision Inéluctable par Consentement (DIC) 
+#### 3.6  Réunion d’organisation
+
+##### Raison d’être 
+
+Création, suppression, évolution, clarification des rôles et des politiques
+
+##### Logistique   
+
+Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
+
+##### Inclusion  
+
+Temps d’embarquement dans la réunion, chacun nomme comment il arrive
+
+##### Ordre du jour  
+
+Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter
+
+##### Process par consentement 
+
+Le facilitateur distribue la parole selon les étapes suivantes : 
+
+1- Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
+
+2- Le facilitateur enchaine sur le process Gestion Par Consentement à partir de la « proposition V1 »
+
+##### Cloture   
+
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
+
+#### 3.7 Décision Inéluctable par Consentement (DIC) 
 
 ##### Utilité  
 
@@ -335,37 +365,6 @@ Le facilitateur questionne chacun en tour de salle pour repérer les objections
 ##### Cloture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 			Plus de réflexion ici
-
-
-#### 3.7  Réunion d’organisation
-
-##### Raison d’être 
-
-Création, suppression, évolution, clarification des rôles et des politiques
-
-##### Logistique   
-
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
-
-##### Inclusion  
-
-Temps d’embarquement dans la réunion, chacun nomme comment il arrive
-
-##### Ordre du jour  
-
-Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter
-
-##### Process par consentement 
-
-Le facilitateur distribue la parole selon les étapes suivantes : 
-
-1- Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
-
-2- Le facilitateur enchaine sur le process par consentement à partir de la « proposition V1 »
-
-##### Cloture   
-
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
 #### 3.8  Election sans candidat
 
