@@ -114,7 +114,7 @@ Chaque élément sera détaillé après ce sommaire
 
   - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires
 
-  - Réunion et activités métiers : les temps individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
+  - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
@@ -521,7 +521,7 @@ Les pratiques de réunions du cercle sont conformes à la constitution
 - Faciliter les réunions du cercle requises par la constitution
 - Auditer les réunions et les registres des cercles avals. Signaler au traceur et au débloqueur les observations incompatibles avec les règles de la constitution
 
-##### Redevabilités ajoutée
+##### Redevabilités amovibles
 
 Développer l'aisance des participants dans les processus pour qu'ils puissent tenir leurs tensions jusqu'à résolution sans prendre le pouvoir les uns sur les autres 
 
@@ -541,9 +541,9 @@ Tous les registres du cercle requis par la constitution
 - Enregistrer et publier les résultats des réunions du cercle qui sont requises, et maintenir une vue compilée de la gouvernance en cours, des points de check-list et des indicateurs du cercle
 - Interpréter la gouvernance et la constitution sur demande
 
-##### Redevabilités ajoutée 
+##### Redevabilités amovibles 
 
-- Produire les enregistrements aux membres pour les aider à se repérer dans ce qui est écrit
+- Afficher les enregistrements aux membres pour les aider à se repérer dans ce qui est écrit
 
 #### 4.4  débloqueur.e
 
