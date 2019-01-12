@@ -1,3 +1,5 @@
+C'est une version proto et la version stabilisée sera livrée le 28 Mars
+
 # **Gouvernance Cellulaire   V1.2** 
  
 Explorons une autre façon de travailler ensemble
