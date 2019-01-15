@@ -125,7 +125,7 @@ Chaque élément sera détaillé après ce sommaire
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
-  - Réunion d’accordage : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
+  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
 **Espace Sens :** 
   - Réunion d’inspir : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
@@ -402,7 +402,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.9  Réunion d’accordage 
+#### 3.9  Réunion de régulation  
 
 ##### Raison d’être 
 
@@ -421,13 +421,13 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 
 ##### Ordre du jour  
 
-Le facilitateur rappelle la raison qui a déclenché ce temps d’accordage
+Le facilitateur rappelle la raison qui a déclenché ce temps de régulation
 
-##### Processus d’accordage 
+##### Processus de régulation
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps d’accordage ? 
+1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps de régulation ? 
 2. Qui souhaite commencer ?
 3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV)
 4. Interlocuteur, peux-tu reformuler ce que tu retiens ? 
@@ -751,7 +751,7 @@ De cette discipline de se contenter peut apparaitre un contentement sain pour no
 
 Aider un partenaire en tension interne à se distancier et à restaurer les conditions d’une capacité d’agir
 
-plus sereine. Elle est en particulier pertinente en amont d’une réunion d’accordage 
+plus sereine. Elle est en particulier pertinente en amont d’une réunion de régulation
 
 ##### Logistique   
 
@@ -930,7 +930,7 @@ Une posture nous semble bénéfique :
 - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
 - Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
 - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
-- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion d’accordage quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
+- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
 - **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
 - **Réciprocité** : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
 - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
@@ -1035,7 +1035,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 ##### Priorité de coopération   
 
 - Prendre en compte les demandes  des autres membres (c’est à dire inscrire comme prochaine action, pas exécuter)
-- Si un membre le demande, participer à une  réunion (sauf réunion d’accordage qui n’a pas de sens si elle est imposée) 
+- Si un membre le demande, participer à une  réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée) 
 - Décider de ses actions en fonction des priorités  et stratégies du cercle
 
 ##### Transparence sur demande 
