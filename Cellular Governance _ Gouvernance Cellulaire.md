@@ -1142,7 +1142,9 @@ Au sein d’une structure, le rôle source peut être donné à un membre dans l
 #### 5.26  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
-Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver
+Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour 
+ - pouvoir travailler ensemble 
+ - ne pas entraver l’action
 
 ##### Rôle Simplifieur
 Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion d’organisation) :
