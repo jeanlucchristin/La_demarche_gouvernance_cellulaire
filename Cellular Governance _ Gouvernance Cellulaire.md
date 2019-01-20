@@ -1147,8 +1147,8 @@ Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) p
 ##### Rôle Simplifieur
 Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion d’organisation) :
  - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
- - Toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
- - Toutes les règles ou politiques qui nient la capacité de discernement de chacun
+ - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
+ - toutes les règles ou politiques qui nient la capacité de discernement de chacun
  
 Ce rôle pourra être affecté à certains membres du cercle ou à tous
 
