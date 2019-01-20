@@ -1141,25 +1141,27 @@ Au sein d’une structure, le rôle source peut être donné à un membre dans l
 
 #### 5.26  Brique légèreté-simplicité  
 
-##### Contenu de la constitution
-
-- Les termes utilisés sont simples, issus du langage courant
-- Les rubriques sont celles nécessaires pour aider à l’harmonisation entre les personnes dans le cadre de leur travail
-- Des annexes préciseront des réponses possibles lors de difficultés
-
-##### Sobriété de la constitution 
-
-La description du livret central sera la plus légère possible 
-
 ##### Sobriété d’organisation
+Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver
 
-Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver 
+##### Rôle Simplifieur
+Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion d’organisation) :
+ - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
+ - Toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
+ - Toutes les règles ou politiques qui nient la capacité de discernement de chacun
+ 
+Ce rôle pourra être affecté à certains membres du cercle ou à tous
 
 ##### Intention
+Contrer la tendance humaines de générer de la complication pérenne
 
-Permettre à des utilisateurs de rapidement s’emparer de la constitution plutôt que de répondre par anticipation à tous les sujets. 
+Permettre aux membres de connaitre leur organisation avec un investissement minimum
 
-Focaliser leur attention sur les seuls sujets qui le nécessitent
+Focaliser l’attention sur les seuls sujets qui le nécessitent
+
+##### Sobriété de la constitution 
+La description du livret central sera la plus légère possible 
+
 
 #### 5.27  Brique compatibilité système pyramidal
 
