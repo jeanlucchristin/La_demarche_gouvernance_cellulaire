@@ -1000,9 +1000,9 @@ On a parfois simplement besoin de parler d’un sujet, d’échanger, de réflé
 
 Il peut être question d’un sujet métier ou autre
 
-Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminable où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation
+Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation
 
-Notre expérience nous montre que ces moments sont précieux et doivent pouvoir être déclenchés
+Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés
 
 ##### Logistique
 Une réunion de palabre est déclenchée par ceux qui en ont besoin en invitant les personnes qu’ils souhaitent. La durée est totalement libre et variable de quelques minutes à plusieurs jours
@@ -1014,9 +1014,9 @@ Les participants pourront décider s’il est pertinent ou non de restituer leur
 ##### Impact 
 L’acquisition de connaissance et de sens dans une structure passe par :
  - le vécu implicite individuel
- - Le vécu implicite collectif 
+ - le vécu implicite collectif 
  - l’expression individuelle
- - L’expression collective
+ - l’expression collective
 
 Les temps de palabre sont des espaces d’expression collective
 
