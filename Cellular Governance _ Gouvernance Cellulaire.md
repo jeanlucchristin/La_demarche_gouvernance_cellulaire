@@ -131,9 +131,9 @@ Chaque élément sera détaillé après ce sommaire
   - Réunion d’inspir : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
     décision à fort enjeu
 
-### 3.1  Raison d’être  
+#### 3.1  Raison d’être  
 
-#### Nécessité
+##### Nécessité
 
 Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout ses membres, toute réunion, toute action, tout instant
 
