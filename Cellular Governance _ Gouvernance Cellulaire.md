@@ -128,7 +128,7 @@ Chaque élément sera détaillé après ce sommaire
   - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
 **Espace Sens :** 
-  - Réunion d’inspir : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
+  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
     décision à fort enjeu
 
 #### 3.1  Raison d’être  
@@ -222,7 +222,7 @@ Un cercle comprend impérativement :
 - sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
-#### 3.4  Responsabilité éthique de Tension/envie 
+#### 3.4  Responsabilité éthique de Tension
 
 ##### Responsabilité de membre 
 
@@ -237,15 +237,15 @@ Pour réaliser sa raison d’être tout en prenant en compte les humains qui la 
 - considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité)
 - soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité)
 
-##### Tension/Envie de rôle 
+##### Tension de rôle 
 
 Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle
 
-##### Tension/Envie de personne 
+##### Tension de personne 
 
 Contrairement à la tension de rôle qui disparait si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle
 
-##### Tension/Envie de cercle 
+##### Tension de cercle 
 
 La tension de cercle est relative directement à la réalisation des raisons d’être et redevabilités du cercle. Les actions demandées s’adressent :
 - soit au lien lead
@@ -303,7 +303,7 @@ Création, suppression, évolution, clarification des rôles et des politiques
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
+Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous apprécions un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
 
 ##### Inclusion  
 
@@ -441,14 +441,14 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.10  Réunion d’inspir 
+#### 3.10  Réunion de sens 
 
 ##### Raison d’être 
 
 Temps de construction du collectif autour d’un rendu co-élaboré
  (le rendu sera une décision ou une proposition)
  
-##### Logistique 
+##### Méthode 
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
@@ -461,7 +461,7 @@ Raison d’être ; ambition ; lignes directrices (ou valeurs) ; objectifs ; prio
 Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
  Tour d’inclusion : comment je me sens en arrivant ?
 
-##### Processus d’inspir 
+##### Processus 
 
 Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux …. Toutes à expérimenter
 
@@ -510,7 +510,7 @@ Affectation des rôles du cercle
 
 Le lien lead est en charge de tout ce qui n’est pas affecté
 
-*Chacune de ces redevabilités peut être assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
+*Chacune de ces redevabilités pourra être progressivement assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
 
 #### 4.2  Facilitateur.e
 
@@ -739,7 +739,7 @@ Eviter les situations de blocages délétères tout en prenant soin autant que p
 ##### Se contenter est rendu possible par
 
 - Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
-- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres, fonctionnement que nous ne souhaitons précisément pas (nous) permettre
+- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres
 
 ##### Contentement 
 
@@ -1177,7 +1177,7 @@ Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) p
 Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion d’organisation) :
  - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
  - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
- - toutes les règles ou politiques qui nient la capacité de discernement de chacun
+ - toutes les règles ou politiques qui nient l’intelligence de chacun
  
 Ce rôle pourra être affecté à certains membres du cercle ou à tous
 
