@@ -120,7 +120,7 @@ Chaque élément sera détaillé après ce sommaire
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
-  - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
+  - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
@@ -211,7 +211,7 @@ Elle est alors « référent » des autres
 ##### Cercle 
 
 Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle
- (cette évolution doit passer en réunion d'organisation vu que cela impacte la structure du cercle)
+ (cette évolution doit passer en réunion de réorg. vu que cela impacte la structure du cercle)
 
 ##### Rôles préconstruits
 
@@ -295,7 +295,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.6  Réunion d’organisation
+#### 3.6  Réunion de réorganisation
 
 ##### Raison d’être 
 
@@ -502,7 +502,7 @@ Affectation des rôles du cercle
 - Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
 - Affecter des partenaires aux rôles du cercle 
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
-à sa manière en phase de lancement puis via la réunion d'organisation
+à sa manière en phase de lancement puis via la réunion de réorg.
 
 ##### Redevabilités complémentaires
 
@@ -578,7 +578,8 @@ Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscri
 
 ##### Comment activer une brique ? 
 
-Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion d'organisation
+Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion de réorg.
+
 
 ##### Conséquence de l’activation  
 
@@ -1020,7 +1021,7 @@ L’acquisition de connaissance et de sens dans une structure passe par :
 
 Les temps de palabre sont des espaces d’expression collective
 
-#### 5.20  Brique variante réunion d’organisation
+#### 5.20  Brique variante réunion de réorganisation
 
 ##### Variante « boite à idée » 
 
@@ -1032,7 +1033,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.21  Brique orga hors orga
+#### 5.21  Brique réorg. hors réorg.  
 
 ##### Raison d’être 
 
@@ -1043,8 +1044,8 @@ Simplifier le processus, fonctionner à distance
 1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles
 2. Il répond aux questions de clarifications
 3. Il prend connaissance des réactions
-4. Si un membre demande à ce que le point passe en réunion d’organisation formelle, le process est stoppé
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion d'organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
+4. Si un membre demande à ce que le point passe en réunion de réorg. formelle, le process est stoppé
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
 #### 5.22 Brique responsabilités de membre 
@@ -1174,7 +1175,7 @@ Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) p
  - ne pas entraver l’action
 
 ##### Rôle Simplifieur
-Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion d’organisation) :
+Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion de réorg.) :
  - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
  - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
  - toutes les règles ou politiques qui nient l’intelligence de chacun
