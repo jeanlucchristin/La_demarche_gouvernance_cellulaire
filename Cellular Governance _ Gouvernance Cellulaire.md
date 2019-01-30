@@ -1,4 +1,4 @@
-C'est une version proto et la version stabilisée sera livrée le 28 Mars
+C'est une version proto, la version stabilisée sera livrée le 28 Mars
 
 # **Gouvernance Cellulaire   V1.2** 
  
@@ -120,15 +120,15 @@ Chaque élément sera détaillé après ce sommaire
 
 **Espace Orga et Contrats :** 
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
-  - Réunion d’organisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
+  - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
 
 **Espace Relation :**
-  - Réunion d’accordage : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
+  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
 **Espace Sens :** 
-  - Réunion d’inspir : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
+  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
     décision à fort enjeu
 
 #### 3.1  Raison d’être  
@@ -211,7 +211,7 @@ Elle est alors « référent » des autres
 ##### Cercle 
 
 Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle
- (cette évolution doit passer en réunion d'organisation vu que cela impacte la structure du cercle)
+ (cette évolution doit passer en réunion de réorg. vu que cela impacte la structure du cercle)
 
 ##### Rôles préconstruits
 
@@ -222,7 +222,7 @@ Un cercle comprend impérativement :
 - sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
-#### 3.4  Responsabilité éthique de Tension/envie 
+#### 3.4  Responsabilité éthique de Tension
 
 ##### Responsabilité de membre 
 
@@ -237,15 +237,15 @@ Pour réaliser sa raison d’être tout en prenant en compte les humains qui la 
 - considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité)
 - soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité)
 
-##### Tension/Envie de rôle 
+##### Tension de rôle 
 
 Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle
 
-##### Tension/Envie de personne 
+##### Tension de personne 
 
 Contrairement à la tension de rôle qui disparait si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle
 
-##### Tension/Envie de cercle 
+##### Tension de cercle 
 
 La tension de cercle est relative directement à la réalisation des raisons d’être et redevabilités du cercle. Les actions demandées s’adressent :
 - soit au lien lead
@@ -295,7 +295,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
-#### 3.6  Réunion d’organisation
+#### 3.6  Réunion de réorganisation
 
 ##### Raison d’être 
 
@@ -303,7 +303,7 @@ Création, suppression, évolution, clarification des rôles et des politiques
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
+Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous apprécions un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée
 
 ##### Inclusion  
 
@@ -402,7 +402,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.9  Réunion d’accordage 
+#### 3.9  Réunion de régulation  
 
 ##### Raison d’être 
 
@@ -421,13 +421,13 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 
 ##### Ordre du jour  
 
-Le facilitateur rappelle la raison qui a déclenché ce temps d’accordage
+Le facilitateur rappelle la raison qui a déclenché ce temps de régulation
 
-##### Processus d’accordage 
+##### Processus de régulation
 
 Le facilitateur distribue la parole selon les étapes suivantes : 
 
-1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps d’accordage ? 
+1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps de régulation ? 
 2. Qui souhaite commencer ?
 3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV)
 4. Interlocuteur, peux-tu reformuler ce que tu retiens ? 
@@ -441,14 +441,14 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.10  Réunion d’inspir 
+#### 3.10  Réunion de sens 
 
 ##### Raison d’être 
 
 Temps de construction du collectif autour d’un rendu co-élaboré
  (le rendu sera une décision ou une proposition)
  
-##### Logistique 
+##### Méthode 
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
@@ -461,7 +461,7 @@ Raison d’être ; ambition ; lignes directrices (ou valeurs) ; objectifs ; prio
 Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
  Tour d’inclusion : comment je me sens en arrivant ?
 
-##### Processus d’inspir 
+##### Processus 
 
 Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux …. Toutes à expérimenter
 
@@ -502,7 +502,7 @@ Affectation des rôles du cercle
 - Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
 - Affecter des partenaires aux rôles du cercle 
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
-à sa manière en phase de lancement puis via la réunion d'organisation
+à sa manière en phase de lancement puis via la réunion de réorg.
 
 ##### Redevabilités complémentaires
 
@@ -510,7 +510,7 @@ Affectation des rôles du cercle
 
 Le lien lead est en charge de tout ce qui n’est pas affecté
 
-*Chacune de ces redevabilités peut être assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
+*Chacune de ces redevabilités pourra être progressivement assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
 
 #### 4.2  Facilitateur.e
 
@@ -578,7 +578,8 @@ Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscri
 
 ##### Comment activer une brique ? 
 
-Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion d'organisation
+Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion de réorg.
+
 
 ##### Conséquence de l’activation  
 
@@ -739,7 +740,7 @@ Eviter les situations de blocages délétères tout en prenant soin autant que p
 ##### Se contenter est rendu possible par
 
 - Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
-- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres, fonctionnement que nous ne souhaitons précisément pas (nous) permettre
+- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres
 
 ##### Contentement 
 
@@ -751,7 +752,7 @@ De cette discipline de se contenter peut apparaitre un contentement sain pour no
 
 Aider un partenaire en tension interne à se distancier et à restaurer les conditions d’une capacité d’agir
 
-plus sereine. Elle est en particulier pertinente en amont d’une réunion d’accordage 
+plus sereine. Elle est en particulier pertinente en amont d’une réunion de régulation
 
 ##### Logistique   
 
@@ -930,7 +931,7 @@ Une posture nous semble bénéfique :
 - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
 - Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
 - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
-- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion d’accordage quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
+- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
 - **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
 - **Réciprocité** : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
 - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
@@ -993,7 +994,34 @@ Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exact
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
-#### 5.19  Brique variante réunion d’organisation
+#### 5.19  Brique palabre
+
+##### Intention
+On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations
+
+Il peut être question d’un sujet métier ou autre
+
+Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation
+
+Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés
+
+##### Logistique
+Une réunion de palabre est déclenchée par ceux qui en ont besoin en invitant les personnes qu’ils souhaitent. La durée est totalement libre et variable de quelques minutes à plusieurs jours
+
+##### Objectif
+La réunion de palabre ne vise aucun objectif, c’est juste un temps de parole à plusieurs
+Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres de la structure
+
+##### Impact 
+L’acquisition de connaissance et de sens dans une structure passe par :
+ - le vécu implicite individuel
+ - le vécu implicite collectif 
+ - l’expression individuelle
+ - l’expression collective
+
+Les temps de palabre sont des espaces d’expression collective
+
+#### 5.20  Brique variante réunion de réorganisation
 
 ##### Variante « boite à idée » 
 
@@ -1005,7 +1033,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.20  Brique orga hors orga
+#### 5.21  Brique réorg. hors réorg.  
 
 ##### Raison d’être 
 
@@ -1016,11 +1044,11 @@ Simplifier le processus, fonctionner à distance
 1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles
 2. Il répond aux questions de clarifications
 3. Il prend connaissance des réactions
-4. Si un membre demande à ce que le point passe en réunion d’organisation formelle, le process est stoppé
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion d'organisation formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
+4. Si un membre demande à ce que le point passe en réunion de réorg. formelle, le process est stoppé
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
-#### 5.21 Brique responsabilités de membre 
+#### 5.22 Brique responsabilités de membre 
 
 ##### Priorisation
 
@@ -1035,7 +1063,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 ##### Priorité de coopération   
 
 - Prendre en compte les demandes  des autres membres (c’est à dire inscrire comme prochaine action, pas exécuter)
-- Si un membre le demande, participer à une  réunion (sauf réunion d’accordage qui n’a pas de sens si elle est imposée) 
+- Si un membre le demande, participer à une  réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée) 
 - Décider de ses actions en fonction des priorités  et stratégies du cercle
 
 ##### Transparence sur demande 
@@ -1046,7 +1074,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.22  Brique Entretien annuel  
+#### 5.23  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1075,7 +1103,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.23  Brique numérique
+#### 5.24  Brique numérique
 
 ##### Raison d’être 
 
@@ -1087,7 +1115,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-#### 5.24  Brique magique 
+#### 5.25  Brique magique 
 
 ##### Raison d’être : 
 
@@ -1114,7 +1142,7 @@ A vous de jouer !
 
 
 
-#### 5.25  Brique rôle Source 
+#### 5.26  Brique rôle Source 
 
 ##### Cercle d’ancrage
 
@@ -1139,29 +1167,33 @@ Un domaine peut être précisé. Par exemple pour cette constitution, le rôle s
 
 Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
-#### 5.26  Brique légèreté-simplicité  
-
-##### Contenu de la constitution
-
-- Les termes utilisés sont simples, issus du langage courant
-- Les rubriques sont celles nécessaires pour aider à l’harmonisation entre les personnes dans le cadre de leur travail
-- Des annexes préciseront des réponses possibles lors de difficultés
-
-##### Sobriété de la constitution 
-
-La description du livret central sera la plus légère possible 
+#### 5.27  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
+Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour 
+ - pouvoir travailler ensemble 
+ - ne pas entraver l’action
 
-Un formalisme suffisant sera créé (cercles, rôles, politiques, processus etc) pour permettre l'action sans trop l'entraver 
+##### Rôle Simplifieur
+Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion de réorg.) :
+ - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
+ - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
+ - toutes les règles ou politiques qui nient l’intelligence de chacun
+ 
+Ce rôle pourra être affecté à certains membres du cercle ou à tous
 
 ##### Intention
+Contrer la tendance humaines de générer de la complication pérenne
 
-Permettre à des utilisateurs de rapidement s’emparer de la constitution plutôt que de répondre par anticipation à tous les sujets. 
+Permettre aux membres de connaitre leur organisation avec un investissement minimum
 
-Focaliser leur attention sur les seuls sujets qui le nécessitent
+Focaliser l’attention sur les seuls sujets qui le nécessitent
 
-#### 5.27  Brique compatibilité système pyramidal
+##### Sobriété de la constitution 
+La description du livret central sera la plus légère possible 
+
+
+#### 5.28  Brique compatibilité système pyramidal
 
 ##### Système 
 
@@ -1176,7 +1208,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.28 Brique charte gouvernance cellulaire 
+#### 5.29 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1213,7 +1245,7 @@ Signatures :
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.29  Brique Liberté Egalité Fraternité
+#### 5.30  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
