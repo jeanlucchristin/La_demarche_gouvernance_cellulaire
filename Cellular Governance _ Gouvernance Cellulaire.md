@@ -1,4 +1,4 @@
-C'est une version proto, la version stabilisée sera livrée le 28 Mars
+Ceci est une version proto, la version stabilisée sera disponible le 28 mars 2019
 
 # **Gouvernance Cellulaire   V1.2** 
  
@@ -904,7 +904,43 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.15  Brique équilibre éthique
+#### 5.15  Brique pilotage de soi
+
+##### Raison d’être 
+Nous aider à nous piloter nous même en séparant nos rôles de nos personnes
+
+Se prendre en compte en tant que personne, avec ses besoins et ses peurs qui ont tendance à prendre le pouvoir
+
+Le but est une capacité à cultiver notre autonomie en interdépendance avec notre environnement et en sérénité
+
+##### Estime de soi
+Selon William Schutz, notre motivation se développe quand on devient quelqu’un que l’on estime
+
+A contrario, nos comportements répétitifs nocifs sont souvent liée à des peurs :
+
+la peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté
+
+Une estime de soi sereine déploie une capacité d’ajustements inventifs à la situation comme à la relation
+
+Une estime de soi dégradée déclenche souvent des rigidités qui nous empêchent de nous adapter et nous aveuglent
+
+Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux. A moi de développer des situations et une regard sur moi favorable pour cela
+
+##### Autonomie
+La capacité à décider par soi même est l’autonomie
+
+Elle nécessite une complétude : 
+ - une présence à ce qu’il se passe en moi et autour de moi
+ - une conscience de ce que je sais de moi, de la situation et des autres
+ 
+Il s’agit d’une autonomie en interdépendance avec mes collègues : je vais peut-être solliciter leurs compétences dans ma capacité à chercher des ressources autour de moi
+
+##### Relation   
+La structure et chaque membre ont intérêt à créer les conditions rendant possible une estime de soi sereine pour chacun, mais il est également précieux de ne pas charger les autres de sa propre estime de soi
+
+Là encore, il s’agit d’une recherche permanente d’équilibre 
+
+#### 5.16  Brique équilibre éthique
 
 #### Priorisation éthique : produire et prendre soin 
 
@@ -918,7 +954,7 @@ Les membres de la structure assument qu’ils n’ont pas les compétences pour 
 Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
  Préserver la structure et les humains qui la composent
 
-#### 5.16  Brique bonté
+#### 5.17  Brique bonté
 
 ##### Prendre Soin  
 
@@ -938,7 +974,7 @@ Une posture nous semble bénéfique :
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.17  Brique feedback
+#### 5.18  Brique feedback
 
 ##### Raison d’être 
 
@@ -970,7 +1006,7 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 
 Il est bénéfique d’être attentif à ses propres besoins : demander une feedback, s’en donner à soi même
 
-#### 5.18  Brique décision par concordance 
+#### 5.19  Brique décision par concordance 
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -994,7 +1030,7 @@ Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exact
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
-#### 5.19  Brique palabre
+#### 5.20  Brique palabre
 
 ##### Intention
 On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations
@@ -1021,7 +1057,7 @@ L’acquisition de connaissance et de sens dans une structure passe par :
 
 Les temps de palabre sont des espaces d’expression collective
 
-#### 5.20  Brique variante réunion de réorganisation
+#### 5.21  Brique variante réunion de réorganisation
 
 ##### Variante « boite à idée » 
 
@@ -1033,7 +1069,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.21  Brique réorg. hors réorg.  
+#### 5.22  Brique réorg. hors réorg.  
 
 ##### Raison d’être 
 
@@ -1048,7 +1084,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
-#### 5.22 Brique responsabilités de membre 
+#### 5.23 Brique responsabilités de membre 
 
 ##### Priorisation
 
@@ -1074,7 +1110,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.23  Brique Entretien annuel  
+#### 5.24  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1103,7 +1139,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.24  Brique numérique
+#### 5.25  Brique numérique
 
 ##### Raison d’être 
 
@@ -1115,7 +1151,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-#### 5.25  Brique magique 
+#### 5.26  Brique magique 
 
 ##### Raison d’être : 
 
@@ -1142,7 +1178,7 @@ A vous de jouer !
 
 
 
-#### 5.26  Brique rôle Source 
+#### 5.27  Brique rôle Source 
 
 ##### Cercle d’ancrage
 
@@ -1167,7 +1203,7 @@ Un domaine peut être précisé. Par exemple pour cette constitution, le rôle s
 
 Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
-#### 5.27  Brique légèreté-simplicité  
+#### 5.28  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour 
@@ -1193,7 +1229,7 @@ Focaliser l’attention sur les seuls sujets qui le nécessitent
 La description du livret central sera la plus légère possible 
 
 
-#### 5.28  Brique compatibilité système pyramidal
+#### 5.29  Brique compatibilité système pyramidal
 
 ##### Système 
 
@@ -1208,7 +1244,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.29 Brique charte gouvernance cellulaire 
+#### 5.30 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1245,7 +1281,7 @@ Signatures :
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.30  Brique Liberté Egalité Fraternité
+#### 5.31  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
