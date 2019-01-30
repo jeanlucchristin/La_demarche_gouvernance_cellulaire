@@ -1057,7 +1057,38 @@ L’acquisition de connaissance et de sens dans une structure passe par :
 
 Les temps de palabre sont des espaces d’expression collective
 
-#### 5.21  Brique variante réunion de réorganisation
+#### 5.21  Brique création raison d’être
+
+##### Raison d’être 
+Co-construire une raison d’être quand elle ne s’actualise pas suffisamment par itérations spontanées 
+
+##### Méthode    
+Le processus peut être différent, celui-ci présente l’intérêt de dépasser les capacité du mental
+
+##### Inclusion  
+Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
+
+Tour d’inclusion : comment je me sens en arrivant ?
+
+##### Processus
+Passer par le dessin : feutres de couleurs, sous groupes de 5-6
+
+1. Dessiner d’où vient votre structure, son histoire (sous groupes « historiques » s’il y a lieu)
+   - Repérez ce que vous avez laissé derrière vous aux étapes clef
+2. Restitution 
+3. Dessiner la structure actuelle (éventuellement modifier les groupes)
+   - Repérer les tensions 
+4. Dessiner la future structure (mélanger les membres des différents groupes historiques)Repérer les différences par rapport à aujourd’hui
+   - Qu’allez vous devoir abandonner ? Qu’allez vous gagner au changement ? 
+5. Restitutions
+6. Création d’une phrase de raison d’être en mode consentement consolidée par concordance comprenant 
+   - ce que la structure va apporter (nous allons créer …)
+   - comment elle va procéder (en …)
+   - La motivation de fond (parce nous considérons important de … )
+7. Cloture   
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
+
+#### 5.22  Brique variante réunion de réorganisation
 
 ##### Variante « boite à idée » 
 
@@ -1069,7 +1100,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.22  Brique réorg. hors réorg.  
+#### 5.23  Brique réorg. hors réorg.  
 
 ##### Raison d’être 
 
@@ -1084,7 +1115,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
-#### 5.23 Brique responsabilités de membre 
+#### 5.24 Brique responsabilités de membre 
 
 ##### Priorisation
 
@@ -1110,7 +1141,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.24  Brique Entretien annuel  
+#### 5.25  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1139,7 +1170,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.25  Brique numérique
+#### 5.26  Brique numérique
 
 ##### Raison d’être 
 
@@ -1151,7 +1182,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-#### 5.26  Brique magique 
+#### 5.27  Brique magique 
 
 ##### Raison d’être : 
 
@@ -1178,7 +1209,7 @@ A vous de jouer !
 
 
 
-#### 5.27  Brique rôle Source 
+#### 5.28  Brique rôle Source 
 
 ##### Cercle d’ancrage
 
@@ -1203,7 +1234,7 @@ Un domaine peut être précisé. Par exemple pour cette constitution, le rôle s
 
 Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
-#### 5.28  Brique légèreté-simplicité  
+#### 5.29  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour 
@@ -1229,7 +1260,7 @@ Focaliser l’attention sur les seuls sujets qui le nécessitent
 La description du livret central sera la plus légère possible 
 
 
-#### 5.29  Brique compatibilité système pyramidal
+#### 5.30  Brique compatibilité système pyramidal
 
 ##### Système 
 
@@ -1244,7 +1275,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.30 Brique charte gouvernance cellulaire 
+#### 5.31 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1281,7 +1312,7 @@ Signatures :
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.31  Brique Liberté Egalité Fraternité
+#### 5.32  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
