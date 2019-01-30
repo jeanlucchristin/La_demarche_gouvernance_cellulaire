@@ -454,7 +454,7 @@ Temps de construction du collectif autour d’un rendu co-élaboré
 
 ##### Thèmes    
 
-Raison d’être ; ambition ; lignes directrices (ou valeurs) ; objectifs ; priorités stratégiques ; tout autre sujet proposé par l’organisateur 
+Tout sujet proposé par l’organisateur, dont ambition ; objectifs ; priorités stratégiques ; sujet métier ; lignes directrices (ou valeurs) etc
 
 ##### Inclusion  
 
