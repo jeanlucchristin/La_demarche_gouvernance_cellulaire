@@ -1,4 +1,4 @@
-Ceci est une version proto, la version stabilisée sera disponible le 28 mars - test commit
+C'est une version proto, la version stabilisée sera livrée le 28 Mars
 
 # **Gouvernance Cellulaire   V1.2** 
  
