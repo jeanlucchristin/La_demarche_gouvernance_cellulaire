@@ -1345,6 +1345,9 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 
 - Remerciement spécial à Brian Robertson dont la constitution holacracy® a entrainé beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
 - Will Schutz (2006), *L’Elément Humain*, InterEdition : en particulier pour avoir favorisé l’autorisation d’exprimer les peurs, l'amour et la complétude en entreprise et pour les notions de concordance, d’ouverture, de choix.  plus d'info [ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
+- Bergson H. (1934), La Pensée et le Mouvant, Paris, Presses Universitaires de France (Ed. 1969)
+- Endenburg G. (1988), Sociocracy: The Organization of Decision Making, La Haye, Eburon Academic Publishers
+- Roland Yuno Rech (2013), Bodaïshin L’esprit d’éveil, Yuno Kusen
 - Jos de Blok pour l’existence modélisante de Buurzorg https://www.buurtzorg.com/
 - Vincent Lenhardt (1995), *Responsable porteur de sens*, Inseep Editions 
 - Marshall Rosenberg (2017), *Dénouer les conflits par la communication non violente*, Jouvence 
@@ -1352,6 +1355,7 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 - Jims Collins (2001) *Good to Great*, Random House et le concept du « hérisson » pour faire émerger la raison d’être à partir de trois cercles : Ce qui me passionne. Ce que je sais bien faire. Ce dont le monde a besoin.
 - Simon Sinek (2011) *Start with why*, Portfolio qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI ajoutant la dimension Ce pour quoi je peux être payé
+- Nonaka I. (1994), A dynamic theory of organizational knowledge creation, Organization Science, Vol. 5, n° 1, p. 14–37
 - Mary Parker Follett, (1918) *The New State*, Longmans Green pour ses modélisation de la réciprocité et la distinction « Power over and power with » dès les années 1900 en réponse à à FW Taylor, (1911) *The Principles of Scientific Management*, Harper et Brothers publisher
 Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
 - Pablo Sevigne et Gauthier Chapelle (2017) *l’entraide, l’autre loi de la jungle*, Les liens qui libèrent éditions
