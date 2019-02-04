@@ -1348,6 +1348,7 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 - Bergson H. (1934), La Pensée et le Mouvant, Paris, Presses Universitaires de France (Ed. 1969)
 - Endenburg G. (1988), Sociocracy: The Organization of Decision Making, La Haye, Eburon Academic Publishers
 - Roland Yuno Rech (2013), Bodaïshin L’esprit d’éveil, Yuno Kusen
+- Simone Weil (1955), Oppression et liberté, Gallimard, Collection Espoir pour avoir révélé le versant spirituel du travail et de l’expérience et par conséquent, la caractéristique sacrilège des actes coercitifs
 - Jos de Blok pour l’existence modélisante de Buurzorg https://www.buurtzorg.com/
 - Vincent Lenhardt (1995), *Responsable porteur de sens*, Inseep Editions 
 - Marshall Rosenberg (2017), *Dénouer les conflits par la communication non violente*, Jouvence 
