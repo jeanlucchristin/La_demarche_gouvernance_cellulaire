@@ -11,5 +11,5 @@ Une discussion aura lieu qui aboutira soit à l'intégration de votre propositio
 
 #### Vous pouvez questionner, discuter, échanger, donner votre avis, répondre ...
 
-Ca se passe sur le forum : [ici](cellulargovernance.org)
+Ca se passe sur le forum : [ici](https://cellulargovernance.org)
 
