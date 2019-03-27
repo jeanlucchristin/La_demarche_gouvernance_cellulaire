@@ -1,6 +1,6 @@
 Ceci est une version proto, la version stabilisée sera disponible le 28 mars 2019
 
-# **Gouvernance Cellulaire   V1.2** 
+# **Gouvernance Cellulaire   V 2.0** 
  
 Explorons une autre façon de travailler ensemble
 
