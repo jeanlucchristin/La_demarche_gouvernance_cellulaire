@@ -241,7 +241,12 @@ Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle
 
 ##### Tension de personne 
 
-Contrairement à la tension de rôle qui disparait si le rôle est transféré à un collègue, la tension de personne reste. La tension de personne peut entrainer une demande adressée à un rôle ou à une personne du cercle
+La tension de personne permet de prendre soin de soi en tant que personne
+
+Elle peut aboutir à une demande adressée à un rôle, à une personne du cercle ou à tout le cercle
+
+Elle entraine par exemple une demande de réunion de régulation pour travailler la relation ou une demande de réunion de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
+
 
 ##### Tension de cercle 
 
