@@ -106,9 +106,9 @@ Chaque élément sera détaillé après ce sommaire
  
 #### Eléments cœurs requis
 
-  - Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les partenaires chargés de la réaliser
+  - Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les membres chargés de la réaliser
 
-  - Rôle : description de ce sur quoi les autres membres peuvent compter
+  - Rôle : description de ce sur quoi les autres membres et collègues peuvent compter
 
   - Cercle : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles
 
@@ -133,7 +133,7 @@ Chaque élément sera détaillé après ce sommaire
 
 ##### Nécessité
 
-Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout ses membres, toute réunion, toute action, tout instant
+Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout ses membres et collègues, toute réunion, toute action, tout instant
 
 Chaque rôle et chaque cercle reçoit une raison d'être pour les mêmes raisons
 
@@ -142,7 +142,7 @@ Chaque rôle et chaque cercle reçoit une raison d'être pour les mêmes raisons
 Trois dimensions apparaissent dans la raison d’être de structure avec une priorisation :
 
 - Impact sur le monde 
-- Impact sur ses membres 
+- Impact sur ses membres et collègues  
 - Impact sur ses actionnaires 
 
 Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention (le parce que)
@@ -157,7 +157,7 @@ Nous souhaitons utiliser l’intuition motivante et confuse d’une personne sou
 
 ##### Pouvoir de proposition
 
-Chaque membre peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de son cercle. 
+Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de son cercle. 
 Par défaut, la réunion est sous forme de Gestion par Consentement 
 
 Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
@@ -409,11 +409,11 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider des partenaires en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante
+Aider des membres ou collègues en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante
 
 ##### Logistique   
 
-Périodicité : sur demande. Participants : les partenaires impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
+Périodicité : sur demande. Participants : les membres ou collègues impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
@@ -503,7 +503,7 @@ Affectation des rôles du cercle
 - Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont il est redevable
 - Actualiser les priorités stratégiques du cercle et sur demande, résoudre les conflits de priorités entre les rôles
 - Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
-- Affecter des partenaires aux rôles du cercle 
+- Affecter des personnes aux rôles du cercle 
 - Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
 à sa manière en phase de lancement puis via la réunion de réorg.
 
@@ -548,7 +548,7 @@ Tous les registres du cercle requis par la constitution
 
 ##### Redevabilités amovibles 
 
-- Afficher les enregistrements aux membres pour les aider à se repérer dans ce qui est écrit
+- Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit
 
 #### 4.4  débloqueur.e
 
@@ -592,11 +592,11 @@ Une brique activée a le même poids qu’un élément cœur : elle devient cons
 
 ##### Intention de non-emprise 
 
-La non-emprise est une ligne directrice saine souvent plébiscitée mais difficile à respecter au quotidien, en particulier quand un partenaire en charge d’un rôle ne délivre pas ce dont un autre partenaire a besoin. Le réflexe peut être une manipulation involontaire pour que le premier réalise ce qu’il doit faire dans son rôle
+La non-emprise est une ligne directrice saine souvent plébiscitée mais difficile à respecter au quotidien, en particulier quand un membre en charge d’un rôle ne délivre pas ce dont un autre membre a besoin. Le réflexe peut être une manipulation involontaire pour que le premier réalise ce qu’il doit faire dans son rôle
 
 ##### Non-Blocage 
 
-En gouvernance cellulaire, il est interdit d’être bloqué : quand un partenaire sent une tension qui l’empêche d’agir, le collectif le soutien dans une recherche de libération
+En gouvernance cellulaire, il est interdit d’être bloqué : quand un membre sent une tension qui l’empêche d’agir, le collectif le soutien dans une recherche de libération
 
 ##### Plan B
 
@@ -647,13 +647,13 @@ Décrire des questionnements aidants pour cultiver une posture professionnelle b
 ##### Ouverture 
 
 - **Ma conscience de moi**. Ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
-- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un partenaire ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
+- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un membre ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
 
 #### Leader « as a completer »
 
 Du terme anglais « completer » qui signifie à la fois terminer et complémenter
  - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
- - Chaque membre est partenaire du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
+ - Chacun est membre du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
@@ -661,7 +661,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 ##### Exercice du pouvoir
 
-Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les partenaires de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
+Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
 
 ##### Groupe solidaire 
 
@@ -753,7 +753,7 @@ De cette discipline de se contenter peut apparaitre un contentement sain pour no
 
 ##### Raison d’être 
 
-Aider un partenaire en tension interne à se distancier et à restaurer les conditions d’une capacité d’agir
+Aider un membre ou collègue  en tension interne à se distancier et à restaurer les conditions d’une capacité d’agir
 
 plus sereine. Elle est en particulier pertinente en amont d’une réunion de régulation
 
@@ -794,7 +794,7 @@ Clarifier notre rapport à la frustration
 Nous considérons inéluctable que de la frustration apparaisse, plus ou moins intense au travail
  La frustration est une tension vers ce qui correspondrait mieux à mon idéal.
 
-Nous considérons une équipe performante tant d’un point de vue humain que déliverabilité dans les moment où ses membres réussissent à gérer un haut niveau de frustration :
+Nous considérons une équipe performante tant d’un point de vue humain que déliverabilité dans les moment où ses membres et collègues  réussissent à gérer un haut niveau de frustration :
 
 - savoir la repérer, la nommer si besoin
 - distinguer la frustration nécessitant une action de celle nécessitant un consentement 
@@ -842,7 +842,7 @@ Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-el
 
  - Traverser humainement une fusion acquisition ou la fusion des deux équipes
 
- - Fonctionne aussi pour aider des membres d’une même structure qui se « comprennent » difficilement 
+ - Fonctionne aussi pour aider des membres et collègues d’une même structure qui se « comprennent » difficilement 
 
 ##### Contexte 
 
@@ -879,7 +879,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider un partenaire en tension interne à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire
+Aider un membre ou collègue en tension interne à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire
 
 ##### Paradigme
 
@@ -939,7 +939,7 @@ Elle nécessite une complétude :
 Il s’agit d’une autonomie en interdépendance avec mes collègues : je vais peut-être solliciter leurs compétences dans ma capacité à chercher des ressources autour de moi
 
 ##### Relation   
-La structure et chaque membre ont intérêt à créer les conditions rendant possible une estime de soi sereine pour chacun, mais il est également précieux de ne pas charger les autres de sa propre estime de soi
+La structure et chaque membre ou collègue ont intérêt à créer les conditions rendant possible une estime de soi sereine pour chacun, mais il est également précieux de ne pas charger les autres de sa propre estime de soi
 
 Là encore, il s’agit d’une recherche permanente d’équilibre 
 
@@ -970,7 +970,7 @@ Une posture nous semble bénéfique :
 - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
 - Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
 - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
-- **Veiller** à la santé apparente de nos partenaire proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
+- **Veiller** à la santé apparente de nos partenaires proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
 - **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
 - **Réciprocité** : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
 - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
@@ -1049,7 +1049,7 @@ Une réunion de palabre est déclenchée par ceux qui en ont besoin en invitant 
 
 ##### Objectif
 La réunion de palabre ne vise aucun objectif, c’est juste un temps de parole à plusieurs
-Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres de la structure
+Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres ou collègues  de la structure
 
 ##### Impact 
 L’acquisition de connaissance et de sens dans une structure passe par :
@@ -1081,7 +1081,7 @@ Passer par le dessin : feutres de couleurs, sous groupes de 5-6
 2. Restitution 
 3. Dessiner la structure actuelle (éventuellement modifier les groupes)
    - Repérer les tensions 
-4. Dessiner la future structure (mélanger les membres des différents groupes historiques)Repérer les différences par rapport à aujourd’hui
+4. Dessiner la future structure (mélanger les membres ou collègues  des différents groupes historiques)Repérer les différences par rapport à aujourd’hui
    - Qu’allez vous devoir abandonner ? Qu’allez vous gagner au changement ? 
 5. Restitutions
 6. Création d’une phrase de raison d’être en mode consentement consolidée par concordance comprenant 
@@ -1311,7 +1311,7 @@ Signatures :
 
 
 
-*¤ Cet engagement pourra aussi être proposé à la signature de tous les partenaires participant à un cercle ou être intégrée au règlement intérieur
+*¤ Cet engagement pourra aussi être proposé à la signature de tous les membres participant à un cercle ou être intégrée au règlement intérieur
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
@@ -1331,7 +1331,7 @@ Nous utilisons ce terme pour les notions d’importance égale de tous les membr
 
 ##### Fraternité - amour  
 
-Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
+Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres et collègues à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
 
 # 6  CONSTITUTION : Bibliographie et Références 
 
