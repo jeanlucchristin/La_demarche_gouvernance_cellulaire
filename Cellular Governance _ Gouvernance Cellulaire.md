@@ -120,7 +120,7 @@ Chaque élément sera détaillé après ce sommaire
   - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
-  - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par ses collègues pour le tenir
+  - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
 
 **Espace Relation :**
   - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
