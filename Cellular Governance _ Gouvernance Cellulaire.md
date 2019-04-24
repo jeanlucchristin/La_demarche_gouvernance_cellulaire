@@ -879,13 +879,13 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Aider un membre ou collègue en tension interne à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire
+Sur sa demande, aider un membre ou collègue à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire
 
 ##### Paradigme
 
 Technique : faire des expériences nouvelles pour s’extraire de situations répétitives
 
-Principe stratégique : j’assume que je rentre en relation et parle pour obtenir quelque chose
+Principe stratégique : Le demandeur assume qu’il attend de ce temps de conversation des améliorations concrètes
 
 Philosophie : mon environnement me construit en même temps que je le façonne (co-construction) 
 
