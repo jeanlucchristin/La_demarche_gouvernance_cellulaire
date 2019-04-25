@@ -1270,16 +1270,26 @@ La description du livret central sera la plus légère possible
 
 ##### Système 
 
-L’organisation en cercle est totalement compatible avec une organisation pyramidale du point de vue structurel :
+L’organisation en cercle est compatible avec une organisation pyramidale du point de vue structurel
 
-- Si le cercle amont dépend d’une structure pyramidale, le lien lead du cercle amont a la charge de faire valider la raison d’être et les redevabilités du cercle par la structure pyramidale. 
-  Il n’y a alors pas de cercle d’ancrage mais un « premier cercle »
-- Si une équipe avale est organisée en mode pyramidal, elle reçoit sa raison d’être et ses redevabilités via son responsable qui siège dans le cercle amont (en tant que lien lead)
-  Le responsable organise son équipe selon les règles pyramidales de sa structure pour que l’équipe remplisse son rôle
+##### Ce qui est commun
+
+ - La raison d’être et les redevabilités du cercle doivent répondre aux besoins de l’équipe amont 
+ - Le lien lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ 
+
+##### Les différences 
+
+ - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; orienter la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; donner du feedback et recadrer ; finaliser les décisions
+ - En mode cellulaire, ces redevabilités ont été déléguées aux membres du cercle
+
+##### La voie du milieu 
+
+En complément du lien lead, un cercle peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
 
 ##### Humains 
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
+
 
 #### 5.29 Brique charte gouvernance cellulaire 
 
