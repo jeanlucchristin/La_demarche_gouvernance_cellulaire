@@ -101,8 +101,6 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 # 3)  Livret central : Eléments cœurs requis 
 
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis, 4 rôles préconstruits et des briques modulaires optionnelles
-
-Chaque élément sera détaillé après ce sommaire
  
 #### Eléments cœurs requis
 
@@ -121,13 +119,14 @@ Chaque élément sera détaillé après ce sommaire
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
+  - Brique plan B : Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
 
 **Espace Relation :**
   - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
 **Espace Sens :** 
-  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
-    décision à fort enjeu
+  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique 
+  - Brique souveraineté : clarifie les enjeux liés à la responsabilisation
 
 #### 3.1  Raison d’être  
 
@@ -405,7 +404,35 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.9  Réunion de régulation  
+####  3.9  Brique requise de PLAN B
+
+##### Intention
+
+Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
+
+##### Quand l’actionner ?
+
+Lorsque une tâche n’est pas réalisée comme prévue (hors délai ou bâclée par exemple) ou menace de l’être (échéance proche par exemple)
+
+##### Qui l’actionne ?
+
+Le membre qui en ressent la tension
+
+##### Comment fait-il ?
+
+Il l’exprime en réunion tactique. Il est encouragé à ne pas lâcher sa tension tant qu’une solution nouvelle à essayer pour quitter cette situation de blocage n’apparait pas
+
+Il peut demander un tour de boite à idée aux membres du cercle
+ 
+##### Solution alternative
+
+Le but n’est pas de  contraindre qui que ce soit.  Les alternatives peuvent être : 
+ - soutient au rôle défaillant
+ - affectation du rôle à une autre personne en complément ou en remplacement 
+ - focalisation de tout le cercle sur l’action
+ - une meilleure solution 
+ 
+#### 3.10  Réunion de régulation  
 
 ##### Raison d’être 
 
@@ -444,7 +471,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.10  Réunion de sens 
+#### 3.11  Réunion de sens 
 
 ##### Raison d’être 
 
@@ -484,7 +511,23 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 
 #### Cloture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion   
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+
+#### 3.12  Brique choix - souveraineté 
+
+##### Liberté 
+
+Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs 
+
+##### Assumer
+
+ Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultat, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins
+
+##### Sortie de rôle
+
+Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment
+
+Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94)
 
 # 4) Livret central : Rôles préconstruits 
 
@@ -588,47 +631,7 @@ Activer ou désactiver une brique est une politique. Par conséquent, cela se fo
 
 Une brique activée a le même poids qu’un élément cœur : elle devient constitutionnelle. 
 
-#### 5.2  Brique principe de PLAN B
-
-##### Intention de non-emprise 
-
-La non-emprise est une ligne directrice saine souvent plébiscitée mais difficile à respecter au quotidien, en particulier quand un membre en charge d’un rôle ne délivre pas ce dont un autre membre a besoin. Le réflexe peut être une manipulation involontaire pour que le premier réalise ce qu’il doit faire dans son rôle
-
-##### Non-Blocage 
-
-En gouvernance cellulaire, il est interdit d’être bloqué : quand un membre sent une tension qui l’empêche d’agir, le collectif le soutien dans une recherche de libération
-
-##### Plan B
-
-Quand la réponse apportée à une demande n’est pas suffisante pour résoudre la tension ressentie par le demandeur, celui-ci :
-
-1. Informe le receveur de son besoin actualisé et demande un complément 
-2. S’il ne l’obtient pas, cherche une autre demande susceptible de répondre à son besoin
-   (cette autre demande peut être adressée à un autre rôle)
-3. Peut demander un tour de boite à idée aux membres du cercle
-
-##### Posture 
-
-La séquence d’idées ne cherche pas à changer la réponse qui a été fournie préalablement, ce serait prendre le pouvoir sur la liberté du rôle répondant. Elle ne cherche pas non plus à protéger le répondant qui assume les conséquences de ses décisions
- Les idées peuvent être des solutions alternatives concrètes, l’affectation du rôle à une autre personne en complément ou en remplacement
- 
-#### 5.3  Brique choix - souveraineté 
-
-##### Liberté 
-
-Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs 
-
-##### Assumer
-
- Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultat, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins
-
-##### Sortie de rôle
-
-Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment
-
-Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94)
-
-#### 5.4  Brique posture professionnelle  
+#### 5.2  Brique posture professionnelle  
 
 ##### Raison d’être 
 
@@ -657,7 +660,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
-#### 5.5  Brique réciprocité 
+#### 5.3  Brique réciprocité 
 
 ##### Exercice du pouvoir
 
@@ -677,7 +680,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
-#### 5.6 Brique changement 
+#### 5.4 Brique changement 
 
 ##### Intention
 
@@ -703,7 +706,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
 
-#### 5.7  Brique Accompagnement Extérieur
+#### 5.5  Brique Accompagnement Extérieur
 
 ##### Technicité 
 
@@ -721,7 +724,7 @@ Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécess
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage
 
-##### 5.8  Brique séparation 
+##### 5.6  Brique séparation 
 
 ##### Processus de séparation
 
@@ -733,7 +736,7 @@ Par défaut, cette décision est prise en concordance
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
 
-#### 5.9  Brique contentement 
+#### 5.7  Brique contentement 
 
 ##### Se contenter 
 
@@ -749,7 +752,7 @@ Eviter les situations de blocages délétères tout en prenant soin autant que p
 
 De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
 
-#### 5.10  Brique distanciation  
+#### 5.8  Brique distanciation  
 
 ##### Raison d’être 
 
@@ -783,7 +786,7 @@ Le facilitateur aide la personne à repérer ce qui se vit en elle selon les ét
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.11  Brique Frustration 
+#### 5.9  Brique Frustration 
 
 ##### Raison d’être 
 
@@ -806,7 +809,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
 
-#### 5.12  Brique composer avec nos différences 
+#### 5.10  Brique composer avec nos différences 
 
 ##### Raison d’être 
 
@@ -836,7 +839,7 @@ Par ailleurs, Will Schutz a développé une approche centrée sur la compatibili
 
 Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
-#### 5.13  Brique inclusion
+#### 5.11  Brique inclusion
 
 ##### Raison d’être 
 
@@ -875,7 +878,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 
-#### 5.14  Brique 180°  
+#### 5.12  Brique 180°  
 
 ##### Raison d’être 
 
@@ -907,7 +910,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.15  Brique pilotage de soi
+#### 5.13  Brique pilotage de soi
 
 ##### Raison d’être 
 Nous aider à nous piloter nous même en séparant nos rôles de nos personnes
@@ -943,7 +946,7 @@ La structure et chaque membre ou collègue ont intérêt à créer les condition
 
 Là encore, il s’agit d’une recherche permanente d’équilibre 
 
-#### 5.16  Brique équilibre éthique
+#### 5.14  Brique équilibre éthique
 
 #### Priorisation éthique : produire et prendre soin 
 
@@ -957,7 +960,7 @@ Les membres de la structure assument qu’ils n’ont pas les compétences pour 
 Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
  Préserver la structure et les humains qui la composent
 
-#### 5.17  Brique bonté
+#### 5.15  Brique bonté
 
 ##### Prendre Soin  
 
@@ -977,7 +980,7 @@ Une posture nous semble bénéfique :
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.18  Brique feedback
+#### 5.16  Brique feedback
 
 ##### Raison d’être 
 
@@ -1009,7 +1012,7 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 
 Il est bénéfique d’être attentif à ses propres besoins : demander une feedback, s’en donner à soi même
 
-#### 5.19  Brique décision par concordance 
+#### 5.17  Brique décision par concordance 
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -1033,7 +1036,7 @@ Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exact
 
 Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
-#### 5.20  Brique palabre
+#### 5.18  Brique palabre
 
 ##### Intention
 On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations
@@ -1060,7 +1063,7 @@ L’acquisition de connaissance et de sens dans une structure passe par :
 
 Les temps de palabre sont des espaces d’expression collective
 
-#### 5.21  Brique création raison d’être
+#### 5.19  Brique création raison d’être
 
 ##### Raison d’être 
 Co-construire une raison d’être quand elle ne s’actualise pas suffisamment par itérations spontanées 
@@ -1091,7 +1094,7 @@ Passer par le dessin : feutres de couleurs, sous groupes de 5-6
 7. Cloture   
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
-#### 5.22  Brique variante réunion de réorganisation
+#### 5.20  Brique variante réunion de réorganisation
 
 ##### Variante « boite à idée » 
 
@@ -1103,7 +1106,7 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.23  Brique réorg. hors réorg.  
+#### 5.21  Brique réorg. hors réorg.  
 
 ##### Raison d’être 
 
@@ -1118,7 +1121,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
 6. Le traceur enregistre la proposition 
 
-#### 5.24 Brique responsabilités de membre 
+#### 5.22 Brique responsabilités de membre 
 
 ##### Priorisation
 
@@ -1144,7 +1147,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.25  Brique Entretien annuel  
+#### 5.23  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1173,7 +1176,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.26  Brique numérique
+#### 5.24  Brique numérique
 
 ##### Raison d’être 
 
@@ -1185,7 +1188,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-#### 5.27  Brique magique 
+#### 5.25  Brique magique 
 
 ##### Raison d’être : 
 
@@ -1212,7 +1215,7 @@ A vous de jouer !
 
 
 
-#### 5.28  Brique rôle Source 
+#### 5.26  Brique rôle Source 
 
 ##### Cercle d’ancrage
 
@@ -1237,7 +1240,7 @@ Un domaine peut être précisé. Par exemple pour cette constitution, le rôle s
 
 Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
-#### 5.29  Brique légèreté-simplicité  
+#### 5.27  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour 
@@ -1263,7 +1266,7 @@ Focaliser l’attention sur les seuls sujets qui le nécessitent
 La description du livret central sera la plus légère possible 
 
 
-#### 5.30  Brique compatibilité système pyramidal
+#### 5.28  Brique compatibilité système pyramidal
 
 ##### Système 
 
@@ -1278,7 +1281,7 @@ L’organisation en cercle est totalement compatible avec une organisation pyram
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.31 Brique charte gouvernance cellulaire 
+#### 5.29 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1315,7 +1318,7 @@ Signatures :
 
 ¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.32  Brique Liberté Egalité Fraternité
+#### 5.30  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
