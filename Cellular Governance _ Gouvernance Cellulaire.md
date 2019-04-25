@@ -1325,9 +1325,9 @@ Signatures :
 
 
 
-*¤ Cet engagement pourra aussi être proposé à la signature de tous les membres participant à un cercle ou être intégrée au règlement intérieur
+*¤ Cet engagement pourra aussi être proposé à la signature de tous les membres participant à un cercle ou être intégrée au règlement intérieur*
 
-¤ Cette charte pourra être amendée ou abrogée par ses signataires*
+*¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
 #### 5.30  Brique Liberté Egalité Fraternité
 
