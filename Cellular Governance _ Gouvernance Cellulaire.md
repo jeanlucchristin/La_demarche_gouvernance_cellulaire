@@ -101,8 +101,6 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 # 3)  Livret central : Eléments cœurs requis 
 
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis, 4 rôles préconstruits et des briques modulaires optionnelles
-
-Chaque élément sera détaillé après ce sommaire
  
 #### Eléments cœurs requis
 
@@ -121,13 +119,14 @@ Chaque élément sera détaillé après ce sommaire
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
+  - Brique plan B : Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
 
 **Espace Relation :**
   - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
 
 **Espace Sens :** 
-  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie ou pour prendre une 
-    décision à fort enjeu
+  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique 
+  - Brique souveraineté : clarifie les enjeux liés à la responsabilisation
 
 #### 3.1  Raison d’être  
 
