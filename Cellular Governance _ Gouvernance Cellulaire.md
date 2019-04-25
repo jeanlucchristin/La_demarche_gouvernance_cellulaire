@@ -1307,6 +1307,7 @@ Nous nous engageons à respecter le principe de non-ingérence :
 
  - nous respecterons l’auto-détermination des rôles et cercles créés 
  - nous agirons dans le cadre des rôles et cercles qui nous sont affectés
+ - nous respecterons les décisions des rôles et cercles créés
  - nous agirons dans le respect des règles définies par notre constitution
  - nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
