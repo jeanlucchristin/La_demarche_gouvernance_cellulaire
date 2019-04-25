@@ -431,7 +431,7 @@ Le but n’est pas de  contraindre qui que ce soit.  Les alternatives peuvent ê
  - soutient au rôle défaillant
  - affectation du rôle à une autre personne en complément ou en remplacement 
  - focalisation de tout le cercle sur l’action
- - une meilleure solutionIntention de non-emprise 
+ - une meilleure solution 
  
 #### 3.10  Réunion de régulation  
 
