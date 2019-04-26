@@ -638,6 +638,40 @@ Activer ou désactiver une brique est une politique. Par conséquent, cela se fo
 
 Une brique activée a le même poids qu’un élément cœur : elle devient constitutionnelle. 
 
+#### 5.2  Brique pilotage de soi 
+
+##### Raison d’être
+
+Ecouter les personnes qui sont en inconfort avec des choix du collectif
+Aider la personne à décider ce qu’elle veut engager pour réduire sa tension
+Accueillir, apporter de l’empathie, de la chaleur humaine 
+
+##### Préparation 
+Ce process peut être utilisé :  
+ - par une personne impactée (seule, ou en se faisant accompagner)
+ - par le rôle facilitation lors de la réunion tactique pour clarifier une tension de personne
+ - lors de discussions entre collègues 
+
+##### Process
+
+Le rôle facilitation passe par différentes étapes
+
+1. Réalité : rappelle ce qu’il s’est passé, les faits
+2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
+3. Elan : comment aurais tu aimé que cela se passe ? 
+4. Relation : qu’est ce que tu aurais aimé que les autres fassent ? 
+
+Les prochaines fois 
+
+5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même
+6. Décision /autres : Que vas-tu demander ? A qui ? Dans quel rôle ? 
+
+7. Décision : maintenant que tu as clarifié cela, que choisis tu de faire par rapport à cette décision qui a déjà été prise et avec laquelle tu n’étais pas serein ? 
+
+##### Cloture   
+
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+
 #### 5.2  Brique posture professionnelle  
 
 ##### Raison d’être 
@@ -770,7 +804,7 @@ plus sereine. Elle est en particulier pertinente en amont d’une réunion de r�
 ##### Logistique   
 
 Périodicité : sur demande. 
-Participants : un partenaire impacté seul ou aidé par un facilitateur qu'il sollicite
+Participants : un partenaire impacté seul ou aidé par un rôle facilitation qu'il sollicite
 
 ##### Inclusion  
 
@@ -917,9 +951,10 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.13  Brique pilotage de soi
+#### 5.13  Brique estime de soi
 
 ##### Raison d’être 
+
 Nous aider à nous piloter nous même en séparant nos rôles de nos personnes
 
 Se prendre en compte en tant que personne, avec ses besoins et ses peurs qui ont tendance à prendre le pouvoir
@@ -1105,7 +1140,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Variante « boite à idée » 
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
 1. Demandeur, quelle tension souhaites-tu réduire ? 
 2. Tous, avez-vous des besoins de clarification ?
