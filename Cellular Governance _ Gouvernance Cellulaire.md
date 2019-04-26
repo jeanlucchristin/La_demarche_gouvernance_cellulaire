@@ -214,9 +214,9 @@ Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organise
 
 Un cercle comprend impérativement :
 
-- un facilitateur et un traceur élus pour une période
-- un lien lead nommé par le cercle amont 
-- sur demande, un débloqueur peut être élu, il devient alors aussi membre du cercle amont 
+- un rôle facilitation et un rôle mémoire élus pour une période
+- un rôle lead nommé par le cercle amont 
+- sur demande, un rôle déblocage peut être élu, il devient alors aussi membre du cercle amont 
  (sauf si une politique du cercle amont a défini un autre mode de déblocage)
 
 #### 3.4  Responsabilité éthique de Tension
@@ -250,7 +250,7 @@ Elle entraine par exemple une demande de réunion de régulation pour travailler
 ##### Tension de cercle 
 
 La tension de cercle est relative directement à la réalisation des raisons d’être et redevabilités du cercle. Les actions demandées s’adressent :
-- soit au lien lead
+- soit au rôle lead
 - soit à tous les membres du cercle 
 - soit au cercle  en mode consentement dans une réunion dédiée.
 
@@ -285,7 +285,7 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 ##### Triage  
 
-Le facilitateur mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
+Le rôle facilitation mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
 - Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Autre chose ?)  – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes-tu concrètement ? 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (la réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive)
@@ -294,7 +294,7 @@ Le facilitateur mène le processus jusqu’à la contractualisation d’une acti
 
 ##### Cloture   
 
-Le facilitateur demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
+Le rôle facilitation demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
 
 #### 3.6  Réunion de réorganisation
@@ -313,15 +313,15 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 
 ##### Ordre du jour  
 
-Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le facilitateur choisit le point à traiter
+Chacun peut donner un mot dévolu à une tension pour réserver un créneau. Le rôle facilitation choisit le point à traiter
 
 ##### Process par consentement 
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
 1- Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
 
-2- Le facilitateur enchaine sur le process Gestion Par Consentement à partir de la « proposition V1 »
+2- Le rôle facilitation enchaine sur le process Gestion Par Consentement à partir de la « proposition V1 »
 
 ##### Cloture   
 
@@ -354,15 +354,15 @@ Le facilitateur distribue la parole selon les étapes suivantes :
 7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait)
 
 8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection. 
-Le facilitateur questionne chacun en tour de salle pour repérer les objections
+Le rôle facilitation questionne chacun en tour de salle pour repérer les objections
 
-9 - Le facilitateur aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples
+9 - Le rôle facilitation aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples
 
 *Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition* 
 
 10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre
 
-*Si le facilitateur n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le facilitateur devra retirer la proposition. Retour à l’appel à proposition.*
+*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition. Retour à l’appel à proposition.*
 
 11 - **Célébration et enregistrement** quand toutes les objections sont levées.
 
@@ -374,7 +374,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Affecter un rôle élu : soit un rôle de la constitution, soit les rôles que le lien lead choisit d’affecter en mode élection sans candidat
+Affecter un rôle élu : soit un rôle de la constitution, soit les rôles que le rôle lead choisit d’affecter en mode élection sans candidat
 
 ##### Logistique   
 
@@ -386,18 +386,18 @@ Temps d’embarquement dans la réunion : chacun nomme comment il arrive
 
 ##### Ordre du jour  
 
-Le facilitateur rappelle le/les rôles à élire
+Le rôle facilitation rappelle le/les rôles à élire
 
 ##### Process d’élection
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
-1. Traceur, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
+1. Rôle mémoire, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
 2. Tous : quelles sont les caractéristiques nécessaires pour tenir ce rôle ? (Concept « nuage de mots » : pas de recherche d’accord, chacun décidera de ses critères de sélection informellement)
 3. Chacun remplit son bulletin de vote (vote pour soi bienvenu) (un seul nom par bulletin) (noter « untel vote pour ... »)
 4. Je récupère et affiche les bulletins un par un, merci d’expliquer votre choix à tous 
 5. Après avoir écouté les arguments des autres, certains souhaitent-ils reporter leur voix ?
-6. Option consensuelle : le facilitateur propose l’un des candidats avec le plus de voix. Option créative, le facilitateur demande une proposition parmi les candidats à qui il reste au moins une voix. 
+6. Option consensuelle : le rôle facilitation propose l’un des candidats avec le plus de voix. Option créative, le rôle facilitation demande une proposition parmi les candidats à qui il reste au moins une voix. 
 7. Le process redevient celui de consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
 ##### Cloture   
@@ -451,11 +451,11 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 
 ##### Ordre du jour  
 
-Le facilitateur rappelle la raison qui a déclenché ce temps de régulation
+Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation
 
 ##### Processus de régulation
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
 1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps de régulation ? 
 2. Qui souhaite commencer ?
@@ -497,7 +497,7 @@ Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapea
 
 Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
 1. Présentation du thème et de la question préparée par l’organisateur
 2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes 
@@ -531,11 +531,11 @@ Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94)
 
 # 4) Livret central : Rôles préconstruits 
 
-#### 4.1  Lien lead 
+#### 4.1  Rôle lead 
 
 ##### Raison d’être 
 
-Le lien lead porte la raison d’être de l’ensemble du cercle
+Le rôle lead porte la raison d’être de l’ensemble du cercle
 
 ##### Domaine  
 
@@ -547,18 +547,18 @@ Affectation des rôles du cercle
 - Actualiser les priorités stratégiques du cercle et sur demande, résoudre les conflits de priorités entre les rôles
 - Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
 - Affecter des personnes aux rôles du cercle 
-- Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le lien lead procède 
+- Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le rôle lead procède 
 à sa manière en phase de lancement puis via la réunion de réorg.
 
 ##### Redevabilités complémentaires
 
  Il est d'interdit d'ajouter des redevabilités à ce rôle
 
-Le lien lead est en charge de tout ce qui n’est pas affecté
+Le rôle lead est en charge de tout ce qui n’est pas affecté
 
-*Chacune de ces redevabilités pourra être progressivement assurée autrement que par le lien lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
+*Chacune de ces redevabilités pourra être progressivement assurée autrement que par le rôle lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
 
-#### 4.2  Facilitateur.e
+#### 4.2  Rôle facilitation
 
 ##### Raison d’être 
 
@@ -567,13 +567,13 @@ Les pratiques de réunions du cercle sont conformes à la constitution
 ##### Redevabilités inamovible
 
 - Faciliter les réunions du cercle requises par la constitution
-- Auditer les réunions et les registres des cercles avals. Signaler au traceur et au débloqueur les observations incompatibles avec les règles de la constitution
+- Auditer les réunions et les registres des cercles avals. Signaler au rôle mémoire et au rôle déblocage les observations incompatibles avec les règles de la constitution
 
 ##### Redevabilités amovibles
 
 Développer l'aisance des participants dans les processus pour qu'ils puissent tenir leurs tensions jusqu'à résolution sans prendre le pouvoir les uns sur les autres 
 
-#### 4.3  Traceur.e 
+#### 4.3  Rôle mémoire 
 
 ##### Raison d’être 
 
@@ -593,7 +593,7 @@ Tous les registres du cercle requis par la constitution
 
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit
 
-#### 4.4  débloqueur.e
+#### 4.4  Rôle déblocage
 
 ##### Raison d’être 
 
@@ -771,7 +771,7 @@ Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arri
 
 ##### Process de distanciation  
 
-Le facilitateur aide la personne à repérer ce qui se vit en elle selon les étapes ci dessous (souvent en plusieurs boucles) :
+Le rôle facilitation aide la personne à repérer ce qui se vit en elle selon les étapes ci dessous (souvent en plusieurs boucles) :
 
 1. De quoi souhaites-tu parler ? 
 2. Quels sont les plaintes ou les critiques qui te viennent en évoquant ce sujet ? 
@@ -867,7 +867,7 @@ Les autres écoutent en silence
 
 *Nous préférons les méthodes aves des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides*
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité
 2. Présentations en plénière 
 3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises etc)
@@ -894,7 +894,7 @@ Philosophie : mon environnement me construit en même temps que je le façonne (
 
 ##### Process 180°
 
-Le facilitateur discute avec la personne demandeuse en suivant le canevas ci-dessous 
+Le rôle facilitation discute avec la personne demandeuse en suivant le canevas ci-dessous 
 
 1. Quel est le problème précisément (exemples factuels, ressentis et émotions)
 2. A quoi sens-tu que tu as envie de trouver une solution ? 
@@ -1026,15 +1026,15 @@ La décision est préparée jusqu’au stade où les participants ont l’impres
 
 ##### Processus
 
-Le facilitateur demande aux participants de fermer les yeux, leur demande de se remémorer les étapes qui ont conduit à la décision, lit le résultat et leur demande s’ils sont 100% d’accord. 
+Le rôle facilitation demande aux participants de fermer les yeux, leur demande de se remémorer les étapes qui ont conduit à la décision, lit le résultat et leur demande s’ils sont 100% d’accord. 
  Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ca me va »
 
-Le facilitateur procède à un tour de salle en posant la question « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
+Le rôle facilitation procède à un tour de salle en posant la question « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
 
-Le facilitateur revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
+Le rôle facilitation revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
  Ce temps de recherche produit souvent des améliorations créatives utiles
 
-Le facilitateur gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
+Le rôle facilitation gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
 #### 5.18  Brique palabre
 
@@ -1119,7 +1119,7 @@ Simplifier le processus, fonctionner à distance
 3. Il prend connaissance des réactions
 4. Si un membre demande à ce que le point passe en réunion de réorg. formelle, le process est stoppé
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
-6. Le traceur enregistre la proposition 
+6. Le rôle mémoire enregistre la proposition 
 
 #### 5.22 Brique responsabilités de membre 
 
@@ -1247,8 +1247,8 @@ Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) p
  - pouvoir travailler ensemble 
  - ne pas entraver l’action
 
-##### Rôle Simplifieur
-Un rôle de simplifieur pourra être activé pour veiller à supprimer ou remplacer (en réunion de réorg.) :
+##### Rôle simplification
+Un rôle simplification pourra être activé pour veiller à supprimer ou remplacer (en réunion de réorg.) :
  - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
  - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
  - toutes les règles ou politiques qui nient l’intelligence de chacun
@@ -1275,7 +1275,7 @@ L’organisation en cercle est compatible avec une organisation pyramidale du po
 ##### Ce qui est commun
 
  - La raison d’être et les redevabilités du cercle doivent répondre aux besoins de l’équipe amont 
- - Le lien lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ 
+ - Le rôle lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ 
 
 ##### Les différences 
 
@@ -1284,7 +1284,7 @@ L’organisation en cercle est compatible avec une organisation pyramidale du po
 
 ##### La voie du milieu 
 
-En complément du lien lead, un cercle peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
+En complément du rôle lead, un cercle peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
 
 ##### Humains 
 
