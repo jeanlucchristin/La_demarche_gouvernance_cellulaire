@@ -258,13 +258,15 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 
 ##### Raison d’être 
 
+Offrir d’un espace de contractualisation
+
 L’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait
 
 Les engagements peuvent tout a fait être pris en dehors de cette réunion
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 40 minutes.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés
+Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle* 
  
@@ -332,12 +334,15 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 ##### Utilité  
 
 Ce processus est utile dans toute réunion nécessitant une prise de décision plutôt rapide
-Il aide les participants à ne pas terminer la séquence sans que la décision soit réellement prise
-Il inclue chacun et favorise la créativité
+
+Il aide les participants à s’imposer de prendre une décision. Le processus décrit ici inclue chacun et favorise la créativité
+
+*Le processus peut être différent, mais une structure en Gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*
+
 
 ##### Process : Gestion Par Consentement (GPC)
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
  1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence 
 
@@ -440,7 +445,7 @@ Aider des membres ou collègues en tension relationnelle à se distancier de la 
 
 ##### Logistique   
 
-Périodicité : sur demande. Participants : les membres ou collègues impactés volontaires et s’ils le souhaitent un facilitateur de séance. 
+Périodicité : sur demande. Participants : les membres ou collègues impactés volontaires et s’ils le souhaitent un rôle facilitation de séance. 
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*
 
