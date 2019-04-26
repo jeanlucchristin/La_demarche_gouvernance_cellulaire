@@ -804,7 +804,7 @@ plus sereine. Elle est en particulier pertinente en amont d’une réunion de r�
 ##### Logistique   
 
 Périodicité : sur demande. 
-Participants : un partenaire impacté seul ou aidé par un facilitateur qu'il sollicite
+Participants : un partenaire impacté seul ou aidé par un rôle facilitation qu'il sollicite
 
 ##### Inclusion  
 
@@ -951,9 +951,10 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.13  Brique pilotage de soi
+#### 5.13  Brique estime de soi
 
 ##### Raison d’être 
+
 Nous aider à nous piloter nous même en séparant nos rôles de nos personnes
 
 Se prendre en compte en tant que personne, avec ses besoins et ses peurs qui ont tendance à prendre le pouvoir
@@ -1139,7 +1140,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Variante « boite à idée » 
 
-Le facilitateur distribue la parole selon les étapes suivantes : 
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
 1. Demandeur, quelle tension souhaites-tu réduire ? 
 2. Tous, avez-vous des besoins de clarification ?
