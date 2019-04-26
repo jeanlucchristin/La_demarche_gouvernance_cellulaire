@@ -610,6 +610,8 @@ Les tensions pertinentes à processer dans le cercle amont y sont apportées et 
 - Chercher à comprendre les tensions transmises par les membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
 - Donner de la visibilité au cercle amont sur la santé du cercle (niveau de sérénité) et sur la performance du cercle (niveau de déliverabilité
 
+Le rôle déblocage n’est pas nécessaire si une politique du cercle amont a défini un autre mode de déblocage
+
 # 5)  BRIQUES OPTIONNELLES 
 
 #### 5.1  Briques
