@@ -663,7 +663,7 @@ Le rôle facilitation passe par différentes étapes
 
 Les prochaines fois 
 
-5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même 
+5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même
 6. Décision /autres : Que vas-tu demander ? A qui ? Dans quel rôle ? 
 
 7. Décision : maintenant que tu as clarifié cela, que choisis tu de faire par rapport à cette décision qui a déjà été prise et avec laquelle tu n’étais pas serein ? 
