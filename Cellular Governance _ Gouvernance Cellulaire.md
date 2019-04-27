@@ -122,10 +122,11 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - plan B : Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
 
 **Espace Relation :**
-  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation
-  - Pilotage de soi : sortir par le haut d’une incapacité à appliquer une décision
-  - Préam-bulle : contacter la bulle énergétique du groupe 
 
+  - Pilotage de soi : sortir par le haut d’une incapacité à appliquer une décision
+  - Préam-bulle : contacter la bulle énergétique du groupe
+  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation
+ 
 **Espace Sens :** 
   - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique 
   - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation
