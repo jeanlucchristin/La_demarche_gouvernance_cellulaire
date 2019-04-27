@@ -473,7 +473,31 @@ Les prochaines fois
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.11  Réunion de régulation  
+#### 3.11  Préam-bulle à la décision 
+
+##### Intentions
+
+Contacter la bulle énergétique du groupe 
+
+ - Inclusion : faire de la place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui 
+ - Accueillir l’expression du vivant de chacun pour le connecter à ce qui est vivant dans le groupe
+ - Animer un temps pour se centrer sur ce avec quoi chacun arrive (tête et corps)
+ - Eviter les blocages involontaires du système
+
+##### Process 
+
+Corporel, exemples  : 
+ - Un temps de silence 
+ - Déambulation dans la salle et centrage, attention flotante à soi, puis à ceux qu’on croise, puis au groupe 
+ - Exercice corde et bougie 
+ - Atelier le choeur et le héro
+
+Verbalisé, exemples : 
+ - Photolangage
+ - Exprimer les enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement)
+ - Tour de table 
+
+#### 3.12  Réunion de régulation  
 
 ##### Raison d’être 
 
@@ -512,7 +536,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.12  Réunion de sens 
+#### 3.13  Réunion de sens 
 
 ##### Raison d’être 
 
@@ -554,7 +578,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.13  Principe de choix - souveraineté 
+#### 3.14  Principe de choix - souveraineté 
 
 ##### Liberté 
 
