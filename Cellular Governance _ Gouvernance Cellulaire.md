@@ -412,7 +412,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-####  3.9  Brique requise de PLAN B
+####  3.9  PLAN B
 
 ##### Intention
 
@@ -554,7 +554,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.13  Brique choix - souveraineté 
+#### 3.13  Principe de choix - souveraineté 
 
 ##### Liberté 
 
