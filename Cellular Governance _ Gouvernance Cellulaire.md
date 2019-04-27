@@ -119,14 +119,16 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
-  - Brique plan B : Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
+  - plan B : Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
 
 **Espace Relation :**
-  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation 
+  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation
+  - Pilotage de soi : sortir par le haut d’une incapacité à appliquer une décision
+  - Préam-bulle : contacter la bulle énergétique du groupe 
 
 **Espace Sens :** 
   - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique 
-  - Brique souveraineté : clarifie les enjeux liés à la responsabilisation
+  - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation
 
 #### 3.1  Raison d’être  
 
@@ -437,7 +439,40 @@ Le but n’est pas de  contraindre qui que ce soit.  Les alternatives peuvent ê
  - focalisation de tout le cercle sur l’action
  - une meilleure solution 
  
-#### 3.10  Réunion de régulation  
+ #### 3.10  Pilotage de soi 
+
+##### Raison d’être
+
+Ecouter les personnes qui sont en inconfort avec des choix du collectif
+Aider la personne à décider ce qu’elle veut engager pour réduire sa tension
+Accueillir, apporter de l’empathie, de la chaleur humaine 
+
+##### Préparation 
+Ce process peut être utilisé :  
+ - par une personne impactée (seule, ou en se faisant accompagner)
+ - lors de discussions entre collègues avec l’accord de la personne 
+
+##### Process
+
+Le rôle facilitation passe par différentes étapes
+
+1. Réalité : rappelle ce qu’il s’est passé, les faits
+2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
+3. Elan : comment aurais tu aimé que cela se passe ? 
+4. Relation : qu’est ce que tu aurais aimé que les autres fassent ? 
+
+Les prochaines fois 
+
+5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même
+6. Décision /autres : Que vas-tu demander ? A qui ? Dans quel rôle ? 
+
+7. Décision : maintenant que tu as clarifié cela, que choisis tu de faire par rapport à cette décision qui a déjà été prise et avec laquelle tu n’étais pas serein ? 
+
+##### Cloture   
+
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+
+#### 3.11  Réunion de régulation  
 
 ##### Raison d’être 
 
@@ -475,39 +510,6 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
-
-#### 3.11  Brique pilotage de soi 
-
-##### Raison d’être
-
-Ecouter les personnes qui sont en inconfort avec des choix du collectif
-Aider la personne à décider ce qu’elle veut engager pour réduire sa tension
-Accueillir, apporter de l’empathie, de la chaleur humaine 
-
-##### Préparation 
-Ce process peut être utilisé :  
- - par une personne impactée (seule, ou en se faisant accompagner)
- - lors de discussions entre collègues avec l’accord de la personne 
-
-##### Process
-
-Le rôle facilitation passe par différentes étapes
-
-1. Réalité : rappelle ce qu’il s’est passé, les faits
-2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
-3. Elan : comment aurais tu aimé que cela se passe ? 
-4. Relation : qu’est ce que tu aurais aimé que les autres fassent ? 
-
-Les prochaines fois 
-
-5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même
-6. Décision /autres : Que vas-tu demander ? A qui ? Dans quel rôle ? 
-
-7. Décision : maintenant que tu as clarifié cela, que choisis tu de faire par rapport à cette décision qui a déjà été prise et avec laquelle tu n’étais pas serein ? 
-
-##### Cloture   
-
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 #### 3.12  Réunion de sens 
 
