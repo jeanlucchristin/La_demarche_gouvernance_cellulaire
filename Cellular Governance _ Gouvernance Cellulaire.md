@@ -7,7 +7,7 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
-# 1)  Préambule 
+# 1)  Avant-propos
 
 #### Principe du Vivant 
 
@@ -115,7 +115,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait
 
 **Espace Orga et Contrats :** 
-  - Réunion tactique : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
+  - Réunion de triage : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent 
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
@@ -257,7 +257,7 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 - soit à tous les membres du cercle 
 - soit au cercle  en mode consentement dans une réunion dédiée.
 
-#### 3.5  Réunion tactique
+#### 3.5  Réunion de triage
 
 ##### Raison d’être 
 
@@ -416,11 +416,11 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Intention
 
-Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
+Permet de résoudre une situation de blocage lorsqu’une action prévue n’est pas mise en œuvre et que cela crée une tension opérationnelle
 
 ##### Quand l’actionner ?
 
-Lorsque une tâche n’est pas réalisée comme prévue (hors délai ou bâclée par exemple) ou menace de l’être (échéance proche par exemple)
+Lorsque une action n’est pas réalisée comme prévu (hors délai ou hors règles par exemple) ou menace de l’être (échéance proche par exemple)
 
 ##### Qui l’actionne ?
 
@@ -428,14 +428,19 @@ Le membre qui en ressent la tension
 
 ##### Comment fait-il ?
 
-Il l’exprime en réunion tactique. Il est encouragé à ne pas lâcher sa tension tant qu’une solution nouvelle à essayer pour quitter cette situation de blocage n’apparait pas
+Il l’exprime en réunion de triage. 
+
+Il est encouragé à ne pas lâcher sa tension tant qu’une solution nouvelle  qui sera tentée pour quitter cette situation de blocage n’apparait pas
 
 Il peut demander un tour de boite à idée aux membres du cercle
  
 ##### Solution alternative
 
-Le but n’est pas de  contraindre qui que ce soit.  Les alternatives peuvent être : 
- - soutient au rôle défaillant
+Le but n’est pas de  contraindre qui que ce soit.  (ni le premier à faire, ni le second à subir que ce ne soit pas fait)
+
+Les alternatives peuvent être : 
+
+ - soutient au rôle « défaillant »
  - affectation du rôle à une autre personne en complément ou en remplacement 
  - focalisation de tout le cercle sur l’action
  - une meilleure solution 
