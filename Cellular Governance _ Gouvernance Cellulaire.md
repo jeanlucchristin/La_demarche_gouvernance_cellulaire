@@ -370,7 +370,7 @@ Le rôle facilitation questionne chacun en tour de salle pour repérer les objec
 
 10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre
 
-*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura mieux identifié son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition. Retour à l’appel à proposition.*
+*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition : retour à l’appel à proposition.*
 
 11 - **Célébration et enregistrement** quand toutes les objections sont levées.
 
@@ -599,7 +599,7 @@ Il est possible de démissionner à tout moment d’un rôle. Il est également 
 
 Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94)
 
-# 4) Livret central : Rôles préconstruits 
+# 4) Livret central : Rôles préconstruits requis
 
 #### 4.1  Rôle lead 
 
@@ -1421,10 +1421,10 @@ Nous utilisons ce terme pour les notions d’importance égale de tous les membr
 
 Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres et collègues à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
 
-# 6  CONSTITUTION : Bibliographie et Références 
+# 6  CONSTITUTION : Bibliographie et glossaire 
 
 
-##### Gratitude 
+##### Intro 
 
 Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont amené là où nous en sommes maintenant 
 
@@ -1443,6 +1443,7 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 - Jos de Blok pour l’existence modélisante de Buurzorg https://www.buurtzorg.com/
 - Vincent Lenhardt (1995), *Responsable porteur de sens*, Inseep Editions 
 - Marshall Rosenberg (2017), *Dénouer les conflits par la communication non violente*, Jouvence 
+- Bateson, G. (1972), Steps to an Ecology of Mind. Chicago: The University of Chicago Press (New edition 2000)
 - Fréderic Laloux (2014) *Reinventing Organisations*, Nelson Parker
 - Jims Collins (2001) *Good to Great*, Random House et le concept du « hérisson » pour faire émerger la raison d’être à partir de trois cercles : Ce qui me passionne. Ce que je sais bien faire. Ce dont le monde a besoin.
 - Simon Sinek (2011) *Start with why*, Portfolio qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
