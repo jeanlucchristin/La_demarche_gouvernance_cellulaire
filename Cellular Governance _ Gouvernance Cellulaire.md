@@ -498,6 +498,7 @@ Corporel, exemples  :
  - Atelier le choeur et le héro
 
 Verbalisé, exemples : 
+ - Moment de palabre, par exemple sur la raison d’être de la structure, ou du cercle (cf brique palabre)
  - Photolangage
  - Exprimer les enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement)
  - Tour de table 
