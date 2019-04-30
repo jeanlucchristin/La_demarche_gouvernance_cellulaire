@@ -119,7 +119,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
-  - plan B : Permet de résoudre une situation de blocage lorsqu’une tâche programmée  n’est pas effectuée
+  - Exigence : Permet de résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée
 
 **Espace Relation :**
 
@@ -412,7 +412,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-####  3.9  PLAN B
+####  3.9  Exigence
 
 ##### Intention
 
