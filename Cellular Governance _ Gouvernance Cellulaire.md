@@ -1518,7 +1518,7 @@ Le droit français impose de nommer un auteur avant de mettre le contenu en lice
 
 Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté
 
-#### 7.1  Contributeurs
+#### 7.2  Contributeurs
 
 ##### G30 
 Un groupe d’une grosse trentaine de personnes est actif depuis début février 2019 et a contribué à cette version 
