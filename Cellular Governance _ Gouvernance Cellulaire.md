@@ -292,7 +292,7 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le rôle facilitation mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-- Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Autre chose ?)  – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes-tu concrètement ? 
+- Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Autre chose ?)  – Lequel de tes rôles est impacté, quelle redevabilité ? (cette question d’approfondissement est optionnelle, elle ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes-tu concrètement ? 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (la réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive)
 - *A la personne concernée :* Quelle est ta réponse ? 
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
