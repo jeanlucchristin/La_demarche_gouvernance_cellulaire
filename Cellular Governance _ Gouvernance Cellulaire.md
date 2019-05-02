@@ -989,11 +989,14 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Raison d’être 
 
-Nous aider à nous piloter nous même en séparant nos rôles de nos personnes
+ - Cultiver notre autonomie en interdépendance avec notre environnement et en sérénité
 
-Se prendre en compte en tant que personne, avec ses besoins et ses peurs qui ont tendance à prendre le pouvoir
+ L’estime de soi est sans doute la première motivation à agir au travail
 
-Le but est une capacité à cultiver notre autonomie en interdépendance avec notre environnement et en sérénité
+ La considérer permet d’ajuster sa posture au profit d’actes pertinents pour soi, les autres et la structure
+
+ - Se prendre en compte en tant que personne, avec ses besoins et ses peurs 
+
 
 ##### Estime de soi
 Selon William Schutz, notre motivation se développe quand on devient quelqu’un que l’on estime
