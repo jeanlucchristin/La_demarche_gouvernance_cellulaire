@@ -529,9 +529,9 @@ Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulati
 Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
 1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps de régulation ? 
-2. Qui souhaite commencer ?
+2. Qui souhaite commencer ? (il devient l’émetteur, l’autre ou les autres deviennent les receveurs)
 3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV)
-4. Interlocuteur, peux-tu reformuler ce que tu retiens ? 
+4. Au receveur : peux-tu reformuler ce que tu retiens ? 
 5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
 6. Au receveur : que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
 7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
