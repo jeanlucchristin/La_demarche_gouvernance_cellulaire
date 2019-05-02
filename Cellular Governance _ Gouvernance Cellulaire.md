@@ -1459,7 +1459,7 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
 - Pablo Sevigne et Gauthier Chapelle (2017) *l’entraide, l’autre loi de la jungle*, Les liens qui libèrent éditions
 
-#### 6.1  Glossaire 
+#### 6.2  Glossaire 
 
  - Brique : module activable et désactivable par un cercle selon les besoins qu’il rencontre
  - Cercle : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
@@ -1485,9 +1485,9 @@ Membre : Un membre est une personne affectée à un rôle dans un cercle. Le mem
  - Rôle lead, facilitation, mémoire, déblocage, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
-# 7) CONSTITUTION : Licence 
+# 7) CONSTITUTION : Licence et contributeurs 
 
-##### Licence 
+#### 7.1  Licence 
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
@@ -1517,5 +1517,17 @@ Notre méthodologie avec une personne source (Jean-Luc Christin, auteur principa
 Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même
 
 Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net et contrasté
+
+#### 7.1  Contributeurs
+
+##### G30 
+Un groupe d’une grosse trentaine de personnes est actif depuis début février 2019 et a contribué à cette version 
+
+##### Contributeurs particuliers 
+
+Certaines contributions ont donné forme à des évolutions très concrètes, en particulier celles de : 
+
+Lydia Pizzoglio (UDN), Olivier Daniel Thomas (ARaymond), Philippe Clément (Stratégial), Virginie Angove (Sandokai), Guillaume Dorvaux (Hum!), Philippe Kuhn (Euroasis), Elisabeth Francou (Be&Do), Yann Crespel (DlmB), Gilles Christin (le Pain des Cairns), Thierry Malo, Elisabeth Georges (DIS Développement), Frédéric Castoldi (CdG 38), Colin Dujardin, Thierry Perrier (Sagarana), Laurent Marseault, Damien Richard, Nicolas Begel (Bollhoff)
+
 
 
