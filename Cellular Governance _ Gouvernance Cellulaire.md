@@ -697,8 +697,9 @@ Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscri
 
 ##### Comment activer une brique ? 
 
-Activer ou désactiver une brique est une politique. Par conséquent, cela se formalise en réunion de réorg.
+Activer ou désactiver une brique dans un cercle est une politique. Par conséquent, cela se formalise en réunion de réorg.
 
+Une personne peut utiliser une brique en autonomie pour s’inspirer elle-même dans son rôle 
 
 ##### Conséquence de l’activation  
 
