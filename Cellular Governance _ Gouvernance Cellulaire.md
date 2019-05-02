@@ -39,7 +39,7 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
 
 # 2)  Raison d’être de la gouvernance cellulaire
 
-#### *<u>2.1  Impact sur le monde</u>* 
+#### *<u>2.1  Impact sur le monde* 
 
 ##### Quoi ?
 
@@ -1464,7 +1464,7 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Brique : module activable et désactivable par un cercle selon les besoins qu’il rencontre
  - Cercle : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
- - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans lemonde pyramidal) 
+ - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
  - Décision inéluctable par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture à chacun relatif 
  - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps 
