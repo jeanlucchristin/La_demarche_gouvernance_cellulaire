@@ -1424,6 +1424,7 @@ Ce vocable nous permet de nommer l’importance de la relation, le besoin de se 
 
 # 6  CONSTITUTION : Bibliographie et glossaire 
 
+#### 6.1  Bibliographie et références
 
 ##### Intro 
 
@@ -1454,6 +1455,31 @@ Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](
 Notre ambition ici est un mariage posthume entre les théorie humanistes de Parket Follet et la structuration de celles de Taylor  
 - Pablo Sevigne et Gauthier Chapelle (2017) *l’entraide, l’autre loi de la jungle*, Les liens qui libèrent éditions
 
+#### 6.1  Glossaire 
+
+ - Brique : module activable et désactivable par un cercle selon les besoins qu’il rencontre
+ - Cercle : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
+ - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
+ - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans lemonde pyramidal) 
+ - Décision inéluctable par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture à chacun relatif 
+ - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
+ - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps 
+ - Espace contrat : toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
+ - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
+ - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
+ - Gestion par tension : utiliser les tensions comme source des prochaines actions 
+Membre : Un membre est une personne affectée à un rôle dans un cercle. Le membre participe à la gouvernance 
+ - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
+ - Référent : un membre qui représente une catégorie de collègues sans organisation particulière 
+ - Réunion d’élection sans candidat : affecter un rôle 
+ - Réunion de triage : affecter des actions nécessaires pour avancer dans le travail 
+ - Réunion de régulation : restaurer la relation avec une ou plusieurs autres personnes 
+ - Réunion de réorganisation : créer un rôle ou le modifier pour répondre à un besoin 
+ - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
+ - Réunion de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
+ - Rôle : Une fonction utile aux membres du cercle constituté d’un nom, d’une raison d’être et/ou de redevabilités
+ - Rôle lead, facilitation, mémoire, déblocage, simplification, source : voir les diapos correspondantes
+ - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
 # 7) CONSTITUTION : Licence 
 
