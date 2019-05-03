@@ -787,13 +787,12 @@ Une estime de soi dégradée déclenche souvent des rigidités qui nous empêche
 Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux. A moi de développer des situations et une regard sur moi favorable pour cela
 
 ##### Autonomie
-La capacité à décider par soi même est l’autonomie
+Pour décider par soi-même dans une posture autonome et mature, il est utile de prendre du recul avec : 
 
-Elle nécessite une complétude : 
  - une présence à ce qu’il se passe en moi et autour de moi
  - une conscience de ce que je sais de moi, de la situation et des autres
  
-Il s’agit d’une autonomie en interdépendance avec mes collègues : je vais peut-être solliciter leurs compétences dans ma capacité à chercher des ressources autour de moi
+L’autonomie est à distinguer de l’indépendance : être autonome peut m’amener à solliciter mes collègues dans leurs compétences 
 
 ##### Relation   
 La structure et chaque membre ou collègue ont intérêt à créer les conditions rendant possible une estime de soi sereine pour chacun, mais il est également précieux de ne pas charger les autres de sa propre estime de soi
