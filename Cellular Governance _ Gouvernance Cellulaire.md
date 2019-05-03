@@ -790,7 +790,7 @@ Mon estime de moi est nourrie quand je me sens important, compétent et appréci
 Pour décider par soi-même dans une posture autonome et mature, il est utile de prendre du recul avec : 
 
  - une présence à ce qu’il se passe en soi et autour de soi
- - une conscience de ce que je sais de soi, de la situation et des autres
+ - une conscience de ce qu’on connait ou découvre de soi, de la situation et des autres
  
 L’autonomie est à distinguer de l’indépendance : être autonome peut m’amener à solliciter mes collègues dans leurs compétences 
 
