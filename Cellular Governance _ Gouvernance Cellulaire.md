@@ -503,7 +503,32 @@ Verbalisé, exemples :
  - Exprimer les enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement)
  - Tour de table 
 
-#### 3.12  Réunion de régulation  
+#### 3.12 Efficacité et humanité
+**des conditions pour que les décisions prises soient suivies d’effets **
+
+#####  Intentions
+
+Agir ensemble sans contraindre qui que ce soit : 
+
+ni l’un à faire ce qui était attendu de lui par un/des autres
+
+ni l’autre à subir que ce ne soit pas fait
+
+#####  Processus
+
+De notre expérience, si l’autorité ou la « verticalité » manque, (cf « Exigence », ci-dessus), l’équipe risque d’être attirée vers une sorte d’exigence de la posture de l’autre (cf « Pilotage de soi », ci-dessus)
+
+La relation peut se dégrader au point d’amener une séparation pour incompatibilité relationnelle
+
+Le collectif considèrera que la personne n’avait pas la posture adéquate
+
+Il nous parait sain de :
+ - nourrir la cohésion et l’authenticité (cf « préam-bulle » ci-dessus)
+ - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus)
+ - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une solution nouvelle  à tester n’apparait pas (cf « Exigence », ci-dessus)
+
+
+#### 3.13  Réunion de régulation  
 
 ##### Raison d’être 
 
@@ -542,7 +567,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals)
 
-#### 3.13  Réunion de sens 
+#### 3.14  Réunion de sens 
 
 ##### Raison d’être 
 
@@ -584,7 +609,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 3.14  Principe de choix - souveraineté 
+#### 3.15  Principe de choix - souveraineté 
 
 ##### Liberté 
 
