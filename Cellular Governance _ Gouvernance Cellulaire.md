@@ -297,7 +297,7 @@ Le rôle facilitation mène le processus jusqu’à la contractualisation d’un
 - *A la personne concernée :* Quelle est ta réponse ? 
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
 
-##### Cloture   
+##### Clôture   
 
 Le rôle facilitation demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence)
@@ -328,7 +328,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 2- Le rôle facilitation enchaine sur le process Gestion Par Consentement à partir de la « proposition V1 »
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
@@ -374,7 +374,7 @@ Le rôle facilitation questionne chacun en tour de salle pour repérer les objec
 
 11 - **Célébration et enregistrement** quand toutes les objections sont levées.
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 			Plus de réflexion ici
 
@@ -408,7 +408,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 6. Option consensuelle : le rôle facilitation propose l’un des candidats avec le plus de voix. Option créative, le rôle facilitation demande une proposition parmi les candidats à qui il reste au moins une voix. 
 7. Le process redevient celui de consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -474,7 +474,7 @@ Les prochaines fois
 
 7. Décision : maintenant que tu as clarifié cela, que choisis tu de faire par rapport à cette décision qui a déjà été prise et avec laquelle tu n’étais pas serein ? 
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -561,7 +561,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 6. Au receveur : que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité) 
 7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -605,7 +605,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 8. Le groupe décide de la solution qu’il retient (décision spontanée ou consentement)
 9. Solidification de la décision par concordance
 
-#### Cloture   
+#### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -1006,7 +1006,7 @@ Le rôle facilitation aide la personne à repérer ce qui se vit en elle selon l
 7. Derrière chacune de ces peurs se cache un besoin. Dans l’ordre : de se sentir *important/reconnu*, ou *compétent/capable*, ou *aimé/appréciable*. Observons la réalité du danger : est-ce une peur liée à un danger existant ou potentiel ? 
 8. De quoi as-tu besoin pour nourrir se sentiment d’importance/de compétence/d’être apprécié ?  Vis-à-vis des autres ? Vis-à-vis de toi ? 
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -1097,7 +1097,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises etc)
 4. Temps de décision collectif des prochaines actions utiles (par défaut en mode consentement)
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -1130,7 +1130,7 @@ Le rôle facilitation discute avec la personne demandeuse en suivant le canevas 
 
 Banni les pensées vaines à propos des « coupables, méchants, incompétents » sauf si elles apportent des solutions nouvelles ! 
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
@@ -1220,7 +1220,7 @@ Passer par le dessin : feutres de couleurs, sous groupes de 5-6
    - ce que la structure va apporter (nous allons créer …)
    - comment elle va procéder (en …)
    - La motivation de fond (parce nous considérons important de … )
-7. Cloture   
+7. Clôture   
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
 #### 5.21  Brique variante réunion de réorganisation
@@ -1275,7 +1275,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 1. La personne restitue le contenu de ce qui lui a été dit au demandeur dans un rendez vous planifié, dans un espace fermé, téléphones éteints. 
 2. Le demandeur remercie la personne pour avoir préparé et communiqué ce retour 
 
-##### Cloture   
+##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
