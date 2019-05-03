@@ -760,7 +760,27 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
-#### 5.4  Brique estime de soi
+#### 5.4  Brique réciprocité 
+
+##### Exercice du pouvoir
+
+Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
+
+##### Groupe solidaire 
+
+Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
+
+**La solidarité sera privilégiée comme ligne directrice utile**
+
+##### Membre solitaire 
+
+Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe
+
+**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
+
+Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
+
+#### 5.5  Brique estime de soi
 
 ##### Raison d’être 
 
@@ -799,26 +819,6 @@ Il s’agit d’une autonomie en interdépendance avec mes collègues : je vais 
 La structure et chaque membre ou collègue ont intérêt à créer les conditions rendant possible une estime de soi sereine pour chacun, mais il est également précieux de ne pas charger les autres de sa propre estime de soi
 
 Là encore, il s’agit d’une recherche permanente d’équilibre 
-
-#### 5.5  Brique réciprocité 
-
-##### Exercice du pouvoir
-
-Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
-
-##### Groupe solidaire 
-
-Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
-
-**La solidarité sera privilégiée comme ligne directrice utile**
-
-##### Membre solitaire 
-
-Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe
-
-**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
-
-Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
 
 #### 5.6  Brique feedback
 
