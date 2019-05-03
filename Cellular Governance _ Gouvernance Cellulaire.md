@@ -424,23 +424,23 @@ Lorsque une action n’est pas réalisée comme prévu (hors délai ou hors règ
 
 ##### Qui l’actionne ?
 
-Le membre qui en ressent la tension
+Le membre qui ressent la tension
 
 ##### Comment fait-il ?
 
 Il l’exprime en réunion de triage. 
 
-Il est encouragé à ne pas lâcher sa tension tant qu’une solution nouvelle  qui sera tentée pour quitter cette situation de blocage n’apparait pas
+Il est encouragé à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparait pas
 
-Il peut demander un tour de boite à idée aux membres du cercle
+Il peut demander un tour de boite à idées aux membres du cercle
  
 ##### Solution alternative
 
-Le but n’est pas de  contraindre qui que ce soit.  (ni le premier à faire, ni le second à subir que ce ne soit pas fait)
+Le but n’est pas de  contraindre qui que ce soit  (ni le premier à faire, ni le second à subir que ce ne soit pas fait)
 
 Les alternatives peuvent être : 
 
- - soutient au rôle « défaillant »
+ - soutien au rôle « défaillant »
  - affectation du rôle à une autre personne en complément ou en remplacement 
  - focalisation de tout le cercle sur l’action
  - une meilleure solution 
@@ -462,7 +462,7 @@ Ce process peut être utilisé :
 
 Le rôle facilitation passe par différentes étapes
 
-1. Réalité : rappelle ce qu’il s’est passé, les faits
+1. Réalité : rappelle ce qui s’est passé, les faits
 2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
 3. Elan : comment aurais tu aimé que cela se passe ? 
 4. Relation : qu’est ce que tu aurais aimé que les autres fassent ? 
@@ -470,7 +470,7 @@ Le rôle facilitation passe par différentes étapes
 Les prochaines fois 
 
 5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même
-6. Décision /autres : Que vas-tu demander ? A qui ? Dans quel rôle ? 
+6. Décision /autres : que vas-tu demander ? A qui ? Dans quel rôle ? 
 
 7. Décision : maintenant que tu as clarifié cela, que choisis tu de faire par rapport à cette décision qui a déjà été prise et avec laquelle tu n’étais pas serein ? 
 
@@ -486,21 +486,21 @@ Contacter la bulle énergétique du groupe
 
  - Inclusion : faire de la place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui 
  - Accueillir l’expression du vivant de chacun pour le connecter à ce qui est vivant dans le groupe
- - Animer un temps pour se centrer sur ce avec quoi chacun arrive (tête et corps)
- - Eviter les blocages involontaires du système
+ - Animer un temps pour se centrer sur ce avec quoi chacun arrive (tête, corps, coeur)
+ - Eviter les blocages
 
 ##### Process 
 
-Corporel, exemples  : 
+Exemples de process corporel : 
  - Un temps de silence 
  - Déambulation dans la salle et centrage, attention flotante à soi, puis à ceux qu’on croise, puis au groupe 
  - Exercice corde et bougie 
- - Atelier le choeur et le héro
+ - Atelier le choeur et le héros
 
-Verbalisé, exemples : 
+Exemples de process verbalisé :
  - Moment de palabre, par exemple sur la raison d’être de la structure, ou du cercle (cf brique palabre)
  - Photolangage
- - Exprimer les enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement)
+ - Exprimer ses enjeux  « ici et maintenant » (personnel, équipe, structure, société, environnement)
  - Tour de table 
 
 #### 3.12 Efficacité et humanité
