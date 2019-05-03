@@ -504,7 +504,7 @@ Verbalisé, exemples :
  - Tour de table 
 
 #### 3.12 Efficacité et humanité
-**des conditions pour que les décisions prises soient suivies d’effets
+**des conditions pour que les décisions prises soient suivies d’effets**
 
 #####  Intentions
 
