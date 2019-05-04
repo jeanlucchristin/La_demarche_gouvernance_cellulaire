@@ -42,25 +42,22 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la structure*
- - *traverser les conflits de manière bénéfique*
+ - *se demander ce dont ils ont besoin  et traverser les conflits de manière bénéfique*
  - *actualiser leur raison d’être pour cultiver l’enthousiasme*
 
 #### *<u>2.1  pour le monde* 
 
 ##### Quoi ?
 
-Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple qui veille à l’équilibre éthique entre « agir » et « prendre soin » :
+Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple, qui veille à l’équilibre éthique entre « agir » et « prendre soin » :
   - Permette aux structures d’évoluer vers ce qui compte pour elles
   - Permette la même chose aux humains qui les composent
   - Propose de rechercher cet équilibre dans le mouvement, l'ajustement
 
 ##### Comment ?  
 
-Un livret central avec 
-- des éléments cœur requis
-- Des rôles préconstruits 
-
-Des briques modulaires optionnelles 
+ - Un livret central avec des éléments cœur requis et des rôles préconstruits 
+ - Des briques modulaires optionnelles 
 
 Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit
 
