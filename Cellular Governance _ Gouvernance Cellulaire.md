@@ -45,7 +45,7 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
  - *traverser les conflits de manière bénéfique*
  - *actualiser leur raison d’être pour cultiver l’enthousiasme*
 
-#### *<u>2.1  Impact sur le monde* 
+#### *<u>2.1  pour le monde* 
 
 ##### Quoi ?
 
@@ -62,7 +62,7 @@ Un livret central avec
 
 Des briques modulaires optionnelles 
 
-Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
+Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit
 
 
 
@@ -75,7 +75,7 @@ Le tout sous licence CCbySA . Tous les termes et visuels sont libres de droit
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires  
 
-#### *<u>2.2  Impact sur les contributeurs</u>* 
+#### *<u>2.2  pour nos contributeurs</u>* 
 
 ##### Quoi ?
 
@@ -98,7 +98,7 @@ Car nous avons envie :
 - de participer au monde par la création d’un commun
 
 
-#### <u>2.3 Impact sur les actionnaires</u>  
+#### <u>2.3 pour nos actionnaires</u>  
 
 Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnaire mais des financeurs) 
 
