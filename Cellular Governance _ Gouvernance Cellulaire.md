@@ -203,7 +203,6 @@ plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 ##### Fonctionnement  
 
  Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font
- (les attendus d’un rôle peuvent être répondus par d’autres)
 
 La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle même
 
@@ -216,7 +215,6 @@ Elle est alors « référent » des autres
 ##### Cercle 
 
 Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle
- (cette évolution doit passer en réunion de réorg. vu que cela impacte la structure du cercle)
 
 ##### Rôles préconstruits
 
