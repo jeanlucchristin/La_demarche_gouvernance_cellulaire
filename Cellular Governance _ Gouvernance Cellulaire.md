@@ -41,7 +41,7 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
 # 2)  Raison d’être de la gouvernance cellulaire
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
- *- laisser chacun engager ce qui lui parait utile pour la structure
+ *- laisser chacun engager ce qui lui parait utile pour la structure*
  *- traverser les conflits de manière bénéfique*
  *- actualiser leur raison d’être pour cultiver l’enthousiasme*
 
