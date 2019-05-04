@@ -191,6 +191,8 @@ plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a)
 
 #### 3.3  Rôle et cercle
 
+*Un rôle est formalisé par écrit si cela répond au besoin d’un des membres
+
 ##### Contenu de rôle 
 
 - Un titre et au moins un éléments parmi : 
