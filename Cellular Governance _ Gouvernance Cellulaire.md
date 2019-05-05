@@ -1501,6 +1501,7 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
 Membre : Un membre est une personne affectée à un rôle dans un cercle. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
+ - Politique : règle décidée par un cercle qui s’applique soit au cercle, soit aussi aux cercles avals
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière 
  - Réunion d’élection sans candidat : affecter un rôle 
  - Réunion de triage : affecter des actions nécessaires pour avancer dans le travail 
