@@ -122,7 +122,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques) 
   - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres 
-  - Exigence : Permet de résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée
+  - Exigence : Résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée
 
 **Espace Relation :**
 
