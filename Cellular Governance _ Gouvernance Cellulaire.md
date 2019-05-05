@@ -452,8 +452,10 @@ Les alternatives peuvent être :
 
 ##### Raison d’être
 
-Ecouter les personnes qui sont en inconfort avec des choix du collectif
+Ecouter les personnes qui sont en inconfort avec des décisions du collectif
+
 Aider la personne à décider ce qu’elle veut engager pour réduire sa tension
+
 Accueillir, apporter de l’empathie, de la chaleur humaine 
 
 ##### Préparation 
