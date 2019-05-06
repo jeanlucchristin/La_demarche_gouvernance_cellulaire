@@ -658,7 +658,7 @@ Affectation des rôles du cercle
 Le rôle lead est en charge de tout ce qui n’est pas affecté
 
 - *Chacune de ces redevabilités pourra être progressivement assurée autrement que par le rôle lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
-- *Une structure expérimentée peut avoir une politique qui permet aux cercles constitués de déclencher une élection sans candidat pour désigner leur rôle lead. Un représentant du cercle amont est invité à participer à l’élection*
+- *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cercles constitués de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant du cercle amont étant invité à participer à l’élection*
 
 #### 4.2  Rôle facilitation
 
