@@ -1230,7 +1230,20 @@ Passer par le dessin : feutres de couleurs, sous groupes de 5-6
 7. Clôture   
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
-#### 5.21  Brique variante réunion de réorganisation
+#### 5.21  variante DIC et réorg.
+
+##### Variante DIC : « la proposition tournante »
+Après les réactions, le proposeur rédige sa V2 (étape 7)
+
+Il peut alors passer le relai à un membre qui a eu une réaction riche. Le relai est matérialisé par un stylo
+
+Celui qui a le stylo dicte la nouvelle version au rôle mémoire 
+
+Si l’équipe est suffisamment mature, les étapes « réactions/réécriture » peuvent continuer en désordre
+
+Celui qui a le stylo peut à tout moment passer le relai à un autre membre
+
+Le processus rejoint la DIC simple quand celui qui a le stylo décide de passer à l’étape 8 (chacun peut-il composer avec la proposition ?)
 
 ##### Variante « boite à idée » 
 
