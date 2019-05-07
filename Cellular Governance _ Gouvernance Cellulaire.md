@@ -1338,7 +1338,9 @@ Tenir le cap de son intuition de ce que pourrait devenir la structure
 Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale
 
 ##### Cercle d’ancrage
-Le rôle source fait partie du cercle ancrage. Le cercle d’ancrage est celui le plus en amont de la structureLe rôle source peut être affecté à un, plusieurs ou tous les membres du cercle ancrage
+Le rôle source fait partie du cercle ancrage. Le cercle d’ancrage est celui le plus en amont de la structure
+
+Le rôle source peut être affecté à un, plusieurs ou tous les membres du cercle ancrage
 
 ##### Réutilisation
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer le cercle ancrage du projet
