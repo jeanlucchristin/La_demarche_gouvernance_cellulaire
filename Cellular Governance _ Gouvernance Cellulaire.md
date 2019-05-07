@@ -340,7 +340,7 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 ##### Utilité  
 
-Ce processus est utile dans toute réunion nécessitant une prise de décision plutôt rapide
+Ce processus est utile dans toute réunion nécessitant une prise de décision plutôt rapide. Il peut être activé pour terminer une décision
 
 Il aide les participants à s’imposer de prendre une décision. Le processus décrit ici inclue chacun et favorise la créativité
 
