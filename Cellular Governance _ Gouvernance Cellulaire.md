@@ -283,7 +283,7 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive
 ##### Préambule  
 
 Le cercle revoit la check list et les indicateurs avant de commencer
- Un temps de parole sobre est également ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour réaliser cette réunion
+ Un temps de parole sobre est également ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour réaliser cette réunion. Le rôle facilitation peut déja noter des tensions si elles sont exprimées
 
 ##### Ordre du jour  
 
