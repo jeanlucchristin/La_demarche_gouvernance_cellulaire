@@ -1326,28 +1326,23 @@ A vous de jouer !
 
 #### 5.26  Brique rôle Source 
 
-##### Cercle d’ancrage
-
-Le cercle d’ancrage est celui qui chapeaute la structure. Nul ne lui fournit sa raison d’être. 
- Un rôle source existe dans le cercle ancrage. Il peut être affecté à un ou plusieurs membres
-
 ##### Raison d’être du rôle source 
-
 Tenir le cap de son intuition de ce que pourrait devenir la structure
 
 ##### Redevabilités  
-
-- Actualiser la raison d’être en tenant compte des remontées des membres de la structure et de l’évolution de son intuition au contact du réel
-
-- Faire son possible pour que cette intuition devienne réalité
+ - Révéler la raison d’être de la structure en fonction de ce qu’il perçoit 
+ - Actualiser cette raison d’être selon son intuition en tenant compte des remontées des membres de la structure 
+ - Faire son possible pour que cette intuition devienne réalité
 
 ##### Domaine  
+Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale
 
-Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale 
+##### Cercle d’ancrage
+Le rôle source fait partie du cercle ancrage. Le cercle d’ancrage est celui le plus en amont de la structureLe rôle source peut être affecté à un, plusieurs ou tous les membres du cercle ancrage
 
 ##### Réutilisation
+Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer le cercle ancrage du projet
 
-Au sein d’une structure, le rôle source peut être donné à un membre dans le cadre d’un projet en totale indépendance. Le premier cercle de ce projet devient alors un cercle ancrage
 
 #### 5.27  Brique légèreté-simplicité  
 
