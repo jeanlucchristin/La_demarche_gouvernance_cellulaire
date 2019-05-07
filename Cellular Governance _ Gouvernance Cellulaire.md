@@ -1556,7 +1556,7 @@ Un groupe d’une grosse trentaine de personnes est actif depuis début février
 
 Certaines contributions ont donné forme à des évolutions très concrètes, en particulier celles de : 
 
-Lydia Pizzoglio (UDN), Olivier Daniel Thomas (ARaymond), Philippe Clément (Stratégial), Virginie Angove (Sandokai), Guillaume Dorvaux (Hum!), Philippe Kuhn (Euroasis), Elisabeth Francou (Be&Do), Yann Crespel (DlmB), Gilles Christin (le Pain des Cairns), Thierry Malo, Elisabeth Georges (DIS Développement), Frédéric Castoldi (CdG 38), Colin Dujardin, Thierry Perrier (Sagarana), Laurent Marseault, Damien Richard, Nicolas Begel (Bollhoff)
+Lydia Pizzoglio (UDN), Olivier Daniel Thomas (ARaymond), Philippe Clément (Stratégial), Virginie Angove (Sandokai), Guillaume Dorvaux (Hum!), Philippe Kuhn (Euroasis), Elisabeth Francou (Be&Do), Yann Crespel (DlmB), Gilles Christin (le Pain des Cairns), Thierry Malo, Elisabeth Georges (DIS Développement), Frédéric Castoldi (CdG 38), Colin Dujardin, Yann Bresson (Orange Campus), Thierry Perrier (Sagarana), Laurent Marseault, Damien Richard, Nicolas Begel (Bollhoff)
 
 
 
