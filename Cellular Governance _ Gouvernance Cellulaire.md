@@ -1245,7 +1245,7 @@ Celui qui a le stylo peut à tout moment passer le relai à un autre membre
 
 Le processus rejoint la DIC simple quand celui qui a le stylo décide de passer à l’étape 8 (chacun peut-il composer avec la proposition ?)
 
-##### Variante « boite à idée » 
+##### Variante réorg : « la boite à idée » 
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
