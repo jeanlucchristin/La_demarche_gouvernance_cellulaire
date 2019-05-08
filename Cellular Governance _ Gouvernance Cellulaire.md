@@ -498,7 +498,7 @@ Contacter la bulle énergétique du groupe
 
 ##### Process 
 
-Exemples de process corporel : 
+Exemples de process corporel : plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R)
  - Un temps de silence 
  - Déambulation dans la salle et centrage, attention flotante à soi, puis à ceux qu’on croise, puis au groupe 
  - Exercice corde et bougie 
