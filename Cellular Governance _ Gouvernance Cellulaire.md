@@ -43,7 +43,7 @@ Notre proposition est de vous permettre d'améliorer le fonctionnement de votre 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la structure*
  - *se demander ce dont ils ont besoin  et traverser les conflits de manière bénéfique*
- - *actualiser leur raison d’être pour cultiver l’enthousiasme*
+ - *actualiser une raison d’être ajustée et suffisamment motivante*
 
 #### *<u>2.1  pour le monde* 
 
