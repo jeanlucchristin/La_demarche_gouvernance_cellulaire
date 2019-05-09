@@ -1,4 +1,4 @@
-**Gouvernance Cellulaire   V 2.1** 
+#Gouvernance Cellulaire   V 2.1 
  
 Explorons une autre façon de travailler ensemble
 
@@ -8,7 +8,7 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
-# 1)  Avant-propos
+## 1)  Avant-propos
 
 #### Principe du Vivant 
 
@@ -38,7 +38,7 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par :
 #### Proposition
 Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’un ou l’autre des éléments de cette constitution. Rien n’impose de passer intégralement en mode Gouvernance Cellulaire
 
-# 2)  Raison d’être de la gouvernance cellulaire
+## 2)  Raison d’être de la gouvernance cellulaire
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la structure*
@@ -101,7 +101,7 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnai
 
 
 
-# 3)  Livret central : Eléments cœurs requis 
+## 3)  Livret central : Eléments cœurs requis 
 
 Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitution qui comporte 11 éléments cœurs requis, 4 rôles préconstruits et des briques modulaires optionnelles
  
@@ -632,7 +632,7 @@ Il est possible de démissionner à tout moment d’un rôle. Il est également 
 
 Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94)
 
-# 4) Livret central : Rôles préconstruits requis
+## 4) Livret central : Rôles préconstruits requis
 
 #### 4.1  Rôle lead 
 
@@ -711,7 +711,7 @@ Les tensions pertinentes à processer dans le cercle amont y sont apportées et 
 
 Le rôle déblocage n’est pas nécessaire si une politique du cercle amont a défini un autre mode de déblocage
 
-# 5)  BRIQUES OPTIONNELLES 
+## 5)  BRIQUES OPTIONNELLES 
 
 #### 5.1  Briques
 
@@ -1468,7 +1468,7 @@ Nous utilisons ce terme pour les notions d’importance égale de tous les membr
 
 Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres et collègues à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
 
-# 6  CONSTITUTION : Bibliographie et glossaire 
+## 6  CONSTITUTION : Bibliographie et glossaire 
 
 #### 6.1  Bibliographie et références
 
@@ -1528,7 +1528,7 @@ Membre : Un membre est une personne affectée à un rôle dans un cercle. Le mem
  - Rôle lead, facilitation, mémoire, déblocage, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
-# 7) CONSTITUTION : Licence et contributeurs 
+## 7) CONSTITUTION : Licence et contributeurs 
 
 #### 7.1  Licence 
 
