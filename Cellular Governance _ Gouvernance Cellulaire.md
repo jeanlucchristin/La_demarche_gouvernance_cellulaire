@@ -1,4 +1,4 @@
-# Gouvernance Cellulaire   V 2.1 
+# Gouvernance Cellulaire   version de développement
  
 Explorons une autre façon de travailler ensemble
 
@@ -1402,7 +1402,7 @@ L’organisation en cercle est compatible avec une organisation pyramidale du po
 
 ##### Les différences 
 
- - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; orienter la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; donner du feedback et recadrer ; finaliser les décisions
+ - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; orienter la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisions
  - En mode cellulaire, ces redevabilités ont été déléguées aux membres du cercle
 
 ##### La voie du milieu 
