@@ -511,7 +511,7 @@ Exemples de process verbalisé :
  - Exprimer ses enjeux  « ici et maintenant » (personnel, équipe, structure, société, environnement).
  - Tour de table.
 
-#### 3.12 Efficacité et humanité
+#### 3.12 Efficacité-humaniste
 **des conditions pour que les décisions prises soient suivies d’effets**.
 
 #####  Intentions
