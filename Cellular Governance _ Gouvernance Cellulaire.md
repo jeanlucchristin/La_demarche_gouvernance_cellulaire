@@ -451,6 +451,8 @@ Les alternatives peuvent être :
  - Focalisation de tout le cercle sur l’action.
  - Une meilleure solution. 
  
+ Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
+ 
  #### 3.10  Pilotage de soi 
 
 ##### Raison d’être
@@ -632,7 +634,7 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
 
-Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
+Plus de réflexion [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
 ## 4) Livret central : Rôles préconstruits requis
 
