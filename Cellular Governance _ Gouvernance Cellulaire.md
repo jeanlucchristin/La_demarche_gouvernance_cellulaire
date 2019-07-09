@@ -472,7 +472,7 @@ Ce process peut être utilisé :
 
 Le rôle facilitation passe par différentes étapes
 
-1. Réalité : rappelle ce qui s’est passé, les faits.
+1. Réalité : rappelle ce qu'il s’est passé, les faits.
 2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
 3. Elan : comment aurais tu aimé que cela se passe ? 
 4. Relation : qu’est ce que tu aurais aimé que les autres fassent ? 
