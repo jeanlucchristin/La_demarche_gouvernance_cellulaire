@@ -438,7 +438,7 @@ Il l’exprime en réunion de triage.
 
 Il est encouragé à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparait pas.
 
-Il peut demander un tour de boite à idées aux membres du cercle.
+Il peut demander un tour de boite à idées aux membres de la cellule.
  
 ##### Solution alternative
 
@@ -448,7 +448,7 @@ Les alternatives peuvent être :
 
  - soutien au rôle « défaillant ».
  - Affectation du rôle à une autre personne en complément ou en remplacement. 
- - Focalisation de tout le cercle sur l’action.
+ - Focalisation de toute la cellule sur l’action.
  - Une meilleure solution. 
  
  Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
