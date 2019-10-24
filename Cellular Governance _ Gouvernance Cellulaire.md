@@ -112,7 +112,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
 
   - Rôle : description de ce sur quoi les autres membres et collègues peuvent compter.
 
-  - Cercle : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles.
+  - Cellule : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles.
 
   - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires.
 
@@ -141,7 +141,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
 
 Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout ses membres et collègues, toute réunion, toute action, tout instant.
 
-Chaque rôle et chaque cercle reçoit une raison d'être pour les mêmes raisons.
+Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
 
 ##### Contenu
 
@@ -157,18 +157,18 @@ Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l�
 
 La raison d’être d’une structure est intuitive, perceptible et évolutive.
 
-Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à un cercle.
+Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à une cellule.
 
 #### 3.2  Actualisation de la raison d’être 
 
 ##### Pouvoir de proposition
 
-Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de son cercle. 
+Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de sa cellule. 
 Par défaut, la réunion est sous forme de Gestion par Consentement.
 
 Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- cercle amont pour une évolution de la raison d’être de son cercle.
-- Cercle ancrage pour une évolution de la raison d’être de sa structure.
+- Cellule souche pour une évolution de la raison d’être de sa cellule.
+- Cellule ancrage pour une évolution de la raison d’être de sa structure.
 
 *l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
  
@@ -190,14 +190,14 @@ L’intention est de permettre à chacun :
 
 plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
 
-#### 3.3  Rôle et cercle
+#### 3.3  Rôle et cellule
 
 *Un rôle est formalisé par écrit si cela répond au besoin d’un des membres*.
 
 ##### Contenu de rôle 
 
 - Un titre et au moins un éléments parmi : 
-  - une raison d’être : ce qui manquerait au cercle s’il n’était pas là.
+  - une raison d’être : ce qui manquerait à la cellule s’il n’était pas là.
   - Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir.
 - éventuellement un domaine : une chasse gardée.
 
@@ -210,21 +210,21 @@ La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de
 Plusieurs personnes peuvent être affectées à un même rôle.
 (Un focus peut être précisé clarifiant des périmètres différents).
 
-Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance du cercle. 
+Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance de la cellule. 
 Elle est alors « référent » des autres.
 
-##### Cercle 
+##### Cellule 
 
-Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle.
+Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cellule.
 
 ##### Rôles préconstruits
 
-Un cercle comprend impérativement :
+Une cellule comprend impérativement :
 
 - un rôle facilitation et un rôle mémoire élus pour une période.
-- Un rôle lead nommé par le cercle amont.
-- Sur demande, un rôle déblocage peut être élu, il devient alors aussi membre du cercle amont.
- (Sauf si une politique du cercle amont a défini un autre mode de déblocage.)
+- Un rôle lead nommé par sa cellule souche.
+- Sur demande, un rôle déblocage peut être élu, il devient alors aussi membre de la cellule souche.
+ (Sauf si une politique de la cellule souche a défini un autre mode de déblocage.)
 
 #### 3.4  Responsabilité éthique de Tension
 
@@ -249,17 +249,17 @@ Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle
 
 La tension de personne permet de prendre soin de soi en tant que personne.
 
-Elle peut aboutir à une demande adressée à un rôle, à une personne du cercle ou à tout le cercle.
+Elle peut aboutir à une demande adressée à un rôle, à une personne de la cellule ou à toute la cellule.
 
 Elle entraine par exemple une demande de réunion de régulation pour travailler la relation ou une demande de réunion de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
 
 
-##### Tension de cercle 
+##### Tension de cellule 
 
-La tension de cercle est relative directement à la réalisation des raisons d’être et redevabilités du cercle. Les actions demandées s’adressent :
+La tension de cellule est relative directement à la réalisation des raisons d’être et redevabilités de la cellule. Les actions demandées s’adressent :
 - soit au rôle lead.
-- Soit à tous les membres du cercle.
-- Soit au cercle  en mode consentement dans une réunion dédiée.
+- Soit à tous les membres la cellule.
+- Soit à la cellule en mode consentement dans une réunion dédiée.
 
 #### 3.5  Réunion de triage
 
@@ -267,7 +267,7 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 
 Offrir d’un espace de contractualisation.
 
-L’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait.
+L’objectif est d’aider chacun à réduire des tensions avec l’aide de sa cellule en engageant les autres dans ce qui doit ou pourrait être fait.
 
 Les engagements peuvent tout a fait être pris en dehors de cette réunion.
 
@@ -275,7 +275,7 @@ Les engagements peuvent tout a fait être pris en dehors de cette réunion.
 
 Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle*.
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule*.
  
 ##### Inclusion  
 
@@ -283,7 +283,7 @@ Temps d’embarquement dans la réunion, chacun nomme comment il arrive.
 
 ##### Préambule  
 
-Le cercle revoit la check list et les indicateurs avant de commencer.
+La cellule revoit la check list et les indicateurs avant de commencer.
 
 Un temps d’informations sobre sur les actions en cours est ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour réaliser cette réunion. Dès cette phase, le rôle facilitation peut noter des tensions quand elles sont exprimées.
 
@@ -297,7 +297,7 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le rôle facilitation mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-- Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?) – Lequel de tes rôles est impacté ? quelle redevabilité ? (question d’approfondissement optionnelle qui ouvre aux tensions de personne ou de cercle) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou au cercle) – Que demandes-tu concrètement ? 
+- Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?) – Lequel de tes rôles est impacté ? quelle redevabilité ? (question d’approfondissement optionnelle qui ouvre aux tensions de personne ou de cellule) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou à la cellule) – Que demandes-tu concrètement ? 
 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (la réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
 - *A la personne concernée :* Quelle est ta réponse ? 
@@ -508,7 +508,7 @@ Exemples de process corporel : plus d'info [ici](https://drive.google.com/open?i
  - Atelier le choeur et le héros (exercice inspiré du théâtre).
 
 Exemples de process verbalisé :
- - moment de palabre, par exemple sur la raison d’être de la structure, ou du cercle (cf brique palabre).
+ - moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf brique palabre).
  - Photolangage.
  - Exprimer ses enjeux  « ici et maintenant » (personnel, équipe, structure, société, environnement).
  - Tour de table.
