@@ -642,19 +642,19 @@ Plus de réflexion [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
 ##### Raison d’être 
 
-Le rôle lead porte la raison d’être de l’ensemble du cercle
+Le rôle lead porte la raison d’être de l’ensemble de la cellule.
 
 ##### Domaine  
 
-Affectation des rôles du cercle
+Affectation des rôles de la cellule
 
 ##### Redevabilités
 
-- Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont il est redevable
-- Actualiser les priorités stratégiques du cercle et sur demande, résoudre les conflits de priorités entre les rôles
-- Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles
-- Affecter des personnes aux rôles du cercle 
-- Construire une structure minimum pour que le cercle réalise sa raison d’être (rôles et cercles avals) : le rôle lead procède 
+- Veiller au cap : alerter quand la cellule ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont elle est redevable
+- Actualiser les priorités stratégiques de la cellule et sur demande, résoudre les conflits de priorités entre les rôles
+- Répartir les ressources disponibles de la cellule sur les différents projets et/ou rôles
+- Affecter des personnes aux rôles de la cellule
+- Construire une structure minimum pour que la cellule réalise sa raison d’être (rôles et cellules spécifiques) : le rôle lead procède 
 à sa manière en phase de lancement puis via la réunion de réorg.
 
 ##### Redevabilités complémentaires
@@ -663,19 +663,19 @@ Affectation des rôles du cercle
 
 Le rôle lead est en charge de tout ce qui n’est pas affecté
 
-- *Chacune de ces redevabilités pourra être progressivement assurée autrement que par le rôle lead : soit affectée à un autre rôle soit transférée au cercle par politique. Le cercle les remplit alors via ses processus*
-- *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cercles constitués de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant du cercle amont étant invité à participer à l’élection*
+- *Chacune de ces redevabilités pourra être progressivement assurée autrement que par le rôle lead : soit affectée à un autre rôle soit transférée à la cellule  par politique. La cellule les remplit alors via ses processus*
+- *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule souche étant invité à participer à l’élection*
 
 #### 4.2  Rôle facilitation
 
 ##### Raison d’être 
 
-Les pratiques de réunions du cercle sont conformes à la constitution
+Les pratiques de réunions de la cellule sont conformes à la constitution
 
 ##### Redevabilités inamovible
 
-- Faciliter les réunions du cercle requises par la constitution
-- Auditer les réunions et les registres des cercles avals. Signaler au rôle mémoire et au rôle déblocage les observations incompatibles avec les règles de la constitution
+- Faciliter les réunions de la cellule requises par la constitution
+- Auditer les réunions et les registres des cellule spécifiques. Signaler au rôle mémoire et au rôle déblocage les observations incompatibles avec les règles de la constitution.
 
 ##### Redevabilités amovibles
 
@@ -685,16 +685,16 @@ Développer l'aisance des participants dans les processus pour qu'ils puissent t
 
 ##### Raison d’être 
 
-Enregistrer les décisions dans les registres officiels du cercle
+Enregistrer les décisions dans les registres officiels de la cellule 
 
 ##### Domaine  
 
-Tous les registres du cercle requis par la constitution
+Tous les registres de la cellule requis par la constitution
 
 ##### Redevabilités inamovible
 
-- Organiser les réunions du cercle requises par la constitution et informer tous les invités des dates et lieux
-- Enregistrer et publier les résultats des réunions du cercle qui sont requises, et maintenir une vue compilée de la gouvernance en cours, des points de check-list et des indicateurs du cercle
+- Organiser les réunions de la cellule requises par la constitution et informer tous les invités des dates et lieux
+- Enregistrer et publier les résultats des réunions de la cellule qui sont requises, et maintenir une vue compilée de la gouvernance en cours, des points de check-list et des indicateurs indicateurs de la cellule.
 - Interpréter la gouvernance et la constitution sur demande
 
 ##### Redevabilités amovibles 
@@ -705,15 +705,15 @@ Tous les registres du cercle requis par la constitution
 
 ##### Raison d’être 
 
-Les tensions pertinentes à processer dans le cercle amont y sont apportées et traitées..
+Les tensions pertinentes à processer dans la cellule souche y sont apportées et traitées..
 
 ##### Redevabilités
 
-- Éliminer au sein du cercle amont les contraintes qui limitent le cercle
-- Chercher à comprendre les tensions transmises par les membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont
-- Donner de la visibilité au cercle amont sur la santé du cercle (niveau de sérénité) et sur la performance du cercle (niveau de déliverabilité
+- Éliminer au sein de la cellule souche les contraintes qui limitent la cellule.
+- Chercher à comprendre les tensions transmises par les membres de la cellule et discerner celles qu’il est pertinent de processer dans dans la cellule souche.
+- Donner de la visibilité à la cellule souche sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
 
-Le rôle déblocage n’est pas nécessaire si une politique du cercle amont a défini un autre mode de déblocage
+Le rôle déblocage n’est pas nécessaire si une politique de la cellule souche défini un autre mode de déblocage.
 
 ## 5)  BRIQUES OPTIONNELLES 
 
@@ -729,12 +729,12 @@ Les briques sont des modules autonomes compatibles
 
 Comme tout le reste de notre travail, elles sont hautement imparfaites, en cours d’évolution, discutables et ajustables (par politiques formalisées)
 
-Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici
- Elle peuvent être activées pour un cercle, un cercle et ses sous cercle ou pour toute la structure
+Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
+Elle peuvent être activées pour une cellule, une cellule souche et ses cellules spécifiques ou pour toute la structure.
 
 ##### Comment activer une brique ? 
 
-Activer ou désactiver une brique dans un cercle est une politique. Par conséquent, cela se formalise en réunion de réorg.
+Activer ou désactiver une brique dans une cellule est une politique. Par conséquent, cela se formalise en réunion de réorg.
 
 Une personne peut utiliser une brique en autonomie pour s’inspirer elle-même dans son rôle 
 
@@ -758,7 +758,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 
 - Prendre en compte les demandes  des autres membres (c’est à dire inscrire comme prochaine action, pas exécuter)
 - Si un membre le demande, participer à une  réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée) 
-- Décider de ses actions en fonction des priorités  et stratégies du cercle
+- Décider de ses actions en fonction des priorités  et stratégies de la  cellule.
 
 ##### Transparence sur demande 
 
@@ -793,7 +793,7 @@ Décrire des questionnements aidants pour cultiver une posture professionnelle b
 
 Du terme anglais « completer » qui signifie à la fois terminer et complémenter
  - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
- - Chacun est membre du cercle « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
+ - Chacun est membre de la cellule « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
@@ -1268,12 +1268,12 @@ Simplifier le processus, fonctionner à distance
 
 ##### Processus 
 
-1. Tout membre d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercles
-2. Il répond aux questions de clarifications
-3. Il prend connaissance des réactions
-4. Si un membre demande à ce que le point passe en réunion de réorg. formelle, le process est stoppé
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition
-6. Le rôle mémoire enregistre la proposition 
+1. Tout membre d’une cellule peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres de la cellule.
+2. Il répond aux questions de clarifications.
+3. Il prend connaissance des réactions.
+4. Si un membre demande à ce que le point passe en réunion de réorg. formelle, le process est stoppé.
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition.
+6. Le rôle mémoire enregistre la proposition.
 
 #### 5.23  Brique Entretien annuel  
 
@@ -1320,7 +1320,7 @@ Des outils plus puissants payants permettent de continuer l'aventure ensuite
 
 ##### Raison d’être : 
 
-Répondre au besoin de votre cercle 
+Répondre au besoin de votre cellule 
 
 A vous de jouer !  
 
@@ -1356,19 +1356,19 @@ Tenir le cap de son intuition de ce que pourrait devenir la structure
 ##### Domaine  
 Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale
 
-##### Cercle d’ancrage
-Le rôle source fait partie du cercle ancrage. Le cercle d’ancrage est celui le plus en amont de la structure
+##### Cellule d’ancrage
+Le rôle source fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de la structure
 
-Le rôle source peut être affecté à un, plusieurs ou tous les membres du cercle ancrage
+Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage
 
 ##### Réutilisation
-Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer le cercle ancrage du projet
+Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet
 
 
 #### 5.27  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
-Un formalisme minimum sera créé (cercles, rôles, politiques, processus etc) pour 
+Un formalisme minimum sera créé (cellule, rôles, politiques, processus etc) pour 
  - pouvoir travailler ensemble 
  - ne pas entraver l’action
 
@@ -1378,7 +1378,7 @@ Un rôle simplification pourra être activé pour veiller à supprimer ou rempla
  - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
  - toutes les règles ou politiques qui nient l’intelligence de chacun
  
-Ce rôle pourra être affecté à certains membres du cercle ou à tous
+Ce rôle pourra être affecté à certains membres de la cellule ou à tous
 
 ##### Intention
 Contrer la tendance humaines de générer de la complication pérenne
@@ -1395,21 +1395,21 @@ La description du livret central sera la plus légère possible
 
 ##### Système 
 
-L’organisation en cercle est compatible avec une organisation pyramidale du point de vue structurel
+L’organisation en cellule est compatible avec une organisation pyramidale du point de vue structurel
 
 ##### Ce qui est commun
 
- - La raison d’être et les redevabilités du cercle doivent répondre aux besoins de l’équipe amont 
+ - La raison d’être et les redevabilités de la cellule doivent répondre aux besoins de l’équipe amont 
  - Le rôle lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ 
 
 ##### Les différences 
 
  - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisions
- - En mode cellulaire, ces redevabilités ont été déléguées aux membres du cercle
+ - En mode cellulaire, ces redevabilités ont été déléguées aux membres de la cellule
 
 ##### La voie du milieu 
 
-En complément du rôle lead, un cercle peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
+En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
 
 ##### Humains 
 
@@ -1420,19 +1420,19 @@ De notre expérience, la cohabitation de la culture hiérarchique et de la cultu
 
 ##### Contexte 
 
-Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cercles ont été créés.
+Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cellules ont été créés.
 
-Chaque rôle, chaque cercle a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
+Chaque rôle, chaque cellule a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
 
-Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
+Chaque rôle, chaque cellule est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres  et en tient compte pour ajuster son action selon ce qui lui parait le plus pertinent. 
 
 ##### Engagement
 
 Nous nous engageons à respecter le principe de non-ingérence :
 
- - nous respecterons l’auto-détermination des rôles et cercles créés 
- - nous agirons dans le cadre des rôles et cercles qui nous sont affectés
- - nous respecterons les décisions des rôles et cercles créés
+ - nous respecterons l’auto-détermination des rôles et cellules créés 
+ - nous agirons dans le cadre des rôles qui nous sont affectés
+ - nous respecterons les décisions des rôles et cellules créés
  - nous agirons dans le respect des règles définies par notre constitution
  - nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
@@ -1450,7 +1450,7 @@ Signatures :
 
 
 
-*¤ Cet engagement pourra aussi être proposé à la signature de tous les membres participant à un cercle ou être intégrée au règlement intérieur*
+*¤ Cet engagement peut aussi être proposé à la signature de tous les membres participant à une cellule ou être intégré au règlement intérieur*
 
 *¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
@@ -1507,8 +1507,8 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 
 #### 6.2  Glossaire 
 
- - Brique : module activable et désactivable par un cercle selon les besoins qu’il rencontre
- - Cercle : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
+ - Brique : module activable et désactivable par une cellule selon les besoins qu’il rencontre
+ - Cellule : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
  - Décision inéluctable par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture à chacun relatif 
@@ -1518,9 +1518,9 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
  - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
-Membre : Un membre est une personne affectée à un rôle dans un cercle. Le membre participe à la gouvernance 
+Membre : Un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
- - Politique : règle décidée par un cercle qui s’applique soit au cercle, soit aussi aux cercles avals
+ - Politique : règle décidée par une cellule qui s’applique soit à la cellule, soit aussi aux cellules spécifiques
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière 
  - Réunion d’élection sans candidat : affecter un rôle 
  - Réunion de triage : affecter des actions nécessaires pour avancer dans le travail 
@@ -1528,7 +1528,7 @@ Membre : Un membre est une personne affectée à un rôle dans un cercle. Le mem
  - Réunion de réorganisation : créer un rôle ou le modifier pour répondre à un besoin 
  - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
  - Réunion de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
- - Rôle : Une fonction utile aux membres du cercle constituté d’un nom, d’une raison d’être et/ou de redevabilités
+ - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités
  - Rôle lead, facilitation, mémoire, déblocage, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
