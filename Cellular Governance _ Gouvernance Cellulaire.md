@@ -121,7 +121,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
 **Espace Orga et Contrats :** 
   - Réunion de triage : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent. 
   - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
-  - Décision Inéluctable par Consentement : Aider le collectif à statuer par une décision plutôt rapide. 
+  - Gestion par Consentement : Aider le collectif à aboutir à une décision. 
   - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
   - Exigence : Résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
 
@@ -338,13 +338,13 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion. 
 
-#### 3.7 Décision Inéluctable par Consentement (DIC) 
+#### 3.7 Gestion par Consentement (GPC) 
 
 ##### Utilité  
 
-Ce processus est utile dans toute réunion nécessitant une prise de décision plutôt rapide. Il peut être activé pour terminer une décision.
+Ce processus est utile dans toute réunion nécessitant une prise de décision. Il peut être activé pour terminer une décision.
 
-Il aide les participants à s’imposer de prendre une décision. Le processus décrit ici inclue chacun et favorise la créativité.
+Il aide les participants à s’imposer de prendre une décision. Il inclue chacun et favorise la créativité.
 
 *Le processus peut être différent, mais une structure en Gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
 
@@ -412,7 +412,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Je récupère et affiche les bulletins un par un, merci d’expliquer votre choix à tous. 
 5. Après avoir écouté les arguments des autres, certains souhaitent-ils reporter leur voix ?
 6. Option consensuelle : le rôle facilitation propose l’un des candidats avec le plus de voix. Option créative, le rôle facilitation demande une proposition parmi les candidats à qui il reste au moins une voix. 
-7. Le process redevient celui de consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
+7. Le process redevient celui de gestion par consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
 ##### Clôture   
 
@@ -494,8 +494,8 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 
 Contacter la bulle énergétique du groupe 
 
- - Inclusion : faire de la place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui. 
- - Accueillir l’expression du vivant de chacun pour le connecter à ce qui est vivant dans le groupe.
+ - Connexion : faire de la place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui. 
+ - Accueillir l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe.
  - Animer un temps pour se centrer sur ce avec quoi chacun arrive (tête, corps, coeur).
  - Eviter les blocages.
 
@@ -685,11 +685,11 @@ Développer l'aisance des participants dans les processus pour qu'ils puissent t
 
 ##### Raison d’être 
 
-Enregistrer les décisions dans les registres officiels de la cellule 
+inscrire les décisions dans les documents officiels de la cellule
 
 ##### Domaine  
 
-Tous les registres de la cellule requis par la constitution
+Tous les documents officiels de la cellule définis par la constitution
 
 ##### Redevabilités inamovible
 
@@ -862,13 +862,13 @@ Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la
 
 Donner des informations aux autres pour qu’ils gagnent en conscience de ce que leurs actions ou comportements déclenchent
 
-Reconnaitre nos partenaires dans ce qu’ils apportent 
+Reconnaitre nos collègues dans ce qu’ils apportent 
 
 ##### Préparation
 
-Il nous faudra être attentifs au fait que notre perception des actions et comportements d’un partenaire est biaisée par : 
+Il nous faudra être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
 
-la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce partenaire) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation par une préparation
+la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation par une préparation
 
 ##### Intention 
 
@@ -999,7 +999,7 @@ plus sereine. Elle est en particulier pertinente en amont d’une réunion de r�
 ##### Logistique   
 
 Périodicité : sur demande. 
-Participants : un partenaire impacté seul ou aidé par un rôle facilitation qu'il sollicite
+Participants : une collègue impactée, seule ou aidée par un rôle facilitation qu’elle sollicite.
 
 ##### Inclusion  
 
@@ -1053,7 +1053,7 @@ Découvrir les modes de fonctionnements étonnamment différents d’un collègu
 
 Apprendre à découvrir le fonctionnement des autres pour mieux travailler avec eux 
 
-Savoir expliquer son fonctionnement à nos partenaires 
+Savoir expliquer son fonctionnement à nos collègues. 
 
 ##### Limite
 
@@ -1071,7 +1071,7 @@ Pour ce faire, une multitudes d’outils existent. Nous privilégions les approc
 
 Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme …
 
-Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux partenaires de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
+Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux membres de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
 
 Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
@@ -1169,13 +1169,13 @@ Fonctionner dans un environnement solidaire signifie que chacun prend soin des a
 Une posture nous semble bénéfique : 
 
 - Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun
-- Entretenir notre **confiance** : considérer nos partenaires capables de trouver leur propre solution
+- Entretenir notre **confiance** : considérer nos collègues capables de trouver leur propre solution
 - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
 - Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
 - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
-- **Veiller** à la santé apparente de nos partenaires proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un partenaire quand on imagine qu’il se met en danger … 
-- **Soutenir** voire encourager un partenaire quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
-- **Réciprocité** : recevoir les mêmes soins de la part de nos partenaires, écouter en mode présence à ce que cela nous donne à vivre
+- **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger … 
+- **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
+- **Réciprocité** : recevoir les mêmes soins de la part de nos collègues, écouter en mode présence à ce que cela nous donne à vivre
 - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
@@ -1184,7 +1184,7 @@ Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère ef
 
 ##### Raison d’être : forts enjeux humains 
 
-Contrairement à la décision inéluctable par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants
+Contrairement à la décision en gestion par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants
 
 Elle est plus longue qu’une décision par consentement, cherche la meilleure issue possible. Par conséquent, elle est réservée aux décisions à fort enjeu humain 
 
@@ -1279,7 +1279,7 @@ Simplifier le processus, fonctionner à distance
 
 ##### Raison d’être 
 
-Répondre au besoin de certaines structures ou de certains partenaires de disposer d’un processus d’entretien annuel
+Répondre au besoin de certaines structures ou de certains membres de disposer d’un processus d’entretien annuel
 
 ##### Limite
 
@@ -1287,7 +1287,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 ##### Process entretien annuel
 
-1. Un partenaire choisit une personne et lui propose le rôle de réaliser son entretien annuel 
+1. Un membre choisit un collègue et lui propose le rôle de réaliser son entretien annuel
 2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur
    Le support de questionnement peut être 
 
@@ -1511,12 +1511,12 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Cellule : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
- - Décision inéluctable par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture à chacun relatif 
  - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps 
  - Espace contrat : toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
  - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
  - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
+ - Gestion par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture modéré 
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
 Membre : Un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
