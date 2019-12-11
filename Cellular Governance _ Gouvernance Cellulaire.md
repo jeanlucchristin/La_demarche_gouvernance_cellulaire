@@ -1520,7 +1520,7 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
  - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
-Membre : Un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
+ - Membre : un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
  - Politique : règle décidée par une cellule qui s’applique soit à la cellule, soit aussi aux cellules spécifiques
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière 
