@@ -1531,7 +1531,7 @@ Membre : Un membre est une personne affectée à un rôle dans une cellule. Le m
  - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
  - Réunion de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
  - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités
- - Rôle lead, facilitation, représentation, déblocage, simplification, source : voir les diapos correspondantes
+ - Rôle lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
 ## 7) CONSTITUTION : Licence et contributeurs 
