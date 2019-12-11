@@ -118,11 +118,11 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
 
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
-**Espace Orga et Contrats :** 
-  - Réunion de triage : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions qu’il ressent. 
-  - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
-  - Gestion par Consentement : Aider le collectif à aboutir à une décision. 
-  - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
+**Espace Contrat :** 
+  - Réunion de triage : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
+  - Décision par Consentement : Aider le collectif à aboutir à une décision (stratégie ou toute décision ...) en gestion par consentement (GPC).
+    - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
+    - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
   - Exigence : Résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
 
 **Espace Relation :**
@@ -132,7 +132,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation.
  
 **Espace Sens :** 
-  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, une stratégie, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique.
+  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique.
   - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
 
 #### 3.1  Raison d’être  
@@ -164,7 +164,7 @@ Nous souhaitons utiliser l’intuition motivante et confuse d’une personne sou
 ##### Pouvoir de proposition
 
 Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de sa cellule. 
-Par défaut, la réunion est sous forme de Gestion par Consentement.
+Par défaut, la réunion est sous forme de décision par consentement.
 
 Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
 - Cellule souche pour une évolution de la raison d’être de sa cellule.
@@ -223,8 +223,8 @@ Une cellule comprend impérativement :
 
 - un rôle facilitation et un rôle mémoire élus pour une période.
 - Un rôle lead nommé par sa cellule souche.
-- Sur demande, un rôle déblocage peut être élu, il devient alors aussi membre de la cellule souche.
- (Sauf si une politique de la cellule souche a défini un autre mode de déblocage.)
+- Sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule souche.
+ (Sauf si une politique de la cellule souche a défini un autre mode de représentation.)
 
 #### 3.4  Responsabilité éthique de Tension
 
@@ -300,7 +300,7 @@ Le rôle facilitation mène le processus jusqu’à la contractualisation d’un
 - Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?) – Lequel de tes rôles est impacté ? quelle redevabilité ? (question d’approfondissement optionnelle qui ouvre aux tensions de personne ou de cellule) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou à la cellule) – Que demandes-tu concrètement ? 
 
 - *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (la réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
-- *A la personne concernée :* Quelle est ta réponse ? 
+- *A la personne concernée :* Quelle est ta réponse ? Lecture par le rôle mémoire de la réponse telle qu’il l’a saisie.
 - *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
 
 ##### Clôture   
@@ -338,7 +338,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion. 
 
-#### 3.7 Gestion par Consentement (GPC) 
+#### 3.7 Décision par consentement
 
 ##### Utilité  
 
@@ -370,7 +370,9 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection. 
 Le rôle facilitation questionne chacun en tour de salle pour repérer les objections.
 
-9 - Le rôle facilitation aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2 : il les aide à vérifier que l’objection n’est pas en fait une meilleure idée, une tension d’un autre, un risque acceptable ou un autre sujet. Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples.
+9 - Le rôle facilitation aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2. Ce n’est pas le cas quand l’objection concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
+
+Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples.
 
 *Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition*. 
 
@@ -675,7 +677,7 @@ Les pratiques de réunions de la cellule sont conformes à la constitution
 ##### Redevabilités inamovible
 
 - Faciliter les réunions de la cellule requises par la constitution
-- Auditer les réunions et les registres des cellule spécifiques. Signaler au rôle mémoire et au rôle déblocage les observations incompatibles avec les règles de la constitution.
+- Auditer les réunions et les registres des cellule spécifiques. Signaler au rôle mémoire et au rôle représentation les observations incompatibles avec les règles de la constitution.
 
 ##### Redevabilités amovibles
 
@@ -701,7 +703,7 @@ Tous les documents officiels de la cellule définis par la constitution
 
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit
 
-#### 4.4  Rôle déblocage
+#### 4.4  Rôle représentation
 
 ##### Raison d’être 
 
@@ -713,7 +715,7 @@ Les tensions pertinentes à processer dans la cellule souche y sont apportées e
 - Chercher à comprendre les tensions transmises par les membres de la cellule et discerner celles qu’il est pertinent de processer dans dans la cellule souche.
 - Donner de la visibilité à la cellule souche sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
 
-Le rôle déblocage n’est pas nécessaire si une politique de la cellule souche défini un autre mode de déblocage.
+Le rôle représentation n’est pas nécessaire si une politique de la cellule souche défini un autre mode de représentation.
 
 ## 5)  BRIQUES OPTIONNELLES 
 
@@ -1508,15 +1510,15 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 #### 6.2  Glossaire 
 
  - Brique : module activable et désactivable par une cellule selon les besoins qu’il rencontre
- - Cellule : Une équipe de membres en charge d’un rôle. Cette équipe est organisée selon la constitution
+ - Cellule : Une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
  - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
+ - Décision par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture modéré 
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps 
  - Espace contrat : toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
  - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
  - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
- - Gestion par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture modéré 
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
 Membre : Un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
@@ -1529,7 +1531,7 @@ Membre : Un membre est une personne affectée à un rôle dans une cellule. Le m
  - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
  - Réunion de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
  - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités
- - Rôle lead, facilitation, mémoire, déblocage, simplification, source : voir les diapos correspondantes
+ - Rôle lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
 ## 7) CONSTITUTION : Licence et contributeurs 
