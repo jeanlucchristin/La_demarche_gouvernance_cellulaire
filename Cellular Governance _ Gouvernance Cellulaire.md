@@ -8,7 +8,27 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
-## 1)  Avant-propos
+## 1.1)  La démarche Gouvernance cellulaire   
+
+#### Au-delà des modèles : une pratique continue
+
+Gouvernance cellulaire propose un cadre de référence progressif pour construire et maintenir un environnement de travail efficace qui prend soin de l’humain.
+
+Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement par l’un ou l’autre des éléments de cette constitution.
+
+Cette logique d’ajustement est permanente : même si une structure qui a mis en place la constitution avec les éléments cœurs requis, les 4 rôles préconstruits et des briques optionnelles est dite en gouvernance cellulaire, cela n’arrête pas sa démarche.
+Elle continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
+
+#### Cadre de référence
+
+Le cadre Gouvernance cellulaire permet de co-construire un diagnostic et de décider d’options d’actions concrètes.
+
+#### Autonomie
+
+Des formations ou des expérimentations avec des accompagnants sont précieuses pour simplifier l’accès à la gouvernance cellulaire et la monté en compétences.
+
+
+## 1.2)  Avant-propos
 
 #### Principe du Vivant 
 
@@ -119,7 +139,7 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 **Espace Contrat :** 
-  - Réunion de triage : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
+  - Réunion d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
   - Décision par Consentement : Aider le collectif à aboutir à une décision (stratégie ou toute décision ...) en gestion par consentement (GPC).
     - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
@@ -261,7 +281,7 @@ La tension de cellule est relative directement à la réalisation des raisons d�
 - Soit à tous les membres la cellule.
 - Soit à la cellule en mode consentement dans une réunion dédiée.
 
-#### 3.5  Réunion de triage
+#### 3.5  Réunion d’opération
 
 ##### Raison d’être 
 
@@ -308,7 +328,54 @@ Le rôle facilitation mène le processus jusqu’à la contractualisation d’un
 Le rôle facilitation demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
 Chacun répond en une fois, les autres écoutent (en silence).
 
-#### 3.6  Réunion de réorganisation
+#### 3.6 Décision par consentement
+
+##### Utilité  
+
+Ce processus est utile dans toute réunion nécessitant une prise de décision. Il peut être activé pour terminer une décision.
+
+Il aide les participants à s’imposer de prendre une décision. Il inclue chacun et favorise la créativité.
+
+*Le processus peut être différent, mais une structure en Gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
+
+##### Process : Gestion Par Consentement (GPC)
+
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
+
+ 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+
+ 2 Chacun rédige sa **proposition en silence**.
+
+ 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
+
+4 Proposeur quelle est ta **proposition V1** ?
+
+5 Tous, avez-vous des besoins de **clarification** ?
+
+6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleures idées,  suggestions, influences ? 
+
+7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
+
+8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ?Cela nous cause-t-il du tord ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
+
+9 - Le rôle facilitation peut aider les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2. Ce n’est pas le cas quand l’objection concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
+
+Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
+Les objections non argumentées ne peuvent pas être retenues mais peuvent devenir d’autres tensions.
+
+*Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition*. 
+
+10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
+
+*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition : retour à l’appel à proposition.*
+
+11 - **Célébration et enregistrement** quand toutes les objections sont levées.
+
+##### Clôture   
+
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 			Plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
+
+#### 3.7  Réunion de réorganisation
 
 ##### Raison d’être 
 
@@ -337,54 +404,6 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 ##### Clôture   
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion. 
-
-#### 3.7 Décision par consentement
-
-##### Utilité  
-
-Ce processus est utile dans toute réunion nécessitant une prise de décision. Il peut être activé pour terminer une décision.
-
-Il aide les participants à s’imposer de prendre une décision. Il inclue chacun et favorise la créativité.
-
-*Le processus peut être différent, mais une structure en Gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
-
-
-##### Process : Gestion Par Consentement (GPC)
-
-Le rôle facilitation distribue la parole selon les étapes suivantes : 
-
- 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
-
- 2 Chacun rédige sa **proposition en silence**.
-
- 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
-
-4 Proposeur quelle est ta **proposition V1** ?
-
-5 Tous, avez-vous des besoins de **clarification** ?
-
-6 - Chacun en une seule fois : quelles sont vos **réactions**, ressentis, avis, pensées, meilleures idées,  suggestions, influences ? 
-
-7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
-
-8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection. 
-Le rôle facilitation questionne chacun en tour de salle pour repérer les objections.
-
-9 - Le rôle facilitation aide les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2. Ce n’est pas le cas quand l’objection concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
-
-Il aide de plus à clarifier et ancrer dans le réel la tension concrète liée à l’objection par des exemples.
-
-*Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition*. 
-
-10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
-
-*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition : retour à l’appel à proposition.*
-
-11 - **Célébration et enregistrement** quand toutes les objections sont levées.
-
-##### Clôture   
-
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 			Plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
 #### 3.8  Election sans candidat
 
@@ -570,7 +589,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
 4. Au receveur : peux-tu reformuler ce que tu retiens ? 
 5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
-6. Au receveur : que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? (à ce stade peut se conclure un contrat entre les deux partenaires ou un constat d’incompatibilité).
+6. Au receveur : que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
 7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
 
 ##### Clôture   
@@ -1393,16 +1412,16 @@ Focaliser l’attention sur les seuls sujets qui le nécessitent
 La description du livret central sera la plus légère possible 
 
 
-#### 5.28  Brique compatibilité système pyramidal
+#### 5.28  Brique curseur managérial
 
 ##### Système 
 
-L’organisation en cellule est compatible avec une organisation pyramidale du point de vue structurel
+L’organisation cellulaire est compatible avec une organisation pyramidale. 
 
 ##### Ce qui est commun
 
- - La raison d’être et les redevabilités de la cellule doivent répondre aux besoins de l’équipe amont 
- - Le rôle lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ 
+ - La raison d’être et les redevabilités de la cellule doivent répondre aux besoins de l’équipe amont.
+ - Le rôle lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
 
 ##### Les différences 
 
@@ -1514,21 +1533,21 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
  - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
- - Décision par consentement : à mettre en œuvre pour se contraindre à aboutir à une décision, avec un niveau d’ouverture modéré 
- - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps 
- - Espace contrat : toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
+ - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC) 
+ - Espace contrat : régit le « qui fait quoi », toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
  - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
  - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
+ - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps
  - Membre : un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
  - Politique : règle décidée par une cellule qui s’applique soit à la cellule, soit aussi aux cellules spécifiques
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière 
  - Réunion d’élection sans candidat : affecter un rôle 
- - Réunion de triage : affecter des actions nécessaires pour avancer dans le travail 
+ - Réunion d’opération : affecter des actions nécessaires pour avancer dans le travail 
+ - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
  - Réunion de régulation : restaurer la relation avec une ou plusieurs autres personnes 
  - Réunion de réorganisation : créer un rôle ou le modifier pour répondre à un besoin 
- - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
  - Réunion de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
  - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités
  - Rôle lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes
