@@ -8,6 +8,9 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
+
+## 1)  Avant-propos
+
 ## 1.1)  La démarche Gouvernance cellulaire   
 
 #### Au-delà des modèles : une pratique continue
@@ -28,7 +31,7 @@ Le cadre Gouvernance cellulaire permet de co-construire un diagnostic et de déc
 Des formations ou des expérimentations avec des accompagnants sont précieuses pour simplifier l’accès à la gouvernance cellulaire et la monté en compétences.
 
 
-## 1.2)  Avant-propos
+## 1.2)  Philosophie
 
 #### Principe du Vivant 
 
@@ -55,9 +58,6 @@ Nous croyons que le mouvement vers plus d’harmonie est facilité par :
   - La conscience de soi (introspection, accueil, évolution).
   - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système).
   - Le choix des actions en responsabilité et leur réalisation.
-  
-#### Proposition
-Notre proposition est de vous permettre d'améliorer le fonctionnement de votre structure par l’un ou l’autre des éléments de cette constitution. Rien n’impose de passer intégralement en mode Gouvernance Cellulaire.
 
 ## 2)  Raison d’être de la gouvernance cellulaire
 
@@ -116,9 +116,9 @@ Car nous avons envie :
 - de participer au monde par la création d’un commun.
 
 
-#### *2.3 pour nos actionnaires*  
+#### *2.3 pour nos investisseurs*  
 
-Aucun impact, financement en mode don : "donner et recevoir"  (pas d’actionnaire mais des financeurs). 
+Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investisseurs). 
 
 
 
@@ -159,17 +159,19 @@ Si vous adoptez le mode Gouvernance Cellulaire, vous mettez en place la constitu
 
 ##### Nécessité
 
-Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tout ses membres et collègues, toute réunion, toute action, tout instant.
+Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tous ses membres dans toute réunion, pour toute action et toute décision.
 
 Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
 
 ##### Contenu
 
-Trois dimensions apparaissent dans la raison d’être de structure avec une priorisation :
+La raison d’être (ou vocation) d’une structure est le potentiel le plus inspirant qu’elle peut manifester.
 
-- Impact sur le monde. 
-- Impact sur ses membres et collègues.  
-- Impact sur ses actionnaires.
+Elle balaie trois dimensions qu’elle priorise :
+
+- apport au monde. 
+- Apport à ses membres.  
+- Apport à ses investisseurs.
 
 Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention (le parce que).
 
@@ -177,7 +179,7 @@ Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l�
 
 La raison d’être d’une structure est intuitive, perceptible et évolutive.
 
-Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à une cellule.
+Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure en fonction de ce qu’il observe jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à une cellule.
 
 #### 3.2  Actualisation de la raison d’être 
 
@@ -263,15 +265,15 @@ Pour réaliser sa raison d’être tout en prenant en compte les humains qui la 
 
 ##### Tension de rôle 
 
-Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle.
+Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
+
+
 
 ##### Tension de personne 
 
-La tension de personne permet de prendre soin de soi en tant que personne.
+Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
 
-Elle peut aboutir à une demande adressée à un rôle, à une personne de la cellule ou à toute la cellule.
-
-Elle entraine par exemple une demande de réunion de régulation pour travailler la relation ou une demande de réunion de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
+Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de réunion de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
 
 
 ##### Tension de cellule 
@@ -317,11 +319,17 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Le rôle facilitation mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions : 
 
-- Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?) – Lequel de tes rôles est impacté ? quelle redevabilité ? (question d’approfondissement optionnelle qui ouvre aux tensions de personne ou de cellule) – A quel rôle t’adresses-tu ? (la réponse peut aussi être je m’adresse à une personne ou à la cellule) – Que demandes-tu concrètement ? 
+ - Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?)
+ 
+ – Lequel de tes rôles est impacté ? quelle redevabilité ? – A quel rôle t’adresses-tu ? (la réponse peut être je m’adresse à un rôle, à une personne ou à la cellule) – Que demandes-tu concrètement ? 
 
-- *Au rôle concerné :* - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (la réponse à des demandes adressées à un rôle dans le cadre de sa raison d’être ou de ses redevabilités est obligatoirement positive.)
-- *A la personne concernée :* Quelle est ta réponse ? Lecture par le rôle mémoire de la réponse telle qu’il l’a saisie.
-- *Au rôle demandeur :* Moyennant cette réponse, as-tu ce dont tu as besoin ici ? 
+ - Si c’est adressé à un rôle : - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (un rôle doit prendre en compte la tension)
+
+ - Si c’est adressé à une personne : Quelle est ta réponse ? (une personne n’est pas obligée de prendre en compte la tension) 
+
+ - Lecture par le rôle mémoire de la réponse telle qu’il l’a saisie
+
+ - Enfin, au rôle demandeur, après lecture par le rôle mémoire de l’action telle qu’elle a été notée :* Avec cette réponse, as-tu ce dont tu as besoin ici ? 
 
 ##### Clôture   
 
@@ -455,7 +463,7 @@ Le membre qui ressent la tension.
 
 ##### Comment fait-il ?
 
-Il l’exprime en réunion de triage. 
+Il l’exprime en réunion d’opération. 
 
 Il est encouragé à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparait pas.
 
@@ -472,7 +480,10 @@ Les alternatives peuvent être :
  - Focalisation de toute la cellule sur l’action.
  - Une meilleure solution. 
  
- Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
+##### Fonction défense immunitaire
+Au-delà de cette posture d’exigence, une structure doit être capable de se protéger des membres qui n’arrivent pas à se recadrer pour respecter les processus et les règles communes. A minima, ceux-ci doivent finir par être écartés de la gouvernance. Pour les collectifs qui auraient du mal à assurer cette protection, il peut être utile de la confier à un rôle.
+
+  Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
  
  #### 3.10  Pilotage de soi 
 
@@ -534,7 +545,7 @@ Exemples de process verbalisé :
  - Exprimer ses enjeux  « ici et maintenant » (personnel, équipe, structure, société, environnement).
  - Tour de table.
 
-#### 3.12 Efficacité-humaniste
+#### 3.12 L’autodiagnostic efficacité-humaniste
 **des conditions pour que les décisions prises soient suivies d’effets**.
 
 #####  Intentions
@@ -1183,21 +1194,22 @@ Ne pas prendre soin du travail sans considération des humains : considérer cha
 
 #### 5.18  Brique bonté
 
-##### Prendre Soin  
+##### Prendre soin du climat de travail 
 
-Fonctionner dans un environnement solidaire signifie que chacun prend soin des autres de son mieux
+ - Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun
+ - Entretenir notre **confiance** : considérer nos collègues capables de trouver leur propre solution
+ - **Renvoyer** du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger.
+ - **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
+ - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
+ - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
 
-Une posture nous semble bénéfique : 
+##### Prendre soin des humains 
 
-- Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun
-- Entretenir notre **confiance** : considérer nos collègues capables de trouver leur propre solution
-- Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé
-- Renvoyer du **feedback** de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger
-- Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
-- **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger … 
-- **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer … 
-- **Réciprocité** : recevoir les mêmes soins de la part de nos collègues, écouter en mode présence à ce que cela nous donne à vivre
-- **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière
+ - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger … 
+ - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance
+ - **Réciprocité** : recevoir les mêmes soins de la part de nos collègues, 
+ - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites 
+ - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
@@ -1528,12 +1540,14 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 
 #### 6.2  Glossaire 
 
+ - Auto-diagnostique : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste
  - Brique : module activable et désactivable par une cellule selon les besoins qu’il rencontre
  - Cellule : Une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
  - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC) 
+ - Efficacité-humaniste : à la fois le système de valeurs qui soutent gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine
  - Espace contrat : régit le « qui fait quoi », toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
  - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
  - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
