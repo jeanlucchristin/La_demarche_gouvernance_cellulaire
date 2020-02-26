@@ -1581,7 +1581,7 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 
 Vous pouvez copier, distribuer, communiquer et transformer ces contenus pour toute utilisation y compris commerciale
 
-##### Raison d'être
+##### Intention
 
 Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre
 
