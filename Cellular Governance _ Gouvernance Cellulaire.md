@@ -1050,7 +1050,11 @@ De cette discipline de se contenter peut apparaitre un contentement sain pour no
 #### 5.12  Brique éthique permacole 
 
 ##### Intention
-Aider les membres à expliquer leurs besoins éthiquesCette brique propose trois piliers éthiques pour aider à concevoir les raisons d’être ou à clarifier une situation de doute. Ce doute peut apparaitre lors de toute décision ou de toute action. Les trois piliers, inspirés de la permaculture, se veulent en amont de votre propre système de valeur et de celui de votre structureSelon ces trois piliers, chaque projet serait une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre :
+Aider les membres à expliquer leurs besoins éthiques. 
+Cette brique propose trois piliers éthiques pour aider à concevoir les raisons d’être ou à clarifier une situation de doute. Ce doute peut apparaitre lors de toute décision ou de toute action.
+
+Les trois piliers, inspirés de la permaculture, se veulent en amont de votre propre système de valeur et de celui de votre structure.
+Selon ces trois piliers, chaque projet serait une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre :
 
 ##### Individus 
 Notre manière de faire des projets nous permettrait d’en apprendre plus sur nous même, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort, de développer nos compétences et notre créativité.
