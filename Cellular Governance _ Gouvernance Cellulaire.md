@@ -15,7 +15,9 @@ Plus d’info à la fin de la constitution.*
 
 #### Au-delà des modèles : une pratique continue
 
-Gouvernance cellulaire propose un cadre de référence progressif pour construire et maintenir un environnement de travail efficace qui prend soin de l’humain.
+Gouvernance cellulaire propose un cadre de référence progressif pour établir et maintenir un environnement de travail efficace qui prend soin de l’humain.
+
+C’est une méthode pour co-construire un diagnostic puis décider d’actions concrètes.
 
 Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement par l’un ou l’autre des éléments de cette constitution.
 
@@ -219,27 +221,32 @@ Chacun nomme en une fois comment il a vécu « l’efficacité » et le « pr
 #### 3.3  Egrégore d'équipe 
 
 ##### Intentions
+*Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
 
-Contacter la bulle énergétique du groupe 
+Cette énergie est positive ou négative, mouvante et adaptable 
 
- - Connexion : faire de la place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui. 
- - Accueillir l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe.
- - Animer un temps pour se centrer sur ce avec quoi chacun arrive (tête, corps, coeur).
- - Eviter les blocages.
+C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressourceElle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
+ - temps pour se centrer sur ce avec quoi chacun arrive (tête, corps, cœur).
+ - Accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe.
+ - Connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
 
 ##### Process 
 
 Exemples de process corporel : plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R).
- - un temps de silence .
- - Déambulation dans la salle et centrage, attention flottante à soi, puis à ceux qu’on croise, puis au groupe. 
- - Exercice corde et bougie. 
- - Atelier le choeur et le héros (exercice inspiré du théâtre).
+ - Accueillir les silences ou proposer un temps de silence.
+ - Marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement.
+ - Créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre).
+ - Partager une expérience sensible (création d’une œuvre commune …).
+
 
 Exemples de process verbalisé :
- - moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf brique palabre).
- - Photolangage.
- - Exprimer ses enjeux  « ici et maintenant » (personnel, équipe, structure, société, environnement).
- - Tour de table.
+ - dire aux autres comment on fonctionne.
+ - Exprimer ses enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement).
+ - Temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite.
+ - Moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf brique palabre).
+ - Tour de table, photolangage.
+ - Momens informels de relation.
+
 
 #### 3.4  Réunion de régulation  
 
@@ -1040,7 +1047,22 @@ Les temps de palabre sont des espaces d’expression collective
 
 De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
 
-#### 5.12  Brique Frustration 
+#### 5.12  Brique éthique permacole 
+
+##### Intention
+Aider les membres à expliquer leurs besoins éthiquesCette brique propose trois piliers éthiques pour aider à concevoir les raisons d’être ou à clarifier une situation de doute. Ce doute peut apparaitre lors de toute décision ou de toute action. Les trois piliers, inspirés de la permaculture, se veulent en amont de votre propre système de valeur et de celui de votre structureSelon ces trois piliers, chaque projet serait une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre :
+
+##### Individus 
+Notre manière de faire des projets nous permettrait d’en apprendre plus sur nous même, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort, de développer nos compétences et notre créativité.
+
+##### Collectif 
+Notre mode de fonctionnement collectif serait l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
+
+##### Eco-système global 
+La façon dont est pensé notre projet amènerait à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
+
+
+#### 5.13  Brique Frustration 
 
 ##### Raison d’être 
 
@@ -1063,7 +1085,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
 
-#### 5.13  Brique composer avec nos différences 
+#### 5.14  Brique composer avec nos différences 
 
 ##### Raison d’être 
 
@@ -1093,7 +1115,7 @@ Par ailleurs, Will Schutz a développé une approche centrée sur la compatibili
 
 Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
-#### 5.14  Brique inclusion
+#### 5.15  Brique inclusion
 
 ##### Raison d’être 
 
@@ -1132,7 +1154,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
 
-#### 5.15  Brique 180°  
+#### 5.16  Brique 180°  
 
 ##### Raison d’être 
 
@@ -1164,7 +1186,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.16  Brique équilibre éthique
+#### 5.17  Brique équilibre éthique
 
 #### Priorisation éthique : produire et prendre soin 
 
@@ -1178,7 +1200,7 @@ Les membres de la structure assument qu’ils n’ont pas les compétences pour 
 Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
  Préserver la structure et les humains qui la composent
 
-#### 5.17  Brique bonté
+#### 5.18  Brique bonté
 
 ##### Prendre soin du climat de travail 
 
@@ -1199,7 +1221,7 @@ Ne pas prendre soin du travail sans considération des humains : considérer cha
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.18  Brique décision par concordance 
+#### 5.19  Brique décision par concordance 
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -1223,7 +1245,7 @@ Le rôle facilitation revient ensuite vers les membres qui n’ont pas prononcé
 
 Le rôle facilitation gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
 
-#### 5.19  Brique création raison d’être
+#### 5.20  Brique création raison d’être
 
 ##### Raison d’être 
 Co-construire une raison d’être quand elle ne s’actualise pas suffisamment par itérations spontanées 
@@ -1254,7 +1276,7 @@ Passer par le dessin : feutres de couleurs, sous groupes de 5-6
 7. Clôture   
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
 
-#### 5.20  variante DIC et réorg.
+#### 5.21  variante DIC et réorg.
 
 ##### Variante DIC : « la proposition tournante »
 Après les réactions, le proposeur rédige sa V2 (étape 7)
@@ -1279,7 +1301,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.21  Brique réorg. hors réorg.  
+#### 5.22  Brique réorg. hors réorg.  
 
 ##### Raison d’être 
 
@@ -1294,7 +1316,7 @@ Simplifier le processus, fonctionner à distance
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-#### 5.22  Brique Entretien annuel  
+#### 5.23  Brique Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1323,7 +1345,7 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
 
-#### 5.23  Brique numérique
+#### 5.24  Brique numérique
 
 ##### Raison d’être 
 
@@ -1335,7 +1357,7 @@ Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
 
-#### 5.24  Brique magique 
+#### 5.25  Brique magique 
 
 ##### Raison d’être : 
 
@@ -1362,7 +1384,7 @@ A vous de jouer !
 
 
 
-#### 5.25  Brique rôle Source 
+#### 5.26  Brique rôle Source 
 
 ##### Raison d’être du rôle source 
 Tenir le cap de son intuition de ce que pourrait devenir la structure
@@ -1384,7 +1406,7 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres de la c
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet
 
 
-#### 5.26  Brique légèreté-simplicité  
+#### 5.27  Brique légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cellule, rôles, politiques, processus etc) pour 
@@ -1410,7 +1432,7 @@ Focaliser l’attention sur les seuls sujets qui le nécessitent
 La description du livret central sera la plus légère possible 
 
 
-#### 5.27  Brique curseur managérial
+#### 5.28  Brique curseur managérial
 
 ##### Système 
 
@@ -1435,7 +1457,7 @@ En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
 
-#### 5.28 Brique charte gouvernance cellulaire 
+#### 5.29 Brique charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1473,7 +1495,7 @@ Signatures :
 
 *¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.29  Brique Liberté Egalité Fraternité
+#### 5.30  Brique Liberté Egalité Fraternité
 
 ##### Intention
 
@@ -1589,11 +1611,40 @@ Le fait de conserver un auteur principal nous a paru nécessaire pour produire u
 
 #### 7.2  Contributeurs
 
-##### G30 
-Un groupe d’une grosse trentaine de personnes est actif depuis début février 2019 et a contribué à cette version 
+##### Equipe Gouvernance Cellulaire 
+Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est organisée en 6 cellules.
+ 
+##### Cellule laboratoire
+Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
 
-##### Contributeurs particuliers 
+Olivier Daniel Thomas, Juliette Mouy, Thierry Perrier, Nicolas Begel, Virginie Angove, Yann Crespel (rôle lead)
 
-Certaines contributions ont donné forme à des évolutions très concrètes, en particulier celles de : 
+##### Cellule écriture
+Adapter en continu la constitution de la Gouvernance Cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
 
-Lydia Pizzoglio (UDN), Olivier Daniel Thomas (ARaymond), Philippe Clément (Stratégial), Virginie Angove (Sandokai), Guillaume Dorvaux (Hum!), Philippe Kuhn (Euroasis), Béatrice Francou (Be&Do), Yann Crespel (DlmB), Gilles Christin (le Pain des Cairns), Thierry Malo, Elisabeth Georges (DIS Développement), Frédéric Castoldi (CdG 38), Colin Dujardin, Yann Bresson (Orange Campus), Thierry Perrier (Sagarana), Laurent Marseault, Philippe Le Van (Kibatic), Damien Richard (INSEEC), Nicolas Begel (Bollhoff)
+Yvan Schallenberger, Laurent Favia, Corinne Vialle, Yann Crespel, Jeanluc Christin (rôle source)
+
+##### Cellule école 
+Organiser la formation à la GC, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
+
+Jeanluc Christin, Jean-Christophe Ciceron, Corinne Vialle, Christophe Herault, (rôle lead)
+
+##### Cellule rayonnement 
+
+Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté. 
+
+##### Gouvernance Cellulaire
+Christophe Herault, Virginie Angove, Laurent Favia, Yves Christol, David Drayer (rôle lead)
+
+##### Cellule sève : la cellule qui prend soin de la vie du collectif
+
+Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
+
+Juliette Le Roy, Jean-Christophe Ciceron, Nicolas Begel, Virginie Angove (rôle lead)
+
+##### Cellule ancrage (la cellule souche)
+
+A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif.
+
+Virginie Angove, Christophe Herault, David Drayer, Yann Crespel, Jeanluc Christin (rôle lead)
+
