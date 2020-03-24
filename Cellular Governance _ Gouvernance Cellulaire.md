@@ -1,4 +1,4 @@
-# Gouvernance Cellulaire   version de développement
+# Gouvernance Cellulaire   V3.0
  
 Explorons une autre façon de travailler ensemble
 
