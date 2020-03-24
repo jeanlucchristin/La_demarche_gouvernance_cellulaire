@@ -1229,7 +1229,7 @@ Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère ef
 
 ##### Raison d’être : forts enjeux humains 
 
-Contrairement à la décision en gestion par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants
+Contrairement à la décision en gestion par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants en révélant des blocages potentiels.
 
 Elle est plus longue qu’une décision par consentement, cherche la meilleure issue possible. Par conséquent, elle est réservée aux décisions à fort enjeu humain 
 
