@@ -1631,7 +1631,7 @@ Yvan Schallenberger, Laurent Favia, Corinne Vialle, Yann Crespel, Jeanluc Christ
 ##### Cellule école 
 Organiser la formation à la GC, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
 
-Jeanluc Christin, Jean-Christophe Ciceron, Corinne Vialle, Christophe Herault, (rôle lead)
+Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault, (rôle lead)
 
 ##### Cellule rayonnement 
 
