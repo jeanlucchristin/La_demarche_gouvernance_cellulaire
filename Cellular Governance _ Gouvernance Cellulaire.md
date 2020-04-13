@@ -1621,7 +1621,7 @@ Depuis septembre 2019, une équipe est active pour tester, améliorer, transmett
 ##### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
 
-Olivier Daniel Thomas, Juliette Mouy, Thierry Perrier, Nicolas Begel, Virginie Angove, Yann Crespel (rôle lead)
+Olivier Daniel Thomas, Juliette Mouy, Thierry Perrier, Christophe Herault, Nicolas Begel, Virginie Angove, Yann Crespel (rôle lead)
 
 ##### Cellule écriture
 Adapter en continu la constitution de la Gouvernance Cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
@@ -1631,7 +1631,7 @@ Yvan Schallenberger, Laurent Favia, Corinne Vialle, Yann Crespel, Jeanluc Christ
 ##### Cellule école 
 Organiser la formation à la GC, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
 
-Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault, (rôle lead)
+Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault (rôle lead)
 
 ##### Cellule rayonnement 
 
