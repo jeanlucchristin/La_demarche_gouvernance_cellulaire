@@ -21,7 +21,7 @@ C’est une méthode pour co-construire un diagnostic puis décider d’actions 
 
 Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement par l’un ou l’autre des éléments de cette constitution.
 
-Cette logique d’ajustement est permanente : même si une structure qui a mis en place la constitution avec les éléments cœurs requis, les 4 rôles préconstruits et des briques optionnelles est dite en gouvernance cellulaire, cela n’arrête pas sa démarche.
+Cette logique d’ajustement est permanente : même si une structure qui a mis en place la constitution avec les éléments cœurs, les 4 rôles préconstruits et des éléments optionnels est dite en gouvernance cellulaire, cela n’arrête pas sa démarche.
 Elle continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
 
 #### Cadre de référence
@@ -79,11 +79,10 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 
 ##### Comment ?  
 
- - Un livret central avec des éléments cœur requis et des rôles préconstruits.
- - Des briques modulaires optionnelles.
+ - Un livret central avec des éléments cœur et des rôles préconstruits.
+ - Des éléments modulaires optionnels.
 
 Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit.
-
 
 
 ##### Intention ? 
@@ -122,40 +121,35 @@ Car nous avons envie :
 
 Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investisseurs). 
 
-
-
-## 3)  Livret central : Eléments cœurs requis 
+## 3)  Livret central : Eléments cœurs 
  
-#### 3.0  Eléments cœurs requis
+#### 3.0  Eléments cœurs
 
   - L’Auto-diagnostic Efficacité-humaniste : des conditions pour que les décisions prises soient suivies d’effets 
-
+  
+  **Espace Sens :** 
+   - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
+   - Raison d’être : une raison d’être (pour la structure, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
+   - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
+   - Temps de positionnement éthique : Se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique.
+   
 **Espace Relation :**
 
   - Pilotage de soi : sortir par le haut d’une incapacité à appliquer une décision.
   - Egrégore : contacter la bulle énergétique du groupe.
-  - Réunion de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation.
-  
-  **Espace Sens :** 
-  - Réunion de sens : Se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique.
-  - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
+  - Temps de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation.
   
 **Espace Contrat :** 
   - Exigence : Résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
-  - Réunion d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
+  - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
   - Décision par Consentement : Aider le collectif à aboutir à une décision (stratégie ou toute décision ...) en gestion par consentement (GPC).
-    - Réunion de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
+    - Temps de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
   
-  **Structuration :** 
-  - Raison d’être : une raison d’être (pour la structure et pour chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent les membres chargés de la réaliser.
-
+  **Mécanique organique :** 
   - Rôle : description de ce sur quoi les autres membres et collègues peuvent compter.
-
   - Cellule : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles.
-
   - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires.
-
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 
@@ -183,7 +177,125 @@ Il nous parait sain de :
  - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus).
  - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une solution nouvelle  à tester n’apparait pas (cf « Exigence »).
 
-#### 3.2  Pilotage de soi 
+#### 3.2 Principe de choix - souveraineté 
+
+##### Liberté 
+
+Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs.
+
+##### Assumer
+
+ Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultat, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
+
+##### Sortie de rôle
+
+Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
+
+Plus de réflexion [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
+
+#### 3.3 Raison d’être  
+
+##### Nécessité
+
+Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tous ses membres dans toute réunion, pour toute action et toute décision.
+
+Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
+
+##### Contenu
+
+La raison d’être (ou vocation) d’une structure est le potentiel le plus inspirant qu’elle peut manifester.
+
+Elle balaie trois dimensions qu’elle priorise :
+
+- apport au monde. 
+- Apport à ses membres.  
+- Apport à ses investisseurs.
+
+Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention (le parce que).
+
+##### Rôle Source
+
+La raison d’être d’une structure est intuitive, perceptible et évolutive.
+
+Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure en fonction de ce qu’il observe jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à une cellule.
+
+#### 3.4  Actualisation de la raison d’être 
+
+##### Pouvoir de proposition
+
+Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de sa cellule. 
+Par défaut, la réunion est sous forme de décision par consentement.
+
+Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
+- Cellule souche pour une évolution de la raison d’être de sa cellule.
+- Cellule ancrage pour une évolution de la raison d’être de sa structure.
+
+La cellule souche vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin
+
+*l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
+ 
+
+##### Devoir de réponse
+
+Une réponse doit être fournie. Elle peut prendre deux formes : 
+
+- « La raison d’être est modifiée ainsi … » (soit directement le résultat, soit un processus de modification). 
+- « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet ».
+
+
+##### Intention
+
+L’intention est de permettre à chacun :
+
+- un consentement éclairé et actif à la raison d’être de la structure.
+- De prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
+
+plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
+
+#### 3.5  Temps de positionnement éthique 
+
+##### Raison d’être 
+
+Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’un sujet éthique quand un membre éprouve un conflit entre sa vision du monde (comprenant ses valeurs profondes) et ce qu’il vit. le rendu sera une décision, une proposition ou une simple réflexion nourrissant le système.
+ 
+##### Méthode 
+
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
+
+Attention : ce temps nécessite facilement une durée conséquente (nous observons facilement 2h)
+
+##### Thèmes    
+
+Tout sujet proposé par l’organisateur, dont ambition ; objectifs ; priorités stratégiques ; sujet métier ; lignes directrices (ou valeurs) etc.
+
+##### Inclusion  
+
+Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet.
+
+Tour d’inclusion : comment je me sens en arrivant ?
+
+##### Processus 
+
+Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux …. Toutes à expérimenter
+
+Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.
+
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
+
+1. Présentation du thème et de la question préparée par l’organisateur.
+2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes. 
+3. Sous-groupe : 15’ Où en sommes-nous sur ce thème ? En quoi est-ce important de le travailler ?
+4. Restitution rapide des sous-groupe en plénière.
+5. Solo : chacun prépare une proposition par écrit (éventuellement sous groupes par affinités selon la taille du groupe).
+6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles.
+8. Le groupe décide de la solution qu’il retient (décision spontanée, consentement ou choix d’en rester là).
+9. Solidification de la décision par concordance.
+
+#### Clôture   
+
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+
+#### 3.6  Pilotage de soi 
 
 ##### Raison d’être
 
@@ -216,9 +328,9 @@ Les prochaines fois
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion.
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.3  Egrégore d'équipe 
+#### 3.7  Egrégore d'équipe 
 
 ##### Intentions
 *Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
@@ -243,26 +355,25 @@ Exemples de process verbalisé :
  - dire aux autres comment on fonctionne.
  - Exprimer ses enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement).
  - Temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite.
- - Moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf brique palabre).
+ - Moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf élément palabre).
  - Tour de table, photolangage.
  - Momens informels de relation.
 
-
-#### 3.4  Réunion de régulation  
+#### 3.8  Temps de régulation  
 
 ##### Raison d’être 
 
-Aider des membres ou collègues en tension relationnelle à se distancier de la situation et à restaurer les conditions d’une relation plus saine et confiante.
+Aider des membres ou collègues en tension relationnelle à restaurer les conditions d’une relation plus saine et confiante.
 
 ##### Logistique   
 
-Périodicité : sur demande. Participants : les membres ou collègues impactés volontaires et s’ils le souhaitent un rôle facilitation de séance. 
+Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires, et s’ils le souhaitent un rôle facilitation. 
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
 
 ##### Inclusion  
 
-Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arrivant, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. 
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. 
 Les autres écoutent en silence.
 
 ##### Ordre du jour  
@@ -273,80 +384,23 @@ Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulati
 
 Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
-1. Si l’intention de restauration n’a pas été nommée : quelle est votre intention vis-à-vis de ce temps de régulation ? 
-2. Qui souhaite commencer ? (il devient l’émetteur, l’autre ou les autres deviennent les receveurs).
+1. Rappeler la raison d’être de ce temps ainsi que le fait que chacun doit être volontaire tout au long du processus pour participer et peut, par conséquent, interrompre la rencontre à tout moment.
+2. Qui est demandeur de ce temps ? (il devient l’émetteur, l’autre ou les autres deviennent les receveurs).
 3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
-4. Au receveur : peux-tu reformuler ce que tu retiens ? 
+4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
 5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
-6. Au receveur : que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
-7. Refaire la séquence avec l’interlocuteur suivant (ou les). 
+6. Au receveur : Après avoir entendu cela, que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? 
+7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire.
+(à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
+8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3)
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette réunion.
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
 plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
-#### 3.5  Réunion de sens 
-
-##### Raison d’être 
-
-Temps de construction du collectif autour d’un rendu co-élaboré.
- (Le rendu sera une décision ou une proposition.)
- 
-##### Méthode 
-
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
-
-##### Thèmes    
-
-Tout sujet proposé par l’organisateur, dont ambition ; objectifs ; priorités stratégiques ; sujet métier ; lignes directrices (ou valeurs) etc.
-
-##### Inclusion  
-
-Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet.
-
-Tour d’inclusion : comment je me sens en arrivant ?
-
-##### Processus 
-
-Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux …. Toutes à expérimenter
-
-Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.
-
-Le rôle facilitation distribue la parole selon les étapes suivantes : 
-
-1. Présentation du thème et de la question préparée par l’organisateur.
-2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes. 
-3. Sous-groupe : 15’ Où en sommes-nous sur ce thème ? En quoi est-ce important de le travailler ?
-4. Restitution rapide des sous-groupe en plénière.
-5. Solo : chacun prépare une proposition par écrit (éventuellement sous groupes par affinités selon la taille du groupe).
-6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles.
-7. Préparation de la sélection : chacun dispose de trois points à affecter selon ses préférences (barrettes ou gommettes).
-8. Le groupe décide de la solution qu’il retient (décision spontanée ou consentement).
-9. Solidification de la décision par concordance.
-
-#### Clôture   
-
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion.
-
-#### 3.6  Principe de choix - souveraineté 
-
-##### Liberté 
-
-Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs.
-
-##### Assumer
-
- Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultat, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
-
-##### Sortie de rôle
-
-Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
-
-Plus de réflexion [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
-
-####  3.7  Exigence
+####  3.9  Exigence
 
 ##### Intention
 
@@ -384,31 +438,31 @@ Au-delà de cette posture d’exigence, une structure doit être capable de se p
 
   Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
  
-#### 3.8  Réunion d’opération
+#### 3.10  Temps d’opération
 
 ##### Raison d’être 
 
-Offrir d’un espace de contractualisation.
+Offrir un espace de contractualisation.
 
 L’objectif est d’aider chacun à réduire des tensions avec l’aide de sa cellule en engageant les autres dans ce qui doit ou pourrait être fait.
 
-Les engagements peuvent être pris en dehors de cette réunion.
+Les engagements peuvent être pris en dehors de ce temps.
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus.  Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
+Périodicité : sur demande ou régulière. Nous conseillons de fixer une durée maximum à l’avance. Nous constatons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus. Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule*.
  
 ##### Inclusion  
 
-Temps d’embarquement dans la réunion, chacun nomme comment il arrive.
+Chacun nomme comment il arrive.
 
 ##### Préambule  
 
 La cellule revoit la check list et les indicateurs avant de commencer.
 
-Un temps d’informations sobres sur les actions en cours est ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour cette réunion.
+Un temps d’informations sobres sur les actions en cours est ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour démarrer.
 
 Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à traiter (avant ou pendant la réunion).
 
@@ -417,6 +471,8 @@ Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à
 Chacun peut donner un ou deux mots pour réserver un créneau.
 
 Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont il voudrait qu’elles se passent.
+
+Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à traiter (avant ou pendant ce temps) 
 
 ##### Processus de  triage  
 
@@ -438,7 +494,7 @@ Quand un sujet consomme trop de temps, il invite à une clôture rapide ou un tr
  
 ##### Processus de sollicitation d’avis   
 
-En réunion d’opération, un membre peut solliciter un avis.
+En temps d’opération, un membre peut solliciter un avis. Les avis peuvent être sollicités en dehors de ce temps
 
 Cet avis lui servira à prendre une décision murie grâce à l’éclairage de ses collègues.
 
@@ -450,14 +506,13 @@ Les personnes qui aimeraient plus de temps peuvent proposer au demandeur un éch
 
 ##### Processus d’information
 
-En réunion d’opération, un membre peut simplement donner une information et considérer sa tension levée dès que l’information a été transmise.
+En temps d’opération, un membre peut simplement donner une information et considérer sa tension levée dès que l’information a été transmise.
 
 ##### Clôture   
 
-Le rôle facilitation demande : comment avez-vous vécu « l’efficacité » et le « prendre soin » dans cette  réunion ? 
-Chacun répond en une fois, les autres écoutent (en silence).
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps	
 
-#### 3.9 Décision par consentement
+#### 3.11 Décision par consentement
 
 ##### Utilité  
 
@@ -485,16 +540,16 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
 
-8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ?Cela nous cause-t-il du tord ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
+8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ?Cela nous cause-t-il du tort ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
 
-9 - Le rôle facilitation peut aider les objecteurs à évaluer s’il est **impératif d’intégrer leur objection** à la proposition V2. Ce n’est pas le cas quand l’objection concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
+9 - Le rôle facilitation peut aider l’objecteur à évaluer s’il est **impératif d’intégrer son objection** à la proposition V2. Ce n’est pas le cas si l’objection concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet. (l’objecteur est souverain pour cette décision s’il l’argumente).
 
 Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
 Les objections non argumentées ne peuvent pas être retenues mais peuvent devenir d’autres tensions.
 
 *Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition*. 
 
-10 - **Résolution**. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
+10 - **Résolution** : Paroles libres. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
 
 *Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition : retour à l’appel à proposition.*
 
@@ -502,9 +557,10 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 			Plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
-#### 3.10  Réunion de réorganisation
+#### 3.12  Temps de réorganisation
 
 ##### Raison d’être 
 
@@ -512,11 +568,11 @@ Création, suppression, évolution, clarification des rôles et des politiques.
 
 ##### Logistique   
 
-Périodicité : sur demande ou hebdomadaire. Durée max fixée à l’avance. Nous apprécions un temps court de l’ordre de 25 minutes pour un point par semaine. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée.
+Périodicité : sur demande ou régulière. Si une liste de sujets en attente existe, une réunion spécifique peut être demandée.
 
 ##### Inclusion  
 
-Temps d’embarquement dans la réunion, chacun nomme comment il arrive.
+Chacun nomme comment il arrive.
 
 ##### Ordre du jour  
 
@@ -532,9 +588,9 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion. 
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.11  Election sans candidat
+#### 3.13  Election sans candidat
 
 ##### Raison d’être 
 
@@ -546,7 +602,7 @@ Périodicité : sur demande ou à échéance des rôles élus . Durée max fixé
 
 ##### Inclusion  
 
-Temps d’embarquement dans la réunion : chacun nomme comment il arrive.
+Chacun nomme comment il arrive.
 
 ##### Ordre du jour  
 
@@ -566,64 +622,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion.
-
-#### 3.12 Raison d’être  
-
-##### Nécessité
-
-Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tous ses membres dans toute réunion, pour toute action et toute décision.
-
-Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
-
-##### Contenu
-
-La raison d’être (ou vocation) d’une structure est le potentiel le plus inspirant qu’elle peut manifester.
-
-Elle balaie trois dimensions qu’elle priorise :
-
-- apport au monde. 
-- Apport à ses membres.  
-- Apport à ses investisseurs.
-
-Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention (le parce que).
-
-##### Rôle Source
-
-La raison d’être d’une structure est intuitive, perceptible et évolutive.
-
-Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure en fonction de ce qu’il observe jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à une cellule.
-
-#### 3.13  Actualisation de la raison d’être 
-
-##### Pouvoir de proposition
-
-Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de sa cellule. 
-Par défaut, la réunion est sous forme de décision par consentement.
-
-Le livrable de la réunion est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- Cellule souche pour une évolution de la raison d’être de sa cellule.
-- Cellule ancrage pour une évolution de la raison d’être de sa structure.
-
-*l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
- 
-
-##### Devoir de réponse
-
-Une réponse doit être fournie. Elle peut prendre deux forme : 
-
-- « La raison d’être est modifiée ainsi … ». 
-- « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet ».
-
-
-##### Intention
-
-L’intention est de permettre à chacun :
-
-- un consentement éclairé et actif à la raison d’être de la structure.
-- De prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
-
-plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
 #### 3.14  Rôle et cellule
 
@@ -680,14 +679,11 @@ Pour réaliser sa raison d’être tout en prenant en compte les humains qui la 
 
 Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
 
-
-
 ##### Tension de personne 
 
 Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
 
 Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de réunion de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
-
 
 ##### Tension de cellule 
 
@@ -696,7 +692,7 @@ La tension de cellule est relative directement à la réalisation des raisons d�
 - Soit à tous les membres la cellule.
 - Soit à la cellule en mode consentement dans une réunion dédiée.
 
-## 4) Livret central : Rôles préconstruits requis
+## 4) Livret central : Rôles préconstruits
 
 #### 4.1  Rôle lead 
 
@@ -730,12 +726,12 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté
 
 ##### Raison d’être 
 
-Les pratiques de réunions de la cellule sont conformes à la constitution
+Les différents temps de réunion se déroulent conformément à la constitution.
 
 ##### Redevabilités inamovible
 
-- Faciliter les réunions de la cellule requises par la constitution
-- Auditer les réunions et les registres des cellule spécifiques. Signaler au rôle mémoire et au rôle représentation les observations incompatibles avec les règles de la constitution.
+- Faciliter les temps de réunion de la cellule requises par la constitution
+- Consulter les enregistrements des cellules spécifiques. Signaler au rôle mémoire et au rôle représentation les observations incompatibles avec les règles de la constitution.
 
 ##### Redevabilités amovibles
 
@@ -775,7 +771,7 @@ Les tensions pertinentes à processer dans la cellule souche y sont apportées e
 
 Le rôle représentation n’est pas nécessaire si une politique de la cellule souche défini un autre mode de représentation.
 
-## 5)  BRIQUES OPTIONNELLES 
+## 5)  ELEMENTS OPTIONNELS 
 
 #### 5.1  Briques
 
