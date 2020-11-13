@@ -154,15 +154,13 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investiss
 
 
 #### 3.1 L’autodiagnostic efficacité-humaniste
-**des conditions pour que les décisions prises soient suivies d’effets**.
+*Des conditions pour que les décisions prises soient suivies d’effets.*
 
 #####  Intentions
 
 Agir ensemble sans contraindre qui que ce soit : 
-
-ni l’un à faire ce qui était attendu de lui par un/des autres.
-
-Ni l’autre à subir que ce ne soit pas fait.
+  - ni l’un à faire ce qui était attendu de lui par un/des autres.
+  - Ni l’autre à subir que ce ne soit pas fait.
 
 #####  Processus
 
@@ -337,7 +335,7 @@ Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pen
 
 Cette énergie est positive ou négative, mouvante et adaptable 
 
-C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressourceElle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
+C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressource. Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
  - temps pour se centrer sur ce avec quoi chacun arrive (tête, corps, cœur).
  - Accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe.
  - Connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
@@ -498,7 +496,7 @@ En temps d’opération, un membre peut solliciter un avis. Les avis peuvent êt
 
 Cet avis lui servira à prendre une décision murie grâce à l’éclairage de ses collègues.
 
-Le rôle facilitation demande au membre d’exposer sa tension, la question et ceux dont il souhaite un avisSi des membres ont besoin de clarifications, le rôle facilitation anime un court temps de questions/clarifications.
+Le rôle facilitation demande au membre d’exposer sa tension, la question et ceux dont il souhaite un avis. Si des membres ont besoin de clarifications, le rôle facilitation anime un court temps de questions/clarifications.
 
 Ceux qui le souhaitent répondent ensuite en donnant leur avis avec le plus de clarté et de sobriété possible, en une prise de parole unique.
 
