@@ -5,6 +5,8 @@ Explorons une autre façon de travailler ensemble
 *Les modifications de cette version sont visibles [ici](https://cellulargovernance.org/wp-content/uploads/constitution-Cellular-Governance-V3.0-modifs-vs-V2.1.pdf) (en vert).
 Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/50234086-2ec2e800-03b5-11e9-9a84-4cb2a1377e7c.png). 
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
+Elle est déposée ici : https://github.com/jeanlucchristin/constitution-cellular-governance/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
+
 Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
 Plus d’info à la fin de la constitution.* 
 
@@ -21,7 +23,8 @@ C’est une méthode pour co-construire un diagnostic puis décider d’actions 
 
 Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement par l’un ou l’autre des éléments de cette constitution.
 
-Cette logique d’ajustement est permanente : même si une structure qui a mis en place la constitution avec les éléments cœurs, les 4 rôles préconstruits et des éléments optionnels est dite en gouvernance cellulaire, cela n’arrête pas sa démarche.
+Cette logique d’ajustement est permanente. Même si une structure  correspond au calage gouvernance cellulaire avec les éléments cœurs, les 4 rôles préconstruits et d’éventuels éléments optionnels, cela n’arrête pas sa démarche.
+
 Elle continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
 
 #### Cadre de référence
@@ -30,36 +33,39 @@ Le cadre Gouvernance cellulaire permet de co-construire un diagnostic et de déc
 
 #### Autonomie
 
-Des formations ou des expérimentations avec des accompagnants sont précieuses pour simplifier l’accès à la gouvernance cellulaire et la monté en compétences.
-
+Un objectif de la constitution est de permettre à chacun d’acquérir seul les connaissances de la gouvernance cellulaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
 
 ## 1.2)  Philosophie
 
-#### Principe du Vivant 
+#### Contribuer au Vivant 
 
-Nous observons un phénomène en cours : beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façon de faire plus agiles. 
+Permettre à chaque personne, aux projets et aux organisations de manifester le pouvoir créateur qui les anime dans l’exercice de leurs responsabilités.
 
-Nous rejoignons les gens pensant que ces deux quêtes peuvent trouver réponse dans un mode de gouvernance centré sur : 
+Nous observons que beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façons de faire plus agiles. 
 
-- le respect des capacités, des élans et des choix des humains qui composent la structure (choix, liberté).
-- Faire avec le mouvement du monde dans l’unité avec notre environnement (unicité, inclusion, égalité de valeur).
-- Faire ensemble avec soutien et stimulation mutuels (ouverture, amour, fraternité).
+Nous pensons que ces deux quêtes seront favorisées par un mode de gouvernance visant à :
 
-#### Propriété 
-
-Ce mouvement de fond appartient à l’humanité, à la vie. Nous ne cherchons pas ici à nous l’approprier mais à y participer en proposant une forme suffisamment nette pour servir de repère. Par conséquent, cette constitution est un commun CCbySA sans aucun terme protégé. 
+- une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres. 
+- Une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues.
+- La détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
 
 #### Posture 
 
-Nous croyons que le mouvement vers plus d’harmonie est facilité par :
+Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est facilité par :
+- une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres. 
+- Une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues.
+- La détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
 
-- La recherche permanente et dans le mouvement d’**ajustements continus** vers un équilibre sain.
-- L’exploitation des enseignements du vécu : aborder les écarts entre le prévu et le réalisé par la curiosité et la confiance en ce qu’il se passe plutôt que par la crispation sur ce qui était attendu.
 - le travail individuel et collectif sur :
-  - la présence au monde (méditation, jardinage, contemplation…).
-  - La conscience de soi (introspection, accueil, évolution).
-  - La	 conscience des autres (travail de la relation) et du monde (lucidité sur le système).
+  - la présence au monde (méditation…).
+  - La	 conscience des autres (travail de la relation) et du monde.
   - Le choix des actions en responsabilité et leur réalisation.
+
+#### Notre contribution 
+
+Nous participons à cet élan collectif en proposant une forme évolutive suffisamment explicite « de méthode du faire ensemble » pour servir de repère.
+
+Elle est brevetée en bien public, licence « CCbySA ».
 
 ## 2)  Raison d’être de la gouvernance cellulaire
 
@@ -132,6 +138,8 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investiss
    - Raison d’être : une raison d’être (pour la structure, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
    - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
    - Temps de positionnement éthique : Se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique.
+   - Culture essai-apprentissage : ne pas chercher la solution idéale mais expérimenter une option viable et profiter de ses enseignements.
+
    
 **Espace Relation :**
 
@@ -146,7 +154,7 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investiss
     - Temps de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
   
-  **Mécanique organique :** 
+  **Structuration :** 
   - Rôle : description de ce sur quoi les autres membres et collègues peuvent compter.
   - Cellule : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles.
   - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires.
@@ -164,16 +172,16 @@ Agir ensemble sans contraindre qui que ce soit :
 
 #####  Processus
 
-De notre expérience, si l’autorité ou la « verticalité » manque, (cf « Exigence »), l’équipe risque d’être attirée vers une sorte d’exigence de la posture de l’autre (cf « Pilotage de soi »).
+De notre expérience, si l’autorité ou la « verticalité » manque, (cf «  Contrat, structuration »), l’équipe risque d’être attirée vers une sorte d’exigence de la posture de l’autre (cf « choix, autonomie »).
 
 La relation peut se dégrader au point d’amener une séparation pour incompatibilité relationnelle.
 
 Le collectif considèrera que la personne n’avait pas la posture adéquate.
 
 Il nous parait sain de :
- - nourrir la cohésion, l’authenticité et le projet commun  (cf « Egrégore »).
+ - nourrir la cohésion, l’authenticité, la confiance et le projet commun  (cf « Egrégore »).
  - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus).
- - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une solution nouvelle  à tester n’apparait pas (cf « Exigence »).
+ - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence »).
 
 #### 3.2 Principe de choix - souveraineté 
 
@@ -286,8 +294,8 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Restitution rapide des sous-groupe en plénière.
 5. Solo : chacun prépare une proposition par écrit (éventuellement sous groupes par affinités selon la taille du groupe).
 6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles.
-8. Le groupe décide de la solution qu’il retient (décision spontanée, consentement ou choix d’en rester là).
-9. Solidification de la décision par concordance.
+7. Le groupe décide de la solution qu’il retient (décision spontanée, consentement ou choix d’en rester là).
+8. Solidification de la décision par concordance.
 
 #### Clôture   
 
@@ -367,7 +375,7 @@ Aider des membres ou collègues en tension relationnelle à restaurer les condit
 
 Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires, et s’ils le souhaitent un rôle facilitation. 
 
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. . Le processus pertinent est celui choisi par les participants.*
 
 ##### Inclusion  
 
@@ -558,7 +566,20 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 Plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
-#### 3.12  Temps de réorganisation
+#### 3.12 Culture essai-apprentissage
+
+##### Intention 
+La logique de la décision par consentement est liée à la culture essai-apprentissageL’objectif n’est pas de chercher «  LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période
+Il est possible de reprendre une décision dès qu’une tension apparait
+Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente
+
+##### Cycles  
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule) Ces quatre phases sont nommées Action/Perception/Orientation/Décision. (On les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
+
+##### Tension 
+La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+
+#### 3.13  Temps de réorganisation
 
 ##### Raison d’être 
 
@@ -588,7 +609,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.13  Election sans candidat
+#### 3.14  Election sans candidat
 
 ##### Raison d’être 
 
@@ -622,7 +643,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.14  Rôle et cellule
+#### 3.15  Rôle et cellule
 
 *Un rôle est formalisé par écrit si cela répond au besoin d’un des membres*.
 
@@ -654,11 +675,11 @@ Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organise
 Une cellule comprend impérativement :
 
 - un rôle facilitation et un rôle mémoire élus pour une période.
-- Un rôle lead nommé par sa cellule souche.
+- Un rôle lead nommé par sa cellule souche. (La cellule souche peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead.)
 - Sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule souche.
  (Sauf si une politique de la cellule souche a défini un autre mode de représentation.)
 
-#### 3.15  Responsabilité éthique de Tension
+#### 3.16  Responsabilité de Tension
 
 ##### Responsabilité de membre 
 
@@ -681,7 +702,7 @@ Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle
 
 Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
 
-Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de réunion de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
+Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
 
 ##### Tension de cellule 
 
@@ -771,87 +792,281 @@ Le rôle représentation n’est pas nécessaire si une politique de la cellule 
 
 ## 5)  ELEMENTS OPTIONNELS 
 
-#### 5.1  Briques
+#### 5.1  Eléments
 
-##### Qu’est ce qu’une brique ? 
+##### Qu’est ce qu'un élément ? 
 
-Les briques sont des modules autonomes compatibles
- Cela signifie que vous pouvez activer une brique, ou plusieurs, en fonction de ce qui est utile pour vous 
- Elles sont interdépendantes : activer une brique aura un impact sur l’usage des éléments cœur du livret central et des autres briques 
+Les éléments sont des modules autonomes compatibles
+ Cela signifie que vous pouvez activer un élément, ou plusieurs, en fonction de ce qui est utile pour vous 
+ Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.
 
- Elle se veulent à la fois inspirantes et guidantes
+ Ils se veulent à la fois inspirants et guidants
 
-Comme tout le reste de notre travail, elles sont hautement imparfaites, en cours d’évolution, discutables et ajustables (par politiques formalisées)
+Comme tout le reste de notre travail, Ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées)
 
-Elles sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
-Elle peuvent être activées pour une cellule, une cellule souche et ses cellules spécifiques ou pour toute la structure.
+Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
+Ils peuvent être activées pour une cellule, pour une cellule souche et ses cellules spécifiques ou pour toute la structure.
 
-##### Comment activer une brique ? 
+##### Comment activer un élément ? 
 
-Activer ou désactiver une brique dans une cellule est une politique. Par conséquent, cela se formalise en réunion de réorg.
+Activer ou désactiver un élément dans une cellule est une politique. Par conséquent, cela se formalise en temps de réorg.
 
-Une personne peut utiliser une brique en autonomie pour s’inspirer elle-même dans son rôle 
+Une personne peut utiliser un élément en autonomie pour s’inspirer elle-même dans son rôle 
 
 ##### Conséquence de l’activation  
 
-Une brique activée a le même poids qu’un élément cœur : elle devient constitutionnelle. 
+Un élément activé a le même poids qu’un élément cœur : il devient constitutionnel. 
 
-#### 5.2 Brique responsabilités de membre 
+#### 5.2 Elément création raison d’être
 
-##### Priorisation
+##### Raison d’être 
+Co-construire une raison d’être quand elle ne s’actualise pas suffisamment par itérations spontanées 
 
-Chacun examine régulièrement les prochaines actions utiles à ses rôles et déclenche celle qui lui parait apporter le plus. Il a autorité pour ce choix lié à ses rôles. Il ne peut pas exercer de contrôle sur un autre rôle
+##### Méthode    
+Le processus peut être différent, celui-ci présente l’intérêt de dépasser les capacité du mental
 
-##### Suivi
+##### Inclusion  
+Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
 
-Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
-- sur le collectif en mode ajustement itératif 
-- sur ses rôles qui pourront, par exemple, être affectés différemment
+Tour d’inclusion : comment je me sens en arrivant ?
 
-##### Priorité de coopération   
+##### Processus
+Passer par le dessin : feutres de couleurs, sous groupes de 5-6
 
-- Prendre en compte les demandes  des autres membres (c’est à dire inscrire comme prochaine action, pas exécuter)
-- Si un membre le demande, participer à une  réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée) 
-- Décider de ses actions en fonction des priorités  et stratégies de la  cellule.
+1. Dessiner d’où vient votre structure, son histoire (sous groupes « historiques » s’il y a lieu)
+   - Repérez ce que vous avez laissé derrière vous aux étapes clef
+2. Restitution 
+3. Dessiner la structure actuelle (éventuellement modifier les groupes)
+   - Repérer les tensions 
+4. Dessiner la future structure (mélanger les membres ou collègues  des différents groupes historiques)Repérer les différences par rapport à aujourd’hui
+   - Qu’allez vous devoir abandonner ? Qu’allez vous gagner au changement ? 
+5. Restitutions
+6. Création d’une phrase de raison d’être en mode consentement consolidée par concordance comprenant 
+   - ce que la structure va apporter (nous allons créer …)
+   - comment elle va procéder (en …)
+   - La motivation de fond (parce nous considérons important de … )
+7. Clôture   
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+ 
+#### 5.3 Elément Distinction Personne et rôle
 
-##### Transparence sur demande 
+#### Raison d’être 
+Distinguer nos rôles de notre personne permet de prend soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
 
-- Projets et actions :partager tout projet ou action engagé 
-- Priorité relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir
-- Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
-mais une estimation qui peut varier en fonction des imprévus
-- Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
+Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
 
-#### 5.3  Brique posture professionnelle  
+Cet élément propose de distinguer les relations visées entre personnes et entre rôles. 
+
+#### Relation de personne à personne    
+En tant que personne, nous avons notre vécu, nos valeurs profondes. Des zones aveugles font que nous sommes plus ou moins capables, selon les situations, de décider avec du recul de notre attitude. 
+
+Nous avons besoin de relations où il est possible d’exprimer son point de vue, d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
+
+La relation met l’accent sur le prendre soin, des outils comme la CNV ou le « marcher-parler » peuvent soutenir cette démarche.
+
+#### Relation de rôle à rôle  
+En tant que rôle, pour assurer nos redevabilités, nous avons besoin que les autres accomplissent certaines tâches. 
+
+La distinction personne-rôle permet de s’adresser aux rôles tenus par des collègues sans craindre une susceptibilité bloquante (car les rôles n’ont pas de susceptibilité).
+
+Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter.
+
+La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
+
+#### Proposition gouvernance cellulaire 
+En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+
+#### 5.4 Elément Souveraineté et lien
+
+#### Souveraineté 
+Fonctionner en souveraineté signifie que chacun est libre d’agir pour ses rôles selon son discernement en choisissant ce qui lui parait le plus pertinent.
+
+L’avantage de la souveraineté est la responsabilisation qu’elle permet, la possibilité qu’elle offre à chacun d’opter pour ce qui lui parait préférable et la créativité et la motivation qui peuvent en découler.
+
+L’inconvénient de la souveraineté est l’indépendance : chacun agit selon ses souhaits sans prise en compte des collègues invoquant l’autorité de ses rôles.
+
+#### Lien 
+Fonctionner en lien nécessite d’entendre la position des collègues sur un sujet avant de décider de l’option qui parait la plus favorable. Cela ne signifie pas suivre leur avis mais le connaitre.
+
+Formellement, cela peut passer par une simple sollicitation d’avis ou une décision en collectifL’avantage du lien est que chacun peut se sentir important et entendu.
+
+L’inconvénient est le temps que cela prend, qui peut amener le collectif à une surcharge insurmontable dans les temps impartis.
+
+#### Souveraineté et lien
+L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien.  Toute la démarche gouvernance cellulaire vise cet équilibre subtil
+Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans une intention de lien.
+
+La culture de travail se construit chemin faisant, en donnant du pouvoir décisionnaire aux rôles, en régulant quand les choses ne se passent pas de façon satisfaisante pour l’un et en se mettant d’accord sur la façon de fonctionner ensemble.
+
+#### 5.5 Elément palabre
+
+##### Intention
+On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations
+
+Il peut être question d’un sujet métier ou autre
+
+Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation
+
+Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés
+
+##### Logistique
+Un temps de palabre est déclenché par ceux qui en ont besoin en invitant les personnes qu’ils souhaitent. La durée est totalement libre et variable de quelques minutes à plusieurs jours
+
+##### Objectif
+Un temps de palabre ne vise aucun objectif, c’est juste un temps de parole à plusieurs
+Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres ou collègues  de la structure
+
+##### Impact 
+L’acquisition de connaissance et de sens dans une structure passe par :
+ - le vécu implicite individuel
+ - le vécu implicite collectif 
+ - l’expression individuelle
+ - l’expression collective
+
+Les temps de palabre sont des espaces d’expression collective
+
+#### 5.6  Elément contentement 
+
+##### Se contenter 
+
+- L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux »
+- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente
+
+##### Se contenter est rendu possible par
+
+- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
+- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres
+
+##### Contentement 
+
+De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
+
+#### 5.7 Elément composer avec nos différences 
 
 ##### Raison d’être 
 
-Décrire des questionnements aidants pour cultiver une posture professionnelle bénéfique à la fois pour moi, mes interlocuteurs, mon collectif et mon travail
+Découvrir les modes de fonctionnements étonnamment différents d’un collègue à l’autre
 
-##### Inclusion
+Apprendre à découvrir le fonctionnement des autres pour mieux travailler avec eux 
 
-- **Ma présence, ma complétude, ma plénitude**. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
-- **Vis-à-vis des autres** : est-ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
+Savoir expliquer son fonctionnement à nos collègues. 
 
-##### Contrôle 
+##### Limite
 
-- **Mon auto-détermination, ma capacité à décider** sans avoir besoin d’entendre l’accord du groupe ou d’une autorité
-- **Vis-à-vis des autres** : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
+Une fois n’est pas coutume, nous ne connaissons pas pour cet élément d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre
 
-##### Ouverture 
+S’agissant de décrire les différentes modalités humaines, il nous parait précieux de se doter de cette aide
 
-- **Ma conscience de moi**. Ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
-- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un membre ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
+##### Approche 
 
-#### Leader « as a completer »
+Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe, de la structure de manière appropriée et efficace
 
-Du terme anglais « completer » qui signifie à la fois terminer et complémenter
- - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
- - Chacun est membre de la cellule « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
+Pour ce faire, une multitudes d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents  et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement)
 
-*Plus de réflexion avec l’élément humain de Will Schutz*
+##### Exemples    
 
-#### 5.4  Brique estime de soi
+Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme …
+
+Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux membres de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
+
+Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
+
+#### 5.8 Elément magique 
+
+##### Raison d’être : 
+
+Répondre au besoin de votre cellule 
+
+A vous de jouer !  
+
+#### 5.9 Elément Liberté Egalité Fraternité
+
+##### Intention
+
+Ce travail a émergé en France. Nous avons eu envie de jouer avec la devise de notre état pour retrouver certains de nos principes fondamentaux. L’idée est un clin d’œil : faire des choses sérieuses sans se prendre au sérieux
+
+##### Liberté - choix 
+
+Le terme liberté nous permet d’aborder les sujets du choix, de l’autonomie, de l’auto-détermination, de la souveraineté, du pouvoir d’agir. Les libertés des uns doivent composer avec celles des autres, de façon à éviter l’emprise (le pouvoir sur l’autre) tout en encourageant la capacité d’agir (le pouvoir avec le collectif ou une réalisation)
+
+##### Egalité - unicité - inclusion
+
+Nous utilisons ce terme pour les notions d’importance égale de tous les membres, de toutes les tensions et de tous les élans. Il est associé à la notion de réciprocité : de leadership tournant. Il permet enfin, avec un peu de laxité vis-à-vis du sens de « égalité », de nommer l’unité dans laquelle nous vivons : à la fois nous sommes construit par notre environnement, nos structures, et à la fois nous les construisons. C’est l’impact mutuel, l’interdépendance
+
+##### Fraternité - amour  
+
+Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres et collègues à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
+
+#### 5.10 Elément 3 piliers éthiques
+
+##### Intention
+Cet élément propose trois piliers pour guider la création des raisons d’être ou pour clarifier une situation de doute moral. 
+
+Selon ces trois piliers inspirés de la permaculture, chaque projet est une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre. Ainsi : 
+
+##### Individus 
+Notre manière de faire des projets nous permettrait d’en apprendre plus sur nous même, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort, de développer nos compétences et notre créativité.
+
+##### Collectif 
+Notre mode de fonctionnement collectif serait l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
+
+##### Eco-système global 
+La façon dont est pensé notre projet amènerait à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
+
+#### 5.11 Elément Régulation marcher-parler
+
+##### Raison d’être 
+Disposer d’un temps de régulation entre deux personnes. Ce processus est soutenu par un rôle facilitation qui ne nécessite pas beaucoup de connaissance dans la relation humaine.
+
+##### Inclusion  
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent en silence.
+
+##### Ordre du jour  
+Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation et l’intention de restaurer une relation de travail sereine.
+
+##### Processus 
+Les deux personnes partent marcher sans accompagnement. Le rôle facilitation est à distance mais peut être appelé en cas de besoin. La première a 20 minutes de temps de parole sans interruption. Ce temps est à sa disposition. Si elle n’a plus rien à dire, les deux restent en silence.
+
+La seconde personne fait de même. 
+
+Les deux personnes se réunissent avec le rôle facilitation. Elles essaient d’exprimer ce dont chacune aurait besoin pour recréer une relation de travail souhaitable. Le rôle facilitation distribue la parole par exemple selon le processus de triage, ou en suivant les étapes du temps de régulation. 
+
+##### clôture   
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
+
+#### 5.12 Elément feedback
+
+##### Raison d’être 
+
+Donner des informations aux autres pour qu’ils gagnent en conscience de ce que leurs actions ou comportements déclenchent
+
+Reconnaitre nos collègues dans ce qu’ils apportent 
+
+##### Préparation
+
+Il nous faudra être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
+
+la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation par une préparation
+
+##### Intention 
+
+Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires
+
+##### Process
+Un feedback utile professionnellement comporte
+ - une observation (tu as fait ceci … )
+ - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnais/nie mon travail … )
+ - une demande éventuelle (c’est top, continue / une autre fois merci de …)
+
+##### Indigestion 
+
+Comme pour la nourriture, chacun a ses besoins et ses limites en terme de feedbacks (qui sont des signes de reconnaissance)
+
+Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister
+
+Il est bénéfique d’être attentif à ses propres besoins : demander une feedback, s’en donner à soi même
+
+#### 5.13 Elément estime de soi
 
 ##### Raison d’être 
 
@@ -890,59 +1105,20 @@ La structure et chaque membre ou collègue ont intérêt à créer les condition
 
 Là encore, il s’agit d’une recherche permanente d’équilibre 
 
-#### 5.5  Brique réciprocité 
+#### 5.14 Elément séparation 
 
-##### Exercice du pouvoir
+##### Processus de séparation
 
-Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
+La structure doit posséder un processus de fin de coopération visant une décision co-construite tout en assumant, quand ce n’est pas possible, d’imposer cette décision à la personne concernée
 
-##### Groupe solidaire 
+Par défaut, cette décision est prise en concordance
 
-Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
+##### Intention
 
-**La solidarité sera privilégiée comme ligne directrice utile**
+Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
 
-##### Membre solitaire 
+#### 5.15 Elément changement
 
-Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe
-
-**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
-
-Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
-
-#### 5.6  Brique feedback
-
-##### Raison d’être 
-
-Donner des informations aux autres pour qu’ils gagnent en conscience de ce que leurs actions ou comportements déclenchent
-
-Reconnaitre nos collègues dans ce qu’ils apportent 
-
-##### Préparation
-
-Il nous faudra être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
-
-la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation par une préparation
-
-##### Intention 
-
-Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires
-
-##### Process
-Un feedback utile professionnellement comporte
- - une observation (tu as fait ceci … )
- - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnais/nie mon travail … )
- - une demande éventuelle (c’est top, continue / une autre fois merci de …)
-
-##### Indigestion 
-
-Comme pour la nourriture, chacun a ses besoins et ses limites en terme de feedbacks (qui sont des signes de reconnaissance)
-
-Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister
-
-Il est bénéfique d’être attentif à ses propres besoins : demander une feedback, s’en donner à soi même
-
-#### 5.7 Brique changement 
 
 ##### Intention
 
@@ -968,191 +1144,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
 
-#### 5.8  Brique Accompagnement Extérieur
-
-##### Technicité 
-
-Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
- Il n’est pas indispensable. 
- A chaque équipe d’expérimenter et de décider si une aide pour progresser plus facilement et plus rapidement serait utile
-
-##### Changement culturel
-
-Le changement culturel est très facile à comprendre intellectuellement, beaucoup plus délicat à mettre en œuvre pour chacun de nous
-
-Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécessite le temps de désapprendre ses habitudes pour en adopter d’autres. 
- Ce changement est sans doute le plus délicat à mener. 
- Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficaces. 
- Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
- Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage
-
-##### 5.9  Brique séparation 
-
-##### Processus de séparation
-
-La structure doit posséder un processus de fin de coopération visant une décision co-construite tout en assumant, quand ce n’est pas possible, d’imposer cette décision à la personne concernée
-
-Par défaut, cette décision est prise en concordance
-
-##### Intention
-
-Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
-
-#### 5.10  Brique palabre
-
-##### Intention
-On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations
-
-Il peut être question d’un sujet métier ou autre
-
-Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation
-
-Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés
-
-##### Logistique
-Une réunion de palabre est déclenchée par ceux qui en ont besoin en invitant les personnes qu’ils souhaitent. La durée est totalement libre et variable de quelques minutes à plusieurs jours
-
-##### Objectif
-La réunion de palabre ne vise aucun objectif, c’est juste un temps de parole à plusieurs
-Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres ou collègues  de la structure
-
-##### Impact 
-L’acquisition de connaissance et de sens dans une structure passe par :
- - le vécu implicite individuel
- - le vécu implicite collectif 
- - l’expression individuelle
- - l’expression collective
-
-Les temps de palabre sont des espaces d’expression collective
-
-#### 5.11  Brique contentement 
-
-##### Se contenter 
-
-- L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux »
-- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente
-
-##### Se contenter est rendu possible par
-
-- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite 
-- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres
-
-##### Contentement 
-
-De cette discipline de se contenter peut apparaitre un contentement sain pour nous, humains
-
-#### 5.12  Brique éthique permacole 
-
-##### Intention
-Aider les membres à expliquer leurs besoins éthiques. 
-Cette brique propose trois piliers éthiques pour aider à concevoir les raisons d’être ou à clarifier une situation de doute. Ce doute peut apparaitre lors de toute décision ou de toute action.
-
-Les trois piliers, inspirés de la permaculture, se veulent en amont de votre propre système de valeur et de celui de votre structure.
-Selon ces trois piliers, chaque projet serait une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre :
-
-##### Individus 
-Notre manière de faire des projets nous permettrait d’en apprendre plus sur nous même, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort, de développer nos compétences et notre créativité.
-
-##### Collectif 
-Notre mode de fonctionnement collectif serait l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
-
-##### Eco-système global 
-La façon dont est pensé notre projet amènerait à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
-
-
-#### 5.13  Brique Frustration 
-
-##### Raison d’être 
-
-Clarifier notre rapport à la frustration
-
-##### Rapport à la frustration   
-
-Nous considérons inéluctable que de la frustration apparaisse, plus ou moins intense au travail
- La frustration est une tension vers ce qui correspondrait mieux à mon idéal.
-
-Nous considérons une équipe performante tant d’un point de vue humain que déliverabilité dans les moment où ses membres et collègues  réussissent à gérer un haut niveau de frustration :
-
-- savoir la repérer, la nommer si besoin
-- distinguer la frustration nécessitant une action de celle nécessitant un consentement 
-
-Nous considérons que cette capacité à composer avec la frustration varie selon les enjeux, les moments, les personnes. 
- Nous cherchons à vivre en paix avec ces variations tout en étant dans l’intention de cultiver un haut niveau de tolérance à la frustration grâce aux différents processus et réunions
-
-##### Bénéfice   
-
-La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
-
-#### 5.14  Brique composer avec nos différences 
-
-##### Raison d’être 
-
-Découvrir les modes de fonctionnements étonnamment différents d’un collègue à l’autre
-
-Apprendre à découvrir le fonctionnement des autres pour mieux travailler avec eux 
-
-Savoir expliquer son fonctionnement à nos collègues. 
-
-##### Limite
-
-Une fois n’est pas coutume, nous ne connaissons pas pour cette brique d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre
-
-S’agissant de décrire les différentes modalités humaines, il nous parait précieux de se doter de cette aide
-
-##### Approche 
-
-Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe, de la structure de manière appropriée et efficace
-
-Pour ce faire, une multitudes d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents  et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement)
-
-##### Exemples    
-
-Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme …
-
-Par ailleurs, Will Schutz a développé une approche centrée sur la compatibilité des équipes qui permet aux membres de s’autoévaluer et d’identifier leurs besoins de changement pour aller au plus proche de leur idéal. Elle s’adresse à des équipes peu nombreuses
-
-Plus d’info [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
-
-#### 5.15  Brique inclusion
-
-##### Raison d’être 
-
- - Traverser humainement une fusion acquisition ou la fusion des deux équipes
-
- - Fonctionne aussi pour aider des membres et collègues d’une même structure qui se « comprennent » difficilement 
-
-##### Contexte 
-
-Lors d’une fusion de deux équipes ou de deux structures, il y a une « absorption administrative ». Une structure est absorbée par l’autre
-
- Cette logique administrative n’est pas la logique humaine : humainement, il y a inclusion de chacun, ce qui modifie l’identité des deux parties pour en créer une nouvelle
- 
-##### Ligne directrice 
-
-L’objectif va être de faire apparaitre une mosaïque de vécus complémentaires, en aucun cas de chercher la vérité
-
-##### Inclusion  
-
-Temps d’embarquement dans la réunion, chacun nomme comment il se sent en arrivant, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer
-
-Les autres écoutent en silence
-
-##### Process inclusion 
-
-*Nous préférons les méthodes aves des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides*
-
-Le rôle facilitation distribue la parole selon les étapes suivantes : 
-1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité
-2. Présentations en plénière 
-3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises etc)
-4. Temps de décision collectif des prochaines actions utiles (par défaut en mode consentement)
-
-##### Clôture   
-
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
-
-
-#### 5.16  Brique 180°  
+#### 5.16 Elément Déblocage 180°   
 
 ##### Raison d’être 
 
@@ -1182,23 +1174,32 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
 
-#### 5.17  Brique équilibre éthique
+#### 5.17 Elément Frustration 
 
-#### Priorisation éthique : produire et prendre soin 
+##### Raison d’être 
 
-Le collectif compose entre l’humain (essentiel) et le travail(important) de façon à ne pas bloquer le travail des membres. 
- Une tension de personne est dite essentielle et peut devenir ponctuellement prioritaire sur toutes les actions importantes si la personne concernée le demande
+Clarifier notre rapport à la frustration
 
-Les membres de la structure assument qu’ils n’ont pas les compétences pour faire face à toutes les tensions de personne. Ils cherchent des solutions qui préservent autant que possible la personne et la structure
+##### Rapport à la frustration   
 
-#### Intention
+Nous considérons inéluctable que de la frustration apparaisse, plus ou moins intense au travail
+ La frustration est une tension vers ce qui correspondrait mieux à mon idéal.
 
-Ne pas prendre soin du travail sans considération des humains : considérer chaque acteur à la fois en tant que personne et en tant que rôle de la structure.
- Préserver la structure et les humains qui la composent
+Nous considérons une équipe performante tant d’un point de vue humain que déliverabilité dans les moment où ses membres et collègues  réussissent à gérer un haut niveau de frustration :
 
-#### 5.18  Brique bonté
+- savoir la repérer, la nommer si besoin
+- distinguer la frustration nécessitant une action de celle nécessitant un consentement 
+
+Nous considérons que cette capacité à composer avec la frustration varie selon les enjeux, les moments, les personnes. 
+ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’intention de cultiver un haut niveau de tolérance à la frustration grâce aux différents processus et réunions
+
+##### Bénéfice   
+
+La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
+
+#### 5.18 Elément bonté
 
 ##### Prendre soin du climat de travail 
 
@@ -1211,7 +1212,7 @@ Ne pas prendre soin du travail sans considération des humains : considérer cha
 
 ##### Prendre soin des humains 
 
- - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer une réunion de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger … 
+ - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger … 
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance
  - **Réciprocité** : recevoir les mêmes soins de la part de nos collègues, 
  - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites 
@@ -1219,243 +1220,36 @@ Ne pas prendre soin du travail sans considération des humains : considérer cha
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.19  Brique décision par concordance 
-
-##### Raison d’être : forts enjeux humains 
-
-Contrairement à la décision en gestion par consentement, la décision par concordance vise une adhésion pleine et entière de tous les participants en révélant des blocages potentiels.
-
-Elle est plus longue qu’une décision par consentement, cherche la meilleure issue possible. Par conséquent, elle est réservée aux décisions à fort enjeu humain 
-
-##### Préparation
-
-La décision est préparée jusqu’au stade où les participants ont l’impression d’être d’accord, par consensus, ou par consentement ou autre. La décision peut même avoir été décidée et qu’une concordance soit déclenchée pour solidifier la décision
-
-##### Processus
-
-Le rôle facilitation demande aux participants de fermer les yeux, leur demande de se remémorer les étapes qui ont conduit à la décision, lit le résultat et leur demande s’ils sont 100% d’accord. 
- Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ca me va »
-
-Le rôle facilitation procède à un tour de salle en posant la question « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
-
-Le rôle facilitation revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
- Ce temps de recherche produit souvent des améliorations créatives utiles
-
-Le rôle facilitation gère en fonction du temps déjà investi, du temps disponible et de ce qu’il perçoit des efforts de la personne pour chercher une solution : il peut décider d’entériner la décision s’il ressent que la personne ne trouve pas à ce stade ce dont elle aurait besoin
-
-#### 5.20  Brique création raison d’être
-
-##### Raison d’être 
-Co-construire une raison d’être quand elle ne s’actualise pas suffisamment par itérations spontanées 
-
-##### Méthode    
-Le processus peut être différent, celui-ci présente l’intérêt de dépasser les capacité du mental
-
-##### Inclusion  
-Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet
-
-Tour d’inclusion : comment je me sens en arrivant ?
-
-##### Processus
-Passer par le dessin : feutres de couleurs, sous groupes de 5-6
-
-1. Dessiner d’où vient votre structure, son histoire (sous groupes « historiques » s’il y a lieu)
-   - Repérez ce que vous avez laissé derrière vous aux étapes clef
-2. Restitution 
-3. Dessiner la structure actuelle (éventuellement modifier les groupes)
-   - Repérer les tensions 
-4. Dessiner la future structure (mélanger les membres ou collègues  des différents groupes historiques)Repérer les différences par rapport à aujourd’hui
-   - Qu’allez vous devoir abandonner ? Qu’allez vous gagner au changement ? 
-5. Restitutions
-6. Création d’une phrase de raison d’être en mode consentement consolidée par concordance comprenant 
-   - ce que la structure va apporter (nous allons créer …)
-   - comment elle va procéder (en …)
-   - La motivation de fond (parce nous considérons important de … )
-7. Clôture   
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion 
-
-#### 5.21  variante DIC et réorg.
-
-##### Variante DIC : « la proposition tournante »
-Après les réactions, le proposeur rédige sa V2 (étape 7)
-
-Il peut alors passer le relai à un membre qui a eu une réaction riche. Le relai est matérialisé par un stylo
-
-Celui qui a le stylo dicte la nouvelle version au rôle mémoire 
-
-Si l’équipe est suffisamment mature, les étapes « réactions/réécriture » peuvent continuer en désordre
-
-Celui qui a le stylo peut à tout moment passer le relai à un autre membre
-
-Le processus rejoint la DIC simple quand celui qui a le stylo décide de passer à l’étape 8 (chacun peut-il composer avec la proposition ?)
-
-##### Variante réorg : « la boite à idée » 
-
-Le rôle facilitation distribue la parole selon les étapes suivantes : 
-
-1. Demandeur, quelle tension souhaites-tu réduire ? 
-2. Tous, avez-vous des besoins de clarification ?
-3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Demandeur quelle est ta proposition ?
-5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
-
-#### 5.22  Brique réorg. hors réorg.  
+#### 5.19 Elément posture professionnelle  
 
 ##### Raison d’être 
 
-Simplifier le processus, fonctionner à distance 
+Décrire des questionnements aidants pour cultiver une posture professionnelle bénéfique à la fois pour moi, mes interlocuteurs, mon collectif et mon travail
 
-##### Processus 
+##### Inclusion
 
-1. Tout membre d’une cellule peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres de la cellule.
-2. Il répond aux questions de clarifications.
-3. Il prend connaissance des réactions.
-4. Si un membre demande à ce que le point passe en réunion de réorg. formelle, le process est stoppé.
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en réunion de réorg.  formelle pour que la proposition soit validée automatiquement 10 jours après la proposition.
-6. Le rôle mémoire enregistre la proposition.
+- **Ma présence, ma complétude, ma plénitude**. Suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, ou l’émotionnel, ou l’intuitif, ou les sensations  … ?
+- **Vis-à-vis des autres** : est-ce que je prends la place qui me parait pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
 
-#### 5.23  Brique Entretien annuel  
+##### Contrôle 
 
-##### Raison d’être 
+- **Mon auto-détermination, ma capacité à décider** sans avoir besoin d’entendre l’accord du groupe ou d’une autorité
+- **Vis-à-vis des autres** : Est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres. Est-ce que j’arrive à me discipliner dans les processus ? Comment est ce que j’agis quand quelqu’un me semble imposer son idée ? 
 
-Répondre au besoin de certaines structures ou de certains membres de disposer d’un processus d’entretien annuel
+##### Ouverture 
 
-##### Limite
+- **Ma conscience de moi**. Ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
+- **Vis-à-vis des autres** est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un membre ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
 
-Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idée »
+#### Leader « as a completer »
 
-##### Process entretien annuel
+Du terme anglais « completer » qui signifie à la fois terminer et complémenter
+ - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités
+ - Chacun est membre de la cellule « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein)
 
-1. Un membre choisit un collègue et lui propose le rôle de réaliser son entretien annuel
-2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur
-   Le support de questionnement peut être 
+*Plus de réflexion avec l’élément humain de Will Schutz*
 
-   - celui de la structure
-   - une grille fournie par le demandeur
-   - la brique « posture professionnelle » complétée de :
-     - la question « comment vis-tu « l’efficacité » et le « prendre soin » à l’occasion des séquences de travail avec le demandeur ? »
-     - Dans ton idéal, qu’est-ce qui changerait l’an prochain ? 
-
-1. La personne restitue le contenu de ce qui lui a été dit au demandeur dans un rendez vous planifié, dans un espace fermé, téléphones éteints. 
-2. Le demandeur remercie la personne pour avoir préparé et communiqué ce retour 
-
-##### Clôture   
-
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » dans cette  réunion
-
-#### 5.24  Brique numérique
-
-##### Raison d’être 
-
-La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible
-
-##### Exemple 
-
-Un exemple gratuit pour commencer à votre disposition [ici](https://trello.com/b/002WfWqn)
-
-Des outils plus puissants payants permettent de continuer l'aventure ensuite 
-
-#### 5.25  Brique magique 
-
-##### Raison d’être : 
-
-Répondre au besoin de votre cellule 
-
-A vous de jouer !  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 5.26  Brique rôle Source 
-
-##### Raison d’être du rôle source 
-Tenir le cap de son intuition de ce que pourrait devenir la structure
-
-##### Redevabilités  
- - Révéler la raison d’être de la structure en fonction de ce qu’il perçoit 
- - Actualiser cette raison d’être selon son intuition en tenant compte des remontées des membres de la structure 
- - Faire son possible pour que cette intuition devienne réalité
-
-##### Domaine  
-Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale
-
-##### Cellule d’ancrage
-Le rôle source fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de la structure
-
-Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage
-
-##### Réutilisation
-Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet
-
-
-#### 5.27  Brique légèreté-simplicité  
-
-##### Sobriété d’organisation
-Un formalisme minimum sera créé (cellule, rôles, politiques, processus etc) pour 
- - pouvoir travailler ensemble 
- - ne pas entraver l’action
-
-##### Rôle simplification
-Un rôle simplification pourra être activé pour veiller à supprimer ou remplacer (en réunion de réorg.) :
- - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
- - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
- - toutes les règles ou politiques qui nient l’intelligence de chacun
- 
-Ce rôle pourra être affecté à certains membres de la cellule ou à tous
-
-##### Intention
-Contrer la tendance humaines de générer de la complication pérenne
-
-Permettre aux membres de connaitre leur organisation avec un investissement minimum
-
-Focaliser l’attention sur les seuls sujets qui le nécessitent
-
-##### Sobriété de la constitution 
-La description du livret central sera la plus légère possible 
-
-
-#### 5.28  Brique curseur managérial
-
-##### Système 
-
-L’organisation cellulaire est compatible avec une organisation pyramidale. 
-
-##### Ce qui est commun
-
- - La raison d’être et les redevabilités de la cellule doivent répondre aux besoins de l’équipe amont.
- - Le rôle lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
-
-##### Les différences 
-
- - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisions
- - En mode cellulaire, ces redevabilités ont été déléguées aux membres de la cellule
-
-##### La voie du milieu 
-
-En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
-
-##### Humains 
-
-De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
-
-
-#### 5.29 Brique charte gouvernance cellulaire 
+#### 5.20 Elément charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1493,23 +1287,346 @@ Signatures :
 
 *¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
-#### 5.30  Brique Liberté Egalité Fraternité
+ #### 5.21 Elément accompagnement Extérieur
+
+##### Technicité 
+
+Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
+ Il n’est pas indispensable. 
+ A chaque équipe d’expérimenter et de décider si une aide pour progresser plus facilement et plus rapidement serait utile
+
+##### Changement culturel
+
+Le changement culturel est très facile à comprendre intellectuellement, beaucoup plus délicat à mettre en œuvre pour chacun de nous
+
+Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécessite le temps de désapprendre ses habitudes pour en adopter d’autres. 
+ Ce changement est sans doute le plus délicat à mener. 
+ Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficaces. 
+ Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
+ Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage
+
+#### 5.22 Elément fusion d’équipes
+
+##### Raison d’être 
+
+ - Traverser humainement une fusion acquisition ou la fusion des deux équipes
+
+ - Fonctionne aussi pour aider des membres et collègues d’une même structure qui se « comprennent » difficilement 
+
+##### Contexte 
+
+Lors d’une fusion de deux équipes ou de deux structures, il y a une « absorption administrative ». Une structure est absorbée par l’autre
+
+ Cette logique administrative n’est pas la logique humaine : humainement, il y a inclusion de chacun, ce qui modifie l’identité des deux parties pour en créer une nouvelle
+ 
+##### Ligne directrice 
+
+L’objectif va être de faire apparaitre une mosaïque de vécus complémentaires, en aucun cas de chercher la vérité
+
+##### Inclusion  
+
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer
+
+Les autres écoutent en silence
+
+##### Process inclusion 
+
+*Nous préférons les méthodes aves des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides*
+
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
+1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité
+2. Présentations en plénière 
+3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises etc)
+4. Temps de décision collectif des prochaines actions utiles (par défaut en mode consentement)
+
+##### Clôture   
+
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
+
+#### 5.23 Elément Rétrospective & stratégie
+
+##### Raison d’être 
+Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amélioration, valoriser les membres et définir ensemble les priorités pour les prochains mois. 
+
+##### Inclusion 
+Chacun nomme comment il arrive
+ 
+##### Processus
+Célébration personnelle (15-30’) : temps solo pour me souvenir de ce que j’ai appris dans la dernière période sur moi, le collectif et le projet et pour envisager de prochains pas. Partage en collectif d’un prochain pas. 
+
+Célébration inter-personnelle (10-30’) : en duo, écrire (ou dire en mode écoute silencieuse) à au moins deux collègues une ou plusieurs chose que j’ai appréciées ou qui m’ont été difficiles ainsi que ce qui me rendrait la coopération plus facile. Variante : peut être réalisé dans un autre temps.
+
+Célébration collective ((15-30’) : en plénière, raconter les faits (le réalisé et le non-réalisé, chiffres clefs) ; sources de satisfaction ; sources d’inconfort. 
+
+Orientation (15-30’) : en plénière, 1) se reconnecter à la raison d’être puis passer en revue ce que chacun adorerait vivre dans les 6 prochains mois (rêve et aspiration) ; 2) recenser ce qui enthousiasme chacun aujourd’hui (forces et opportunités) ; 3) recenser ce qui préoccupe ou freine chacun aujourd’hui (faiblesses et menaces) ; 4) collecter les  idées d’évolutions pour atténuer les principaux freins (voire les transformer en opportunités) et favoriser la réalisation de nos aspirations. 
+
+Proposition (5-10’) un groupe (le rôle lead et un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes. 
+
+Décision en GPC (15-30’) sur la base de la proposition portée par le rôle lead
+
+##### Clôture
+Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » pendant ce temps
+
+#### 5.24 Elément responsabilités de membre 
+
+##### Soin de la relation 
+Quand  un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
+
+##### Priorisation
+
+Chacun examine régulièrement les prochaines actions utiles à ses rôles et déclenche celle qui lui parait apporter le plus. Il a autorité pour ce choix lié à ses rôles. Il ne peut pas exercer de contrôle sur un autre rôle
+
+##### Suivi
+
+Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
+- sur le collectif en mode ajustement itératif 
+- sur ses rôles qui pourront, par exemple, être affectés différemment
+
+##### Priorité de coopération   
+
+- Prendre en compte les demandes  des autres membres (c’est à dire inscrire comme prochaine action, pas exécuter)
+- Si un membre le demande, participer à une  réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée) 
+- Décider de ses actions en fonction des priorités  et stratégies de la  cellule.
+
+##### Transparence sur demande 
+
+- Projets et actions :partager tout projet ou action engagé 
+- Priorité relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir
+- Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
+mais une estimation qui peut varier en fonction des imprévus
+- Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
+
+#### 5.25 Elément consolidation de décision par concordance
+
+##### Raison d’être : forts enjeux humains 
+
+Solidifier une décision par concordance révèle des freins non conscients. La concordance vise une adhésion pleine et entière de tous les participants en révélant des blocages potentiels.
+
+Elle peut être longue, par conséquent, elle est réservée aux décisions à fort enjeu
+
+#### Déclenchement
+Quand une décision a été prise selon le processus de la cellule, un membre peut demander une solidification par concordance. Le temps maximum de concordance est alors précisé.
+
+##### Processus
+
+LLe rôle facilitation demande aux participants de fermer les yeux, de se centrer sur leur corps, leurs sensations, leur respiration. Il leur demande de se remémorer les étapes qui ont conduit à la décision, la lit et leur demande s’ils sont 100% d’accord avec ce résultat malgré leurs préférences compte tenu de là où en est le collectif, de sa raison d’être et de ce qu’il a à faire.
+
+Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ca me va », même un temps de silence long avant le « oui »
+
+Le rôle facilitation procède à un tour de salle demandant « Es tu 100% d’accord avec ce résultat ? » et écoute les réponses
+Il revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait il pour être 100% en accord ? »
+
+Ce temps de recherche favorise des améliorations créatives utiles
+Si le collectif n’arrive pas à une décision dans les temps impartis, la décision qui avait été prise reste effective. 
+
+La personne pourra revenir avec une proposition quand elle aura expérimenté la proposition et aura précisé son besoin pour réduire sa tension. 
+
+#### 5.26 Elément variante décision par consentement et réorg.
+
+##### Variante DPC : « la proposition tournante »
+Après les réactions, le proposeur rédige sa V2 (étape 7)
+
+Il peut alors passer le relai à un membre qui a eu une réaction riche. Le relai est matérialisé par un stylo
+
+Celui qui a le stylo dicte la nouvelle version au rôle mémoire 
+
+Si l’équipe est suffisamment mature, les étapes « réactions/réécriture » peuvent continuer en désordre
+
+Celui qui a le stylo peut à tout moment passer le relai à un autre membre
+
+Le processus rejoint la DPC simple quand celui qui a le stylo décide de passer à l’étape 8 (chacun peut-il composer avec la proposition ?)
+
+##### Variante réorg : « la boite à idée » 
+
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
+
+1. Demandeur, quelle tension souhaites-tu réduire ? 
+2. Tous, avez-vous des besoins de clarification ?
+3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
+4. Demandeur quelle est ta proposition ?
+5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
+
+#### 5.27 Elément Décision hors réunion
+
+##### Raison d’être 
+
+Simplifier le processus, fonctionner à distance 
+
+##### Processus 
+
+1. Tout membre d’une cellule peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres de la cellule.
+2. Il répond aux questions de clarifications.
+3. Il prend connaissance des réactions.
+4. Si un membre demande à ce que le point passe en temps de réorg. formel, le process est stoppé.
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorg.  formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
+6. Le rôle mémoire enregistre la proposition.
+
+#### 5.27 Elément réciprocité 
+
+##### Exercice du pouvoir
+
+Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
+
+##### Groupe solidaire 
+
+Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres
+
+**La solidarité sera privilégiée comme ligne directrice utile**
+
+##### Membre solitaire 
+
+Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe
+
+**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
+
+Plus de réflexion [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html)
+
+#### 5.28 Elément rôle Source 
+
+##### Raison d’être du rôle source 
+Tenir le cap de son intuition de ce que pourrait devenir la structure ou le projet dont il a la charge dans la structure
+
+##### Redevabilités  
+ - Révéler la raison d’être en fonction de ce qu’il perçoit 
+ - Actualiser cette raison d’être selon son intuition en tenant compte des remontées des membres de la structure 
+ - Faire son possible pour que cette intuition devienne réalité
+
+##### Domaine  
+Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à  une cellule.
+
+##### Cellule d’ancrage
+Le rôle source fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de la structure
+
+Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage
+
+##### Réutilisation
+Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet
+
+#### 5.29 Elément curseur managérial
+
+##### Système 
+
+L’organisation cellulaire est compatible avec une organisation pyramidale. 
+
+##### Ce qui est commun
+
+ - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe souche.
+ - Le rôle lead a pour redevabilités : Veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
+
+##### Les différences 
+
+ - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisions
+ - En mode cellulaire, ces redevabilités ont été déléguées aux membres de la cellule
+
+##### La voie du milieu 
+
+En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
+
+##### Humains 
+
+De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
+
+#### 5.30 Elément niveaux d’autonomie
+
+##### Raison d’être 
+Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles
+
+##### Processus
+Le leader seul ou avec l’équipe évalue le niveau de délégation et d’autonomie réellement vécu et celui souhaité. Le niveau de délégation correspond à la latitude d’action et à la responsabilité donnée aux personnes qui sont affectées à un rôle, le niveau de liberté correspond à la latitude d’action prise par celles-ci.
+
+Le niveau d’autonomie est la résultante de ces deux dynamiques.
+
+Le niveau d’autonomie est clarifié en fonction de qui réfléchit à la meilleure option, qui décide de celle retenue, qui agit et qui évalue l’effet de l’action. 
+Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf paragraphe correspondant de la constitution)
+
+Chacune de ces quatre phases peut être assurée soit par le manager seul, soit ensemble, soit par le collaborateur seul. « Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe
+
+
+##### Calage pyramidal
+Quand le manager assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur manager pour savoir quoi faire. Le réglage est dit de « dépendance au manager »
+
+##### Calage collectif
+Quand le groupe assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur collectif pour savoir quoi faire. 
+Le réglage est dit de « dépendance au groupe ». 
+
+##### Calage cellulaire
+Quand le collaborateur assume la liberté de réfléchir, décider, agir et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit d’  « inter-indépendance »
+
+#####  Réglage
+Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps
+
+
+#### 5.31 Elément Entretien annuel  
+
+##### Raison d’être 
+
+Répondre au besoin de certaines structures ou de certains membres de disposer d’un processus d’entretien annuel
+
+##### Limite
+
+Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idée »
+
+##### Process entretien annuel
+
+1. Un membre choisit un collègue et lui propose le rôle de réaliser son entretien annuel
+2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur
+   Le support de questionnement peut être 
+
+   - celui de la structure
+   - une grille fournie par le demandeur
+   - l'élément « posture professionnelle » complétée de :
+    - la question « comment vis-tu « l’efficacité » et « l’humanisme » à l’occasion des séquences de travail avec le demandeur ? »
+    - Dans ton idéal, qu’est-ce qui changerait l’an prochain ? 
+
+1. La personne restitue le contenu de ce qui lui a été dit au demandeur dans un rendez vous planifié, dans un espace fermé, téléphones éteints. 
+2. Le demandeur remercie la personne pour avoir préparé et communiqué ce retour 
+
+##### Clôture   
+
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+
+#### 5.32 Elément numérique
+
+##### Raison d’être 
+
+La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible
+
+##### Exemple 
+
+Open my organisation offre une solution libre à votre disposition que nous recommandons : 
+
+https://openmyorganization.org/ 
+
+Vous pouvez visionner l’organisation de l’équipe gouvernance cellulaire par ce lien :
+
+https://openmyorganization.org/org/GC
+
+Des outils plus puissants payants permettent de continuer l'aventure ensuite 
+
+#### 5.32 Elément légèreté-simplicité  
+
+##### Sobriété d’organisation
+Un formalisme minimum sera créé (cellule, rôles, politiques, processus etc) pour 
+ - pouvoir travailler ensemble 
+ - ne pas entraver l’action
+
+##### Rôle simplification
+Un rôle simplification pourra être activé pour veiller à supprimer ou remplacer (en temps de réorg.) :
+ - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit
+ - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit
+ - toutes les règles ou politiques qui nient l’intelligence de chacun
+ 
+Ce rôle pourra être affecté à certains membres de la cellule ou à tous
 
 ##### Intention
+Contrer la tendance humaines de générer de la complication pérenne
 
-Ce travail a émergé en France. Nous avons eu envie de jouer avec la devise de notre état pour retrouver certains de nos principes fondamentaux. L’idée est un clin d’œil : faire des choses sérieuses sans se prendre au sérieux
+Permettre aux membres de connaitre leur organisation avec un investissement minimum
 
-##### Liberté - choix 
+Focaliser l’attention sur les seuls sujets qui le nécessitent
 
-Le terme liberté nous permet d’aborder les sujets du choix, de l’autonomie, de l’auto-détermination, de la souveraineté, du pouvoir d’agir. Les libertés des uns doivent composer avec celles des autres, de façon à éviter l’emprise (le pouvoir sur l’autre) tout en encourageant la capacité d’agir (le pouvoir avec le collectif ou une réalisation)
-
-##### Egalité - unicité - inclusion
-
-Nous utilisons ce terme pour les notions d’importance égale de tous les membres, de toutes les tensions et de tous les élans. Il est associé à la notion de réciprocité : de leadership tournant. Il permet enfin, avec un peu de laxité vis-à-vis du sens de « égalité », de nommer l’unité dans laquelle nous vivons : à la fois nous sommes construit par notre environnement, nos structures, et à la fois nous les construisons. C’est l’impact mutuel, l’interdépendance
-
-##### Fraternité - amour  
-
-Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres et collègues à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
+##### Sobriété de la constitution 
+La description du livret central sera la plus légère possible 
 
 ## 6  CONSTITUTION : Bibliographie et glossaire 
 
@@ -1547,30 +1664,30 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 #### 6.2  Glossaire 
 
  - Auto-diagnostic : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste
- - Brique : module activable et désactivable par une cellule selon les besoins qu’il rencontre
  - Cellule : Une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
- - Décision par concordance : réunion avec un niveau de profondeur accru pour les décisions à fort enjeu
+ - Décision par concordance : processus avec un niveau de profondeur accru pour les décisions à fort enjeu
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC) 
  - Efficacité-humaniste : à la fois le système de valeurs qui soutent gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine
  - Egrégore : une énergie de groupe influencée par les désirs de plusieurs personnes unis dans un but commun.
- - Espace contrat : régit le « qui fait quoi », toutes les réunions, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
- - Espace relation : toutes les réunions, postures, processus permettant de cultiver ou restaurer la relation
- - Espace sens : toutes les réunions, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
+ - Elément : module activable et désactivable par une cellule selon les besoins qu’elle rencontre
+ - Espace contrat : régit le « qui fait quoi », toutes les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui
+ - Espace relation : toutes les temps, postures, processus permettant de cultiver ou restaurer la relation
+ - Espace sens : toutes les temps, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie … 
  - Gestion par tension : utiliser les tensions comme source des prochaines actions 
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps
  - Membre : un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance 
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi
  - Politique : règle décidée par une cellule qui s’applique soit à la cellule, soit aussi aux cellules spécifiques
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière 
- - Réunion d’élection sans candidat : affecter un rôle 
- - Réunion d’opération : affecter des actions nécessaires pour avancer dans le travail 
- - Réunion de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
- - Réunion de régulation : restaurer la relation avec une ou plusieurs autres personnes 
- - Réunion de réorganisation : créer un rôle ou le modifier pour répondre à un besoin 
- - Réunion de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
- - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités
+ - Temps d’élection sans candidat : affecter un rôle 
+ - Temps d’opération : affecter des actions nécessaires pour avancer dans le travail 
+ - Temps de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision 
+ - Temps de régulation : restaurer la relation avec une ou plusieurs autres personnes 
+ - Temps de réorganisation : créer un rôle ou le modifier pour répondre à un besoin 
+ - Temps de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
+ - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle.  Les cellules et les projets sont des rôles particuliers. 
  - Rôle lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
@@ -1615,12 +1732,12 @@ Depuis septembre 2019, une équipe est active pour tester, améliorer, transmett
 ##### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
 
-Olivier Daniel Thomas, Juliette Mouy, Thierry Perrier, Christophe Herault, Nicolas Begel, Virginie Angove, Yann Crespel (rôle lead)
+Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel (rôle lead)
 
 ##### Cellule écriture
 Adapter en continu la constitution de la Gouvernance Cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
 
-Yvan Schallenberger, Laurent Favia, Corinne Vialle, Yann Crespel, Jeanluc Christin (rôle source)
+Yvan Schallenberger, Laurent Favia, Yann Crespel,Jerome Michelet, Jeanluc Christin (rôle source)
 
 ##### Cellule école 
 Organiser la formation à la GC, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
@@ -1631,8 +1748,7 @@ Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault (rôle lead)
 
 Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté. 
 
-##### Gouvernance Cellulaire
-Christophe Herault, Virginie Angove, Laurent Favia, Yves Christol, David Drayer (rôle lead)
+Marion Rigaux, Christophe Herault, Virginie Angove, David Drayer (rôle lead)
 
 ##### Cellule sève : la cellule qui prend soin de la vie du collectif
 
