@@ -1365,7 +1365,7 @@ Proposition (5-10’) un groupe (le rôle lead et un ou deux soutiens) synthéti
 Décision en GPC (15-30’) sur la base de la proposition portée par le rôle lead
 
 ##### Clôture
-Chacun nomme en une fois comment il a vécu « l’efficacité » et le « prendre soin » pendant ce temps
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
 
 #### 5.24 Elément responsabilités de membre 
 
