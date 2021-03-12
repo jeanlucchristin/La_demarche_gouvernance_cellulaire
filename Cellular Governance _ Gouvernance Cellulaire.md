@@ -375,7 +375,7 @@ Aider des membres ou collègues en tension relationnelle à restaurer les condit
 
 Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires, et s’ils le souhaitent un rôle facilitation. 
 
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. . Le processus pertinent est celui choisi par les participants.*
+*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. Le processus pertinent est celui choisi par les participants.* L’élément « marcher-parler » propose une alternative puissante et simple.
 
 ##### Inclusion  
 
