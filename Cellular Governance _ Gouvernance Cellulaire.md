@@ -393,7 +393,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 
 1. Rappeler la raison d’être de ce temps ainsi que le fait que chacun doit être volontaire tout au long du processus pour participer et peut, par conséquent, interrompre la rencontre à tout moment.
 2. Qui est demandeur de ce temps ? (il devient l’émetteur, l’autre ou les autres deviennent les receveurs).
-3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu as ressentis (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
+3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu  ressens (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
 4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
 5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
 6. Au receveur : Après avoir entendu cela, que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? 
