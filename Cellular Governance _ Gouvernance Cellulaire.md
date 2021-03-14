@@ -387,7 +387,7 @@ Les autres écoutent en silence.
 
 Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation.
 
-##### Processus de régulation
+##### Processus de CNV (communication Non Violente)
 
 Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
@@ -1025,7 +1025,8 @@ Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a
 ##### Ordre du jour  
 Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation et l’intention de restaurer une relation de travail sereine.
 
-##### Processus 
+##### Processus marcher-parler
+
 Les deux personnes partent marcher sans accompagnement. Le rôle facilitation est à distance mais peut être appelé en cas de besoin. La première a 20 minutes de temps de parole sans interruption. Ce temps est à sa disposition. Si elle n’a plus rien à dire, les deux restent en silence.
 
 La seconde personne fait de même. 
