@@ -40,7 +40,7 @@ Un objectif de la constitution est de permettre à chacun d’acquérir seul les
 
 #### Contribuer au Vivant 
 
-Permettre à chaque personne, aux projets et aux organisations de manifester le pouvoir créateur qui les anime dans l’exercice de leurs responsabilités.
+Permettre à chaque personne, aux projets et aux organisations de manifester le pouvoir créateur qui les anime dans l’exercice de leurs responsabilités avec humanité.
 
 Nous observons que beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façons de faire plus agiles. 
 
