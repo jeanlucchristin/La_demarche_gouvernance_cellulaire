@@ -66,7 +66,7 @@ Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est fac
 
 Nous participons à cet élan collectif en proposant une forme évolutive suffisamment explicite « de méthode du faire ensemble » pour servir de repère.
 
-Elle est brevetée en bien public, licence « CCbySA ».
+Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
 ## 2)  Raison d’être de la gouvernance cellulaire
 
