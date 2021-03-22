@@ -748,14 +748,11 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté
 
 Les différents temps de réunion se déroulent conformément à la constitution.
 
-##### Redevabilités inamovible
+##### Redevabilités 
 
 - Faciliter les temps de réunion de la cellule requises par la constitution
 - Consulter les enregistrements des cellules spécifiques. Signaler au rôle mémoire et au rôle représentation les observations incompatibles avec les règles de la constitution.
-
-##### Redevabilités amovibles
-
-Développer l'aisance des participants dans les processus pour qu'ils puissent tenir leurs tensions jusqu'à résolution sans prendre le pouvoir les uns sur les autres 
+- Développer l'aisance des participants dans les processus pour qu'ils puissent tenir leurs tensions jusqu'à résolution sans prendre le pouvoir les uns sur les autres 
 
 #### 4.3  Rôle mémoire 
 
@@ -767,14 +764,11 @@ inscrire les décisions dans les documents officiels de la cellule
 
 Tous les documents officiels de la cellule définis par la constitution
 
-##### Redevabilités inamovible
+##### Redevabilités
 
 - Organiser les réunions de la cellule requises par la constitution et informer tous les invités des dates et lieux
 - Enregistrer et publier les résultats des réunions de la cellule qui sont requises, et maintenir une vue compilée de la gouvernance en cours, des points de check-list et des indicateurs indicateurs de la cellule.
 - Interpréter la gouvernance et la constitution sur demande
-
-##### Redevabilités amovibles 
-
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit
 
 #### 4.4  Rôle représentation
