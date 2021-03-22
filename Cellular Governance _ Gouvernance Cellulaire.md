@@ -1425,18 +1425,11 @@ La personne pourra revenir avec une proposition quand elle aura expérimenté la
 
 #### 5.26 Elément variante décision par consentement et réorg.
 
-##### Variante DPC : « la proposition tournante »
-Après les réactions, le proposeur rédige sa V2 (étape 7)
+##### Variante DPC : « inspiration Université Du Nous »
 
-Il peut alors passer le relai à un membre qui a eu une réaction riche. Le relai est matérialisé par un stylo
+Après avoir rédigé sa V2 (étape 7), le proposeur abandonne son rôle. 
 
-Celui qui a le stylo dicte la nouvelle version au rôle mémoire 
-
-Si l’équipe est suffisamment mature, les étapes « réactions/réécriture » peuvent continuer en désordre
-
-Celui qui a le stylo peut à tout moment passer le relai à un autre membre
-
-Le processus rejoint la DPC simple quand celui qui a le stylo décide de passer à l’étape 8 (chacun peut-il composer avec la proposition ?)
+Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en Réorg.
 
 ##### Variante réorg : « la boite à idée » 
 
@@ -1572,7 +1565,10 @@ Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant q
 
 1. Un membre choisit un collègue et lui propose le rôle de réaliser son entretien annuel
 2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur
-   Le support de questionnement peut être 
+
+##### Support de questionnement
+
+Le support de questionnement peut être 
 
    - celui de la structure
    - une grille fournie par le demandeur
@@ -1604,6 +1600,12 @@ Vous pouvez visionner l’organisation de l’équipe gouvernance cellulaire par
 https://openmyorganization.org/org/GC
 
 Des outils plus puissants payants permettent de continuer l'aventure ensuite 
+
+Un tableau trello préconstruit propose une autre solution à recopier avec ce lien :
+
+https://trello.com/b/002WfWqn
+
+Des outils payants existent également
 
 #### 5.32 Elément légèreté-simplicité  
 
