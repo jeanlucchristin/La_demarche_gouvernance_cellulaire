@@ -1670,8 +1670,10 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 
 #### 6.2  Glossaire 
 
+ - Acteur : personne qui réalise quelque chose, les redevabilités d’un rôle par exemple
  - Auto-diagnostic : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste
  - Cellule : Une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
+ - Collaborateur : dans le système hiérarchique, membre a qui le chef dit parfois comment réaliser son rôle
  - Collègue : Un collègue est une personne de la structure qui ne participe pas à la gouvernance
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal) 
  - Décision par concordance : processus avec un niveau de profondeur accru pour les décisions à fort enjeu
@@ -1694,7 +1696,7 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
  - Temps de régulation : restaurer la relation avec une ou plusieurs autres personnes 
  - Temps de réorganisation : créer un rôle ou le modifier pour répondre à un besoin 
  - Temps de sens :  réfléchir à plusieurs sur une raison d’être, une question éthique … 
- - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle.  Les cellules et les projets sont des rôles particuliers. 
+ - Rôle : Une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle.  Les cellules et les projets sont des rôles particuliers. Cette personne ne réalise pas forcément elle-même les attendus, par contre, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées
  - Rôle lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par)
 
