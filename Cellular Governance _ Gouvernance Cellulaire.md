@@ -1529,25 +1529,26 @@ De notre expérience, la cohabitation de la culture hiérarchique et de la cultu
 Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles
 
 ##### Processus
-Le leader seul ou avec l’équipe évalue le niveau de délégation et d’autonomie réellement vécu et celui souhaité. Le niveau de délégation correspond à la latitude d’action et à la responsabilité donnée aux personnes qui sont affectées à un rôle, le niveau de liberté correspond à la latitude d’action prise par celles-ci.
+Le leader seul ou avec l’équipe évalue le niveau de délégation et d’autonomie réellement vécu et celui souhaité. Le niveau de délégation correspond à la latitude d’action et à la responsabilité donnée aux personnes qui sont affectées à un rôle, le niveau de liberté correspond à la latitude d’action prise par celles-ci.
 
 Le niveau d’autonomie est la résultante de ces deux dynamiques.
 
 Le niveau d’autonomie est clarifié en fonction de qui réfléchit à la meilleure option, qui décide de celle retenue, qui agit et qui évalue l’effet de l’action. 
-Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf paragraphe correspondant de la constitution)
+Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf paragraphe correspondant de la constitution).
 
-Chacune de ces quatre phases peut être assurée soit par le manager seul, soit ensemble, soit par le collaborateur seul. « Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe
+Chacune de ces quatre phases peut être assurée soit par le manager seul, soit ensemble, soit par le collaborateur/acteur seul. 
+« Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe.
 
 
 ##### Calage pyramidal
 Quand le manager assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur manager pour savoir quoi faire. Le réglage est dit de « dépendance au manager »
 
 ##### Calage collectif
-Quand le groupe assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur collectif pour savoir quoi faire. 
+Quand le groupe assure la réflexion, la décision et l’évaluation, les acteurs dépendent de leur collectif pour savoir quoi faire. 
 Le réglage est dit de « dépendance au groupe ». 
 
 ##### Calage cellulaire
-Quand le collaborateur assume la liberté de réfléchir, décider, agir et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit d’  « inter-indépendance »
+Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit d’  « inter-indépendance »
 
 #####  Réglage
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps
