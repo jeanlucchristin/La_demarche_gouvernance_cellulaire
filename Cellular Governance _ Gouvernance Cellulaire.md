@@ -1473,7 +1473,33 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres de la c
 ##### Réutilisation
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet
 
-#### 5.29 Elément curseur managérial
+#### 5.29 Elément rôles ami impitoyable & urgentiste 
+
+##### Raison d’être ami impitoyable 
+
+Ce rôle aidera toute personne qui le demande à éviter de retourner dans  la culture du blâme et d’incarner la posture de coopération. Chacun peut l’attribuer à la personne de son choix (si elle l’accepte).
+
+En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins une personne.
+
+##### Redevabilités ami impitoyable
+
+Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis tout ce qui a déjà été fait. (Ce n’est pas le sujet).
+
+Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (Ce n’est pas le sujet).
+
+##### Raison d’être urgentiste
+
+Ce rôle permet aux « leaders pyramidaux » (voir curseur managérial) de passer officiellement en mode donneur d’ordre en cas d’urgence. 
+Il assume la prise de pouvoir ponctuelle sur un rôle, ce qui évite de discréditer toute la démarche. 
+
+##### Redevabilités urgentiste 
+En cas d’urgence, le leader pyramidal reprend une délégation qui avait été confiée à un rôle.
+Il doit nommer qu’il passe en rôle « urgentiste ».
+Il active ce rôle le plus rarement possible.
+Il met en place des actions de fond pour que ce rôle devienne obsolète.
+Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
+
+#### 5.30 Elément curseur managérial
 
 ##### Système 
 
@@ -1497,7 +1523,7 @@ En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal 
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution
 
-#### 5.30 Elément niveaux d’autonomie
+#### 5.31 Elément niveaux d’autonomie
 
 ##### Raison d’être 
 Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles
@@ -1527,7 +1553,7 @@ Quand le collaborateur assume la liberté de réfléchir, décider, agir et éva
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps
 
 
-#### 5.31 Elément Entretien annuel  
+#### 5.32 Elément Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1559,7 +1585,7 @@ Le support de questionnement peut être
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 5.32 Elément numérique
+#### 5.33 Elément numérique
 
 ##### Raison d’être 
 
@@ -1583,7 +1609,7 @@ https://trello.com/b/002WfWqn
 
 Des outils payants existent également
 
-#### 5.33 Elément légèreté-simplicité  
+#### 5.34 Elément légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cellule, rôles, politiques, processus etc) pour 
@@ -1677,7 +1703,7 @@ Notre ambition ici est un mariage posthume entre les théorie humanistes de Park
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
-Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien logo](https://user-images.githubusercontent.com/38285180/50234086-2ec2e800-03b5-11e9-9a84-4cb2a1377e7c.png)
+Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs
 
