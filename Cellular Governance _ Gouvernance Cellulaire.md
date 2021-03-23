@@ -974,25 +974,7 @@ Répondre au besoin de votre cellule
 
 A vous de jouer !  
 
-#### 5.9 Elément Liberté Egalité Fraternité
-
-##### Intention
-
-Ce travail a émergé en France. Nous avons eu envie de jouer avec la devise de notre état pour retrouver certains de nos principes fondamentaux. L’idée est un clin d’œil : faire des choses sérieuses sans se prendre au sérieux
-
-##### Liberté - choix 
-
-Le terme liberté nous permet d’aborder les sujets du choix, de l’autonomie, de l’auto-détermination, de la souveraineté, du pouvoir d’agir. Les libertés des uns doivent composer avec celles des autres, de façon à éviter l’emprise (le pouvoir sur l’autre) tout en encourageant la capacité d’agir (le pouvoir avec le collectif ou une réalisation)
-
-##### Egalité - unicité - inclusion
-
-Nous utilisons ce terme pour les notions d’importance égale de tous les membres, de toutes les tensions et de tous les élans. Il est associé à la notion de réciprocité : de leadership tournant. Il permet enfin, avec un peu de laxité vis-à-vis du sens de « égalité », de nommer l’unité dans laquelle nous vivons : à la fois nous sommes construit par notre environnement, nos structures, et à la fois nous les construisons. C’est l’impact mutuel, l’interdépendance
-
-##### Fraternité - amour  
-
-Ce vocable nous permet de nommer l’importance de la relation, le besoin de se soutenir entre membres et collègues à certains  moments et de se stimuler à d’autres pour créer ensemble. Il aurait pu être question de sororité, ou d’adelphité : nous sommes tous des humains vivant dans ce monde, il est au final question d’amour
-
-#### 5.10 Elément 3 piliers éthiques
+#### 5.9 Elément 3 piliers éthiques
 
 ##### Intention
 Cet élément propose trois piliers pour guider la création des raisons d’être ou pour clarifier une situation de doute moral. 
@@ -1008,7 +990,7 @@ Notre mode de fonctionnement collectif serait l’occasion de cultiver la confia
 ##### Eco-système global 
 La façon dont est pensé notre projet amènerait à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
 
-#### 5.11 Elément Régulation marcher-parler
+#### 5.10 Elément Régulation marcher-parler
 
 ##### Raison d’être 
 Disposer d’un temps de régulation entre deux personnes. Ce processus est soutenu par un rôle facilitation qui ne nécessite pas beaucoup de connaissance dans la relation humaine.
@@ -1030,7 +1012,7 @@ Les deux personnes se réunissent avec le rôle facilitation. Elles essaient d�
 ##### clôture   
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
 
-#### 5.12 Elément feedback
+#### 5.11 Elément feedback
 
 ##### Raison d’être 
 
@@ -1062,7 +1044,7 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 
 Il est bénéfique d’être attentif à ses propres besoins : demander une feedback, s’en donner à soi même
 
-#### 5.13 Elément estime de soi
+#### 5.12 Elément estime de soi
 
 ##### Raison d’être 
 
@@ -1101,7 +1083,7 @@ La structure et chaque membre ou collègue ont intérêt à créer les condition
 
 Là encore, il s’agit d’une recherche permanente d’équilibre 
 
-#### 5.14 Elément séparation 
+#### 5.13 Elément séparation 
 
 ##### Processus de séparation
 
@@ -1113,7 +1095,7 @@ Par défaut, cette décision est prise en concordance
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains
 
-#### 5.15 Elément changement
+#### 5.14 Elément changement
 
 
 ##### Intention
@@ -1140,7 +1122,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 8.  Désir : une tension vers quelque chose de mieux apparait, un nouveau changement est en cours …
 
-#### 5.16 Elément Déblocage 180°   
+#### 5.15 Elément Déblocage 180°   
 
 ##### Raison d’être 
 
@@ -1172,7 +1154,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
 
-#### 5.17 Elément Frustration 
+#### 5.16 Elément Frustration 
 
 ##### Raison d’être 
 
@@ -1195,7 +1177,7 @@ Nous considérons que cette capacité à composer avec la frustration varie selo
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité
 
-#### 5.18 Elément bonté
+#### 5.17 Elément bonté
 
 ##### Prendre soin du climat de travail 
 
@@ -1216,7 +1198,7 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 Indicateurs de réussite : Se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux … 
 
-#### 5.19 Elément posture professionnelle  
+#### 5.18 Elément posture professionnelle  
 
 ##### Raison d’être 
 
@@ -1245,7 +1227,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 *Plus de réflexion avec l’élément humain de Will Schutz*
 
-#### 5.20 Elément charte gouvernance cellulaire 
+#### 5.19 Elément charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1283,7 +1265,7 @@ Signatures :
 
 *¤ Cette charte pourra être amendée ou abrogée par ses signataires*
 
- #### 5.21 Elément accompagnement Extérieur
+ #### 5.20 Elément accompagnement Extérieur
 
 ##### Technicité 
 
@@ -1301,7 +1283,7 @@ Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécess
  Le moment le plus délicat nous semble apparaitre lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire
  Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage
 
-#### 5.22 Elément fusion d’équipes
+#### 5.21 Elément fusion d’équipes
 
 ##### Raison d’être 
 
@@ -1339,7 +1321,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
 
-#### 5.23 Elément Rétrospective & stratégie
+#### 5.22 Elément Rétrospective & stratégie
 
 ##### Raison d’être 
 Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amélioration, valoriser les membres et définir ensemble les priorités pour les prochains mois. 
@@ -1363,7 +1345,7 @@ Décision en GPC (15-30’) sur la base de la proposition portée par le rôle l
 ##### Clôture
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
 
-#### 5.24 Elément responsabilités de membre 
+#### 5.23 Elément responsabilités de membre 
 
 ##### Soin de la relation 
 Quand  un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
@@ -1392,7 +1374,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus
 - Check-list et Indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles 
 
-#### 5.25 Elément consolidation de décision par concordance
+#### 5.24 Elément consolidation de décision par concordance
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -1417,7 +1399,7 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la proposition et aura précisé son besoin pour réduire sa tension. 
 
-#### 5.26 Elément variante décision par consentement et réorg.
+#### 5.25 Elément variante décision par consentement et réorg.
 
 ##### Variante DPC : « inspiration Université Du Nous »
 
@@ -1435,7 +1417,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Demandeur quelle est ta proposition ?
 5. Le process redevient celui de consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
 
-#### 5.27 Elément Décision hors réunion
+#### 5.26 Elément Décision hors réunion
 
 ##### Raison d’être 
 
@@ -1601,7 +1583,7 @@ https://trello.com/b/002WfWqn
 
 Des outils payants existent également
 
-#### 5.32 Elément légèreté-simplicité  
+#### 5.33 Elément légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cellule, rôles, politiques, processus etc) pour 
