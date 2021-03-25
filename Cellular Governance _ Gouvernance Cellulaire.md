@@ -87,7 +87,7 @@ Offrir une constitution hautement imparfaite, clef en main, libre de droit, simp
 ##### Comment ?  
 
  - Un livret central avec des éléments cœur et des rôles préconstruits.
- - Des éléments modulaires optionnels.
+ - Des éléments optionnels.
 
 Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit.
 
