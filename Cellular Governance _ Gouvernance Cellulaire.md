@@ -1,8 +1,7 @@
-# Gouvernance Cellulaire   V3.0
+# Gouvernance Cellulaire   V3.1
  
 Explorons une autre façon de travailler ensemble
 
-*Les modifications de cette version sont visibles [ici](https://cellulargovernance.org/wp-content/uploads/constitution-Cellular-Governance-V3.0-modifs-vs-V2.1.pdf) (en vert).
 Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
