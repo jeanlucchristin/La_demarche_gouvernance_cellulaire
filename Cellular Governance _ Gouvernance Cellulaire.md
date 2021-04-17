@@ -7,8 +7,8 @@ Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire�
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 Elle est déposée ici : https://github.com/jeanlucchristin/constitution-cellular-governance/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
 
-Marque, logos et constitution sont en accès libres **Vous devez simplement inclure un lien vers http: //cellulargovernance.org quand vous l’utilisez.** 
-Plus d’info à la fin de la constitution.* 
+Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers http://cellulargovernance.org quand vous l’utilisez.** 
+Plus d’infos à la fin de la constitution.* 
 
 
 ## 1)  Avant-propos
@@ -23,7 +23,7 @@ C’est une méthode pour co-construire un diagnostic puis décider d’actions 
 
 Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement par l’un ou l’autre des éléments de cette constitution.
 
-Cette logique d’ajustement est permanente. Même si une structure  correspond au calage gouvernance cellulaire avec les éléments cœurs, les 4 rôles préconstruits et d’éventuels éléments optionnels, cela n’arrête pas sa démarche.
+Cette logique d’ajustement est permanente. Même si une structure correspond au calage gouvernance cellulaire avec les éléments cœurs, les 4 rôles préconstruits et d’éventuels éléments optionnels, cela n’arrête pas sa démarche.
 
 Elle continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
 
@@ -43,7 +43,7 @@ Permettre à chaque personne, aux projets et aux organisations de manifester le 
 
 Nous observons que beaucoup de gens ne se reconnaissent plus dans les systèmes hiérarchisés et cherchent des alternatives. Nous en faisons partie. Dans le même temps, des entreprises constatent la lenteur des processus hiérarchiques et inventent des façons de faire plus agiles. 
 
-Nous pensons que ces deux quêtes seront favorisées par un mode de gouvernance visant à :
+Nous pensons que ces deux quêtes sont favorisées par un mode de gouvernance visant à :
 
 - une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres. 
 - Une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues.
@@ -56,9 +56,9 @@ Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est fac
 - Une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues.
 - La détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
 
-- le travail individuel et collectif sur :
+- Le travail individuel et collectif sur :
   - la présence au monde (méditation…).
-  - La	 conscience des autres (travail de la relation) et du monde.
+  - La	conscience des autres (travail de la relation) et du monde.
   - Le choix des actions en responsabilité et leur réalisation.
 
 #### Notre contribution 
@@ -71,7 +71,7 @@ Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la structure*.
- - *Se demander ce dont ils ont besoin  et traverser les conflits de manière bénéfique*.
+ - *Se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*.
  - *Actualiser une raison d’être ajustée et suffisamment motivante*.
 
 #### *2.1  pour le monde* 
@@ -79,9 +79,9 @@ Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 ##### Quoi ?
 
 Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple, qui veille à l’équilibre éthique entre « agir » et « prendre soin » :
-  - Permette aux structures d’évoluer vers ce qui compte pour elles.
-  - Permette la même chose aux humains qui les composent.
-  - Propose de rechercher cet équilibre dans le mouvement, l'ajustement.
+  - Permettre aux structures d’évoluer vers ce qui compte pour elles.
+  - Permettre la même chose aux humains qui les composent.
+  - Proposer de rechercher cet équilibre dans le mouvement, l'ajustement.
 
 ##### Comment ?  
 
@@ -137,7 +137,7 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investiss
    - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
    - Raison d’être : une raison d’être (pour la structure, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
    - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
-   - Temps de positionnement éthique : Se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou pour approfondir un questionnement éthique.
+   - Temps de positionnement éthique : se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou approfondir un questionnement éthique.
    - Culture essai-apprentissage : ne pas chercher la solution idéale mais expérimenter une option viable et profiter de ses enseignements.
 
    
@@ -148,16 +148,16 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investiss
   - Temps de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation.
   
 **Espace Contrat :** 
-  - Exigence : Résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
+  - Exigence : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
   - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
-  - Décision par Consentement : Aider le collectif à aboutir à une décision (stratégie ou toute décision ...) en gestion par consentement (GPC).
-    - Temps de réorganisation :  Objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
-    - Election sans candidat :  Elire une personne dans un rôle sur la base des compétences perçues par les membres.
+  - Décision par Consentement : aider le collectif à aboutir à une décision (stratégie ou toute décision, etc) en gestion par consentement (GPC).
+    - Temps de réorganisation : objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
+    - Election sans candidat : élire une personne dans un rôle sur la base des compétences perçues par les membres.
   
   **Structuration :** 
   - Rôle : description de ce sur quoi les autres membres et collègues peuvent compter.
-  - Cellule : rôle qui a grandit et s’est structuré en équipe autonome reliée aux autres rôles.
-  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent puis d’activer les mécanismes à sa portée pour réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires.
+  - Cellule : rôle qui a grandi et s’est structuré en équipe autonome reliée aux autres rôles.
+  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’activer les mécanismes à sa portée pour en réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires.
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 
@@ -178,7 +178,7 @@ La relation peut se dégrader au point d’amener une séparation pour incompati
 
 Le collectif considèrera que la personne n’avait pas la posture adéquate.
 
-Il nous parait sain de :
+Il nous paraît sain de :
  - nourrir la cohésion, l’authenticité, la confiance et le projet commun  (cf « Egrégore »).
  - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus).
  - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence »).
@@ -191,13 +191,13 @@ Chacun décide en son for intérieur des actions les plus pertinentes à mettre 
 
 ##### Assumer
 
- Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultat, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
+Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultats, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
 
 ##### Sortie de rôle
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
 
-Plus de réflexion [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
+Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
 #### 3.3 Raison d’être  
 
@@ -213,17 +213,17 @@ La raison d’être (ou vocation) d’une structure est le potentiel le plus ins
 
 Elle balaie trois dimensions qu’elle priorise :
 
-- apport au monde. 
-- Apport à ses membres.  
-- Apport à ses investisseurs.
+- apport au monde,
+- apport à ses membres,
+- apport à ses investisseurs.
 
-Il est possible de préciser l’impact (le quoi), le moyen ( le comment) et l’intention (le parce que).
+Il est possible de préciser l’impact (le quoi), le moyen (le comment) et l’intention (le parce que).
 
 ##### Rôle Source
 
 La raison d’être d’une structure est intuitive, perceptible et évolutive.
 
-Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure en fonction de ce qu’il observe jusqu’à ce qu’il décide de transférer ce pouvoir à d’autres ou à une cellule.
+Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure en fonction de ce qu’elle observe jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
 
 #### 3.4  Actualisation de la raison d’être 
 
