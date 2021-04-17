@@ -233,19 +233,19 @@ Chaque membre ou collègue  peut déclencher une réunion pour créer une propos
 Par défaut, la réunion est sous forme de décision par consentement.
 
 Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- Cellule souche pour une évolution de la raison d’être de sa cellule.
-- Cellule ancrage pour une évolution de la raison d’être de sa structure.
+- cellule souche pour une évolution de la raison d’être de sa cellule,
+- cellule ancrage pour une évolution de la raison d’être de sa structure.
 
-La cellule souche vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin
+La cellule souche vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin.
 
-*l’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités*
+*L’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités.*
  
 
 ##### Devoir de réponse
 
 Une réponse doit être fournie. Elle peut prendre deux formes : 
 
-- « La raison d’être est modifiée ainsi … » (soit directement le résultat, soit un processus de modification). 
+- « La raison d’être est modifiée ainsi … » (soit directement le résultat, soit un processus de modification),
 - « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet ».
 
 
@@ -253,16 +253,16 @@ Une réponse doit être fournie. Elle peut prendre deux formes :
 
 L’intention est de permettre à chacun :
 
-- un consentement éclairé et actif à la raison d’être de la structure.
-- De prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
+- un consentement éclairé et actif à la raison d’être de la structure,
+- de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
 
-plus de réflexion en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
+plus de réflexions en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
 
 #### 3.5  Temps de positionnement éthique 
 
 ##### Raison d’être 
 
-Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’un sujet éthique quand un membre éprouve un conflit entre sa vision du monde (comprenant ses valeurs profondes) et ce qu’il vit. le rendu sera une décision, une proposition ou une simple réflexion nourrissant le système.
+Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’un sujet éthique quand un membre éprouve un conflit entre sa vision du monde (comprenant ses valeurs profondes) et ce qu’il vit. Le rendu sera une décision, une proposition ou une simple réflexion nourrissant le système.
  
 ##### Méthode 
 
@@ -282,7 +282,7 @@ Tour d’inclusion : comment je me sens en arrivant ?
 
 ##### Processus 
 
-Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux …. Toutes à expérimenter
+Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux, etc. Toutes à expérimenter.
 
 Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.
 
@@ -290,10 +290,10 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 1. Présentation du thème et de la question préparée par l’organisateur.
 2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes. 
-3. Sous-groupe : 15’ Où en sommes-nous sur ce thème ? En quoi est-ce important de le travailler ?
-4. Restitution rapide des sous-groupe en plénière.
-5. Solo : chacun prépare une proposition par écrit (éventuellement sous groupes par affinités selon la taille du groupe).
-6. Restitution : description des réponses écrites en sobriété de parole. Regroupements possibles.
+3. Sous-groupe 15’ : où en sommes-nous sur ce thème ? En quoi est-ce important de le travailler ?
+4. Restitution rapide des sous-groupes en plénière.
+5. Solo : chacun prépare une proposition par écrit (éventuellement en sous-groupe par affinités selon la taille du groupe).
+6. Restitution : description des réponses écrites en sobriété de parole, regroupements possibles.
 7. Le groupe décide de la solution qu’il retient (décision spontanée, consentement ou choix d’en rester là).
 8. Solidification de la décision par concordance.
 
@@ -301,11 +301,24 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.6  Pilotage de soi 
+#### 3.6 Culture essai-apprentissage
+
+##### Intention 
+La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
+Il est possible de reprendre une décision dès qu’une tension apparaît.
+Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
+
+##### Cycles  
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision. (On les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
+
+##### Tension 
+La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+
+#### 3.7  Pilotage de soi 
 
 ##### Raison d’être
 
-Ecouter les personnes qui sont en tension interne, notamment avec des décisions du collectif.
+Ecouter les personnes qui sont en tension interne, notamment par rapport à des décisions qui ont été prises. 
 
 Aider la personne restaurer sa puissance d’agir et à décider ce qu’elle veut engager pour réduire sa tension.
 
@@ -313,19 +326,19 @@ Accueillir, apporter de l’empathie, de la chaleur humaine.
 
 ##### Préparation 
 Ce process peut être utilisé :  
- - par une personne impactée (seule, ou en se faisant accompagner).
- - Lors de discussions entre collègues avec l’accord de la personne. 
+ - par une personne impactée (seule, ou en se faisant accompagner),
+ - lors de discussions entre collègues avec l’accord de la personne. 
 
 ##### Process
 
-Le rôle facilitation passe par différentes étapes
+Le rôle facilitation passe par différentes étapes.
 
 1. Réalité : rappelle ce qu'il s’est passé, les faits.
 2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
-3. Elan : comment aurais tu aimé que cela se passe ? 
-4. Relation : qu’est ce que tu aurais aimé que les autres fassent ? 
+3. Elan : comment aurais-tu aimé que cela se passe ? 
+4. Relation : qu’aurais-tu aimé que les autres fassent ? 
 
-Les prochaines fois 
+Les prochaines fois...
 
 5. Décision /soi : parmi ce que tu attendais des autres, que peux tu/veux tu faire directement toi-même ?
 6. Décision /autres : que vas-tu demander ? A qui ? Dans quel rôle ? 
@@ -336,7 +349,7 @@ Les prochaines fois
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.7  Egrégore d'équipe 
+#### 3.8  Egrégore d'équipe 
 
 ##### Intentions
 *Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
@@ -344,28 +357,28 @@ Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pen
 Cette énergie est positive ou négative, mouvante et adaptable 
 
 C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressource. Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
- - temps pour se centrer sur ce avec quoi chacun arrive (tête, corps, cœur).
- - Accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe.
- - Connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
+ - temps pour se centrer autour de ce avec quoi chacun arrive (tête, corps, cœur),
+ - accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe,
+ - connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
 
 ##### Process 
 
-Exemples de process corporel : plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R).
- - Accueillir les silences ou proposer un temps de silence.
- - Marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement.
- - Créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre).
- - Partager une expérience sensible (création d’une œuvre commune …).
+Exemples de process corporel plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R) :
+ - accueillir les silences ou proposer un temps de silence,
+ - marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement,
+ - créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre),
+ - partager une expérience sensible (création d’une œuvre commune…).
 
 
 Exemples de process verbalisé :
- - dire aux autres comment on fonctionne.
- - Exprimer ses enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement).
- - Temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite.
- - Moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf élément palabre).
- - Tour de table, photolangage.
- - Momens informels de relation.
+ - dire aux autres comment on fonctionne,
+ - exprimer ses enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement),
+ - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
+ - moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf élément palabre),
+ - tour de table, photolangage,
+ - moments informels de relation.
 
-#### 3.8  Temps de régulation  
+#### 3.9  Temps de régulation  
 
 ##### Raison d’être 
 
@@ -373,7 +386,7 @@ Aider des membres ou collègues en tension relationnelle à restaurer les condit
 
 ##### Logistique   
 
-Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires, et s’ils le souhaitent un rôle facilitation. 
+Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires et, s’ils le souhaitent, un rôle facilitation. 
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. Le processus pertinent est celui choisi par les participants.* L’élément « marcher-parler » propose une alternative puissante et simple.
 
@@ -391,22 +404,20 @@ Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulati
 Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
 1. Rappeler la raison d’être de ce temps ainsi que le fait que chacun doit être volontaire tout au long du processus pour participer et peut, par conséquent, interrompre la rencontre à tout moment.
-2. Qui est demandeur de ce temps ? (il devient l’émetteur, l’autre ou les autres deviennent les receveurs).
-3. Peux-tu nous dire ce qu’il s’est passé (les événements)? Ce que tu  ressens (les émotions)? Comment cela se passerait dans ton idéal (le besoin)? Ce que tu demandes concrètement à qui (la demande)? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
+2. Qui est demandeur de ce temps (il devient l’émetteur, l’autre ou les autres deviennent les receveurs) ?
+3. Peux-tu nous dire ce qu’il s’est passé (les événement) ? Ce que tu  ressens (les émotions) ? Comment cela se passerait dans ton idéal (le besoin) ? Ce que tu demandes concrètement à qui (la demande) ? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
 4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
-5. À l’émetteur : est-ce bien cela ? (plusieurs boucles peuvent être nécessaires). 
-6. Au receveur : Après avoir entendu cela, que décides-tu ? Eventuellement, qu’est ce qui serait aidant pour cela ? 
-7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire.
-(à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
-8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3)
+5. À l’émetteur : est-ce bien cela ? Plusieurs boucles peuvent être nécessaires. 
+6. Au receveur : après avoir entendu cela, que décides-tu ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
+7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
+8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3).
 
 ##### Clôture   
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
-plus de réflexion [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
-
-####  3.9  Exigence
+####  3.10  Exigence
 
 ##### Intention
 
@@ -424,27 +435,27 @@ Le membre qui ressent la tension.
 
 Il l’exprime en réunion d’opération. 
 
-Il est encouragé à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparait pas.
+Il est encouragé à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparaît pas.
 
 Il peut demander un tour de boite à idées aux membres de la cellule.
  
 ##### Solution alternative
 
-Le but n’est pas de  contraindre qui que ce soit  (ni le premier à faire, ni le second à subir que ce ne soit pas fait).
+Le but n’est pas de contraindre qui que ce soit  (ni le premier à faire, ni le second à subir que ce ne soit pas fait).
 
 Les alternatives peuvent être : 
 
- - soutien au rôle « défaillant ».
- - Affectation du rôle à une autre personne en complément ou en remplacement. 
- - Focalisation de toute la cellule sur l’action.
- - Une meilleure solution. 
+ - soutien au rôle « défaillant »,
+ - affectation du rôle à une autre personne en complément ou en remplacement, 
+ - focalisation de toute la cellule sur l’action,
+ - une meilleure solution. 
  
 ##### Fonction défense immunitaire
 Au-delà de cette posture d’exigence, une structure doit être capable de se protéger des membres qui n’arrivent pas à se recadrer pour respecter les processus et les règles communes. A minima, ceux-ci doivent finir par être écartés de la gouvernance. Pour les collectifs qui auraient du mal à assurer cette protection, il peut être utile de la confier à un rôle.
 
-  Plus de réflexion [ici](https://youtu.be/d1eJJhOkx94).
+Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
  
-#### 3.10  Temps d’opération
+#### 3.11  Temps d’opération
 
 ##### Raison d’être 
 
@@ -478,7 +489,7 @@ Chacun peut donner un ou deux mots pour réserver un créneau.
 
 Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont il voudrait qu’elles se passent.
 
-Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à traiter (avant ou pendant ce temps) 
+Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à traiter (avant ou pendant ce temps).
 
 ##### Processus de  triage  
 
@@ -486,21 +497,21 @@ Le rôle facilitation mène le processus jusqu’à la contractualisation d’un
 
 Quand un sujet consomme trop de temps, il invite à une clôture rapide ou un traitement ultérieur et passe au point suivant.
 
- - Quelle est la tension ? – De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?)
+ - Quelle est la tension ? De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?)
  
- – Lequel de tes rôles est impacté ? quelle redevabilité ? – A quel rôle t’adresses-tu ? (la réponse peut être je m’adresse à un rôle, à une personne ou à la cellule) – Que demandes-tu concrètement ? 
+ – Lequel de tes rôles est impacté ? Quelle redevabilité ? A quel rôle t’adresses-tu ? (la réponse peut être je m’adresse à un rôle, à une personne ou à la cellule) Que demandes-tu concrètement ? 
 
- - Si c’est adressé à un rôle : - Est-ce dans ton rôle ? – si oui : Que vas-tu faire ? (un rôle doit prendre en compte la tension)
+ - Si c’est adressé à un rôle : est-ce dans ton rôle ? Si oui : que vas-tu faire ? (un rôle doit prendre en compte la tension)
 
- - Si c’est adressé à une personne : Quelle est ta réponse ? (une personne n’est pas obligée de prendre en compte la tension) 
+ - Si c’est adressé à une personne : quelle est ta réponse ? (une personne n’est pas obligée de prendre en compte la tension) 
 
  - Lecture par le rôle mémoire de la réponse telle qu’il l’a saisie
 
- - Enfin, au rôle demandeur, après lecture par le rôle mémoire de l’action telle qu’elle a été notée :* Avec cette réponse, as-tu ce dont tu as besoin ici ? 
+ - Enfin, au rôle demandeur, après lecture par le rôle mémoire de l’action telle qu’elle a été notée :* avec cette réponse, as-tu ce dont tu as besoin ici ? 
  
 ##### Processus de sollicitation d’avis   
 
-En temps d’opération, un membre peut solliciter un avis. Les avis peuvent être sollicités en dehors de ce temps
+En temps d’opération, un membre peut solliciter un avis. Les avis peuvent être sollicités en dehors de ce temps.
 
 Cet avis lui servira à prendre une décision murie grâce à l’éclairage de ses collègues.
 
@@ -516,9 +527,9 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps	
+Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
 
-#### 3.11 Décision par consentement
+#### 3.12 Décision par consentement
 
 ##### Utilité  
 
@@ -532,52 +543,39 @@ Il aide les participants à s’imposer de prendre une décision. Il inclue chac
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
- 1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
 
- 2 Chacun rédige sa **proposition en silence**.
+2 Chacun rédige sa **proposition en silence**.
 
- 3 **Appel a proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
+3 **Appel à proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
 
-4 Proposeur quelle est ta **proposition V1** ?
+4 Proposeur, quelle est ta **proposition V1** ?
 
 5 Tous, avez-vous des besoins de **clarification** ?
 
-6 - Chacun en une fois : quelles sont vos **réactions, utiles selon vous**, ressentis, avis, pensées, meilleures idées,  suggestions, influences ? 
+6 Chacun en une fois : quelles sont vos **réactions, utiles selon vous**, ressentis, avis, pensées, meilleures idées, suggestions, influences ? 
 
-7 - Proposeur quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
+7 Proposeur, quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
 
-8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ?Cela nous cause-t-il du tort ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
+8 Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Cela nous cause-t-il du tort ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
 
-9 - Le rôle facilitation peut aider l’objecteur à évaluer s’il est **impératif d’intégrer son objection** à la proposition V2. Ce n’est pas le cas si l’objection concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet. (l’objecteur est souverain pour cette décision s’il l’argumente).
+9 Le rôle facilitation peut aider l’objecteur à évaluer s’il est **impératif d’intégrer son objection** à la proposition V2 (l’objecteur est souverain pour cette évaluation). Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. L’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
 
 Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
 Les objections non argumentées ne peuvent pas être retenues mais peuvent devenir d’autres tensions.
 
 *Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition*. 
 
-10 - **Résolution** : Paroles libres. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
+10 - **Résolution** : Parole libre. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
 
-*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition : retour à l’appel à proposition.*
+*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition et revenir à l’appel à proposition.*
 
 11 - **Célébration et enregistrement** quand toutes les objections sont levées.
 
 ##### Clôture   
 
 Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
-Plus de réflexion [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
-
-#### 3.12 Culture essai-apprentissage
-
-##### Intention 
-La logique de la décision par consentement est liée à la culture essai-apprentissageL’objectif n’est pas de chercher «  LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période
-Il est possible de reprendre une décision dès qu’une tension apparait
-Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente
-
-##### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule) Ces quatre phases sont nommées Action/Perception/Orientation/Décision. (On les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
-
-##### Tension 
-La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+Plus de réflexions [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
 #### 3.13  Temps de réorganisation
 
