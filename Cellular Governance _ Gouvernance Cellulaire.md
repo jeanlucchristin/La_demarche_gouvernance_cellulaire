@@ -615,7 +615,7 @@ Affecter un rôle élu : soit un rôle de la constitution, soit les rôles que l
 
 ##### Logistique   
 
-Périodicité : sur demande ou à échéance des rôles élus . Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 15 minutes pour une élection. 
+Périodicité : sur demande ou à échéance des rôles élus. Durée max fixée à l’avance. Nous conseillons un temps court de l’ordre de 15 minutes pour une élection. 
 
 ##### Inclusion  
 
@@ -631,11 +631,11 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 1. Rôle mémoire, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
 2. Tous : quelles sont les caractéristiques nécessaires pour tenir ce rôle ? (Concept « nuage de mots » : pas de recherche d’accord, chacun décidera de ses critères de sélection informellement).
-3. Chacun remplit son bulletin de vote (vote pour soi bienvenu) (un seul nom par bulletin) (noter « untel vote pour ... »).
+3. Chacun remplit son bulletin de vote (vote pour soi bienvenu, un seul nom par bulletin, noter « untel vote pour ... »).
 4. Je récupère et affiche les bulletins un par un, merci d’expliquer votre choix à tous. 
 5. Après avoir écouté les arguments des autres, certains souhaitent-ils reporter leur voix ?
-6. Option consensuelle : le rôle facilitation propose l’un des candidats avec le plus de voix. Option créative, le rôle facilitation demande une proposition parmi les candidats à qui il reste au moins une voix. 
-7. Le process redevient celui de gestion par consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection…
+6. Option consensuelle : le rôle facilitation propose l’un des candidats avec le plus de voix. Option créative : le rôle facilitation demande une proposition parmi les candidats à qui il reste au moins une voix. 
+7. Le process redevient celui de gestion par consentement à partir des objections : chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
 ##### Clôture   
 
@@ -647,19 +647,18 @@ Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pen
 
 ##### Contenu de rôle 
 
-- Un titre et au moins un éléments parmi : 
-  - une raison d’être : ce qui manquerait à la cellule s’il n’était pas là.
-  - Des redevabilités ou attendus : ce que les autres peuvent lui demander, qu’il doit fournir.
-- éventuellement un domaine : une chasse gardée.
+- Un titre et au moins un élément parmi : 
+  - une raison d’être : ce qui manquerait à la cellule s’il n’était pas là,
+  - des redevabilités ou attendus : ce que les autres peuvent lui demander et qu’il doit fournir,
+  - éventuellement un domaine : une chasse gardée.
 
 ##### Fonctionnement  
 
- Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font.
+Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font.
 
-La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle même.
+La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle-même.
 
-Plusieurs personnes peuvent être affectées à un même rôle.
-(Un focus peut être précisé clarifiant des périmètres différents).
+Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé clarifiant des périmètres différents).
 
 Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance de la cellule. 
 Elle est alors « référent » des autres.
@@ -672,10 +671,9 @@ Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organise
 
 Une cellule comprend impérativement :
 
-- un rôle facilitation et un rôle mémoire élus pour une période.
-- Un rôle lead nommé par sa cellule souche. (La cellule souche peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead.)
-- Sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule souche.
- (Sauf si une politique de la cellule souche a défini un autre mode de représentation.)
+- un rôle facilitation et un rôle mémoire élus pour une période,
+- un rôle lead nommé par sa cellule souche (la cellule souche peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead),
+- sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule souche (sauf si une politique de la cellule souche a défini un autre mode de représentation).
 
 #### 3.16  Responsabilité de Tension
 
@@ -688,26 +686,27 @@ Il a également la responsabilité et le pouvoir de tenter de réduire ces tensi
 ##### Responsabilité de structure 
 
 Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
-- préserver la liberté de chacun de s’orienter et de choisir (liberté).
-- Considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité).
-- Soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
+- préserver la liberté de chacun de s’orienter et de choisir (liberté),
+- considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité),
+- soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
 
 ##### Tension de rôle 
 
-Les tensions de rôles sont déclenchées par un écart pour réaliser son rôle au plus proche de son propre idéal. Elles entrainent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
+Les tensions de rôles amènent à réaliser son rôle au plus proche de son propre idéal.
+Elles entraînent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
 
 ##### Tension de personne 
 
 Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
 
-Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être …
+Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
 
 ##### Tension de cellule 
 
 La tension de cellule est relative directement à la réalisation des raisons d’être et redevabilités de la cellule. Les actions demandées s’adressent :
-- soit au rôle lead.
-- Soit à tous les membres la cellule.
-- Soit à la cellule en mode consentement dans une réunion dédiée.
+- soit au rôle lead,
+- soit à tous les membres la cellule,
+- soit à la cellule en mode consentement dans une réunion dédiée.
 
 ## 4) Livret central : Rôles préconstruits
 
