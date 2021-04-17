@@ -543,23 +543,23 @@ Il aide les participants à s’imposer de prendre une décision. Il inclue chac
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
-1 **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+1 - **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
 
-2 Chacun rédige sa **proposition en silence**.
+2 - Chacun rédige sa **proposition en silence**.
 
-3 **Appel à proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
+3 - **Appel à proposition**. Un membre se signale et devient le proposeur. Le collectif devient co-constructeur. 
 
-4 Proposeur, quelle est ta **proposition V1** ?
+4 - Proposeur, quelle est ta **proposition V1** ?
 
-5 Tous, avez-vous des besoins de **clarification** ?
+5 - Tous, avez-vous des besoins de **clarification** ?
 
-6 Chacun en une fois : quelles sont vos **réactions, utiles selon vous**, ressentis, avis, pensées, meilleures idées, suggestions, influences ? 
+6 - Chacun en une fois : quelles sont vos **réactions, utiles selon vous**, ressentis, avis, pensées, meilleures idées, suggestions, influences ? 
 
-7 Proposeur, quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
+7 - Proposeur, quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
 
-8 Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Cela nous cause-t-il du tort ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
+8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Cela nous cause-t-il du tort ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
 
-9 Le rôle facilitation peut aider l’objecteur à évaluer s’il est **impératif d’intégrer son objection** à la proposition V2 (l’objecteur est souverain pour cette évaluation). Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. L’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
+9 - Le rôle facilitation peut aider l’objecteur à évaluer s’il est **impératif d’intégrer son objection** à la proposition V2 (l’objecteur est souverain pour cette évaluation). Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. L’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
 
 Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
 Les objections non argumentées ne peuvent pas être retenues mais peuvent devenir d’autres tensions.
