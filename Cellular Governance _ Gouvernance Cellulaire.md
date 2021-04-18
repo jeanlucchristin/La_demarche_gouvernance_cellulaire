@@ -13,7 +13,7 @@ Plus d’infos à la fin de la constitution.*
 
 ## 1)  Avant-propos
 
-## 1.1)  La démarche Gouvernance cellulaire   
+## 1.1)  La démarche gouvernance cellulaire   
 
 #### Au-delà des modèles : une pratique continue
 
@@ -52,14 +52,14 @@ Nous pensons que ces deux quêtes sont favorisées par un mode de gouvernance vi
 #### Posture 
 
 Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est facilité par :
-- une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres. 
-- Une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues.
-- La détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
+- une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres,
+- une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues,
+- la détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
 
 - Le travail individuel et collectif sur :
-  - la présence au monde (méditation…).
-  - La	conscience des autres (travail de la relation) et du monde.
-  - Le choix des actions en responsabilité et leur réalisation.
+  - la présence au monde (méditation…),
+  - la	conscience des autres (travail de la relation) et du monde,
+  - le choix des actions en responsabilité et leur réalisation.
 
 #### Notre contribution 
 
@@ -70,18 +70,18 @@ Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 ## 2)  Raison d’être de la gouvernance cellulaire
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
- - *laisser chacun engager ce qui lui parait utile pour la structure*.
- - *Se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*.
- - *Actualiser une raison d’être ajustée et suffisamment motivante*.
+ - *laisser chacun engager ce qui lui parait utile pour la structure*,
+ - *se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*,
+ - *actualiser une raison d’être ajustée et suffisamment motivante*.
 
 #### *2.1  pour le monde* 
 
 ##### Quoi ?
 
 Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple, qui veille à l’équilibre éthique entre « agir » et « prendre soin » :
-  - Permettre aux structures d’évoluer vers ce qui compte pour elles.
-  - Permettre la même chose aux humains qui les composent.
-  - Proposer de rechercher cet équilibre dans le mouvement, l'ajustement.
+  - permettre aux structures d’évoluer vers ce qui compte pour elles,
+  - permettre la même chose aux humains qui les composent,
+  - proposer de rechercher cet équilibre dans le mouvement, l'ajustement
 
 ##### Comment ?  
 
@@ -111,7 +111,7 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
 
 ##### Comment ?
 
-- En approfondissant nos idées et nos connaissances dans une co-construction en mode Gouvernance Cellulaire.
+- En approfondissant nos idées et nos connaissances dans une co-construction en mode gouvernance cellulaire.
 - Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
 activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci.
 
@@ -119,19 +119,19 @@ activité de développement : R&D, supervision, formation, travail sur soi et cr
 
 Car nous avons envie :
 
-- d’explorer des façons d’être ensemble apportant de la joie et de l’efficacité.
+- d’explorer des façons d’être ensemble apportant de la joie et de l’efficacité,
 - de participer au monde par la création d’un commun.
 
 
 #### *2.3 pour nos investisseurs*  
 
-Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investisseurs). 
+Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisseurs). 
 
 ## 3)  Livret central : Eléments cœurs 
  
 #### 3.0  Eléments cœurs
 
-  - L’Auto-diagnostic Efficacité-humaniste : des conditions pour que les décisions prises soient suivies d’effets 
+  - L’Auto-diagnostic Efficacité-humaniste : des conditions pour que les décisions prises soient suivies d’effets.
   
   **Espace Sens :** 
    - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
@@ -167,8 +167,8 @@ Aucun impact, financement en mode don : "donner et recevoir"  (pas d’investiss
 #####  Intentions
 
 Agir ensemble sans contraindre qui que ce soit : 
-  - ni l’un à faire ce qui était attendu de lui par un/des autres.
-  - Ni l’autre à subir que ce ne soit pas fait.
+  - ni l’un à faire ce qui était attendu de lui par un/des autres,
+  - ni l’autre à subir que ce ne soit pas fait.
 
 #####  Processus
 
@@ -179,8 +179,8 @@ La relation peut se dégrader au point d’amener une séparation pour incompati
 Le collectif considèrera que la personne n’avait pas la posture adéquate.
 
 Il nous paraît sain de :
- - nourrir la cohésion, l’authenticité, la confiance et le projet commun  (cf « Egrégore »).
- - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus).
+ - nourrir la cohésion, l’authenticité, la confiance et le projet commun  (cf « Egrégore »),
+ - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus),
  - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence »).
 
 #### 3.2 Principe de choix - souveraineté 
@@ -1727,7 +1727,7 @@ Merci de prévenir la communauté sur le forum cellulargovernance.org si vous pr
 
 ##### Notre choix
 
-Notre méthodologie avec une personne source (Jean-Luc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
+Notre méthodologie avec une personne source (Jeanluc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
 
 Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
 
@@ -1735,35 +1735,35 @@ Le fait de conserver un auteur principal nous a paru nécessaire pour produire u
 
 #### 7.2  Contributeurs
 
-##### Equipe Gouvernance Cellulaire 
+##### Equipe gouvernance cellulaire 
 Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est organisée en 6 cellules.
  
 ##### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
 
-Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel (rôle lead)
+Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel (rôle lead).
 
 ##### Cellule écriture
 Adapter en continu la constitution de la Gouvernance Cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
 
-Yvan Schallenberger, Laurent Favia, Yann Crespel,Jerome Michelet, Jeanluc Christin (rôle source)
+Yvan Schallenberger, Laurent Favia, Yann Crespel, Jerome Michelet, Jeanluc Christin (rôle source).
 
 ##### Cellule école 
-Organiser la formation à la GC, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
+Organiser la formation à la gouvernance cellulaire, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
 
-Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault (rôle lead)
+Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault (rôle lead).
 
 ##### Cellule rayonnement 
 
 Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté. 
 
-Marion Rigaux, Christophe Herault, Virginie Angove, David Drayer (rôle lead)
+Marion Rigaux, Christophe Herault, Virginie Angove, David Drayer (rôle lead).
 
 ##### Cellule sève : la cellule qui prend soin de la vie du collectif
 
 Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
 
-Juliette Le Roy, Jean-Christophe Ciceron, Nicolas Begel, Virginie Angove (rôle lead)
+Juliette Le Roy, Jean-Christophe Ciceron, Nicolas Begel, Virginie Angove (rôle lead).
 
 ##### Cellule ancrage (la cellule souche)
 
