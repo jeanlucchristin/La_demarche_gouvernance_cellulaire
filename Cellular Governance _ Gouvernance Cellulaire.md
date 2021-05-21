@@ -1,4 +1,4 @@
-# Gouvernance Cellulaire   V3.1
+# Gouvernance Cellulaire   *version de développement de la future V3.2*
  
 Explorons une autre façon de travailler ensemble.
 
@@ -207,6 +207,8 @@ Chaque structure formalise et actualise sa raison d’être qui servira de cap l
 
 Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
 
+Ces raisons d’être peuvent toutes être complétées par des redevabilités (y compris celle de la structure).
+
 ##### Contenu
 
 La raison d’être (ou vocation) d’une structure est le potentiel le plus inspirant qu’elle peut manifester.
@@ -230,7 +232,7 @@ Nous souhaitons utiliser l’intuition motivante et confuse d’une personne sou
 ##### Pouvoir de proposition
 
 Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de sa cellule. 
-Par défaut, la réunion est sous forme de décision par consentement.
+Par défaut, la réunion est sous forme de décision par consentement consolidée par concordance.
 
 Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
 - cellule souche pour une évolution de la raison d’être de sa cellule,
@@ -243,7 +245,7 @@ La cellule souche vérifiera que la nouvelle raison d’être de la cellule spé
 
 ##### Devoir de réponse
 
-Une réponse doit être fournie. Elle peut prendre deux formes : 
+Une réponse doit être fournie par le rôle ou le collectif en charge de cette actualisation (cf ci-dessus). Elle peut prendre deux formes : 
 
 - « La raison d’être est modifiée ainsi … » (soit directement le résultat, soit un processus de modification),
 - « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet ».
@@ -262,7 +264,7 @@ plus de réflexions en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
 
 ##### Raison d’être 
 
-Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’un sujet éthique quand un membre éprouve un conflit entre sa vision du monde (comprenant ses valeurs profondes) et ce qu’il vit. Le rendu sera une décision, une proposition ou une simple réflexion nourrissant le système.
+Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’un sujet éthique quand un membre éprouve un conflit entre sa vision du monde (comprenant ses valeurs profondes) et ce qu’il vit. Le rendu sera une décision si les participants ont le pouvoir de décider, une proposition s’ils ne l’ont pas ou une simple réflexion nourrissant le système.
  
 ##### Méthode 
 
@@ -276,7 +278,7 @@ Tout sujet proposé par l’organisateur, dont ambition ; objectifs ; priorités
 
 ##### Inclusion  
 
-Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet.
+Le membre qui ressent un besoin de positionnement éthique invite les personnes (ou leurs représentants) qui lui paraissent concernées et celles qui lui semblent compétentes pour le sujet. Il prépare soigneusement par écrit le thème qu’il a besoin de clarifier.
 
 Tour d’inclusion : comment je me sens en arrivant ?
 
@@ -299,7 +301,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 #### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 3.6 Culture essai-apprentissage
 
@@ -309,10 +311,13 @@ Il est possible de reprendre une décision dès qu’une tension apparaît.
 Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
 
 ##### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision. (On les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision, (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
 
 ##### Tension 
 La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+
+##### Posture 
+La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilité » consiste à décider comment ajuster en permanence son action avec lucidité.
 
 #### 3.7  Pilotage de soi 
 
@@ -325,6 +330,7 @@ Aider la personne restaurer sa puissance d’agir et à décider ce qu’elle ve
 Accueillir, apporter de l’empathie, de la chaleur humaine. 
 
 ##### Préparation 
+
 Ce process peut être utilisé :  
  - par une personne impactée (seule, ou en se faisant accompagner),
  - lors de discussions entre collègues avec l’accord de la personne. 
@@ -347,7 +353,7 @@ Les prochaines fois...
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 3.8  Egrégore d'équipe 
 
@@ -414,7 +420,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
 ####  3.10  Exigence
@@ -527,7 +533,7 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 3.12 Décision par consentement
 
@@ -574,7 +580,7 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 Plus de réflexions [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
 #### 3.13  Temps de réorganisation
@@ -605,7 +611,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 3.14  Election sans candidat
 
@@ -639,7 +645,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 3.15  Rôle et cellule
 
@@ -836,8 +842,9 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
    - ce que la structure va apporter (nous allons créer…),
    - comment elle va procéder (en…),
    - la motivation de fond (parce nous considérons important de…).
-7. Clôture   
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+   - 
+##### Clôture   
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
  
 #### 5.3 Elément distinction personne et rôle
 
@@ -1006,7 +1013,7 @@ La seconde personne fait de même.
 Les deux personnes se réunissent avec le rôle facilitation. Elles essaient d’exprimer ce dont chacune aurait besoin pour recréer une relation de travail souhaitable. Le rôle facilitation distribue la parole par exemple selon le processus de triage, ou en suivant les étapes du temps de régulation. 
 
 ##### Clôture   
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 5.11 Elément feedback
 
@@ -1147,7 +1154,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 5.16 Elément frustration 
 
@@ -1172,9 +1179,9 @@ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’inte
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
-#### 5.17 Elément bonté
+#### 5.17 Elément prendre soin
 
-##### Prendre soin du climat de travail 
+##### Prendre soin du climat de travail, par exemple :
 
  - Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun.
  - Entretenir notre **confiance** : considérer nos collègues capables de trouver leur propre solution.
@@ -1183,8 +1190,9 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
  - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé.
  - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière.
 
-##### Prendre soin des humains 
+##### Prendre soin des humains, par exemple :
 
+ - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, je lui en parle et recherche avec elle des solutions alternatives, tout en restant souverain dans mon rôle. 
  - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
  - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
@@ -1318,9 +1326,36 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.22 Elément rétrospective & stratégie
+#### 5.22 Elément droit de recours
+
+##### Intention
+Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
+
+##### Autorités
+Les personnes qui ont autorité pour prendre et changer la décision sont identifiées : ce sont un rôle ou une cellule. S’il y a un flou, le rôle mémoire peut être sollicité pour interpréter les écrits. 
+
+##### Inclusion 
+Participants : 
+ - le rôle qui a pris une décision,
+ - le rôle mémoire qui a pour redevabilité d’interpréter la constitution sur demande,
+ - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans la cellule souche,
+ - un rôle facilitation,
+ - la personne qui demande ce temps.
+
+##### Processus
+La personne qui en a besoin sollicite ce temps auprès de celui ou celle qui a pris la décision. Cette dernière organise le temps de droit de recours. 
+
+Chaque participant est attentif aux arguments apportés. La personne demandeuse explique son point de vue à sa manière, par exemple en utilisant le processus de CNV.Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui parait judicieux mais attend qu’un participant le lui confirme pour le faire. 
+Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule souche.Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
+
+##### Clôture
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.![image](https://user-images.githubusercontent.com/38285180/119106200-61f28100-ba1e-11eb-953e-1961defc7c52.png)
+
+
+
+#### 5.23 Elément rétrospective & stratégie
 
 ##### Raison d’être 
 Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amélioration, valoriser les membres et définir ensemble les priorités pour les prochains mois. 
@@ -1329,24 +1364,27 @@ Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amé
 Chacun nomme comment il arrive.
  
 ##### Processus
-Célébration personnelle (15-30’) : temps solo pour me souvenir de ce que j’ai appris dans la dernière période sur moi, le collectif et le projet et pour envisager des prochains pas. Partage en collectif d’un prochain pas. 
+Célébration personnelle (15-30’) : temps solo pour me souvenir de de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur moi, les autres et le projet. Partage en collectif des éléments essentiels. 
 
-Célébration inter-personnelle (10-30’) : en duo, écrire (ou dire en mode écoute silencieuse) à au moins deux collègues une ou plusieurs choses que j’ai appréciées ou qui m’ont été difficiles ainsi que ce qui me rendrait la coopération plus facile. Variante : peut être réalisé dans un autre temps.
+Célébration relationnelle (10-30’) : en duo, écrire (ou dire en mode écoute silencieuse) à au moins deux collègues une ou plusieurs choses que j’ai appréciées ou qui m’ont été difficiles ainsi que ce qui me rendrait la coopération plus facile. Variante : peut être réalisé dans un autre temps.
 
-Célébration collective (15-30’) : en plénière, raconter les faits (le réalisé et le non-réalisé, chiffres clefs) ; sources de satisfaction ; sources d’inconfort. 
+Célébration collective (15-30’) : en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
+ - Raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs).
+ - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
+ - Exprimer les sources d’inconfort (ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
 
-Orientation (15-30’) en plénière : 
+Stratégie (15-30’) en plénière : 
 
-1) se reconnecter à la raison d’être puis passer en revue ce que chacun adorerait vivre dans les 6 prochains mois (rêve et aspiration) ; 2) recenser ce qui enthousiasme chacun aujourd’hui (forces et opportunités) ; 3) recenser ce qui préoccupe ou freine chacun aujourd’hui (faiblesses et menaces) ; 4) collecter les idées d’évolutions pour atténuer les principaux freins (voire les transformer en opportunités) et favoriser la réalisation de nos aspirations. 
-
-Proposition (5-10’) : un groupe (le rôle lead et un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes. 
-
-Décision en GPC (15-30’) sur la base de la proposition portée par le rôle lead.
+1) passer en revue ce que chacun adorerait vivre dans les 6 prochains mois (rêve et aspiration),
+2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
+3) Pondérer les idées.
+4) Proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes. 
+5) Décision en GPC (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
 
 ##### Clôture
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.23 Elément responsabilités de membre 
+#### 5.24 Elément responsabilités de membre 
 
 ##### Soin de la relation 
 Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
@@ -1375,7 +1413,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus.
 - Check-list et indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles.
 
-#### 5.24 Elément consolidation de décision par concordance
+#### 5.25 Elément consolidation de décision par concordance
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -1400,7 +1438,7 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
-#### 5.25 Elément variante décision par consentement et réorganisation
+#### 5.26 Elément variante décision par consentement et réorganisation
 
 ##### Variante DPC : « inspiration Université Du Nous »
 
@@ -1418,7 +1456,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Demandeur, quelle est ta proposition ?
 5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
-#### 5.26 Elément décision hors réunion
+#### 5.27 Elément décision hors réunion
 
 ##### Raison d’être 
 
@@ -1433,7 +1471,7 @@ Simplifier le processus, fonctionner à distance.
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-#### 5.27 Elément réciprocité 
+#### 5.28 Elément réciprocité 
 
 ##### Exercice du pouvoir
 
@@ -1453,7 +1491,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html).
 
-#### 5.28 Elément rôle Source 
+#### 5.29 Elément rôle Source 
 
 ##### Raison d’être du rôle source 
 Tenir le cap de son intuition de ce que pourrait devenir la structure ou le projet dont il a la charge dans la structure.
@@ -1464,17 +1502,17 @@ Tenir le cap de son intuition de ce que pourrait devenir la structure ou le proj
  - Faire son possible pour que cette intuition devienne réalité.
 
 ##### Domaine  
-Un domaine peut être précisé. Par exemple pour cette constitution, le rôle source a la redevabilité de choisir la rédaction finale. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
+Un domaine peut être précisé. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
 
 ##### Cellule d’ancrage
-Le rôle source fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de la structure.
+Le rôle source de la structure fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de la structure.
 
 Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage.
 
 ##### Réutilisation
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
 
-#### 5.29 Elément rôles ami impitoyable & urgentiste 
+#### 5.30 Elément rôles ami impitoyable
 
 ##### Raison d’être ami impitoyable 
 
@@ -1484,9 +1522,11 @@ En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins un
 
 ##### Redevabilités ami impitoyable
 
-Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis tout ce qui a déjà été fait (ce n’est pas le sujet).
+ - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis tout ce qui a déjà été fait (ce n’est pas le sujet).
+ - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (ce n’est pas le sujet).
+ - Me signaler quand, au lieu d’exprimer une tension et une demande, je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière. 
 
-Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (ce n’est pas le sujet).
+#### 5.31 Elément rôle urgentiste 
 
 ##### Raison d’être urgentiste
 
@@ -1500,7 +1540,23 @@ Il active ce rôle le plus rarement possible.
 Il met en place des actions de fond pour que ce rôle devienne obsolète.
 Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
 
-#### 5.30 Elément curseur managérial
+#### 5.32 Elément rôle protection
+
+##### Raison d’être rôle protection
+Sécuriser le collectif en accompagnant les personnes qui gênent les équipes pour comprendre leur attitude et les aider soit à rallier le collectif, soit à ne plus le déstabiliser. La déstabilisation peut concerner un membre, une équipe ou le projet.
+
+##### Redevabilités rôle protection
+ - Etudier toute situation sur laquelle il a été sollicité pour évaluer s’il est pertinent d’intervenir depuis son rôle. 
+ - Détecter les comportements à risque vis-à-vis du projet, de la culture interne ou des personnes. 
+ - Rencontrer la ou les personnes concernées, leur exposer la déstabilisation observée, soit vis-à-vis du respect des accords (les écrits), soit vis-à-vis du respect du projet (le projet comprenant la culture de coopération interne). 
+ - Ecouter leur point de vue, chercher avec elles une issue satisfaisante.
+ - Demander des actions concrètes.
+ - Déclencher une élection sans candidat pour les rôles élus quand cela pourrait être utile au collectif. 
+ - Demander une réaffectation des rôles quand cela pourrait être utile au collectif.
+ - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
+
+
+#### 5.33 Elément curseur managérial
 
 ##### Système 
 
@@ -1524,7 +1580,7 @@ En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal 
 
 De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution.
 
-#### 5.31 Elément niveaux d’autonomie
+#### 5.34 Elément niveaux d’autonomie
 
 ##### Raison d’être 
 Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles.
@@ -1553,7 +1609,7 @@ Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agi
 #####  Réglage
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
 
-#### 5.32 Elément Entretien annuel  
+#### 5.35 Elément Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1583,9 +1639,9 @@ Le support de questionnement peut être :
 
 ##### Clôture   
 
-Chacun nomme en une fois comment il a vécu l’efficacité et l’humanisme pendant ce temps.
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.33 Elément numérique
+#### 5.36 Elément numérique
 
 ##### Raison d’être 
 
@@ -1609,7 +1665,7 @@ https://trello.com/b/002WfWqn
 
 Des outils payants existent également.
 
-#### 5.34 Elément légèreté-simplicité  
+#### 5.37 Elément légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cellule, rôles, politiques, processus, etc.) pour :
