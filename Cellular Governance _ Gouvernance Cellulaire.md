@@ -414,7 +414,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 3. Peux-tu nous dire ce qu’il s’est passé (les événement) ? Ce que tu  ressens (les émotions) ? Comment cela se passerait dans ton idéal (le besoin) ? Ce que tu demandes concrètement à qui (la demande) ? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
 4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
 5. À l’émetteur : est-ce bien cela ? Plusieurs boucles peuvent être nécessaires. 
-6. Au receveur : après avoir entendu cela, que décides-tu ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
+6. Au receveur : après avoir entendu cela, quelle réponse apportes tu à la demande qui a été formulée ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
 7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
 8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3).
 
