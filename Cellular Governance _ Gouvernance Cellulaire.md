@@ -629,7 +629,7 @@ Chacun nomme comment il arrive.
 
 ##### Ordre du jour  
 
-Le rôle facilitation rappelle le/les rôles à élire.
+Le rôle facilitation rappelle le/les rôles à élir et la durée de mandat.
 
 ##### Process d’élection
 
@@ -720,7 +720,7 @@ La tension de cellule est relative directement à la réalisation des raisons d�
 
 ##### Raison d’être 
 
-Le rôle lead porte la raison d’être de l’ensemble de la cellule.
+Le rôle lead est le gardien du sens de l’ensemble de la cellule.
 
 ##### Domaine  
 
@@ -728,39 +728,40 @@ Affectation des rôles de la cellule
 
 ##### Redevabilités
 
-- Veiller au cap : alerter quand la cellule ne réalise pas sa raison d’être dans le réel et/ou ne délivre pas ce dont elle est redevable.
+- Veiller au cap : alerter quand la cellule ne réalise pas sa raison d’être dans le réel ou ne délivre pas ce dont elle est redevable.
 - Actualiser les priorités stratégiques de la cellule et sur demande, résoudre les conflits de priorités entre les rôles.
 - Répartir les ressources disponibles de la cellule sur les différents projets et/ou rôles.
 - Affecter des personnes aux rôles de la cellule.
-- Construire une structure minimum pour que la cellule réalise sa raison d’être (rôles et cellules spécifiques) : le rôle lead procède. 
-à sa manière en phase de lancement puis via la réunion de réorganisation.
+- Construire une structure de départ pour que la cellule réalise sa raison d’être (rôles et cellules spécifiques) : le rôle lead procède à sa manière en phase de lancement puis utilise les temps de réorganisation.
 
 ##### Redevabilités complémentaires
 
- Il est d'interdit d'ajouter des redevabilités à ce rôle
+ Il est d'interdit d'ajouter des redevabilités à ce rôle. 
+La personne affectée à ce rôle peut être en charge du rôle leader pyramidal en complément.
 
 Le rôle lead est en charge de tout ce qui n’est pas affecté
 
-- *Chacune de ces redevabilités pourra être progressivement assurée autrement que par le rôle lead : soit affectée à un autre rôle, soit transférée à la cellule par politique. La cellule les remplit alors via ses processus.*
+- *Chacune de ces redevabilités pourra être déléguée autrement par la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique, (la cellule les remplit alors via ses processus).*
 - *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule souche étant invité à participer à l’élection.*
 
 #### 4.2  Rôle facilitation
 
 ##### Raison d’être 
 
-Les différents temps de réunion se déroulent conformément à la constitution.
+Les différents temps de réunion se déroulent conformément aux processus prévus.
 
 ##### Redevabilités 
 
-- Faciliter les temps de réunion de la cellule requises par la constitution.
-- Consulter les enregistrements des cellules spécifiques. Signaler au rôle mémoire et au rôle représentation les observations incompatibles avec les règles de la constitution.
-- Développer l'aisance des participants dans les processus pour qu'ils puissent tenir leurs tensions jusqu'à résolution sans prendre le pouvoir les uns sur les autres.
+- Faciliter les temps de réunion de la cellule. (hors réunions métiers).
+- Développer l'aisance des participants dans les processus . Les aider à tenir leurs tensions jusqu'à résolution.
+- Consulter les enregistrements des cellules spécifiques.  Signaler au rôle mémoire et au rôle représentation les écarts avec la constitution.
+
 
 #### 4.3  Rôle mémoire 
 
 ##### Raison d’être 
 
-Inscrire les décisions dans les documents officiels de la cellule.
+Inscrire les décisions dans les compte rendu et fichiers de la cellule.
 
 ##### Domaine  
 
@@ -768,8 +769,8 @@ Tous les documents officiels de la cellule définis par la constitution.
 
 ##### Redevabilités
 
-- Organiser les réunions de la cellule requises par la constitution et informer tous les invités des dates et lieux.
-- Enregistrer et publier les résultats des réunions de la cellule qui sont requises, et maintenir une vue compilée de la gouvernance en cours, des points de check-list et des indicateurs indicateurs de la cellule.
+- Organiser les réunions de la cellule et informer tous les invités des dates et lieux. (hors réunions métiers).
+- Enregistrer et transmettre les résultats des réunions de la cellule cellule et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
 - Interpréter la gouvernance et la constitution sur demande.
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit.
 
@@ -781,7 +782,7 @@ Les tensions pertinentes à processer dans la cellule souche y sont apportées e
 
 ##### Redevabilités
 
-- Chercher à comprendre les tensions transmises par les membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule souche.
+- Chercher à comprendre les tensions des membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule souche.
 - Éliminer au sein de la cellule souche les contraintes qui limitent la cellule.
 - Donner de la visibilité à la cellule souche sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
 
@@ -1179,18 +1180,18 @@ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’inte
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
-#### 5.17 Elément prendre soin
+#### 5.17 Elément rôle prendre soin
 
-##### Prendre soin du climat de travail, par exemple :
+##### Prendre soin des personnes dans leurs rôles, par exemple :
 
  - Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun.
  - Entretenir notre **confiance** : considérer nos collègues capables de trouver leur propre solution.
  - **Renvoyer** du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger.
  - **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer. 
- - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter** tant qu’il ne nous est rien demandé.
- - **Non-emprise** : m’astreindre à respecter ces préceptes s’ils me semblent bons mais ne pas exiger des autres qu’ils les suivent à ma manière.
+ - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter**.
+ - Aider les gens à se demander s’ils libèrent suffisamment leur potentiel créateur pour en être satisfaits. 
 
-##### Prendre soin des humains, par exemple :
+##### Prendre soin des personnes en tant qu’humains, par exemple :
 
  - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, je lui en parle et recherche avec elle des solutions alternatives, tout en restant souverain dans mon rôle. 
  - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
@@ -1199,11 +1200,9 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
  - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites.
  - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous.
 
-Indicateurs de réussite : se laisser surprendre par une idée qui s’avère efficace, entendre un rire joyeux, etc.
+##### Affectation  
 
-##### Rôle prendre soin  
-
-Un rôle peut être créé pour être particulièrement attentif aux personnes, affecté à un ou plusieurs membres.
+Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de l’équipe ou à tous les membres.
 
 #### 5.18 Elément posture professionnelle  
 
@@ -1438,7 +1437,16 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
-#### 5.26 Elément variante décision par consentement et réorganisation
+#### 5.26 Elément variante décisions collectives 
+
+##### Variante test des objections
+
+Pour gagner du temps, préserver la capacité d’innovation et préparer la phase de bonification, des collectifs expérimentés activent le test des objections dans leur processus de décision collective. 
+ 
+A l’étape 9, le rôle facilitation peut alors aider l’objecteur à évaluer s’il est impératif d’intégrer son objection à la proposition V2 (l’objecteur est souverain pour cette évaluation). 
+L’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible ou un sujet qui existait avant la proposition (autre sujet) ni si l’objecteur n’est pas directement concerné par les conséquences envisagées. 
+Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions.
+Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur.
 
 ##### Variante DPC : « inspiration Université Du Nous »
 
