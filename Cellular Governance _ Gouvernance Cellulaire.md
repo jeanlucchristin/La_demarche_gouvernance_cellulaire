@@ -1193,7 +1193,7 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 ##### Prendre soin des personnes en tant qu’humains, par exemple :
 
- - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, je lui en parle et recherche avec elle des solutions alternatives, tout en restant souverain dans mon rôle. 
+ - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, lui en parler et rechercher avec elle des solutions alternatives, tout en restant souverain dans mon rôle. 
  - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
  - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
