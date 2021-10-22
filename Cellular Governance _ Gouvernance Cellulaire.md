@@ -181,7 +181,7 @@ Le collectif considèrera que la personne n’avait pas la posture adéquate.
 Il nous paraît sain de :
  - nourrir la cohésion, l’authenticité, la confiance et le projet commun  (cf « Egrégore »),
  - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus),
- - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence »).
+ - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence de solidarité »).
 
 #### 3.2 Principe de choix - souveraineté 
 
@@ -235,10 +235,10 @@ Chaque membre ou collègue  peut déclencher une réunion pour créer une propos
 Par défaut, la réunion est sous forme de décision par consentement consolidée par concordance.
 
 Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- cellule souche pour une évolution de la raison d’être de sa cellule,
+- cellule amont pour une évolution de la raison d’être de sa cellule,
 - cellule ancrage pour une évolution de la raison d’être de sa structure.
 
-La cellule souche vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin.
+La cellule amont vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin.
 
 *L’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités.*
  
@@ -284,7 +284,7 @@ Tour d’inclusion : comment je me sens en arrivant ?
 
 ##### Processus 
 
-Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux, etc. Toutes à expérimenter.
+Beaucoup d’alternatives et de variantes existent ici : brainstorming, 6 chapeaux de De Bono, etc. Toutes à expérimenter.
 
 Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.
 
@@ -423,7 +423,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
-####  3.10  Exigence
+####  3.10  Exigence de solidarité
 
 ##### Intention
 
@@ -457,7 +457,7 @@ Les alternatives peuvent être :
  - une meilleure solution. 
  
 ##### Fonction défense immunitaire
-Au-delà de cette posture d’exigence, une structure doit être capable de se protéger des membres qui n’arrivent pas à se recadrer pour respecter les processus et les règles communes. A minima, ceux-ci doivent finir par être écartés de la gouvernance. Pour les collectifs qui auraient du mal à assurer cette protection, il peut être utile de la confier à un rôle.
+Au-delà de cette posture d’exigence de solidarité, une structure doit être capable de se protéger des membres qui n’arrivent pas à se recadrer pour respecter les processus et les règles communes. A minima, ceux-ci doivent finir par être écartés de la gouvernance. Pour les collectifs qui auraient du mal à assurer cette protection, il peut être utile de la confier à un rôle. Le rôle protection peut être mis en place pour cela.
 
 Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
  
@@ -535,7 +535,7 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.12 Décision par consentement
+#### 3.12 Décision Collective
 
 ##### Utilité  
 
@@ -549,7 +549,7 @@ Il aide les participants à s’imposer de prendre une décision. Il inclue chac
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
-1 - **Ecoute** du réel. Chacun nomme ce qu’il a en tête du contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence. 
+1 - **Ecoute** du réel. précise le contexte, ses perceptions, envies, essentiels. Pour éviter les redites : les gens lèvent la main pour signaler qu’ils perçoivent la même chose. Aucun débat. Temps d’imprégnation et de présence (phase optionnelle). 
 
 2 - Chacun rédige sa **proposition en silence**.
 
@@ -563,9 +563,9 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 7 - Proposeur, quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
 
-8 - Chacun se questionne : **puis-je composer avec** cette proposition ou ne puis-je pas ? Cela nous cause-t-il du tort ou nous fait-il régresser ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour repérer les objections.
+8 - Chacun se questionne : **puis-je composer avec** cette proposition ? Y a-t-il une raison concrète, objective ou personnelle, qui nous causerait du tort dans cette proposition ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent avec des arguments. Le rôle facilitation questionne chacun pour compter les objections puis les fait exprimer.
 
-9 - Le rôle facilitation peut aider l’objecteur à évaluer s’il est **impératif d’intégrer son objection** à la proposition V2 (l’objecteur est souverain pour cette évaluation). Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. L’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible, la tension d’un autre, ou quelque chose qui révèle un autre sujet.
+9 - Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. Le rôle facilitation peut aider l’objecteur à tester le coté impératif de son objection (cf variantes aux décisions collectives). 
 
 Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
 Les objections non argumentées ne peuvent pas être retenues mais peuvent devenir d’autres tensions.
@@ -574,9 +574,10 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 
 10 - **Résolution** : Parole libre. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le proposeur choisit s’il l’intègre dans sa proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
 
-*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition et revenir à l’appel à proposition.*
+11 - Le rôle facilitation aide les participants à tenir une posture de coopération et à se méfier de la crispation dans une opinion. Par exemple, il demande à l’objecteur de chercher une formulation qui lèverait son objection et au proposeur d’envisager de modifier la proposition pour rassurer l’objecteur sans perdre ni le sens initial de la proposition ni la cohérence avec ses valeurs. Il mobilise les autres membres si c’est utile.
 
-11 - **Célébration et enregistrement** quand toutes les objections sont levées.
+*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition et revenir à l’appel à proposition.
+Célébration et enregistrement quand toutes les objections sont levées.*
 
 ##### Clôture   
 
@@ -770,7 +771,7 @@ Tous les documents officiels de la cellule définis par la constitution.
 ##### Redevabilités
 
 - Organiser les réunions de la cellule et informer tous les invités des dates et lieux. (hors réunions métiers).
-- Enregistrer et transmettre les résultats des réunions de la cellule cellule et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
+- Enregistrer et transmettre les résultats des réunions de la cellule cellule (hors réunions métiers), et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
 - Interpréter la gouvernance et la constitution sur demande.
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit.
 
@@ -778,15 +779,15 @@ Tous les documents officiels de la cellule définis par la constitution.
 
 ##### Raison d’être 
 
-Les tensions pertinentes à processer dans la cellule souche y sont apportées et traitées.
+Les tensions pertinentes à processer dans la cellule amont y sont apportées et traitées.
 
 ##### Redevabilités
 
-- Chercher à comprendre les tensions des membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule souche.
-- Éliminer au sein de la cellule souche les contraintes qui limitent la cellule.
-- Donner de la visibilité à la cellule souche sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
+- Chercher à comprendre les tensions des membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule amont.
+- Éliminer au sein de la cellule amont les contraintes qui limitent la cellule.
+- Donner de la visibilité à la cellule amont sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
 
-Le rôle représentation n’est pas nécessaire si une politique de la cellule souche a défini un autre mode de représentation.
+Le rôle représentation n’est pas nécessaire si une politique de la cellule amont a défini un autre mode de représentation.
 
 ## 5)  ELEMENTS OPTIONNELS 
 
@@ -803,7 +804,7 @@ Ils se veulent à la fois inspirants et guidants.
 Comme tout le reste de notre travail, ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées).
 
 Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
-Ils peuvent être activées pour une cellule, pour une cellule souche et ses cellules spécifiques ou pour toute la structure.
+Ils peuvent être activées pour une cellule, pour une cellule amont et ses cellules spécifiques ou pour toute la structure.
 
 ##### Comment activer un élément ? 
 
@@ -1193,7 +1194,8 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 ##### Prendre soin des personnes en tant qu’humains, par exemple :
 
- - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, lui en parler et rechercher avec elle des solutions alternatives, tout en restant souverain dans mon rôle. 
+ - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, lui en parler et rechercher avec elle des solutions alternatives, tout en restant souverain dans mon rôle.
+ - Porter attention à ce que chaque personne puisse construire une **image de soi** qui lui plaise. 
  - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
  - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
@@ -1339,15 +1341,24 @@ Les personnes qui ont autorité pour prendre et changer la décision sont identi
 Participants : 
  - le rôle qui a pris une décision,
  - le rôle mémoire qui a pour redevabilité d’interpréter la constitution sur demande,
- - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans la cellule souche,
+ - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans la cellule amont,
  - un rôle facilitation,
  - la personne qui demande ce temps.
 
 ##### Processus
 La personne qui en a besoin sollicite ce temps auprès de celui ou celle qui a pris la décision. Cette dernière organise le temps de droit de recours. 
 
-Chaque participant est attentif aux arguments apportés. La personne demandeuse explique son point de vue à sa manière, par exemple en utilisant le processus de CNV.Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui parait judicieux mais attend qu’un participant le lui confirme pour le faire. 
-Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule souche.Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
+Chaque participant est attentif aux arguments apportés. 
+
+La personne demandeuse explique son point de vue à sa manière, par exemple en utilisant le processus de CNV.
+
+Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).
+
+Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui parait judicieux mais attend qu’un participant le lui confirme pour le faire. 
+
+Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule amont. 
+
+Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
 
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.![image](https://user-images.githubusercontent.com/38285180/119106200-61f28100-ba1e-11eb-953e-1961defc7c52.png)
@@ -1437,7 +1448,7 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
-#### 5.26 Elément variante décisions collectives 
+#### 5.26 Elément variantes décisions collectives 
 
 ##### Variante test des objections
 
@@ -1448,7 +1459,7 @@ L’objection n’est pas impérative si elle concerne une meilleure idée, un r
 Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions.
 Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur.
 
-##### Variante DPC : « inspiration Université Du Nous »
+##### Variante à la levée des objections : « inspiration Université Du Nous »
 
 Après avoir rédigé sa V2 (étape 7), le proposeur abandonne son rôle. 
 
@@ -1520,19 +1531,22 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres de la c
 ##### Réutilisation
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
 
-#### 5.30 Elément rôles ami impitoyable
+#### 5.30 Elément rôles ami rend fort
 
-##### Raison d’être ami impitoyable 
+##### Raison d’être  
 
-Ce rôle aide toute personne qui le demande à éviter de retourner dans la culture du blâme et à incarner la posture de coopération. Chacun peut l’attribuer à la personne de son choix (si elle accepte).
+Ce rôle aide toute personne qui le demande à à cultiver la meilleure version de soi-même au service du collectif.
+Chacun peut l’attribuer à la personne de son choix (si elle accepte).
 
 En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins une personne.
 
-##### Redevabilités ami impitoyable
+##### Redevabilités
 
  - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis tout ce qui a déjà été fait (ce n’est pas le sujet).
  - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (ce n’est pas le sujet).
- - Me signaler quand, au lieu d’exprimer une tension et une demande, je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière. 
+ - Me signaler quand, au lieu d’exprimer une tension et une demande, je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière.
+ - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
+ - M’aider à prendre du recul avec l’élément Pilotage de soi quand j’en ai besoin. 
 
 #### 5.31 Elément rôle urgentiste 
 
@@ -1570,23 +1584,24 @@ Sécuriser le collectif en accompagnant les personnes qui gênent les équipes p
 
 L’organisation cellulaire est compatible avec une organisation pyramidale. 
 
-##### Ce qui est commun
+##### Ce qui est commun entre les systèmes pyramidal et cellulaire  
 
- - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe souche.
- - Le rôle lead a pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
+ - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe amont.
+ - Le rôle pilotage a pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
 
 ##### Les différences 
 
- - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisions.
- - En mode cellulaire, ces redevabilités ont été déléguées aux membres de la cellule.
+ - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisionsdécisions ; il est affecté au rôle prendre soin des personnes.
+ - Des redevabilités peuvent être ajoutées au manager pyramidal.
+ - En calage cellulaire, ces redevabilités ont été déléguées aux membres de la cellule.
 
-##### La voie du milieu 
+##### Ajuster l’équilibre dans chaque cellule
 
-En complément du rôle lead, une cellule peut créer un rôle Leader pyramidal reprenant tout ou partie des redevabilités du manager pyramidal. 
+Le rôle du leader est décrit en cumulant des redevabilités du manager pyramidal et du rôle pilotage. 
 
-##### Humains 
+Les redevabilités prises en charge par l’équipe sont précisées. Elles seront soit affectées à un rôle, soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décisions collectives).
 
-De notre expérience, la cohabitation de la culture hiérarchique et de la culture cellulaire amène des tensions humaines. Il devient difficile à ceux qui ont appris à assumer leurs responsabilités de fonctionner en mode obéissance. Il est alors temps d’essayer de réduire la tension qui émerge en cherchant des idées d’évolution.
+Ces réglages sont amenés à évoluer dans le temps. 
 
 #### 5.34 Elément niveaux d’autonomie
 
