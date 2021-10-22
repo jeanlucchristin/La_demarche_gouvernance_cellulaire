@@ -1361,9 +1361,7 @@ Le rôle représentation estime s’il identifie une tension qu’il sera néces
 Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
 
 ##### Clôture
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.![image](https://user-images.githubusercontent.com/38285180/119106200-61f28100-ba1e-11eb-953e-1961defc7c52.png)
-
-
+Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 5.23 Elément rétrospective & stratégie
 
