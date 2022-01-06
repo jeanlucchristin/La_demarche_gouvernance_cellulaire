@@ -893,7 +893,7 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 2. Restitution.
 3. Dessiner la structure actuelle (éventuellement modifier les groupes).
    Repérer les tensions.
-4. Dessiner la future structure (mélanger les membres ou collègues  des différents groupes historiques)Repérer les différences par rapport à aujourd’hui.
+4. Dessiner la future structure (mélanger les membres ou collègues  des différents groupes historiques). Repérer les différences par rapport à aujourd’hui.
    Qu’allez-vous devoir abandonner ? Qu’allez-vous gagner au changement ? 
 5. Restitutions.
 6. Créer une phrase de raison d’être en mode consentement consolidée par concordance comprenant : 
