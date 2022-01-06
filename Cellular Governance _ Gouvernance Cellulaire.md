@@ -67,14 +67,14 @@ Nous participons à cet élan collectif en proposant une forme évolutive suffis
 
 Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
-## 2)  Raison d’être de la gouvernance cellulaire
+## 1.3)  Raison d’être de la gouvernance cellulaire
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la structure*,
  - *se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*,
  - *actualiser une raison d’être ajustée et suffisamment motivante*.
 
-#### *2.1  pour le monde* 
+#### *pour le monde* 
 
 ##### Quoi ?
 
@@ -100,7 +100,7 @@ Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit.
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires.  
 
-#### *2.2  pour nos contributeurs* 
+#### *pour nos contributeurs* 
 
 ##### Quoi ?
 
@@ -123,41 +123,41 @@ Car nous avons envie :
 - de participer au monde par la création d’un commun.
 
 
-#### *2.3 pour nos investisseurs*  
+#### *pour nos investisseurs*  
 
 Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisseurs). 
 
-## 3)  Livret central : Eléments cœurs 
+## 2)  Livret central : Eléments cœurs 
  
-#### 3.0  Eléments cœurs
+#### 2.0  Eléments cœurs
 
+  - L’estime de Soi 
   - L’Auto-diagnostic Efficacité-humaniste : des conditions pour que les décisions prises soient suivies d’effets.
   
   **Espace Sens :** 
    - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
    - Raison d’être : une raison d’être (pour la structure, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
    - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
-   - Temps de positionnement éthique : se connecter à ce qui est présent pour en déduire une raison d’être, prendre une décision à fort enjeu ou approfondir un questionnement éthique.
+   - Temps de positionnement éthique : se connecter en profondeur  pour prendre une décision à fort enjeu moral.
    - Culture essai-apprentissage : ne pas chercher la solution idéale mais expérimenter une option viable et profiter de ses enseignements.
 
    
-**Espace Relation :**
+**Espace Lien :**
 
   - Pilotage de soi : sortir par le haut d’une incapacité à appliquer une décision.
   - Egrégore : contacter la bulle énergétique du groupe.
   - Temps de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation.
   
 **Espace Contrat :** 
-  - Exigence : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
+  - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
   - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
-  - Décision par Consentement : aider le collectif à aboutir à une décision (stratégie ou toute décision, etc) en gestion par consentement (GPC).
-    - Temps de réorganisation : objectif d’améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
-    - Election sans candidat : élire une personne dans un rôle sur la base des compétences perçues par les membres.
+  - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
+    - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
+    - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
   
   **Structuration :** 
-  - Rôle : description de ce sur quoi les autres membres et collègues peuvent compter.
-  - Cellule : rôle qui a grandi et s’est structuré en équipe autonome reliée aux autres rôles.
-  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’activer les mécanismes à sa portée pour en réduire l’écart avec le soutien du collectif et de la structure. La structure est en charge de créer les mécanismes et réunions nécessaires.
+  - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
+  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 
@@ -223,9 +223,7 @@ Il est possible de préciser l’impact (le quoi), le moyen (le comment) et l’
 
 ##### Rôle Source
 
-La raison d’être d’une structure est intuitive, perceptible et évolutive.
-
-Nous souhaitons utiliser l’intuition motivante et confuse d’une personne source en lui donnant le pouvoir d’actualiser la raison d’être de son projet de structure en fonction de ce qu’elle observe jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
+La raison d’être d’une structure est intuitive, perceptible et évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut-être affecté à un, plusieurs ou tous les membres. Cf rôle source.  
 
 #### 3.4  Actualisation de la raison d’être 
 
@@ -427,7 +425,9 @@ Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuse
 
 ##### Intention
 
-Permet de résoudre une situation de blocage lorsqu’une action prévue n’est pas mise en œuvre et que cela crée une tension opérationnelle.
+Résoudre une situation de blocage lorsqu’une action prévue n’est pas mise en œuvre et que cela crée une tension opérationnelle.
+
+Le but est de débloquer un rôle qui a besoin qu’une action soit réalisée sans contraindre qui que ce soit. 
 
 ##### Quand l’actionner ?
 
@@ -441,18 +441,16 @@ Le membre qui ressent la tension.
 
 Il l’exprime en réunion d’opération. 
 
-Il est encouragé à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparaît pas.
+Il est encouragé par le rôle facilitation à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparaît pas.
 
-Il peut demander un tour de boite à idées aux membres de la cellule.
+Il peut demander un tour de sollicitation d’avis aux membres de la cellule.
  
 ##### Solution alternative
-
-Le but n’est pas de contraindre qui que ce soit  (ni le premier à faire, ni le second à subir que ce ne soit pas fait).
 
 Les alternatives peuvent être : 
 
  - soutien au rôle « défaillant »,
- - affectation du rôle à une autre personne en complément ou en remplacement, 
+ - affectation du rôle à une autre personne en complément ou en remplacement, avec un éventuel focus sur l’action concernée, 
  - focalisation de toute la cellule sur l’action,
  - une meilleure solution. 
  
@@ -663,7 +661,7 @@ Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’
 
 Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font.
 
-La personne affectée à un rôle est leader de son rôle : elle a le pouvoir de décider par elle-même.
+Chacun est leader de son rôle :  décide  au mieux en fonction de la situation.
 
 Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé clarifiant des périmètres différents).
 
@@ -679,8 +677,8 @@ Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organise
 Une cellule comprend impérativement :
 
 - un rôle facilitation et un rôle mémoire élus pour une période,
-- un rôle lead nommé par sa cellule souche (la cellule souche peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead),
-- sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule souche (sauf si une politique de la cellule souche a défini un autre mode de représentation).
+- un rôle lead nommé par sa cellule amont (la cellule amont peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead),
+- sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule amont (sauf si une politique de la cellule amont a défini un autre mode de représentation).
 
 #### 3.16  Responsabilité de Tension
 
