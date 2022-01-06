@@ -154,12 +154,45 @@ Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisse
   - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
     - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
-  
-  **Structuration :** 
   - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
   - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
+#### 3.1 Elément estime de soi
+
+##### Raison d’être 
+
+Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car
+
+ - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
+ - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
+ - L’estime de Soi est par ailleurs la première motivation à agir au travail selon W Schutz et une source de sérénité importante.
+
+##### Fonctionnement de l'estime de soi
+
+Selon William Schutz, notre motivation se développe quand on se rapproche de quelqu’un que l’on estime.
+
+Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux.
+
+Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
+
+Le collectif est en charge de créer les meilleures conditions possibles pour faire cela. Chacun perçoit son estime de Soi et met en place les actions nécessaires pour l’améliorer si besoin.
+
+##### Coopération
+
+Chacun perçoit les besoins de l’équipe ou des collègues et agit au mieux dans les trois espaces Lien, Contrat ou Sens pour fluidifier les relations. 
+
+##### Autodétermination
+
+Pour décider par soi-même dans une posture autonome et mature, il est utile de prendre du recul avec : 
+
+ - une présence à ce qu’il se passe en soi et autour de soi,
+ - une conscience de ce qu’on connaît ou découvre de soi, de la situation et des autres.
+ - Un choix posé et assumé.
+ 
+##### Ouverture
+
+Selon l’élément humain, le grand simplificateur des relations est la transparence sur ses pensées et ses ressentis. 
 
 #### 3.1 L’autodiagnostic efficacité-humaniste
 *Des conditions pour que les décisions prises soient suivies d’effets.*
@@ -713,7 +746,7 @@ La tension de cellule est relative directement à la réalisation des raisons d�
 - soit à tous les membres la cellule,
 - soit à la cellule en mode consentement dans une réunion dédiée.
 
-## 4) Livret central : Rôles préconstruits
+## 4) Livret central : Rôles structurels
 
 #### 4.1  Rôle lead 
 
@@ -743,6 +776,31 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté
 - *Chacune de ces redevabilités pourra être déléguée autrement par la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique, (la cellule les remplit alors via ses processus).*
 - *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule souche étant invité à participer à l’élection.*
 
+#### 4.3 Rôle prendre soin
+
+##### Prendre soin des personnes dans leurs rôles, par exemple :
+
+ - Cultiver une posture « basse », **non contrôlante**, respectant les capacités d'initiative et le pouvoir d'agir de chacun.
+ - Entretenir notre **confiance** : considérer nos collègues capables de trouver leurs propres solutions.
+ - **Renvoyer** du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger.
+ - **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait mieux prendre sa place, ou plus s’affirmer. 
+ - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter**.
+ - Aider les gens à se demander s’ils libèrent suffisamment leur potentiel créateur pour en être satisfaits. 
+
+##### Prendre soin des personnes en tant qu’humains, par exemple :
+
+ - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, lui en parler et rechercher avec elle des solutions alternatives, tout en restant souverain dans mon rôle.
+ - Porter attention à ce que chaque personne puisse construire une **image de soi** qui lui plaise. 
+ - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
+ - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
+ - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
+ - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites.
+ - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous.
+
+##### Affectation  
+
+Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
+
 #### 4.2  Rôle facilitation
 
 ##### Raison d’être 
@@ -753,8 +811,8 @@ Les différents temps de réunion se déroulent conformément aux processus pré
 
 - Faciliter les temps de réunion de la cellule. (hors réunions métiers).
 - Développer l'aisance des participants dans les processus . Les aider à tenir leurs tensions jusqu'à résolution.
+- Co-créer et faire évoluer les réunions rituelles avec la cellule.
 - Consulter les enregistrements des cellules spécifiques.  Signaler au rôle mémoire et au rôle représentation les écarts avec la constitution.
-
 
 #### 4.3  Rôle mémoire 
 
@@ -768,7 +826,7 @@ Tous les documents officiels de la cellule définis par la constitution.
 
 ##### Redevabilités
 
-- Organiser les réunions de la cellule et informer tous les invités des dates et lieux. (hors réunions métiers).
+- Organiser les réunions de la cellule et informer tous les invités des dates et lieux (hors réunions métiers).
 - Enregistrer et transmettre les résultats des réunions de la cellule cellule (hors réunions métiers), et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
 - Interpréter la gouvernance et la constitution sur demande.
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit.
@@ -996,8 +1054,7 @@ La façon dont est pensé notre projet amène à prendre soin ou à restaurer le
 #### 5.10 Elément régulation marcher-parler
 
 ##### Raison d’être 
-Disposer d’un temps de régulation entre deux personnes. Ce processus est soutenu par un rôle facilitation qui ne nécessite pas beaucoup de connaissance dans la relation humaine.
-
+Disposer d’un temps de régulation entre deux personnes. Ce processus simple est soutenu par un rôle facilitation.
 ##### Inclusion  
 Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent en silence.
 
@@ -1006,11 +1063,10 @@ Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulati
 
 ##### Processus marcher-parler
 
-Les deux personnes partent marcher sans accompagnement. Le rôle facilitation est à distance mais peut être appelé en cas de besoin. La première a 20 minutes de temps de parole sans interruption. Ce temps est à sa disposition. Si elle n’a plus rien à dire, les deux restent en silence.
-
-La seconde personne fait de même. 
-
-Les deux personnes se réunissent avec le rôle facilitation. Elles essaient d’exprimer ce dont chacune aurait besoin pour recréer une relation de travail souhaitable. Le rôle facilitation distribue la parole par exemple selon le processus de triage, ou en suivant les étapes du temps de régulation. 
+ 1. Les deux personnes partent marcher sans accompagnement. Le rôle facilitation est à distance mais peut être appelé en cas de besoin. La première a 20 minutes de temps de parole sans interruption. Ce temps est à sa disposition. Si elle n’a plus rien à dire, les deux restent en silence.
+ 2. La seconde personne fait de même. 
+ 3. Les deux personnes se réunissent avec le rôle facilitation. Elles peuvent exprimer ce qu’elles ressentent en ayant entendu l’autre et en ayant parlé.
+ 4. Elles peuvent exprimer ce dont chacune aurait besoin pour rendre leur collaboration plus facile et agréable. Le rôle facilitation distribue la parole. Il peut suivre le processus de triage, ou les étapes du temps de régulation.
 
 ##### Clôture   
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
@@ -1047,44 +1103,25 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 
 Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
 
-#### 5.12 Elément estime de soi
+#### 5.12 Eléménet création de rituels 
 
 ##### Raison d’être 
+Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
 
- - Cultiver notre autonomie en interdépendance avec notre environnement et en sérénité.
+##### Fréquence 
+De hebdomadaire à annuelle. Chaque rituel à sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cellule peut disposer de plusieurs rituels. Chaque rituel a un nom.
 
- L’estime de soi est sans doute la première motivation à agir au travail.
+##### Durée
+La durée est variable de quelques minutes à quelques jours. Des durées indicatives sont précisées ci-dessous pour servir de repère. 
 
- La considérer permet d’ajuster sa posture au profit d’actes pertinents pour soi, les autres et la structure.
+##### Séquences
+En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par la cellule. Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective & stratégie (120 à 240’). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). Seule l’inclusion et la clôture sont systématiques. 1 à 3h
 
- - Se prendre en compte en tant que personne, avec ses besoins et ses peurs.
+##### Inclusion  
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre et toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent. Ce temps peut être corporel.
 
-
-##### Estime de soi
-Selon William Schutz, notre motivation se développe quand on devient quelqu’un que l’on estime.
-
-A contrario, nos comportements répétitifs nocifs sont souvent liées à des peurs :
-
-la peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
-
-Une estime de soi sereine déploie une capacité d’ajustements inventifs à la situation comme à la relation.
-
-Une estime de soi dégradée déclenche souvent des rigidités qui nous empêchent de nous adapter et nous aveuglent.
-
-Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux. A moi de développer des situations et un regard sur moi favorable pour cela.
-
-##### Autonomie
-Pour décider par soi-même dans une posture autonome et mature, il est utile de prendre du recul avec : 
-
- - une présence à ce qu’il se passe en soi et autour de soi,
- - une conscience de ce qu’on connaît ou découvre de soi, de la situation et des autres.
- 
-L’autonomie est à distinguer de l’indépendance : être autonome peut m’amener à solliciter mes collègues dans leurs compétences.
-
-##### Relation   
-La structure et chaque membre ou collègue ont intérêt à créer les conditions rendant possible une estime de soi sereine pour chacun, mais il est également précieux de ne pas charger les autres de sa propre estime de soi.
-
-Là encore, il s’agit d’une recherche permanente d’équilibre. 
+##### Clôture
+Ce rituel peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité (points positifs et pistes d’amélioration de ce rituel) et humanisme.
 
 #### 5.13 Elément séparation 
 
@@ -1178,31 +1215,6 @@ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’inte
 ##### Bénéfice   
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
-
-#### 5.17 Elément rôle prendre soin
-
-##### Prendre soin des personnes dans leurs rôles, par exemple :
-
- - Cultiver une posture « basse », **non contrôlante**, sanctuarisant l’auto-détermination de chacun.
- - Entretenir notre **confiance** : considérer nos collègues capables de trouver leur propre solution.
- - **Renvoyer** du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger.
- - **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait plus prendre sa place, ou plus s’affirmer. 
- - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter**.
- - Aider les gens à se demander s’ils libèrent suffisamment leur potentiel créateur pour en être satisfaits. 
-
-##### Prendre soin des personnes en tant qu’humains, par exemple :
-
- - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, lui en parler et rechercher avec elle des solutions alternatives, tout en restant souverain dans mon rôle.
- - Porter attention à ce que chaque personne puisse construire une **image de soi** qui lui plaise. 
- - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
- - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
- - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
- - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites.
- - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous.
-
-##### Affectation  
-
-Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de l’équipe ou à tous les membres.
 
 #### 5.18 Elément posture professionnelle  
 
@@ -1361,7 +1373,7 @@ Le rôle qui a l’autorité de prendre la décision n’a pas à décider en di
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.23 Elément rétrospective & stratégie
+#### 5.23 Elément rétrospective & décisions
 
 ##### Raison d’être 
 Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amélioration, valoriser les membres et définir ensemble les priorités pour les prochains mois. 
@@ -1379,7 +1391,7 @@ Célébration collective (15-30’) : en plénière, se reconnecter à la raison
  - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
  - Exprimer les sources d’inconfort (ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
 
-Stratégie (15-30’) en plénière : 
+décisions de la stratégie à moyen terme (15-30’) en plénière : 
 
 1) passer en revue ce que chacun adorerait vivre dans les 6 prochains mois (rêve et aspiration),
 2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
@@ -1527,7 +1539,7 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres de la c
 ##### Réutilisation
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
 
-#### 5.30 Elément rôles ami rend fort
+#### 5.30 Elément rôles ami renfort
 
 ##### Raison d’être  
 
@@ -1616,14 +1628,14 @@ Chacune de ces quatre phases peut être assurée soit par le manager seul, soit 
 « Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe.
 
 ##### Calage pyramidal
-Quand le manager assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur manager pour savoir quoi faire. Le réglage est dit de « dépendance au manager ».
+Quand le manager assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur manager pour savoir quoi faire. Le réglage est dit de « pouvoir au manager ».
 
 ##### Calage collectif
 Quand le groupe assure la réflexion, la décision et l’évaluation, les acteurs dépendent de leur collectif pour savoir quoi faire. 
-Le réglage est dit de « dépendance au groupe ». 
+Le réglage est dit de « pouvoir au groupe ». 
 
 ##### Calage cellulaire
-Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit d’ « inter-indépendance ».
+Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit de « pouvoir au rôle ».
 
 #####  Réglage
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
