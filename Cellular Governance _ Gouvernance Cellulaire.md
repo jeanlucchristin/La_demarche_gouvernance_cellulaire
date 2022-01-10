@@ -150,13 +150,13 @@ Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisse
   
 **Espace Contrat :** 
   - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
+  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
   - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
   - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
     - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
   - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
-  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
-  - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
+   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 #### 3.1 Elément estime de soi
 
