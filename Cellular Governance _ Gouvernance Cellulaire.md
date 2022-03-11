@@ -15,21 +15,20 @@ Plus d’infos à la fin de la constitution.*
 
 ## 1.1)  La démarche gouvernance cellulaire   
 
-#### Au-delà des modèles : une pratique continue
+#### Intention
 
 Gouvernance cellulaire propose un cadre de référence progressif pour établir et maintenir un environnement de travail efficace qui prend soin de l’humain.
 
-C’est une méthode pour co-construire un diagnostic puis décider d’actions concrètes.
+#### Au-delà des modèles : une pratique continue
 
-Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement par l’un ou l’autre des éléments de cette constitution.
+C'est une méthode pour co-construire un diagnostic puis décider d'actions concrètes et construire la constitution de sa structure. 
+Le calage gouvernance cellulaire avec les éléments cœurs et les 5 rôles préconstruits est un repère de constitution possible. Chaque équipe modifie ou ôte des éléments cœurs et rajoute des éléments optionnels. 
 
-Cette logique d’ajustement est permanente. Même si une structure correspond au calage gouvernance cellulaire avec les éléments cœurs, les 4 rôles préconstruits et d’éventuels éléments optionnels, cela n’arrête pas sa démarche.
+Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement en utilisant cette méthode.
 
-Elle continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
+Cette logique d’ajustement est permanente. La démarche ne s’arrête jamais. 
 
-#### Cadre de référence
-
-Le cadre Gouvernance cellulaire permet de co-construire un diagnostic et de décider d’options d’actions concrètes.
+Votre structure continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
 
 #### Autonomie
 
@@ -150,13 +149,14 @@ Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisse
   
 **Espace Contrat :** 
   - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
-  - Responsabilité éthique de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
+  - Responsabilité de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
+  - Création de rituels : créer les réunions dont l’équipe a besoin régulièrement ou exceptionnellement. 
   - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
   - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
     - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
   - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
-   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
+  - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 #### 3.1 Elément estime de soi
 
@@ -174,7 +174,9 @@ Selon William Schutz, notre motivation se développe quand on se rapproche de qu
 
 Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux.
 
-Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
+Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. 
+
+La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
 
 Le collectif est en charge de créer les meilleures conditions possibles pour faire cela. Chacun perçoit son estime de Soi et met en place les actions nécessaires pour l’améliorer si besoin.
 
@@ -1590,7 +1592,7 @@ Sécuriser le collectif en accompagnant les personnes qui gênent les équipes p
  - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
 
 
-#### 5.33 Elément curseur managérial
+#### 5.33 Elément curseur managérial Que fait le rôle pilotage de votre cellule ?
 
 ##### Système 
 
@@ -1599,19 +1601,23 @@ L’organisation cellulaire est compatible avec une organisation pyramidale.
 ##### Ce qui est commun entre les systèmes pyramidal et cellulaire  
 
  - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe amont.
- - Le rôle pilotage a pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
+ - Le rôle lead cellulaire et le rôle manager ont pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
 
 ##### Les différences 
 
  - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisionsdécisions ; il est affecté au rôle prendre soin des personnes.
  - Des redevabilités peuvent être ajoutées au manager pyramidal.
- - En calage cellulaire, ces redevabilités ont été déléguées aux membres de la cellule.
+ - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
 
-##### Ajuster l’équilibre dans chaque cellule
+##### Que fait le rôle pilotage de votre cellule ?
 
-Le rôle du leader est décrit en cumulant des redevabilités du manager pyramidal et du rôle pilotage. 
+Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead cellulaire.
 
-Les redevabilités prises en charge par l’équipe sont précisées. Elles seront soit affectées à un rôle, soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décisions collectives).
+Les redevabilités restantes sont déléguées à l’équipe. (si l’équipe les accepte).
+
+Les redevabilités prises en charge par l’équipe sont précisées. Elles seront affectées : 
+ - soit à un rôle,
+ - soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décisions collectives). 
 
 Ces réglages sont amenés à évoluer dans le temps. 
 
@@ -1818,7 +1824,7 @@ Merci de prévenir la communauté sur le forum cellulargovernance.org si vous pr
 
 ##### Notre choix
 
-Notre méthodologie avec une personne source (Jeanluc Christin, auteur principal), rejoint par une équipe souche puis par des contributeurs ouvre la possibilité à tous de participer.
+Notre méthodologie avec une personne source (Jeanluc Christin, auteur principal), rejoint par une équipe amont puis par des contributeurs ouvre la possibilité à tous de participer.
 
 Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
 
@@ -1856,7 +1862,7 @@ Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendr
 
 Juliette Le Roy, Jean-Christophe Ciceron, Nicolas Begel, Virginie Angove (rôle lead).
 
-##### Cellule ancrage (la cellule souche)
+##### Cellule ancrage (la cellule amont)
 
 A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif.
 
