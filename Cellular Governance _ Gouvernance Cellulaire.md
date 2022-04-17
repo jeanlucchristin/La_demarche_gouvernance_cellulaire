@@ -7,7 +7,7 @@ Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire�
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 Elle est déposée ici : https://github.com/jeanlucchristin/constitution-cellular-governance/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
 
-Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers http://cellulargovernance.org quand vous l’utilisez.** 
+Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
 Plus d’infos à la fin de la constitution.* 
 
 
@@ -57,7 +57,7 @@ Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est fac
 
 - Le travail individuel et collectif sur :
   - la présence au monde (méditation…),
-  - la	conscience des autres (travail de la relation) et du monde,
+  - la conscience des autres (travail de la relation) et du monde,
   - le choix des actions en responsabilité et leur réalisation.
 
 #### Notre contribution 
@@ -166,7 +166,7 @@ Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car
 
  - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
  - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
- - L’estime de Soi est par ailleurs la première motivation à agir au travail selon W Schutz et une source de sérénité importante.
+ - L’estime de Soi est la première motivation à agir au travail selon William Schutz et une source de sérénité importante.
 
 ##### Fonctionnement de l'estime de soi
 
@@ -256,9 +256,9 @@ Elle balaie trois dimensions qu’elle priorise :
 
 Il est possible de préciser l’impact (le quoi), le moyen (le comment) et l’intention (le parce que).
 
-##### Rôle Source
+##### Rôle source
 
-La raison d’être d’une structure est intuitive, perceptible et évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut-être affecté à un, plusieurs ou tous les membres. Cf rôle source.  
+La raison d’être d’une structure est intuitive, perceptible et évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut être affecté à un, plusieurs ou tous les membres. Cf rôle source.  
 
 #### 3.4  Actualisation de la raison d’être 
 
@@ -268,8 +268,8 @@ Chaque membre ou collègue  peut déclencher une réunion pour créer une propos
 Par défaut, la réunion est sous forme de décision par consentement consolidée par concordance.
 
 Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- cellule amont pour une évolution de la raison d’être de sa cellule,
-- cellule ancrage pour une évolution de la raison d’être de sa structure.
+- la cellule amont pour une évolution de la raison d’être de sa cellule,
+- la cellule ancrage pour une évolution de la raison d’être de sa structure.
 
 La cellule amont vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin.
 
@@ -286,9 +286,9 @@ Une réponse doit être fournie par le rôle ou le collectif en charge de cette 
 
 ##### Intention
 
-L’intention est de permettre à chacun :
+L’intention est pour chacun :
 
-- un consentement éclairé et actif à la raison d’être de la structure,
+- de permettre consentement éclairé et actif à la raison d’être de la structure,
 - de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
 
 plus de réflexions en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
@@ -303,7 +303,7 @@ Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’
 
 *Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
 
-Attention : ce temps nécessite facilement une durée conséquente (nous observons facilement 2h)
+Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
 
 ##### Thèmes    
 
@@ -344,7 +344,7 @@ Il est possible de reprendre une décision dès qu’une tension apparaît.
 Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
 
 ##### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision, (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
 
 ##### Tension 
 La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
@@ -409,7 +409,7 @@ Exemples de process corporel plus d'info [ici](https://drive.google.com/open?id=
  - partager une expérience sensible (création d’une œuvre commune…).
 
 
-Exemples de process verbalisé :
+Exemples de process verbalisés :
  - dire aux autres comment on fonctionne,
  - exprimer ses enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement),
  - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
@@ -438,7 +438,7 @@ Les autres écoutent en silence.
 
 Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation.
 
-##### Processus de CNV (communication Non Violente)
+##### Processus de CNV (communication non violente)
 
 Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
