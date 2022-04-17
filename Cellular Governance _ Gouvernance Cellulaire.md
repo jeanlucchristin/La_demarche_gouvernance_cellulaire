@@ -508,7 +508,7 @@ Les engagements peuvent être pris en dehors de ce temps.
 
 Périodicité : sur demande ou régulière. Nous conseillons de fixer une durée maximum à l’avance. Nous constatons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus. Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule*.
+*Le processus peut être différent. Par contre, une structure en gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule*.
  
 ##### Inclusion  
 
@@ -530,7 +530,7 @@ Chaque créneau est dévolu à une des tensions qu’il éprouve entre la façon
 
 Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à traiter (avant ou pendant ce temps).
 
-##### Processus de  triage  
+##### Processus de triage  
 
 Le rôle facilitation mène le processus jusqu’à la contractualisation d’une action en s’aidant des questions ci-dessous.
 
@@ -568,7 +568,7 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.12 Décision Collective
+#### 3.12 Décision collective
 
 ##### Utilité  
 
@@ -576,7 +576,7 @@ Ce processus est utile dans toute réunion nécessitant une prise de décision. 
 
 Il aide les participants à s’imposer de prendre une décision. Il inclue chacun et favorise la créativité.
 
-*Le processus peut être différent, mais une structure en Gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
+*Le processus peut être différent, mais une structure en gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
 
 ##### Process : Gestion Par Consentement (GPC)
 
@@ -610,7 +610,8 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 11 - Le rôle facilitation aide les participants à tenir une posture de coopération et à se méfier de la crispation dans une opinion. Par exemple, il demande à l’objecteur de chercher une formulation qui lèverait son objection et au proposeur d’envisager de modifier la proposition pour rassurer l’objecteur sans perdre ni le sens initial de la proposition ni la cohérence avec ses valeurs. Il mobilise les autres membres si c’est utile.
 
 *Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du proposeur pour intégrer l’objection : le rôle facilitation devra retirer la proposition et revenir à l’appel à proposition.
-Célébration et enregistrement quand toutes les objections sont levées.*
+
+12 -Célébration et prise de notes quand toutes les objections sont levées.*
 
 ##### Clôture   
 
@@ -696,7 +697,7 @@ Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’
 
 Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font.
 
-Chacun est leader de son rôle :  décide  au mieux en fonction de la situation.
+Chacun est leader de son rôle : décide  au mieux en fonction de la situation.
 
 Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé clarifiant des périmètres différents).
 
@@ -713,6 +714,7 @@ Une cellule comprend impérativement :
 
 - un rôle facilitation et un rôle mémoire élus pour une période,
 - un rôle lead nommé par sa cellule amont (la cellule amont peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead),
+- un rôle prendre soin
 - sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule amont (sauf si une politique de la cellule amont a défini un autre mode de représentation).
 
 #### 3.16  Responsabilité de Tension
@@ -775,7 +777,7 @@ La personne affectée à ce rôle peut être en charge du rôle leader pyramidal
 
 Le rôle lead est en charge de tout ce qui n’est pas affecté
 
-- *Chacune de ces redevabilités pourra être déléguée autrement par la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique, (la cellule les remplit alors via ses processus).*
+- *Chacune de ces redevabilités pourra être déléguée autrement par la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
 - *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule souche étant invité à participer à l’élection.*
 
 #### 4.3 Rôle prendre soin
@@ -811,7 +813,7 @@ Les différents temps de réunion se déroulent conformément aux processus pré
 
 ##### Redevabilités 
 
-- Faciliter les temps de réunion de la cellule. (hors réunions métiers).
+- Faciliter les temps de réunion de la cellule (hors réunions métiers).
 - Développer l'aisance des participants dans les processus . Les aider à tenir leurs tensions jusqu'à résolution.
 - Co-créer et faire évoluer les réunions rituelles avec la cellule.
 - Consulter les enregistrements des cellules spécifiques.  Signaler au rôle mémoire et au rôle représentation les écarts avec la constitution.
@@ -932,7 +934,7 @@ Nous avons besoin de relations où il est possible d’exprimer une demande clai
 La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
 #### Proposition gouvernance cellulaire 
-En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
 #### 5.4 Elément souveraineté et lien
 
@@ -1111,7 +1113,7 @@ Il est bénéfique de considérer ses propres besoins : demander un feedback, s�
 Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
 
 ##### Fréquence 
-De hebdomadaire à annuelle. Chaque rituel à sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cellule peut disposer de plusieurs rituels. Chaque rituel a un nom.
+De hebdomadaire à annuelle. Chaque rituel a sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cellule peut disposer de plusieurs rituels. Chaque rituel a un nom.
 
 ##### Durée
 La durée est variable de quelques minutes à quelques jours. Des durées indicatives sont précisées ci-dessous pour servir de repère. 
@@ -1121,7 +1123,7 @@ En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspir
 
 Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective & stratégie (120 à 240’). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
 
-Seule l’inclusion et la clôture sont systématiques. 1 à 3h
+Seules l’inclusion et la clôture sont systématiques. 1 à 3h
 
 ##### Inclusion  
 Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre et toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent. Ce temps peut être corporel.
@@ -1153,7 +1155,7 @@ Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé e
 
 Cette liste sert de repère, l’ordre peut être différent, des séquences peuvent ne pas apparaître dans une équipe.
 
-1.  Enthousiasme : l’équipe voit les difficultés quotidiennes que la nouvelle façon de faire dépasse.
+1.  Enthousiasme : l’équipe voit les difficultés quotidiennes que la nouvelle façon de faire permet de dépasser.
 2.  Premiers essais : l’épreuve du réel.
 
 3.  Colère : la nouvelle façon de faire présente aussi des inconvénients qui peuvent être difficiles.
@@ -1255,7 +1257,7 @@ Du terme anglais « completer » qui signifie à la fois terminer et compléme
 
 ##### Contexte 
 
-Dans le cadre de la refonte de notre gouvernance en mode Gouvernance Cellulaire, des rôles et des cellules ont été créés.
+Dans le cadre de la refonte de notre gouvernance en mode gouvernance Cellulaire, des rôles et des cellules ont été créés.
 
 Chaque rôle, chaque cellule a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
 
@@ -1293,7 +1295,7 @@ Signatures :
 
 ##### Technicité 
 
-Un accompagnement extérieur par un spécialiste de la Gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
+Un accompagnement extérieur par un spécialiste de la gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
 Il n’est pas indispensable. 
 A chaque équipe d’expérimenter et de décider si une aide serait utile pour progresser plus facilement et plus rapidement.
 
@@ -1393,17 +1395,17 @@ Célébration personnelle (15-30’) : temps solo pour me souvenir de de ce que 
 Célébration relationnelle (10-30’) : en duo, écrire (ou dire en mode écoute silencieuse) à au moins deux collègues une ou plusieurs choses que j’ai appréciées ou qui m’ont été difficiles ainsi que ce qui me rendrait la coopération plus facile. Variante : peut être réalisé dans un autre temps.
 
 Célébration collective (15-30’) : en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
- - Raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs).
- - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
- - Exprimer les sources d’inconfort (ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
+ - raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs),
+ - dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités),
+ - exprimer les sources d’inconfort (ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
 
 décisions de la stratégie à moyen terme (15-30’) en plénière : 
 
 1) passer en revue ce que chacun adorerait vivre dans les 6 prochains mois (rêve et aspiration),
 2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
-3) Pondérer les idées.
-4) Proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes. 
-5) Décision en GPC (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
+3) pondérer les idées,
+4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes,
+5) décision en GPC (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
 
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
@@ -1613,11 +1615,11 @@ L’organisation cellulaire est compatible avec une organisation pyramidale.
 
 Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead cellulaire.
 
-Les redevabilités restantes sont déléguées à l’équipe. (si l’équipe les accepte).
+Les redevabilités restantes sont déléguées à l’équipe (si l’équipe les accepte).
 
 Les redevabilités prises en charge par l’équipe sont précisées. Elles seront affectées : 
  - soit à un rôle,
- - soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décisions collectives). 
+ - soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décision collective). 
 
 Ces réglages sont amenés à évoluer dans le temps. 
 
@@ -1674,7 +1676,7 @@ Le support de questionnement peut être :
 
    - celui de la structure,
    - une grille fournie par le demandeur,
-   - l'élément « posture professionnelle » complétée de :
+   - simplement :
     - la question « comment vis-tu « l’efficacité » et « l’humanisme » à l’occasion des séquences de travail avec le demandeur ? »
     - dans ton idéal, qu’est-ce qui changerait l’an prochain ? 
 
@@ -1741,7 +1743,7 @@ Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont
 
 Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu cela possible, nous citons ici ceux qui ont eu un impact direct dans ce travail
 
-Plus d’info sur l’histoire qui a amené à la Gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
+Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
 ##### Bibliographie 
 
@@ -1769,6 +1771,9 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
  - Acteur : personne qui réalise quelque chose, les redevabilités d’un rôle par exemple.
  - Auto-diagnostic : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste.
  - Cellule : une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
+ - Cellule amont : l’équipe plus grande qui comprend notre cellule.
+ - Cellule souche : l’équipe la plus en amont de la structure, elle comprend toutes les cellules.
+ - Cellule spécifique : un e équipe crée pour répondre à un besoin spécifique de sa cellule souche. 
  - Collaborateur : dans le système hiérarchique, membre à qui le chef dit parfois comment réaliser son rôle.
  - Collègue : un collègue est une personne de la structure qui ne participe pas à la gouvernance.
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal). 
