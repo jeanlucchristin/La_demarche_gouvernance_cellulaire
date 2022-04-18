@@ -1838,38 +1838,24 @@ Le fait de conserver un auteur principal nous a paru nécessaire pour produire u
 #### 7.2  Contributeurs
 
 ##### Equipe gouvernance cellulaire 
-Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est organisée en 6 cellules.
- 
+Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
+
 ##### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
-
-Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel (rôle lead).
+Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel, Christophe Herault (rôle lead).
 
 ##### Cellule écriture
-Adapter en continu la constitution de la Gouvernance Cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
-
-Yvan Schallenberger, Laurent Favia, Yann Crespel, Jerome Michelet, Jeanluc Christin (rôle source).
-
-##### Cellule école 
-Organiser la formation à la gouvernance cellulaire, avec une pédagogie et une innovation permanente, au bénéfice d'un réseau d'écoles liées aux membres du collectif.
-
-Jeanluc Christin, Jean-Christophe Ciceron, Christophe Herault (rôle lead).
+Adapter en continu la constitution de la gouvernance cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
+Jerome Michelet, Jeanluc Christin (auteur), Camille Lambert (relecture et orthographe), Candice Sottas (rôle lead).
 
 ##### Cellule rayonnement 
-
-Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté. 
-
-Marion Rigaux, Christophe Herault, Virginie Angove, David Drayer (rôle lead).
+Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
+Marion Rigaux, Jeanluc Christin, David Drayer (rôle lead).
 
 ##### Cellule sève : la cellule qui prend soin de la vie du collectif
-
 Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
-
-Juliette Le Roy, Jean-Christophe Ciceron, Nicolas Begel, Virginie Angove (rôle lead).
+Juliette Le Roy, Virginie Angove, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
 
 ##### Cellule ancrage (la cellule amont)
-
-A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif.
-
-Virginie Angove, Christophe Herault, David Drayer, Yann Crespel, Jeanluc Christin (rôle lead)
-
+A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
+Christophe Herault, David Drayer, Candice Sottas, Jean-Christophe Ciceron (cellule sans rôle lead).
