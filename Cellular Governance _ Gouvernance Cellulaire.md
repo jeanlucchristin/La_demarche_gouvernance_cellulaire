@@ -493,8 +493,65 @@ Les alternatives peuvent être :
 Au-delà de cette posture d’exigence de solidarité, une structure doit être capable de se protéger des membres qui n’arrivent pas à se recadrer pour respecter les processus et les règles communes. A minima, ceux-ci doivent finir par être écartés de la gouvernance. Pour les collectifs qui auraient du mal à assurer cette protection, il peut être utile de la confier à un rôle. Le rôle protection peut être mis en place pour cela.
 
 Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
- 
-#### 3.11  Temps d’opération
+
+#### 3.11  Responsabilité de Tension
+
+##### Responsabilité de membre 
+
+Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
+
+Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (rejet).
+
+##### Responsabilité de structure 
+
+Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
+- préserver la liberté de chacun de s’orienter et de choisir (liberté),
+- considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité),
+- soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
+
+##### Tension de rôle 
+
+Les tensions de rôles amènent à réaliser son rôle au plus proche de son propre idéal.
+Elles entraînent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
+
+##### Tension de personne 
+
+Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
+
+Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
+
+##### Tension de cellule 
+
+La tension de cellule est relative directement à la réalisation des raisons d’être et redevabilités de la cellule. Les actions demandées s’adressent :
+- soit au rôle lead,
+- soit à tous les membres la cellule,
+- soit à la cellule en mode consentement dans une réunion dédiée.
+
+#### 3.12 Création de rituels 
+
+##### Raison d’être 
+Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
+
+##### Fréquence 
+De hebdomadaire à annuelle. Chaque rituel a sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cellule peut disposer de plusieurs rituels. Chaque rituel a un nom.
+
+##### Durée
+La durée est variable de quelques minutes à quelques jours. Des durées indicatives sont précisées ci-dessous pour servir de repère. 
+
+##### Séquences
+En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par la cellule. Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
+
+Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective & stratégie (120 à 240’). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
+
+Seules l’inclusion et la clôture sont systématiques. 1 à 3h
+
+##### Inclusion  
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre et toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent. Ce temps peut être corporel.
+
+##### Clôture
+Ce rituel peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité (points positifs et pistes d’amélioration de ce rituel) et humanisme.
+
+#### 3.13  Temps d’opération
 
 ##### Raison d’être 
 
@@ -568,7 +625,7 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.12 Décision collective
+#### 3.14 Décision collective
 
 ##### Utilité  
 
@@ -618,7 +675,7 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 Plus de réflexions [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
-#### 3.13  Temps de réorganisation
+#### 3.15  Temps de réorganisation
 
 ##### Raison d’être 
 
@@ -648,7 +705,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.14  Election sans candidat
+#### 3.16  Election sans candidat
 
 ##### Raison d’être 
 
@@ -682,7 +739,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.15  Rôle et cellule
+#### 3.17  Rôle et cellule
 
 *Un rôle est formalisé par écrit si cela répond au besoin d’un des membres*.
 
@@ -717,39 +774,6 @@ Une cellule comprend impérativement :
 - un rôle prendre soin
 - sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule amont (sauf si une politique de la cellule amont a défini un autre mode de représentation).
 
-#### 3.16  Responsabilité de Tension
-
-##### Responsabilité de membre 
-
-Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
-
-Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (rejet).
-
-##### Responsabilité de structure 
-
-Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
-- préserver la liberté de chacun de s’orienter et de choisir (liberté),
-- considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité),
-- soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
-
-##### Tension de rôle 
-
-Les tensions de rôles amènent à réaliser son rôle au plus proche de son propre idéal.
-Elles entraînent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
-
-##### Tension de personne 
-
-Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
-
-Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
-
-##### Tension de cellule 
-
-La tension de cellule est relative directement à la réalisation des raisons d’être et redevabilités de la cellule. Les actions demandées s’adressent :
-- soit au rôle lead,
-- soit à tous les membres la cellule,
-- soit à la cellule en mode consentement dans une réunion dédiée.
-
 ## 4) Livret central : Rôles structurels
 
 #### 4.1  Rôle lead 
@@ -780,7 +804,7 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté
 - *Chacune de ces redevabilités pourra être déléguée autrement par la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
 - *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule souche étant invité à participer à l’élection.*
 
-#### 4.3 Rôle prendre soin
+#### 4.2 Rôle prendre soin
 
 ##### Prendre soin des personnes dans leurs rôles, par exemple :
 
@@ -805,7 +829,7 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté
 
 Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
 
-#### 4.2  Rôle facilitation
+#### 4.3  Rôle facilitation
 
 ##### Raison d’être 
 
@@ -818,7 +842,7 @@ Les différents temps de réunion se déroulent conformément aux processus pré
 - Co-créer et faire évoluer les réunions rituelles avec la cellule.
 - Consulter les enregistrements des cellules spécifiques.  Signaler au rôle mémoire et au rôle représentation les écarts avec la constitution.
 
-#### 4.3  Rôle mémoire 
+#### 4.4  Rôle mémoire 
 
 ##### Raison d’être 
 
@@ -835,7 +859,7 @@ Tous les documents officiels de la cellule définis par la constitution.
 - Interpréter la gouvernance et la constitution sur demande.
 - Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit.
 
-#### 4.4  Rôle représentation
+#### 4.5  Rôle représentation
 
 ##### Raison d’être 
 
@@ -1107,31 +1131,8 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 
 Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
 
-#### 5.12 Eléménet création de rituels 
 
-##### Raison d’être 
-Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
-
-##### Fréquence 
-De hebdomadaire à annuelle. Chaque rituel a sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cellule peut disposer de plusieurs rituels. Chaque rituel a un nom.
-
-##### Durée
-La durée est variable de quelques minutes à quelques jours. Des durées indicatives sont précisées ci-dessous pour servir de repère. 
-
-##### Séquences
-En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par la cellule. Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
-
-Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective & stratégie (120 à 240’). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
-
-Seules l’inclusion et la clôture sont systématiques. 1 à 3h
-
-##### Inclusion  
-Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre et toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent. Ce temps peut être corporel.
-
-##### Clôture
-Ce rituel peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité (points positifs et pistes d’amélioration de ce rituel) et humanisme.
-
-#### 5.13 Elément séparation 
+#### 5.12 Elément séparation 
 
 ##### Processus de séparation
 
@@ -1143,7 +1144,7 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
-#### 5.14 Elément changement
+#### 5.13 Elément changement
 
 ##### Intention
 
@@ -1169,7 +1170,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 8.  Désir : une tension vers quelque chose de mieux apparaît, un nouveau changement est en cours, etc.
 
-#### 5.15 Elément Déblocage 180°   
+#### 5.14 Elément Déblocage 180°   
 
 ##### Raison d’être 
 
@@ -1201,7 +1202,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.16 Elément frustration 
+#### 5.15 Elément frustration 
 
 ##### Raison d’être 
 
@@ -1224,36 +1225,7 @@ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’inte
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
-#### 5.18 Elément posture professionnelle  
-
-##### Raison d’être 
-
-Décrire des questionnements aidants pour cultiver une posture professionnelle bénéfique à la fois pour moi, mes interlocuteurs, mon collectif et mon travail.
-
-##### Inclusion
-
-- **Ma présence, ma complétude, ma plénitude** : suis-je dans une attention flottante me permettant d’utiliser tous mes canaux d’information ou suis-je bloqué dans le mental, l’émotionnel, l’intuitif ou les sensations ?
-- **Vis-à-vis des autres** : est-ce que je prends la place qui me paraît pertinente ? Est-ce que j’invite ceux qui sont silencieux à participer ? Est-ce que je laisse sereinement d’autres occuper l’espace ? Est-ce que je signale à l’un qu’il monopolise le temps de parole ? 
-
-##### Contrôle 
-
-- **Mon auto-détermination, ma capacité à décider** sans avoir besoin d’entendre l’accord du groupe ou d’une autorité.
-- **Vis-à-vis des autres** : est-ce que je tiens mes propositions ? Est-ce que j’invite ceux qui lâchent facilement à affirmer leur point de vue ? Est-ce que je me soumets facilement à l’influence des autres ? Est-ce que j’arrive à me discipliner dans les processus ? Comment est-ce que j’agis quand quelqu’un me semble imposer son idée ? 
-
-##### Ouverture 
-
-- **Ma conscience de moi** : ma lucidité sur mes fonctionnements. Est-ce que j’observe avec suffisamment de sérénité mes comportements pour pouvoir tenter de modifier ce qui me déplait ? 
-- **Vis-à-vis des autres** : est-ce que j’ose exprimer ce que je vis dans les moments intenses ou est-ce que j’adopte un masque consensuel ? Comment est-ce que j’accueille la détresse, la colère, la peur, l’enthousiasme d’un membre ? Est-ce que je réussis à prendre sur moi quand la situation ne permet pas l'expression des ressentis ?
-
-#### Leader « as a completer »
-
-Du terme anglais « completer » qui signifie à la fois terminer et complémenter.
- - Chacun est leader de son rôle « as a completer » : garde le cap, réalise sa raison d’être et ses redevabilités.
- - Chacun est membre de la cellule « as a completer » : cherche à complémenter les comportements manquants dans les trois dimensions : Inclusion, Contrôle et Ouverture (quand il se sent suffisamment serein).
-
-*Plus de réflexions avec l’élément humain de Will Schutz.*
-
-#### 5.19 Elément charte gouvernance cellulaire 
+#### 5.16 Elément charte gouvernance cellulaire 
 
 ##### Contexte 
 
@@ -1291,7 +1263,7 @@ Signatures :
 
 *¤ Cette charte pourra être amendée ou abrogée par ses signataires.*
 
- #### 5.20 Elément accompagnement extérieur
+ #### 5.17 Elément accompagnement extérieur
 
 ##### Technicité 
 
@@ -1309,7 +1281,7 @@ Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut re
 Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire.
 Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage.
 
-#### 5.21 Elément fusion d’équipes
+#### 5.18 Elément fusion d’équipes
 
 ##### Raison d’être 
 
@@ -1347,7 +1319,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.22 Elément droit de recours
+#### 5.19 Elément droit de recours
 
 ##### Intention
 Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
@@ -1381,7 +1353,7 @@ Le rôle qui a l’autorité de prendre la décision n’a pas à décider en di
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.23 Elément rétrospective & décisions
+#### 5.20 Elément rétrospective & décisions
 
 ##### Raison d’être 
 Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amélioration, valoriser les membres et définir ensemble les priorités pour les prochains mois. 
@@ -1410,7 +1382,7 @@ décisions de la stratégie à moyen terme (15-30’) en plénière :
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.24 Elément responsabilités de membre 
+#### 5.21 Elément responsabilités de membre 
 
 ##### Soin de la relation 
 Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
@@ -1439,7 +1411,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus.
 - Check-list et indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles.
 
-#### 5.25 Elément consolidation de décision par concordance
+#### 5.22 Elément consolidation de décision par concordance
 
 ##### Raison d’être : forts enjeux humains 
 
@@ -1464,7 +1436,7 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
-#### 5.26 Elément variantes décisions collectives 
+#### 5.23 Elément variantes décisions collectives 
 
 ##### Variante test des objections
 
@@ -1491,7 +1463,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Demandeur, quelle est ta proposition ?
 5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
-#### 5.27 Elément décision hors réunion
+#### 5.24 Elément décision hors réunion
 
 ##### Raison d’être 
 
@@ -1506,7 +1478,7 @@ Simplifier le processus, fonctionner à distance.
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-#### 5.28 Elément réciprocité 
+#### 5.25 Elément réciprocité 
 
 ##### Exercice du pouvoir
 
@@ -1526,7 +1498,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html).
 
-#### 5.29 Elément rôle Source 
+#### 5.26 Elément rôle Source 
 
 ##### Raison d’être du rôle source 
 Tenir le cap de son intuition de ce que pourrait devenir la structure ou le projet dont il a la charge dans la structure.
@@ -1547,7 +1519,21 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres de la c
 ##### Réutilisation
 Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
 
-#### 5.30 Elément rôles ami renfort
+#### 5.27 Elément rôle urgentiste 
+
+##### Raison d’être urgentiste
+
+Ce rôle permet aux « leaders pyramidaux » (voir curseur managérial) de passer officiellement en mode donneur d’ordre en cas d’urgence. 
+Il assume la prise de pouvoir ponctuelle sur un rôle, ce qui évite de discréditer toute la démarche. 
+
+##### Redevabilités urgentiste 
+En cas d’urgence, le leader pyramidal reprend une délégation qui avait été confiée à un rôle.
+Il doit nommer qu’il passe en rôle « urgentiste ».
+Il active ce rôle le plus rarement possible.
+Il met en place des actions de fond pour que ce rôle devienne obsolète.
+Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
+
+#### 5.28 Elément rôles ami renfort
 
 ##### Raison d’être  
 
@@ -1564,21 +1550,7 @@ En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins un
  - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
  - M’aider à prendre du recul avec l’élément Pilotage de soi quand j’en ai besoin. 
 
-#### 5.31 Elément rôle urgentiste 
-
-##### Raison d’être urgentiste
-
-Ce rôle permet aux « leaders pyramidaux » (voir curseur managérial) de passer officiellement en mode donneur d’ordre en cas d’urgence. 
-Il assume la prise de pouvoir ponctuelle sur un rôle, ce qui évite de discréditer toute la démarche. 
-
-##### Redevabilités urgentiste 
-En cas d’urgence, le leader pyramidal reprend une délégation qui avait été confiée à un rôle.
-Il doit nommer qu’il passe en rôle « urgentiste ».
-Il active ce rôle le plus rarement possible.
-Il met en place des actions de fond pour que ce rôle devienne obsolète.
-Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
-
-#### 5.32 Elément rôle protection
+#### 5.29 Elément rôle protection
 
 ##### Raison d’être rôle protection
 Sécuriser le collectif en accompagnant les personnes qui gênent les équipes pour comprendre leur attitude et les aider soit à rallier le collectif, soit à ne plus le déstabiliser. La déstabilisation peut concerner un membre, une équipe ou le projet.
@@ -1594,7 +1566,7 @@ Sécuriser le collectif en accompagnant les personnes qui gênent les équipes p
  - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
 
 
-#### 5.33 Elément curseur managérial Que fait le rôle pilotage de votre cellule ?
+#### 5.3à Elément curseur managérial Que fait le rôle pilotage de votre cellule ?
 
 ##### Système 
 
@@ -1623,7 +1595,7 @@ Les redevabilités prises en charge par l’équipe sont précisées. Elles sero
 
 Ces réglages sont amenés à évoluer dans le temps. 
 
-#### 5.34 Elément niveaux d’autonomie
+#### 5.31 Elément niveaux d’autonomie
 
 ##### Raison d’être 
 Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles.
@@ -1652,7 +1624,7 @@ Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agi
 #####  Réglage
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
 
-#### 5.35 Elément Entretien annuel  
+#### 5.32 Elément Entretien annuel  
 
 ##### Raison d’être 
 
@@ -1684,7 +1656,7 @@ Le support de questionnement peut être :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 5.36 Elément numérique
+#### 5.33 Elément numérique
 
 ##### Raison d’être 
 
@@ -1708,7 +1680,7 @@ https://trello.com/b/002WfWqn
 
 Des outils payants existent également.
 
-#### 5.37 Elément légèreté-simplicité  
+#### 5.34 Elément légèreté-simplicité  
 
 ##### Sobriété d’organisation
 Un formalisme minimum sera créé (cellule, rôles, politiques, processus, etc.) pour :
@@ -1856,6 +1828,6 @@ Marion Rigaux, Jeanluc Christin, David Drayer (rôle lead).
 Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
 Juliette Le Roy, Virginie Angove, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
 
-##### Cellule ancrage (la cellule amont)
+##### Cellule ancrage
 A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
 Christophe Herault, David Drayer, Candice Sottas, Jean-Christophe Ciceron (cellule sans rôle lead).
