@@ -178,7 +178,9 @@ Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs ap
 
 La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
 
-Le collectif est en charge de créer les meilleures conditions possibles pour faire cela. Chacun perçoit son estime de Soi et met en place les actions nécessaires pour l’améliorer si besoin.
+Le rôle de la structure est de créer les meilleures conditions possibles pour permettre cela.
+
+Le rôle de chacun est de percevoir son estime de Soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
 
 ##### Coopération
 
@@ -1377,7 +1379,7 @@ décisions de la stratégie à moyen terme (15-30’) en plénière :
 2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
 3) pondérer les idées,
 4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes,
-5) décision en GPC (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
+5) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
 
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
