@@ -352,7 +352,7 @@ L’action quotidienne amène les personnes à percevoir ce qui est en train de 
 La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
 
 ##### Posture 
-La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilité » consiste à décider comment ajuster en permanence son action avec lucidité.
+La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
 
 #### 3.7  Pilotage de soi 
 
