@@ -158,11 +158,11 @@ Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisse
   - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
-#### 3.1 Elément estime de soi
+#### 3.1 Elément estime de soi *
 
 ##### Raison d’être 
 
-Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car
+Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
 
  - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
  - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
@@ -170,7 +170,7 @@ Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car
 
 ##### Fonctionnement de l'estime de soi
 
-Selon William Schutz, notre motivation se développe quand on se rapproche de quelqu’un que l’on estime.
+Ma motivation grandit quand je me rapproche de la personne que je souhaiterais être.
 
 Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux.
 
@@ -178,27 +178,15 @@ Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs ap
 
 La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
 
-Le rôle de la structure est de créer les meilleures conditions possibles pour permettre cela.
+##### Responsabilités 
 
-Le rôle de chacun est de percevoir son estime de Soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
+La structure est responsable de créer les meilleures conditions possibles pour permettre cela. 
 
-##### Coopération
+Chacun est responsable de percevoir son estime de Soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
 
-Chacun perçoit les besoins de l’équipe ou des collègues et agit au mieux dans les trois espaces Lien, Contrat ou Sens pour fluidifier les relations. 
+* Travail issu de l’œuvre de William Schutz sur l’Elément humain
 
-##### Autodétermination
-
-Pour décider par soi-même dans une posture autonome et mature, il est utile de prendre du recul avec : 
-
- - une présence à ce qu’il se passe en soi et autour de soi,
- - une conscience de ce qu’on connaît ou découvre de soi, de la situation et des autres.
- - Un choix posé et assumé.
- 
-##### Ouverture
-
-Selon l’élément humain, le grand simplificateur des relations est la transparence sur ses pensées et ses ressentis. 
-
-#### 3.1 L’autodiagnostic efficacité-humaniste
+#### 3.2 L’autodiagnostic efficacité-humaniste
 *Des conditions pour que les décisions prises soient suivies d’effets.*
 
 #####  Intentions
@@ -220,7 +208,7 @@ Il nous paraît sain de :
  - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus),
  - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence de solidarité »).
 
-#### 3.2 Principe de choix - souveraineté 
+#### 3.3 Principe de choix - souveraineté 
 
 ##### Liberté 
 
@@ -236,7 +224,7 @@ Il est possible de démissionner à tout moment d’un rôle. Il est également 
 
 Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
-#### 3.3 Raison d’être  
+#### 3.4 Raison d’être  
 
 ##### Nécessité
 
@@ -262,7 +250,7 @@ Il est possible de préciser l’impact (le quoi), le moyen (le comment) et l’
 
 La raison d’être d’une structure est intuitive, perceptible et évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut être affecté à un, plusieurs ou tous les membres. Cf rôle source.  
 
-#### 3.4  Actualisation de la raison d’être 
+#### 3.5  Actualisation de la raison d’être 
 
 ##### Pouvoir de proposition
 
@@ -295,7 +283,7 @@ L’intention est pour chacun :
 
 plus de réflexions en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
 
-#### 3.5  Temps de positionnement éthique 
+#### 3.6  Temps de positionnement éthique 
 
 ##### Raison d’être 
 
@@ -338,7 +326,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.6 Culture essai-apprentissage
+#### 3.7 Culture essai-apprentissage
 
 ##### Intention 
 La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
@@ -354,7 +342,7 @@ La tension est ce qui apparait dans les phases Perception et Orientation. Elle e
 ##### Posture 
 La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
 
-#### 3.7  Pilotage de soi 
+#### 3.8  Pilotage de soi 
 
 ##### Raison d’être
 
@@ -390,7 +378,7 @@ Les prochaines fois...
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.8  Egrégore d'équipe 
+#### 3.9  Egrégore d'équipe 
 
 ##### Intentions
 *Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
@@ -419,7 +407,7 @@ Exemples de process verbalisés :
  - tour de table, photolangage,
  - moments informels de relation.
 
-#### 3.9  Temps de régulation  
+#### 3.10  Temps de régulation  
 
 ##### Raison d’être 
 
@@ -458,7 +446,7 @@ Le rôle facilitation  distribue la parole selon les étapes suivantes :
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
-####  3.10  Exigence de solidarité
+####  3.11  Exigence de solidarité
 
 ##### Intention
 
@@ -496,7 +484,7 @@ Au-delà de cette posture d’exigence de solidarité, une structure doit être 
 
 Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
 
-#### 3.11  Responsabilité de Tension
+#### 3.12  Responsabilité de Tension
 
 ##### Responsabilité de membre 
 
@@ -529,7 +517,7 @@ La tension de cellule est relative directement à la réalisation des raisons d�
 - soit à tous les membres la cellule,
 - soit à la cellule en mode consentement dans une réunion dédiée.
 
-#### 3.12 Création de rituels 
+#### 3.13 Création de rituels 
 
 ##### Raison d’être 
 Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
@@ -553,7 +541,7 @@ Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a
 ##### Clôture
 Ce rituel peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité (points positifs et pistes d’amélioration de ce rituel) et humanisme.
 
-#### 3.13  Temps d’opération
+#### 3.14  Temps d’opération
 
 ##### Raison d’être 
 
@@ -627,7 +615,7 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.14 Décision collective
+#### 3.15 Décision collective
 
 ##### Utilité  
 
@@ -677,7 +665,7 @@ Les objections non argumentées ne peuvent pas être retenues mais peuvent deven
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 Plus de réflexions [ici](http://universite-du-nous.org/wp-content/uploads/2013/09/gpc-2017-v0.1.pdf).
 
-#### 3.15  Temps de réorganisation
+#### 3.16  Temps de réorganisation
 
 ##### Raison d’être 
 
@@ -707,7 +695,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.16  Election sans candidat
+#### 3.17 Election sans candidat
 
 ##### Raison d’être 
 
@@ -741,7 +729,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 3.17  Rôle et cellule
+#### 3.18  Rôle et cellule
 
 *Un rôle est formalisé par écrit si cela répond au besoin d’un des membres*.
 
