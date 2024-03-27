@@ -230,6 +230,34 @@ Le collectif considérera que la personne n’avait pas la posture adéquate.
 
 (*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
+#### 2.2 Elément estime de soi*
+
+##### Intention
+
+Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
+
+ - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
+ - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
+ - L’estime de Soi est la première motivation à agir au travail selon William Schutz et une source de sérénité importante.
+
+##### Fonctionnement de l'estime de soi
+
+Ma motivation grandit quand je me rapproche de la personne que je souhaiterais être.
+
+Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux.
+
+Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. 
+
+La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
+
+##### Responsabilités 
+
+l’organisme est responsable de créer les meilleures conditions possibles pour permettre cela. 
+
+Chacun est responsable de percevoir son estime de Soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
+
+(*) travail issu de l’œuvre de William Schutz sur l’Elément humain
+
 
 
 
@@ -263,34 +291,6 @@ Le collectif considérera que la personne n’avait pas la posture adéquate.
     - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
   - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
-
-#### 2.1 Elément estime de soi *
-
-##### Raison d’être 
-
-Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
-
- - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
- - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
- - L’estime de Soi est la première motivation à agir au travail selon William Schutz et une source de sérénité importante.
-
-##### Fonctionnement de l'estime de soi
-
-Ma motivation grandit quand je me rapproche de la personne que je souhaiterais être.
-
-Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux.
-
-Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. 
-
-La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
-
-##### Responsabilités 
-
-La structure est responsable de créer les meilleures conditions possibles pour permettre cela. 
-
-Chacun est responsable de percevoir son estime de Soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
-
-* Travail issu de l’œuvre de William Schutz sur l’Elément humain
 
 
 #### 2.3 Principe de choix - souveraineté 
