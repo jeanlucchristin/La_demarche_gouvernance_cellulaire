@@ -162,7 +162,7 @@ Nous participons à cet élan collectif en proposant une forme évolutive suffis
 
 Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
-#### 1.4  3 piliers éthiques
+## 1.4  Trois piliers éthiques
 
 ##### Intention
 Cet élément présente trois piliers qui sous-tendent la raison d’être de la gouvernance cellulaire.
