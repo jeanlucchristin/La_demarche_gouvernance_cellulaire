@@ -87,10 +87,28 @@ Elément magique
 ## Bibliographie et glossaire
 
 ## Licence et contributeur.ices
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/625e50a1-c42d-45cf-8135-976474a13b1f)
 
 
-## 1)  Introduction 
+# 1)  Introduction 
+
+## 1.1) Présentation de ce document
+
+### Quoi : 
+Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre en œuvre la Gouvernance Cellulaire. C’est un ensemble clef en main de bonnes pratiques éprouvées qui peuvent aider les organismes à mieux fonctionner.
+
+Il permet en particulier à chaque organisme d’écrire sa propre constitution, en fonction de son contexte et sa culture, qui veille à l’équilibre éthique entre « agir » et « prendre soin ». Chacun peut s’approprier ces éléments en les adaptant.
+
+Ce guide est en constante évolution, hautement imparfait, et sous licence CCbySA.
+
+### Structure du document :
+
+- Une introduction qui présente la philosophie
+- Les principes fondamentaux
+- Une constitution repère : Ce sont les éléments essentiels qui permettent à un organisme de fonctionner en gouvernance cellulaire. Ils constituent un socle minimal pour un ensemble intégré et cohérent qu’il est recommandé de mettre en œuvre.
+- Des éléments complémentaires : Ce sont des processus, des outils, des rôles… qui vous sont proposés pour vous permettre d’enrichir votre constitution.
+- Une boîte à outils : un ensemble d’éléments pour vous aider à mieux mettre en œuvre la gouvernance cellulaire.
+
+
 
 
 
