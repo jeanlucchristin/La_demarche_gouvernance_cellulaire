@@ -89,9 +89,9 @@ Elément magique
 ## Licence et contributeur.ices
 
 
-# 1)  Introduction 
+# 1  Introduction 
 
-## 1.1) Présentation de ce document
+## 1.1 Présentation de ce document
 
 ### Quoi : 
 Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre en œuvre la Gouvernance Cellulaire. C’est un ensemble clef en main de bonnes pratiques éprouvées qui peuvent aider les organismes à mieux fonctionner.
@@ -109,10 +109,7 @@ Ce guide est en constante évolution, hautement imparfait, et sous licence CCbyS
 - Une boîte à outils : un ensemble d’éléments pour vous aider à mieux mettre en œuvre la gouvernance cellulaire.
 
 
-
-
-
-## 1.1)  La démarche gouvernance cellulaire   
+## 1.2  La démarche gouvernance cellulaire   
 
 #### Intention
 
@@ -120,20 +117,20 @@ Gouvernance cellulaire propose un cadre de référence progressif pour établir 
 
 #### Au-delà des modèles : une pratique continue
 
-C'est une méthode pour co-construire un diagnostic puis décider d'actions concrètes et construire la constitution de sa structure. 
+C'est un outil pour co-construire un diagnostic puis décider d'actions concrètes et construire la constitution de son organisme. 
 Le calage gouvernance cellulaire avec les éléments cœurs et les 5 rôles préconstruits est un repère de constitution possible. Chaque équipe modifie ou ôte des éléments cœurs et rajoute des éléments optionnels. 
 
-Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement en utilisant cette méthode.
+Votre organisme s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement en utilisant cet outil.
 
 Cette logique d’ajustement est permanente. La démarche ne s’arrête jamais. 
 
-Votre structure continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres. 
+Votre organisme continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres.
 
 #### Autonomie
 
 Un objectif de la constitution est de permettre à chacun d’acquérir seul les connaissances de la gouvernance cellulaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
 
-## 1.2)  Philosophie
+## 1.3  Philosophie
 
 #### Contribuer au Vivant 
 
@@ -165,65 +162,40 @@ Nous participons à cet élan collectif en proposant une forme évolutive suffis
 
 Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
-## 1.3)  Raison d’être de la gouvernance cellulaire
+#### 1.4  3 piliers éthiques
+
+##### Intention
+Cet élément présente trois piliers qui sous-tendent la raison d’être de la gouvernance cellulaire.
+
+Selon ces trois piliers inspirés de la permaculture, chaque projet est une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre.
+
+##### Individus 
+Notre manière de faire des projets nous permet d’en apprendre plus sur nous-même, de développer nos compétences et notre créativité, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort.
+
+##### Collectif 
+Notre mode de fonctionnement collectif est l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
+
+##### Eco-système global 
+La façon dont est pensé notre projet amène à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
+
+## 1.5  Raison d’être de la gouvernance cellulaire
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
- - *laisser chacun engager ce qui lui parait utile pour la structure*,
+ - *laisser chacun engager ce qui lui parait utile pour la l’organisme,*
  - *se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*,
  - *actualiser une raison d’être ajustée et suffisamment motivante*.
 
-#### *pour le monde* 
+#### Contribution au monde
 
-##### Quoi ?
+Offrir une démarche pour créer sa propre gouvernance, avec une constitution repère et une palette d’outils complémentaires, car nous considérons les professionnels capables de construire leur propre organisation saine et performante par ajustements successifs.
 
-Offrir une constitution hautement imparfaite, clef en main, libre de droit, simple, qui veille à l’équilibre éthique entre « agir » et « prendre soin » :
-  - permettre aux structures d’évoluer vers ce qui compte pour elles,
-  - permettre la même chose aux humains qui les composent,
-  - proposer de rechercher cet équilibre dans le mouvement, l'ajustement
+##### Pour nos contributeurs :
 
-##### Comment ?  
+Donner forme et expérimenter notre rêve d'un monde de coopération efficace et humaniste.
 
- - Un livret central avec des éléments cœur et des rôles préconstruits.
- - Des éléments optionnels.
+##### Pour nos investisseurs :
 
-Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit.
-
-
-##### Intention ? 
-
-- Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre.
-  En gouvernance cellulaire, la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt.
-  En gouvernance cellulaire, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins.
-- Nous considérons qu'en tant qu'humain, nous avons besoin que notre structure performe suffisamment pour bien vivre, et que notre structure a besoin que nous soyons suffisamment sereins pour performer.
-
-Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires.  
-
-#### *pour nos contributeurs* 
-
-##### Quoi ?
-
- - Donner forme à une pratique et à un rêve potentiel.
- - Nous doter d’un outil d’intervention facilitant les apprentissages basiques pour nous permettre d’aller plus loin dans la réponse 
-   aux attentes de nos clients.
- - Renforcer notre visibilité, notre expertise et notre crédibilité. 
-
-##### Comment ?
-
-- En approfondissant nos idées et nos connaissances dans une co-construction en mode gouvernance cellulaire.
-- Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
-activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci.
-
-##### Intention ?
-
-Car nous avons envie :
-
-- d’explorer des façons d’être ensemble apportant de la joie et de l’efficacité,
-- de participer au monde par la création d’un commun.
-
-
-#### *pour nos investisseurs*  
-
-Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisseurs). 
+Nous n'avons pas d'investisseur financier en attente de contrepartie. 
 
 ## 2)  Livret central : Eléments cœurs 
  
@@ -1152,21 +1124,6 @@ Répondre au besoin de votre cellule
 
 A vous de jouer !  
 
-#### 5.9 Elément 3 piliers éthiques
-
-##### Intention
-Cet élément propose trois piliers pour guider la création des raisons d’être ou pour clarifier une situation de doute moral. 
-
-Selon ces trois piliers inspirés de la permaculture, chaque projet est une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre. 
-
-##### Individus 
-Notre manière de faire des projets nous permet d’en apprendre plus sur nous-même, de développer nos compétences et notre créativité, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort.
-
-##### Collectif 
-Notre mode de fonctionnement collectif est l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
-
-##### Eco-système global 
-La façon dont est pensé notre projet amène à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
 
 #### 4.10 Elément régulation marcher-parler
 
