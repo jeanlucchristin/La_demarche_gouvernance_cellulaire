@@ -197,9 +197,44 @@ Donner forme et expérimenter notre rêve d'un monde de coopération efficace et
 
 Nous n'avons pas d'investisseur financier en attente de contrepartie. 
 
-## 2)  Livret central : Eléments cœurs 
+## 2  Les principes fondamentaux
  
-#### 2.0  Eléments cœurs
+#### 2.1  L’efficacité-humaniste* & son autodiagnostic
+*Des conditions pour que les décisions prises soient suivies d’effets.*
+
+#####  Intentions
+
+Créer des conditions pour que les décisions prises soient suivies d’effets et pour que les membres soient de plus en plus dynamisés au fil du temps (cf « Egrégore »).
+
+Concrètement, la démarche vise à agir ensemble en se stimulant mutuellement sans contraindre qui que ce soit excessivement : ni l’un à faire ce qui était attendu de lui par un/des autres, ni l’autre à subir que ce ne soit pas fait.
+
+#####  Fonctionnement au quotidien
+
+Il nous paraît sain de nourrir
+- la cohésion et l’authenticité, (espace lien), 
+- l’adhésion à un projet commun qui résonne pour chacun (espace sens),
+- une organisation qui permette à chacun d’agir en auto-détermination et de se solliciter mutuellement (espace organisation).
+
+Pour cultiver cela au quotidien, deux éléments sont déterminants : 
+- donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi »),
+- tenir une tension avec une exigence décomplexée tant qu’une option nouvelle n’apparait pas	(cf « Exigence de solidarité »).
+
+#####  Autodiagnostic
+
+Le plus efficace pour démarrer est nous semble de demander à l’équipe dans quel espace elle pense qu’elle a le plus à gagner. (espace lien, organisation ou sens). Si plusieurs dimensions sont retenues, il est pertinent de construire un plan d’action passant successivement par les trois dimensions. 
+
+
+En effet, nous avons observé que si l’autorité ou la « verticalité » manque, (cf « organisation »), l’équipe risque d’être attirée vers une sorte d’exigence de la posture de l’autre (cf « espace organisation, choix, autonomie »).
+La relation peut se dégrader au point d’amener une séparation pour incompatibilité relationnelle.
+Le collectif considérera que la personne n’avait pas la posture adéquate.
+
+* Travail issu de l’œuvre de William Schutz sur l’Elément humain
+
+
+
+
+
+
 
   - L’estime de Soi 
   - L’Auto-diagnostic Efficacité-humaniste : des conditions pour que les décisions prises soient suivies d’effets.
@@ -257,27 +292,6 @@ Chacun est responsable de percevoir son estime de Soi et de mettre en place les 
 
 * Travail issu de l’œuvre de William Schutz sur l’Elément humain
 
-#### 2.2 L’autodiagnostic efficacité-humaniste
-*Des conditions pour que les décisions prises soient suivies d’effets.*
-
-#####  Intentions
-
-Agir ensemble sans contraindre qui que ce soit : 
-  - ni l’un à faire ce qui était attendu de lui par un/des autres,
-  - ni l’autre à subir que ce ne soit pas fait.
-
-#####  Processus
-
-De notre expérience, si l’autorité ou la « verticalité » manque, (cf «  Contrat, structuration »), l’équipe risque d’être attirée vers une sorte d’exigence de la posture de l’autre (cf « choix, autonomie »).
-
-La relation peut se dégrader au point d’amener une séparation pour incompatibilité relationnelle.
-
-Le collectif considèrera que la personne n’avait pas la posture adéquate.
-
-Il nous paraît sain de :
- - nourrir la cohésion, l’authenticité, la confiance et le projet commun  (cf « Egrégore »),
- - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi », ci-dessus),
- - d’assumer de tenir une tension avec une exigence décomplexée tant qu’une option nouvelle à tester n’apparait pas (cf « Exigence de solidarité »).
 
 #### 2.3 Principe de choix - souveraineté 
 
