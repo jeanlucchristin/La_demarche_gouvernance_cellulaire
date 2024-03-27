@@ -1,6 +1,6 @@
-# Gouvernance Cellulaire version 3.2
+# La démarche Gouvernance cellulaire version 3.2
  
-Construisons une autre façon de travailler ensemble.
+Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
 Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
@@ -11,7 +11,88 @@ Marque, logos et constitution sont en accès libre **Vous devez simplement inclu
 Plus d’infos à la fin de la constitution.* 
 
 
-## 1)  Avant-propos
+# Table des matières 
+
+## Introduction
+Présentation de ce document  
+La démarche gouvernance cellulaire
+Philosophie 
+3 piliers éthiques
+Raison d’être de la gouvernance cellulaire
+
+## Les principes fondamentaux
+L’efficacité-humaniste & son autodiagnostique
+Culture essai-apprentissage
+Souveraineté et lien
+Principe de choix - souveraineté 
+Contentement 
+L’estime de soi
+Distinction personne et rôle
+Frustration
+Responsabilité de tension
+Responsabilités de membre gouvernant
+Réciprocité
+
+## Constitution repère
+Vision globale
+Raison d’être
+Actualisation de la raison d’être
+Temps de décision éthique
+Rétrospective & ambition
+Ajustement relationnel
+Régulation « marcher-parler »
+Exigence de solidarité
+Temps d’opération (processus de triage) 
+Décision collective (processus de gestion par consentement)
+Temps de réorganisation
+Election sans candidat
+Rôle et cellule
+Rôle lead
+Rôle facilitation
+Rôle mémoire
+Rôle représentation
+
+## Eléments optionnels (pour enrichir votre constitution)
+Contrat de liberté d’agir 
+Palabre
+Régulation CNV
+Déblocage 180° 
+Fusion d’équipes
+Droit de recours
+Consolidation par concordance
+Décision hors réunion
+Rôle prendre soin
+Rôle source 
+Rôle urgentiste
+Rôle ami renfort
+Rôle protection
+Séparation
+Entretien annuel 
+Légèreté-simplicité 
+
+## Méthodes (Pour concevoir et utiliser votre gouvernance)
+Pilotage de soi
+Création raison d’être
+Choix des Valeurs
+Feedback
+Variantes décisions collectives
+Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
+Niveaux d’autonomie
+Composer avec nos différences 
+Des repères pendant le changement
+Accompagnement extérieur
+Numérique
+Elément magique 
+
+## Bibliographie et glossaire
+
+## Licence et contributeur.ices
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/625e50a1-c42d-45cf-8135-976474a13b1f)
+
+
+## 1)  Introduction 
+
+
 
 ## 1.1)  La démarche gouvernance cellulaire   
 
