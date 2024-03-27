@@ -43,7 +43,7 @@ Ajustement relationnel
 Régulation « marcher-parler »
 Exigence de solidarité
 Temps d’opération (processus de triage) 
-Décision collective (processus de gestion par consentement)
+Décision collective (processus de gestion par consentement)
 Temps de réorganisation
 Election sans candidat
 Rôle et cellule
@@ -76,7 +76,7 @@ Création raison d’être
 Choix des Valeurs
 Feedback
 Variantes décisions collectives
-Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
+Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
 Niveaux d’autonomie
 Composer avec nos différences 
 Des repères pendant le changement
