@@ -228,7 +228,7 @@ En effet, nous avons observé que si l’autorité ou la « verticalité » ma
 La relation peut se dégrader au point d’amener une séparation pour incompatibilité relationnelle.
 Le collectif considérera que la personne n’avait pas la posture adéquate.
 
-*Efficacité-humaniste** est un travail issu de l’œuvre de William Schutz sur l’Elément humain
+(*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
 
 
