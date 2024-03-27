@@ -18,10 +18,10 @@ Présentation de ce document
 La démarche gouvernance cellulaire
 Philosophie 
 3 piliers éthiques
-Raison d’être de la gouvernance cellulaire
+Raison d’être de la gouvernance cellulaire
 
 ## Les principes fondamentaux
-L’efficacité-humaniste & son autodiagnostique
+L’efficacité-humaniste & son autodiagnostique
 Culture essai-apprentissage
 Souveraineté et lien
 Principe de choix - souveraineté 
@@ -30,7 +30,7 @@ L’estime de soi
 Distinction personne et rôle
 Frustration
 Responsabilité de tension
-Responsabilités de membre gouvernant
+Responsabilités de membre gouvernant
 Réciprocité
 
 ## Constitution repère
@@ -42,7 +42,7 @@ Rétrospective & ambition
 Ajustement relationnel
 Régulation « marcher-parler »
 Exigence de solidarité
-Temps d’opération (processus de triage) 
+Temps d’opération (processus de triage) 
 Décision collective (processus de gestion par consentement)
 Temps de réorganisation
 Election sans candidat
@@ -52,7 +52,7 @@ Rôle facilitation
 Rôle mémoire
 Rôle représentation
 
-## Eléments optionnels (pour enrichir votre constitution)
+## Eléments optionnels (pour enrichir votre constitution)
 Contrat de liberté d’agir 
 Palabre
 Régulation CNV
@@ -70,7 +70,7 @@ Séparation
 Entretien annuel 
 Légèreté-simplicité 
 
-## Méthodes (Pour concevoir et utiliser votre gouvernance)
+## Méthodes (Pour concevoir et utiliser votre gouvernance)
 Pilotage de soi
 Création raison d’être
 Choix des Valeurs
