@@ -93,14 +93,14 @@ Elément magique
 
 ### 1.1 Présentation de ce document
 
-### Quoi : 
+#### Quoi : 
 Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre en œuvre la Gouvernance Cellulaire. C’est un ensemble clef en main de bonnes pratiques éprouvées qui peuvent aider les organismes à mieux fonctionner.
 
 Il permet en particulier à chaque organisme d’écrire sa propre constitution, en fonction de son contexte et sa culture, qui veille à l’équilibre éthique entre « agir » et « prendre soin ». Chacun peut s’approprier ces éléments en les adaptant.
 
 Ce guide est en constante évolution, hautement imparfait, et sous licence CCbySA.
 
-### Structure du document :
+#### Structure du document :
 
 - Une introduction qui présente la philosophie
 - Les principes fondamentaux
