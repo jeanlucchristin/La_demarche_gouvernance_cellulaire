@@ -164,18 +164,18 @@ Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
 ### 1.4  Trois piliers éthiques
 
-##### Intention
+#### Intention
 Cet élément présente trois piliers qui sous-tendent la raison d’être de la gouvernance cellulaire.
 
 Selon ces trois piliers inspirés de la permaculture, chaque projet est une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre.
 
-##### Individus 
+#### Individus 
 Notre manière de faire des projets nous permet d’en apprendre plus sur nous-même, de développer nos compétences et notre créativité, d’apprivoiser les peurs et les réflexes de stress qui apparaissent quand nous nous éloignons de notre zone de confort.
 
-##### Collectif 
+#### Collectif 
 Notre mode de fonctionnement collectif est l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
 
-##### Eco-système global 
+#### Eco-système global 
 La façon dont est pensé notre projet amène à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
 
 ### 1.5  Raison d’être de la gouvernance cellulaire
@@ -189,11 +189,11 @@ La façon dont est pensé notre projet amène à prendre soin ou à restaurer le
 
 Offrir une démarche pour créer sa propre gouvernance, avec une constitution repère et une palette d’outils complémentaires, car nous considérons les professionnels capables de construire leur propre organisation saine et performante par ajustements successifs.
 
-##### Pour nos contributeurs :
+#### Pour nos contributeurs :
 
 Donner forme et expérimenter notre rêve d'un monde de coopération efficace et humaniste.
 
-##### Pour nos investisseurs :
+#### Pour nos investisseurs :
 
 Nous n'avons pas d'investisseur financier en attente de contrepartie. 
 
@@ -202,13 +202,13 @@ Nous n'avons pas d'investisseur financier en attente de contrepartie.
 ### 2.1  L’efficacité-humaniste* & son autodiagnostic
 *Des conditions pour que les décisions prises soient suivies d’effets.*
 
-#####  Intentions
+####  Intentions
 
 Créer des conditions pour que les décisions prises soient suivies d’effets et pour que les membres soient de plus en plus dynamisés au fil du temps (cf « Egrégore »).
 
 Concrètement, la démarche vise à agir ensemble en se stimulant mutuellement sans contraindre qui que ce soit excessivement : ni l’un à faire ce qui était attendu de lui par un/des autres, ni l’autre à subir que ce ne soit pas fait.
 
-#####  Fonctionnement au quotidien
+####  Fonctionnement au quotidien
 
 Il nous paraît sain de nourrir
 - la cohésion et l’authenticité, (espace lien), 
@@ -219,7 +219,7 @@ Pour cultiver cela au quotidien, deux éléments sont déterminants :
 - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi »),
 - tenir une tension avec une exigence décomplexée tant qu’une option nouvelle n’apparait pas	(cf « Exigence de solidarité »).
 
-#####  Autodiagnostic
+####  Autodiagnostic
 
 Le plus efficace pour démarrer est nous semble de demander à l’équipe dans quel espace elle pense qu’elle a le plus à gagner. (espace lien, organisation ou sens). Si plusieurs dimensions sont retenues, il est pertinent de construire un plan d’action passant successivement par les trois dimensions. 
 
@@ -232,7 +232,7 @@ Le collectif considérera que la personne n’avait pas la posture adéquate.
 
 ### 2.2 Elément estime de soi*
 
-##### Intention
+#### Intention
 
 Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
 
@@ -240,7 +240,7 @@ Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous p
  - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
  - L’estime de Soi est la première motivation à agir au travail selon William Schutz et une source de sérénité importante.
 
-##### Fonctionnement de l'estime de soi
+#### Fonctionnement de l'estime de soi
 
 Ma motivation grandit quand je me rapproche de la personne que je souhaiterais être.
 
@@ -250,7 +250,7 @@ Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs ap
 
 La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
 
-##### Responsabilités 
+#### Responsabilités 
 
 l’organisme est responsable de créer les meilleures conditions possibles pour permettre cela. 
 
@@ -260,15 +260,15 @@ Chacun est responsable de percevoir son estime de Soi et de mettre en place les 
 
 ### 2.3 Principe de choix - souveraineté 
 
-##### Liberté 
+#### Liberté 
 
 Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs.
 
-##### Assumer
+#### Assumer
 
 Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultats, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
 
-##### Sortie de rôle
+#### Sortie de rôle
 
 Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
 
@@ -276,41 +276,41 @@ Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
 ### 2.4 Culture essai-apprentissage
 
-##### Intention 
+#### Intention 
 La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
 Il est possible de reprendre une décision dès qu’une tension apparaît.
 Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
 
-##### Cycles  
+#### Cycles  
 L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
 
-##### Tension 
+#### Tension 
 La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
 
-##### Posture 
+#### Posture 
 La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
 
 ### 2.5  Responsabilité de Tension
 
-##### Responsabilité de membre 
+#### Responsabilité de membre 
 
 Chaque membre gouvernant a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
 
 Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètesUne tension est une « tension vers » (envie) ou « tension par » (rejet).
 
-##### Responsabilité d'organisme 
+#### Responsabilité d'organisme 
 
 Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, l'organisme a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
 - préserver la liberté de chacun de s’orienter et de choisir (liberté),
 - considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité),
 - soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
 
-##### Tension de rôle 
+#### Tension de rôle 
 
 Les tensions de rôles amènent à réaliser son rôle au plus proche de son propre idéal.
 Elles entraînent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
 
-##### Tension de personne 
+#### Tension de personne 
 
 Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
 
@@ -318,26 +318,26 @@ Elle entraine par exemple une demande de régulation pour travailler la relation
 
 ### 2.6 Elément responsabilités de membre gouvernant
 
-##### Soin de la relation 
+#### Soin de la relation 
 Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
 
-##### Priorisation
+#### Priorisation
 
 Chacun examine régulièrement les prochaines actions utiles à ses rôles et déclenche celle qui lui paraît apporter le plus. Il a autorité pour ce choix lié à ses rôles. Il ne peut pas exercer de contrôle sur un autre rôle.
 
-##### Suivi
+#### Suivi
 
 Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
 - sur le collectif en mode ajustement itératif,
 - sur ses rôles qui pourront, par exemple, être affectés différemment.
 
-##### Priorité de coopération   
+#### Priorité de coopération   
 
 - Prendre en compte les demandes des autres membres (c’est-à-dire inscrire comme prochaine action, pas exécuter).
 - Si un membre le demande, participer à une réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée).
 - Décider de ses actions en fonction des priorités et stratégies de la cellule.
 
-##### Transparence sur demande 
+#### Transparence sur demande 
 
 - Projets et actions : partager tout projet ou action engagée.
 - Priorité relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir.
@@ -347,17 +347,17 @@ mais une estimation qui peut varier en fonction des imprévus.
 
 ### 2.7 Réciprocité 
 
-##### Exercice du pouvoir
+#### Exercice du pouvoir
 
 Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de l'organisme sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
 
-##### Groupe solidaire 
+#### Groupe solidaire 
 
 Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres.
 
 **La solidarité sera privilégiée comme ligne directrice utile.**
 
-##### Membre solitaire 
+#### Membre solitaire 
 
 Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe.
 
@@ -367,14 +367,14 @@ Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-l
 
 ### 2.8 Souveraineté et lien
 
-##### Souveraineté 
+#### Souveraineté 
 Fonctionner en souveraineté signifie que chacun est libre d’agir pour ses rôles selon son discernement en choisissant ce qui lui semble le plus pertinent.
 
 L’avantage de la souveraineté est la responsabilisation qu’elle permet, la possibilité qu’elle offre à chacun d’opter pour ce qui lui parait préférable, avec la créativité et la motivation qui peuvent en découler.
 
 L’inconvénient de la souveraineté est l’indépendance : chacun peut agir selon ses souhaits sans prise en compte des collègues.
 
-##### Lien 
+#### Lien 
 L’émotion peut être accueillie et reconnue si elle est là. 
 
 Fonctionner en lien nécessite d’entendre la position des collègues sur un sujet avant et après une décision. 
@@ -385,7 +385,7 @@ L’avantage du lien est que chacun peut se sentir entendu et important.
 
 L’inconvénient est le temps que cela prend et le risque que certains renoncent à ce qui leur semble pertinent par peur de déplaire. 
 
-##### Souveraineté et lien
+#### Souveraineté et lien
 L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien. 
 
 Il s’agit de trouver le moyen de ne renoncer ni à sa souveraineté, ni à la qualité du lien.
