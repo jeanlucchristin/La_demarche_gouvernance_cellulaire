@@ -316,6 +316,42 @@ Quand des personnes sont touchées à l’occasion du travail inter-rôles, elle
 
 Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
 
+### 2.6 Elément responsabilités de membre gouvernant
+
+##### Soin de la relation 
+Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
+
+##### Priorisation
+
+Chacun examine régulièrement les prochaines actions utiles à ses rôles et déclenche celle qui lui paraît apporter le plus. Il a autorité pour ce choix lié à ses rôles. Il ne peut pas exercer de contrôle sur un autre rôle.
+
+##### Suivi
+
+Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
+- sur le collectif en mode ajustement itératif,
+- sur ses rôles qui pourront, par exemple, être affectés différemment.
+
+##### Priorité de coopération   
+
+- Prendre en compte les demandes des autres membres (c’est-à-dire inscrire comme prochaine action, pas exécuter).
+- Si un membre le demande, participer à une réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée).
+- Décider de ses actions en fonction des priorités et stratégies de la cellule.
+
+##### Transparence sur demande 
+
+- Projets et actions : partager tout projet ou action engagée.
+- Priorité relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir.
+- Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
+mais une estimation qui peut varier en fonction des imprévus.
+- Check-list et indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles.
+
+
+
+
+
+
+
+
 
 
 
@@ -1458,34 +1494,7 @@ décisions de la stratégie à moyen terme (15-30’) en plénière :
 ##### Clôture
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 4.21 Elément responsabilités de membre 
 
-##### Soin de la relation 
-Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
-
-##### Priorisation
-
-Chacun examine régulièrement les prochaines actions utiles à ses rôles et déclenche celle qui lui paraît apporter le plus. Il a autorité pour ce choix lié à ses rôles. Il ne peut pas exercer de contrôle sur un autre rôle.
-
-##### Suivi
-
-Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. Il décide jusqu’où agir et quand s’arrêter parce que la journée est finie. Chacun assume les conséquences de ses choix :
-- sur le collectif en mode ajustement itératif,
-- sur ses rôles qui pourront, par exemple, être affectés différemment.
-
-##### Priorité de coopération   
-
-- Prendre en compte les demandes des autres membres (c’est-à-dire inscrire comme prochaine action, pas exécuter).
-- Si un membre le demande, participer à une réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée).
-- Décider de ses actions en fonction des priorités et stratégies de la cellule.
-
-##### Transparence sur demande 
-
-- Projets et actions : partager tout projet ou action engagée.
-- Priorité relative : donner à voir son choix concernant l’ordre de priorité de ses projets et actions à venir.
-- Projections : fournir une date à laquelle seront probablement terminés ses projets et actions. Ce n’est pas un engagement qui lie 
-mais une estimation qui peut varier en fonction des imprévus.
-- Check-list et indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles.
 
 #### 4.22 Elément consolidation de décision par concordance
 
