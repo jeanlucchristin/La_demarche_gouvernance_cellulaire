@@ -365,6 +365,38 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html).
 
+### 2.8 Souveraineté et lien
+
+##### Souveraineté 
+Fonctionner en souveraineté signifie que chacun est libre d’agir pour ses rôles selon son discernement en choisissant ce qui lui semble le plus pertinent.
+
+L’avantage de la souveraineté est la responsabilisation qu’elle permet, la possibilité qu’elle offre à chacun d’opter pour ce qui lui parait préférable, avec la créativité et la motivation qui peuvent en découler.
+
+L’inconvénient de la souveraineté est l’indépendance : chacun peut agir selon ses souhaits sans prise en compte des collègues.
+
+##### Lien 
+L’émotion peut être accueillie et reconnue si elle est là. 
+
+Fonctionner en lien nécessite d’entendre la position des collègues sur un sujet avant et après une décision. 
+
+Ce peut être à l’occasion d’une sollicitation d’avis ou de l’expression d’une tension. Connaitre l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
+
+L’avantage du lien est que chacun peut se sentir entendu et important.
+
+L’inconvénient est le temps que cela prend et le risque que certains renoncent à ce qui leur semble pertinent par peur de déplaire. 
+
+##### Souveraineté et lien
+L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien. 
+
+Il s’agit de trouver le moyen de ne renoncer ni à sa souveraineté, ni à la qualité du lien.
+
+Toute la démarche gouvernance cellulaire vise cet équilibre subtil.
+
+Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans une intention de lien.
+
+La culture de travail se construit chemin faisant, en se mettant d’accord sur l’équilibre souveraineté/lien.
+
+
 
 
 
@@ -1109,27 +1141,7 @@ La relation met l’accent sur l’expression directe, des outils comme le temps
 #### Proposition gouvernance cellulaire 
 En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
-#### 4.4 Elément souveraineté et lien
 
-#### Souveraineté 
-Fonctionner en souveraineté signifie que chacun est libre d’agir pour ses rôles selon son discernement en choisissant ce qui lui semble le plus pertinent.
-
-L’avantage de la souveraineté est la responsabilisation qu’elle permet, la possibilité qu’elle offre à chacun d’opter pour ce qui lui parait préférable, avec la créativité et la motivation qui peuvent en découler.
-
-L’inconvénient de la souveraineté est l’indépendance : chacun agit selon ses souhaits sans prise en compte des collègues invoquant l’autorité de ses rôles.
-
-#### Lien 
-Fonctionner en lien nécessite d’entendre la position des collègues sur un sujet avant de décider de l’option qui parait la plus favorable. Cela ne signifie pas suivre leur avis mais le connaître.
-
-Formellement, cela peut passer par une simple sollicitation d’avis ou une décision en collectif. L’avantage du lien est que chacun peut se sentir entendu et important.
-
-L’inconvénient est le temps que cela prend, qui peut amener le collectif à une surcharge insurmontable dans les temps impartis.
-
-#### Souveraineté et lien
-L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien. Toute la démarche gouvernance cellulaire vise cet équilibre subtil.
-Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans une intention de lien.
-
-La culture de travail se construit chemin faisant, en donnant du pouvoir décisionnaire aux rôles, en régulant quand les choses ne se passent pas de façon satisfaisante pour l’un et en se mettant d’accord sur la façon de fonctionner ensemble.
 
 #### 4.5 Elément palabre
 
