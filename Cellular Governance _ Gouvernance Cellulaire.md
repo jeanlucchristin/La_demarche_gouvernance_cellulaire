@@ -345,6 +345,28 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus.
 - Check-list et indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles.
 
+### 2.7 Réciprocité 
+
+##### Exercice du pouvoir
+
+Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de l'organisme sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
+
+##### Groupe solidaire 
+
+Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres.
+
+**La solidarité sera privilégiée comme ligne directrice utile.**
+
+##### Membre solitaire 
+
+Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe.
+
+**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
+
+Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html).
+
+
+
 
 
 
@@ -1563,25 +1585,6 @@ Simplifier le processus, fonctionner à distance.
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-#### 4.25 Elément réciprocité 
-
-##### Exercice du pouvoir
-
-Le leadership tournant est systématisé par la gouvernance en mode rôles : chaque personne affectée à un rôle est leader de son rôle, tous les membres et collègues de la structure sont soumis aux décisions qu’elle prend dans l’exercice de ce rôle. 
-
-##### Groupe solidaire 
-
-Une équipe qui fonctionne en mode solidaire est plus saine et sécurisante pour ses membres.
-
-**La solidarité sera privilégiée comme ligne directrice utile.**
-
-##### Membre solitaire 
-
-Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts personnels cumule des gains. Ce faisant, il met en danger le groupe.
-
-**La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
-
-Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html).
 
 #### 4.26 Elément rôle Source 
 
