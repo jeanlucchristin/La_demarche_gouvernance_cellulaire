@@ -91,7 +91,7 @@ Elément magique
 
 # 1  Introduction 
 
-## 1.1 Présentation de ce document
+### 1.1 Présentation de ce document
 
 ### Quoi : 
 Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre en œuvre la Gouvernance Cellulaire. C’est un ensemble clef en main de bonnes pratiques éprouvées qui peuvent aider les organismes à mieux fonctionner.
@@ -109,7 +109,7 @@ Ce guide est en constante évolution, hautement imparfait, et sous licence CCbyS
 - Une boîte à outils : un ensemble d’éléments pour vous aider à mieux mettre en œuvre la gouvernance cellulaire.
 
 
-## 1.2  La démarche gouvernance cellulaire   
+### 1.2  La démarche gouvernance cellulaire   
 
 #### Intention
 
@@ -130,7 +130,7 @@ Votre organisme continuera à ajuster son curseur managérial et ses processus e
 
 Un objectif de la constitution est de permettre à chacun d’acquérir seul les connaissances de la gouvernance cellulaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
 
-## 1.3  Philosophie
+### 1.3  Philosophie
 
 #### Contribuer au Vivant 
 
@@ -162,7 +162,7 @@ Nous participons à cet élan collectif en proposant une forme évolutive suffis
 
 Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
-## 1.4  Trois piliers éthiques
+### 1.4  Trois piliers éthiques
 
 ##### Intention
 Cet élément présente trois piliers qui sous-tendent la raison d’être de la gouvernance cellulaire.
@@ -178,7 +178,7 @@ Notre mode de fonctionnement collectif est l’occasion de cultiver la confiance
 ##### Eco-système global 
 La façon dont est pensé notre projet amène à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
 
-## 1.5  Raison d’être de la gouvernance cellulaire
+### 1.5  Raison d’être de la gouvernance cellulaire
 
 *Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la l’organisme,*
@@ -199,7 +199,7 @@ Nous n'avons pas d'investisseur financier en attente de contrepartie.
 
 ## 2  Les principes fondamentaux
  
-#### 2.1  L’efficacité-humaniste* & son autodiagnostic
+### 2.1  L’efficacité-humaniste* & son autodiagnostic
 *Des conditions pour que les décisions prises soient suivies d’effets.*
 
 #####  Intentions
@@ -230,7 +230,7 @@ Le collectif considérera que la personne n’avait pas la posture adéquate.
 
 (*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
-#### 2.2 Elément estime de soi*
+### 2.2 Elément estime de soi*
 
 ##### Intention
 
@@ -258,7 +258,7 @@ Chacun est responsable de percevoir son estime de Soi et de mettre en place les 
 
 (*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
-#### 2.3 Principe de choix - souveraineté 
+### 2.3 Principe de choix - souveraineté 
 
 ##### Liberté 
 
@@ -274,7 +274,7 @@ Il est possible de démissionner à tout moment d’un rôle. Il est également 
 
 Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
-#### 2.4 Culture essai-apprentissage
+### 2.4 Culture essai-apprentissage
 
 ##### Intention 
 La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
@@ -290,7 +290,7 @@ La tension est ce qui apparait dans les phases Perception et Orientation. Elle e
 ##### Posture 
 La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
 
-#### 2.5  Responsabilité de Tension
+### 2.5  Responsabilité de Tension
 
 ##### Responsabilité de membre 
 
