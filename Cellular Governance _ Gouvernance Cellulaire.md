@@ -13,14 +13,14 @@ Plus d’infos à la fin de la constitution.*
 
 # Table des matières 
 
-## Introduction
+### Introduction
 Présentation de ce document  
 La démarche gouvernance cellulaire
 Philosophie 
 3 piliers éthiques
 Raison d’être de la gouvernance cellulaire
 
-## Les principes fondamentaux
+### Les principes fondamentaux
 L’efficacité-humaniste & son autodiagnostique
 Culture essai-apprentissage
 Souveraineté et lien
@@ -33,7 +33,7 @@ Responsabilité de tension
 Responsabilités de membre gouvernant
 Réciprocité
 
-## Constitution repère
+### Constitution repère
 Vision globale
 Raison d’être
 Actualisation de la raison d’être
@@ -52,7 +52,7 @@ Rôle facilitation
 Rôle mémoire
 Rôle représentation
 
-## Eléments optionnels (pour enrichir votre constitution)
+### Eléments optionnels (pour enrichir votre constitution)
 Contrat de liberté d’agir 
 Palabre
 Régulation CNV
@@ -70,7 +70,7 @@ Séparation
 Entretien annuel 
 Légèreté-simplicité 
 
-## Méthodes (Pour concevoir et utiliser votre gouvernance)
+### Méthodes (Pour concevoir et utiliser votre gouvernance)
 Pilotage de soi
 Création raison d’être
 Choix des Valeurs
@@ -84,9 +84,9 @@ Accompagnement extérieur
 Numérique
 Elément magique 
 
-## Bibliographie et glossaire
+### Bibliographie et glossaire
 
-## Licence et contributeur.ices
+### Licence et contributeur.ices
 
 
 # 1  Introduction 
