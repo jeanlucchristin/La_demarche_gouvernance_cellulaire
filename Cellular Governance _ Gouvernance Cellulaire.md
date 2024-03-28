@@ -258,6 +258,74 @@ Chacun est responsable de percevoir son estime de Soi et de mettre en place les 
 
 (*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
+#### 2.3 Principe de choix - souveraineté 
+
+##### Liberté 
+
+Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs.
+
+##### Assumer
+
+Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultats, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
+
+##### Sortie de rôle
+
+Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
+
+Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
+
+#### 2.4 Culture essai-apprentissage
+
+##### Intention 
+La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
+Il est possible de reprendre une décision dès qu’une tension apparaît.
+Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
+
+##### Cycles  
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
+
+##### Tension 
+La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+
+##### Posture 
+La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
+
+#### 2.5  Responsabilité de Tension
+
+##### Responsabilité de membre 
+
+Chaque membre gouvernant a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
+
+Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètesUne tension est une « tension vers » (envie) ou « tension par » (rejet).
+
+##### Responsabilité d'organisme 
+
+Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, l'organisme a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
+- préserver la liberté de chacun de s’orienter et de choisir (liberté),
+- considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité),
+- soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
+
+##### Tension de rôle 
+
+Les tensions de rôles amènent à réaliser son rôle au plus proche de son propre idéal.
+Elles entraînent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
+
+##### Tension de personne 
+
+Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
+
+Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -293,21 +361,7 @@ Chacun est responsable de percevoir son estime de Soi et de mettre en place les 
   - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
 
 
-#### 2.3 Principe de choix - souveraineté 
 
-##### Liberté 
-
-Chacun décide en son for intérieur des actions les plus pertinentes à mettre en place pour remplir ses rôles. Chacun décide en particulier de sa liste de priorisation, de sa présence dans une réunion ou ailleurs.
-
-##### Assumer
-
-Cette liberté est rendue possible par le fait que chacun assume les conséquences de ses choix, de son travail. Assumer signifie observer les résultats, percevoir les tensions présentes en soi et chez les autres, actualiser sa représentation des choses et décider de la suite. Assumer est aussi en lien avec le fait que le collectif va chercher des solutions ne passant pas par moi quand je ne réponds pas aux besoins.
-
-##### Sortie de rôle
-
-Il est possible de démissionner à tout moment d’un rôle. Il est également possible que le rôle soit affecté différemment à tout moment.
-
-Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
 #### 2.4 Raison d’être  
 
@@ -411,21 +465,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 2.7 Culture essai-apprentissage
 
-##### Intention 
-La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
-Il est possible de reprendre une décision dès qu’une tension apparaît.
-Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
-
-##### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
-
-##### Tension 
-La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
-
-##### Posture 
-La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
 
 #### 2.8  Pilotage de soi 
 
@@ -569,31 +609,7 @@ Au-delà de cette posture d’exigence de solidarité, une structure doit être 
 
 Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
 
-#### 2.12  Responsabilité de Tension
 
-##### Responsabilité de membre 
-
-Chaque membre a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
-
-Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes. Une tension est une « tension vers » (envie) ou « tension par » (rejet).
-
-##### Responsabilité de structure 
-
-Pour réaliser sa raison d’être tout en prenant en compte les humains qui la composent, la structure a la responsabilité de mettre en œuvre des processus de travail et une organisation (organigrammes, règles et politiques) afin de :
-- préserver la liberté de chacun de s’orienter et de choisir (liberté),
-- considérer chaque personne et chaque élan comme ayant de la valeur (inclusion, égalité),
-- soutenir les tensions ressenties par les membres et de chercher une réponse (entraide, amour, fraternité).
-
-##### Tension de rôle 
-
-Les tensions de rôles amènent à réaliser son rôle au plus proche de son propre idéal.
-Elles entraînent une demande adressée à un rôle. Les relations de rôle à rôle ne se préoccupent pas de sensibilité ni de susceptibilité.
-
-##### Tension de personne 
-
-Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
-
-Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
 
 ##### Tension de cellule 
 
