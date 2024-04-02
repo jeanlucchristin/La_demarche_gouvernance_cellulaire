@@ -524,77 +524,49 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
     - Rôle représentation
   - Séparation : les rencontres humaines peuvent arriver à des incompatibilités. Il est bénéfique de prévoir comment traverser ce moment le mieux possible. 
 
+### 3.1 Raison d’être  
 
+#### Intention
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 2.4 Raison d’être  
-
-##### Nécessité
-
-Chaque structure formalise et actualise sa raison d’être qui servira de cap lointain à tous ses membres dans toute réunion, pour toute action et toute décision.
+Chaque organisme formalise et actualise sa raison d’être qui servira de cap lointain à tous ses membres dans toute réunion, pour toute action et toute décision.
 
 Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
 
-Ces raisons d’être peuvent toutes être complétées par des redevabilités (y compris celle de la structure).
+Ces raisons d’être peuvent toutes être complétées par des redevabilités (y compris celle de l'organisme).
 
-##### Contenu
+#### Ce que c'est
 
 La raison d’être (ou vocation) d’une structure est le potentiel le plus inspirant qu’elle peut manifester.
 
-Elle balaie trois dimensions qu’elle priorise :
+#### Fonctionnement 
 
-- apport au monde,
-- apport à ses membres,
-- apport à ses investisseurs.
+Elle priorise des contributions pour trois catégories de parties-prenantes :
+  - contribution au monde,
+  - contribution à ses membres,
+  - contribution à ses investisseurs.
 
 Il est possible de préciser l’impact (le quoi), le moyen (le comment) et l’intention (le parce que).
 
-##### Rôle source
+#### Rôle source
+La raison d’être d’un organisme apparait à la fois par imagination (soit en mode vision et projet) et par révélation (par l’observation du quotidien). Elle est évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut être affecté à un, plusieurs ou tous les membres. Cf rôle source. 
 
-La raison d’être d’une structure est intuitive, perceptible et évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut être affecté à un, plusieurs ou tous les membres. Cf rôle source.  
+### 3.2  Actualisation de la raison d’être 
 
-#### 2.5  Actualisation de la raison d’être 
+##### Intention
 
-##### Pouvoir de proposition
+L’intention est pour chacun :
 
-Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de sa structure ou de sa cellule. 
+- de permettre consentement éclairé et actif à la raison d’être de la structure,
+- de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
+
+#### Pouvoir de proposition
+
+Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de son organisme ou de sa cellule. 
 Par défaut, la réunion est sous forme de décision par consentement consolidée par concordance.
 
 Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
 - la cellule amont pour une évolution de la raison d’être de sa cellule,
-- la cellule ancrage pour une évolution de la raison d’être de sa structure.
+- la cellule amont pour une évolution de la raison d’être de son organisme.
 
 La cellule amont vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin.
 
@@ -607,14 +579,6 @@ Une réponse doit être fournie par le rôle ou le collectif en charge de cette 
 
 - « La raison d’être est modifiée ainsi … » (soit directement le résultat, soit un processus de modification),
 - « La raison d’être n’est pas modifiée, cette proposition constitue un autre projet ».
-
-
-##### Intention
-
-L’intention est pour chacun :
-
-- de permettre consentement éclairé et actif à la raison d’être de la structure,
-- de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
 
 plus de réflexions en cliquant [ici](https://vimeo.com/219241275/eeecc3413a).
 
@@ -660,6 +624,41 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 #### Clôture   
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
