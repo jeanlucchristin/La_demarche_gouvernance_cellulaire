@@ -396,59 +396,165 @@ Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans un
 
 La culture de travail se construit chemin faisant, en se mettant d’accord sur l’équilibre souveraineté/lien.
 
+### 2.9 Elément distinction personne et rôle
+
+#### Intention
+Distinguer nos rôles de notre personne permet de prend soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
+
+Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
+
+Cet élément propose de distinguer les relations visées entre personnes et entre rôles. 
+
+#### Relation de personne à personne    
+En tant que personne, nous avons notre vécu, nos valeurs profondes. Des zones aveugles font que nous sommes plus ou moins capables, selon les situations, de décider avec du recul de notre attitude. 
+
+Nous avons besoin de relations où il est possible d’exprimer son point de vue, d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
+
+La relation met l’accent sur le prendre soin, des outils comme la CNV ou le « marcher-parler » peuvent soutenir cette démarche.
+
+#### Relation de rôle à rôle  
+En tant que rôle, pour assurer nos redevabilités, nous avons besoin que les autres accomplissent certaines tâches. 
+
+La distinction personne-rôle permet de s’adresser aux rôles tenus par des collègues sans craindre une susceptibilité bloquante (car les rôles n’ont pas de susceptibilité).
+
+Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter.
+
+La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
+
+#### Proposition gouvernance cellulaire 
+En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+
+### 2.10  Egrégore d'équipe 
+
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/377ca28b-b60a-4bd6-a8bb-604df308104a)
+
+#### Intention
+*Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
+
+Cette énergie est positive ou négative, mouvante et adaptable 
+
+C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressource. Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
+ - temps pour se centrer autour de ce avec quoi chacun arrive (tête, corps, cœur),
+ - accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe,
+ - connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
+
+#### Process 
+
+Exemples de process corporel plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R) :
+ - accueillir les silences ou proposer un temps de silence,
+ - marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement,
+ - créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre),
+ - partager une expérience sensible (création d’une œuvre commune…).
 
 
+Exemples de process verbalisés :
+ - dire aux autres comment on fonctionne,
+ - exprimer ses enjeux de « ici et maintenant » (personnel, équipe, organisme, société, environnement),
+ - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
+ - moment de palabre, par exemple sur la raison d’être de l'organisme, ou de la cellule (cf élément palabre),
+ - tour de table, photolangage,
+ - moments informels de relation.
 
+### 2.11  Elément contentement 
 
+#### Se contenter 
 
+- L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux ».
+- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente.
 
+#### Se contenter est rendu possible par
 
+- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite.
+- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres.
 
+#### Contentement 
 
+De cette discipline peut apparaître un contentement sain pour nous, humains.
 
+### 2.12 Elément frustration 
 
+#### Intention
 
+Clarifier notre rapport à la frustration.
 
+#### Rapport à la frustration   
 
+Nous considérons inéluctable que de la frustration apparaisse au travail.
+La frustration est une tension vers ce qui correspondrait mieux à mon idéal.
 
+Nous considérons une équipe performante du point de vue humain comme du point de vue de l’efficience dans les moments où ses membres et collègues réussissent à gérer un haut niveau de frustration :
 
+- savoir la repérer, la nommer si besoin,
+- distinguer la frustration nécessitant une action de celle nécessitant un consentement.
 
+Nous considérons que cette capacité à composer avec la frustration varie selon les enjeux, les moments, les personnes. 
+Nous cherchons à vivre en paix avec ces variations tout en étant dans l’intention de cultiver un haut niveau de tolérance à la frustration grâce aux différents processus et réunions.
 
+#### Bénéfice   
 
+La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
+## 3 Constitution repère
 
+### 3.0 Constitution repère
 
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/934d9312-3f89-4345-8c1f-bce9af25c25a)
 
-
-
-
-  - L’estime de Soi 
-  - L’Auto-diagnostic Efficacité-humaniste : des conditions pour que les décisions prises soient suivies d’effets.
-  
-  **Espace Sens :** 
-   - Principe de souveraineté : clarifie les enjeux liés à la responsabilisation.
-   - Raison d’être : une raison d’être (pour la structure, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
+#### **Espace Sens :** 
+   - Raison d’être : une raison d’être (pour l'organisme, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
    - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
-   - Temps de positionnement éthique : se connecter en profondeur  pour prendre une décision à fort enjeu moral.
-   - Culture essai-apprentissage : ne pas chercher la solution idéale mais expérimenter une option viable et profiter de ses enseignements.
-
+   - Temps de décision éthique : se connecter en profondeur  pour prendre une décision à fort enjeu moral.
    
-**Espace Lien :**
+#### **Espace Lien :**
 
-  - Pilotage de soi : sortir par le haut d’une incapacité à appliquer une décision.
-  - Egrégore : contacter la bulle énergétique du groupe.
-  - Temps de régulation : Exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation.
+  - Temps de régulation : exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation avec le processus marcher/parler.
   
-**Espace Contrat :** 
+#### **Espace Organisation :** 
   - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
-  - Responsabilité de tension : chacun est en charge de ressentir les tensions entre son idéal et la façon dont les choses se passent, puis d’essayer de réduire l’écart en mobilisant le collectif. La structure est en charge de créer les processus et réunions nécessaires à cette culture de solidarité.
   - Création de rituels : créer les réunions dont l’équipe a besoin régulièrement ou exceptionnellement. 
   - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
   - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
     - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
-  - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe. 
-  - Réunion et activités métiers : les temps de travail individuels et collectifs nécessaires pour réaliser concrètement ce qui doit être fait.
+  - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe.
+  - 4 rôles structurels : des rôles nécessaires pour fonctionner dans la constitution repère.
+    - Rôle lead
+    - Rôle facilitation
+    - Rôle mémoire
+    - Rôle représentation
+  - Séparation : les rencontres humaines peuvent arriver à des incompatibilités. Il est bénéfique de prévoir comment traverser ce moment le mieux possible. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -593,34 +699,7 @@ Les prochaines fois...
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 2.9  Egrégore d'équipe 
 
-##### Intentions
-*Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
-
-Cette énergie est positive ou négative, mouvante et adaptable 
-
-C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressource. Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
- - temps pour se centrer autour de ce avec quoi chacun arrive (tête, corps, cœur),
- - accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe,
- - connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
-
-##### Process 
-
-Exemples de process corporel plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R) :
- - accueillir les silences ou proposer un temps de silence,
- - marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement,
- - créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre),
- - partager une expérience sensible (création d’une œuvre commune…).
-
-
-Exemples de process verbalisés :
- - dire aux autres comment on fonctionne,
- - exprimer ses enjeux de « ici et maintenant » (personnel, équipe, structure, société, environnement),
- - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
- - moment de palabre, par exemple sur la raison d’être de la structure, ou de la cellule (cf élément palabre),
- - tour de table, photolangage,
- - moments informels de relation.
 
 #### 2.10  Temps de régulation  
 
@@ -1113,35 +1192,6 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 ##### Clôture   
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
  
-#### 4.3 Elément distinction personne et rôle
-
-#### Raison d’être 
-Distinguer nos rôles de notre personne permet de prend soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
-
-Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
-
-Cet élément propose de distinguer les relations visées entre personnes et entre rôles. 
-
-#### Relation de personne à personne    
-En tant que personne, nous avons notre vécu, nos valeurs profondes. Des zones aveugles font que nous sommes plus ou moins capables, selon les situations, de décider avec du recul de notre attitude. 
-
-Nous avons besoin de relations où il est possible d’exprimer son point de vue, d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
-
-La relation met l’accent sur le prendre soin, des outils comme la CNV ou le « marcher-parler » peuvent soutenir cette démarche.
-
-#### Relation de rôle à rôle  
-En tant que rôle, pour assurer nos redevabilités, nous avons besoin que les autres accomplissent certaines tâches. 
-
-La distinction personne-rôle permet de s’adresser aux rôles tenus par des collègues sans craindre une susceptibilité bloquante (car les rôles n’ont pas de susceptibilité).
-
-Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter.
-
-La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
-
-#### Proposition gouvernance cellulaire 
-En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
-
-
 
 #### 4.5 Elément palabre
 
@@ -1170,21 +1220,7 @@ L’acquisition de connaissance et de sens dans une structure passe par :
 
 Les temps de palabre sont des espaces d’expression collective.
 
-#### 4.6  Elément contentement 
 
-##### Se contenter 
-
-- L’idée est de faire de son mieux, individuellement et collectivement et d’apprendre à se contenter de ce « mieux ».
-- Je consens à une décision d’autrui parce que j’accueille que notre collectif (ou mon interlocuteur) en est là de son développement et non là où je voudrais qu’il soit. Je m’en contente.
-
-##### Se contenter est rendu possible par
-
-- Les boucles itératives : nous faisons de notre mieux dans l’instant, observons les résultats, ressentons une tension quand ils ne correspondent pas à l’idéal que nous cherchions, intégrons mieux le fonctionnement du monde, du collectif et de nous-même, devenons capable de décider de la suite.
-- L’alternative de l’autoritarisme : si je ne me contente pas de ce que nous faisons, je risque d’imposer involontairement mon option dans une prise de pouvoir sur les autres.
-
-##### Contentement 
-
-De cette discipline peut apparaître un contentement sain pour nous, humains.
 
 #### 4.7 Elément composer avec nos différences 
 
@@ -1348,28 +1384,6 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-#### 4.15 Elément frustration 
-
-##### Raison d’être 
-
-Clarifier notre rapport à la frustration.
-
-##### Rapport à la frustration   
-
-Nous considérons inéluctable que de la frustration apparaisse au travail.
-La frustration est une tension vers ce qui correspondrait mieux à mon idéal.
-
-Nous considérons une équipe performante du point de vue humain comme du point de vue de l’efficience dans les moments où ses membres et collègues réussissent à gérer un haut niveau de frustration :
-
-- savoir la repérer, la nommer si besoin,
-- distinguer la frustration nécessitant une action de celle nécessitant un consentement.
-
-Nous considérons que cette capacité à composer avec la frustration varie selon les enjeux, les moments, les personnes. 
-Nous cherchons à vivre en paix avec ces variations tout en étant dans l’intention de cultiver un haut niveau de tolérance à la frustration grâce aux différents processus et réunions.
-
-##### Bénéfice   
-
-La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
 #### 4.16 Elément charte gouvernance cellulaire 
 
