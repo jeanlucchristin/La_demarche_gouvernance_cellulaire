@@ -500,16 +500,16 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 ![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/934d9312-3f89-4345-8c1f-bce9af25c25a)
 
-#### **Espace Sens :** 
+#### **Espace Sens** 
    - Raison d’être : une raison d’être (pour l'organisme, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
    - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
    - Temps de décision éthique : se connecter en profondeur  pour prendre une décision à fort enjeu moral.
    
-#### **Espace Lien :**
+#### **Espace Lien**
 
   - Temps de régulation : exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation avec le processus marcher/parler.
   
-#### **Espace Organisation :** 
+#### **Espace Organisation** 
   - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
   - Création de rituels : créer les réunions dont l’équipe a besoin régulièrement ou exceptionnellement. 
   - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
