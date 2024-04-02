@@ -556,7 +556,7 @@ La raison d’être d’un organisme apparait à la fois par imagination (soit e
 
 L’intention est pour chacun :
 
-- de permettre consentement éclairé et actif à la raison d’être de la structure,
+- de permettre un consentement éclairé et actif à la raison d’être de la structure,
 - de prendre conscience qu’une partie de son chemin personnel devra être nourri ailleurs.
 
 #### Pouvoir de proposition
