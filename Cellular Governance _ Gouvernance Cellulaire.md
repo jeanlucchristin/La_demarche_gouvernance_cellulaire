@@ -917,70 +917,182 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-#### 2.18  Rôle et cellule
+### 3.11  Rôle et cellule
 
-*Un rôle est formalisé par écrit si cela répond au besoin d’un des membres*.
+*Un rôle n'est formalisé par écrit que si cela répond au besoin d’un des membres*.
 
-##### Contenu de rôle 
+#### Définition d'un rôle 
 
-- Un titre et au moins un élément parmi : 
+Un rôle comprend un titre et au moins un élément parmi : 
   - une raison d’être : ce qui manquerait à la cellule s’il n’était pas là,
   - des redevabilités ou attendus : ce que les autres peuvent lui demander et qu’il doit fournir,
   - éventuellement un domaine : une chasse gardée.
 
-##### Fonctionnement  
+#### Définition d’une cellule 
 
-Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font.
+Une cellule est un rôle : quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cellule si elles le souhaitent. Elles peuvent créer des cellules spécifiques pour répondre à leurs besoins spécifiques. 
+
+#### Fonctionnement d’un rôle et d’une cellule 
+
+Un rôle ou une cellule est créé par une équipe pour répondre à un de ses besoins. 
+
+Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font, en particulier quand il est sollicité.
 
 Chacun est leader de son rôle : décide  au mieux en fonction de la situation.
 
-Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé clarifiant des périmètres différents).
+Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé pour des périmètres différents).
 
-Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule participe à la gouvernance de la cellule. 
-Elle est alors « référent » des autres.
+Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule ne participe à la gouvernance de la cellule. Elle est alors « référent » des autres.
 
-##### Cellule 
+#### Définition de la cellule ancrage
 
-Quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cellule.
+La cellule la plus en amont de l’organisme est la cellule ancrage. En complément des redevabilités d’une cellule amont, elle est en charge de la raison d’être et des redevabilités de toute l’organisme, de choisir le mode de gouvernance et de la constitution interne. 
 
-##### Rôles préconstruits
+#### Rôles structurels
 
-Une cellule comprend impérativement :
+Une équipe correspondant au calage cellulaire comportent au minimum les quatre rôles structurels décrits dans cette constitution repère. 
 
-- un rôle facilitation et un rôle mémoire élus pour une période,
-- un rôle lead nommé par sa cellule amont (la cellule amont peut également nommer le rôle représentation et laisser l’équipe élire son rôle lead),
-- un rôle prendre soin
-- sur demande, un rôle représentation peut être élu, il devient alors aussi membre de la cellule amont (sauf si une politique de la cellule amont a défini un autre mode de représentation).
+### 3.12  Rôle lead 
 
-## 3) Livret central : Rôles structurels
-
-#### 3.1  Rôle lead 
-
-##### Raison d’être 
+#### Raison d’être 
 
 Le rôle lead est le gardien du sens de l’ensemble de la cellule.
 
-##### Domaine  
+#### Domaine  
 
 Affectation des rôles de la cellule
 
-##### Redevabilités
+#### Redevabilités
 
 - Veiller au cap : alerter quand la cellule ne réalise pas sa raison d’être dans le réel ou ne délivre pas ce dont elle est redevable.
 - Actualiser les priorités stratégiques de la cellule et sur demande, résoudre les conflits de priorités entre les rôles.
 - Répartir les ressources disponibles de la cellule sur les différents projets et/ou rôles.
 - Affecter des personnes aux rôles de la cellule.
-- Construire une structure de départ pour que la cellule réalise sa raison d’être (rôles et cellules spécifiques) : le rôle lead procède à sa manière en phase de lancement puis utilise les temps de réorganisation.
+- Construire une organisation de départ pour que la cellule réalise sa raison d’être (rôles et cellules spécifiques) : le rôle lead procède à sa manière en phase de lancement puis utilise les temps de réorganisation.
 
-##### Redevabilités complémentaires
+#### Redevabilités complémentaires
 
- Il est d'interdit d'ajouter des redevabilités à ce rôle. 
-La personne affectée à ce rôle peut être en charge du rôle leader pyramidal en complément.
+Il est possible d’enlever des redevabilités à ce rôle, il est d'interdit d’en ajouter.
 
-Le rôle lead est en charge de tout ce qui n’est pas affecté
+Cependant, en ajoutant certaines redevabilités du rôle leader pyramidal à ce rôle, on construit le rôle pilotage de l’équipe. 
 
-- *Chacune de ces redevabilités pourra être déléguée autrement par la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
-- *Exemple de variation : une structure expérimentée peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule souche étant invité à participer à l’élection.*
+Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour le rôle lead de décider seul ou en décision collective selon ce qui lui parait le plus ajusté aux enjeux de la décision et à la culture de la cellule.
+
+ - *Chacune de ces redevabilités pourra être déléguée dans la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
+ - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule amont étant invité à participer à l’élection.*
+
+### 3.13  Rôle facilitation
+
+#### Raison d’être 
+
+Les temps de réunion sont animés en visant efficacité (permettre au collectif d’obtenir des résultats qui répondent aux problématiques amenées par les membres du cercle) et humanité (favoriser une atmosphère agréable où les gens se sentent en territoire connu et en capacité d’agir).
+
+#### Redevabilités 
+
+- Les différents temps de réunion (hors réunions métiers) se déroulent conformément aux processus prévus par la cellule ou par  l'organisme, avec souplesse.
+- L'aisance des participants dans les processus progresse.
+- Tout membre qui déborderait trop largement  des processus établis est recadré, si possible avec douceur ou pédagogie.
+- Sur demande de n’importe quel membre présent, revenir au processus de réunion lorsque les  intervenants ont débordé.
+- Faire de son mieux pour traiter tous les points amenés à l’ordre du jour dans le temps imparti, sinon, négocier avec les membres présents le report de points à d’autres réunions ou la  prolongation de la réunion.
+- Co-créer et faire évoluer les formats des réunions ou les processus avec la cellule.
+
+### 3.14  Rôle mémoire 
+
+#### Raison d’être 
+
+Inscrire les décisions dans les compte rendu et fichiers de la cellule.
+
+#### Domaine  
+
+Tous les documents officiels de la cellule définis par la constitution.
+
+#### Redevabilités
+
+- Organiser les réunions de la cellule et informer tous les invités des dates et lieux (hors réunions métiers).
+- Enregistrer et transmettre les résultats des réunions de la cellule cellule (hors réunions métiers), et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
+- Interpréter la gouvernance et la constitution sur demande.
+- Aider les membres et collègues en affichant les enregistrements utiles.
+- Soutenir le rôle facilitation en l’aidant s’il le demande, en particulier en l’aidant à repérer où en est le processus.
+
+### 3.15  Rôle représentation
+
+#### Raison d’être 
+
+Les tensions pertinentes à processer dans la cellule amont y sont apportées et traitées.
+
+#### Redevabilités
+
+- Chercher à comprendre les tensions des membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule amont.
+- Éliminer au sein de la cellule amont les contraintes qui limitent la cellule.
+- Donner de la visibilité à la cellule amont sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
+
+Le rôle représentation n’est pas nécessaire si une politique de la cellule amont a défini un autre mode de représentation.
+
+### 3.16 Elément séparation 
+
+#### Processus de séparation
+
+L'organisme doit posséder un processus de fin de coopération visant une décision co-construite tout en assumant, quand ce n’est pas possible, d’imposer cette décision à la personne concernée.
+
+Par défaut, cette décision est prise en concordance.
+
+#### Intention
+
+Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### 3.2 Rôle prendre soin
 
@@ -1006,108 +1118,6 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté
 ##### Affectation  
 
 Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
-
-#### 3.3  Rôle facilitation
-
-##### Raison d’être 
-
-Les différents temps de réunion se déroulent conformément aux processus prévus.
-
-##### Redevabilités 
-
-- Faciliter les temps de réunion de la cellule (hors réunions métiers).
-- Développer l'aisance des participants dans les processus . Les aider à tenir leurs tensions jusqu'à résolution.
-- Co-créer et faire évoluer les réunions rituelles avec la cellule.
-- Consulter les enregistrements des cellules spécifiques.  Signaler au rôle mémoire et au rôle représentation les écarts avec la constitution.
-
-#### 3.4  Rôle mémoire 
-
-##### Raison d’être 
-
-Inscrire les décisions dans les compte rendu et fichiers de la cellule.
-
-##### Domaine  
-
-Tous les documents officiels de la cellule définis par la constitution.
-
-##### Redevabilités
-
-- Organiser les réunions de la cellule et informer tous les invités des dates et lieux (hors réunions métiers).
-- Enregistrer et transmettre les résultats des réunions de la cellule cellule (hors réunions métiers), et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
-- Interpréter la gouvernance et la constitution sur demande.
-- Afficher les enregistrements aux membres et collègues pour les aider à se repérer dans ce qui est écrit.
-
-#### 3.5  Rôle représentation
-
-##### Raison d’être 
-
-Les tensions pertinentes à processer dans la cellule amont y sont apportées et traitées.
-
-##### Redevabilités
-
-- Chercher à comprendre les tensions des membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule amont.
-- Éliminer au sein de la cellule amont les contraintes qui limitent la cellule.
-- Donner de la visibilité à la cellule amont sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
-
-Le rôle représentation n’est pas nécessaire si une politique de la cellule amont a défini un autre mode de représentation.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### 2.8  Pilotage de soi 
 
@@ -1355,17 +1365,7 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
 
 
-#### 4.12 Elément séparation 
 
-##### Processus de séparation
-
-La structure doit posséder un processus de fin de coopération visant une décision co-construite tout en assumant, quand ce n’est pas possible, d’imposer cette décision à la personne concernée.
-
-Par défaut, cette décision est prise en concordance.
-
-##### Intention
-
-Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
 #### 4.13 Elément changement
 
