@@ -1047,7 +1047,9 @@ Des éléments pour enrichir votre constitution.
 ### 4.0 Eléments optionnels 
 
 #### Qu’est-ce qu’un élément ? 
-Les éléments sont des outils autonomes compatibles.Cela signifie que vous pouvez activer un élément ou plusieurs, en fonction de ce qui est utile pour vous.
+Les éléments sont des outils autonomes compatibles.
+
+Cela signifie que vous pouvez activer un élément ou plusieurs, en fonction de ce qui est utile pour vous.
 
 Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.
 
