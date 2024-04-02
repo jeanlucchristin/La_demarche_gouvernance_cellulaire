@@ -573,7 +573,7 @@ La cellule amont vérifiera que la nouvelle raison d’être de la cellule spéc
 *L’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités.*
  
 
-##### Devoir de réponse
+#### Devoir de réponse
 
 Une réponse doit être fournie par le rôle ou le collectif en charge de cette actualisation (cf ci-dessus). Elle peut prendre deux formes : 
 
