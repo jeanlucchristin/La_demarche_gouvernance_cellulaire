@@ -1042,17 +1042,21 @@ Eviter les situations de blocages délétères tout en prenant soin autant que p
 
 Des éléments pour enrichir votre constitution. 
 
-(il est également possible de modifier ou supprimer les éléments de la constitution repère).
+(il vous est également possible de modifier ou supprimer les éléments de la constitution repère).
 
 ### 4.0 Eléments optionnels 
 
 #### Qu’est-ce qu’un élément ? 
 Les éléments sont des outils autonomes compatibles.Cela signifie que vous pouvez activer un élément ou plusieurs, en fonction de ce qui est utile pour vous.
 
-Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.Ils se veulent à la fois inspirant et guidant.
+Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.
+
+Ils se veulent à la fois inspirant et guidant.
 
 Comme tout le reste de notre travail, ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées).
-Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.Ils peuvent être activées pour une cellule, pour une cellule amont et ses cellules spécifiques ou pour tout l’organisme.
+Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
+
+Ils peuvent être activées pour une cellule, pour une cellule amont et ses cellules spécifiques ou pour tout l’organisme.
 
 #### Comment activer un élément ? 
 
