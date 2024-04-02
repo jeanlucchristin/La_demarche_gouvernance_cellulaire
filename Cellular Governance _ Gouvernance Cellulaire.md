@@ -197,7 +197,7 @@ Donner forme et expérimenter notre rêve d'un monde de coopération efficace et
 
 Nous n'avons pas d'investisseur financier en attente de contrepartie. 
 
-## 2  Les principes fondamentaux
+# 2  Les principes fondamentaux
  
 ### 2.1  L’efficacité-humaniste* & son autodiagnostic
 *Des conditions pour que les décisions prises soient suivies d’effets.*
@@ -501,7 +501,7 @@ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’inte
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
-## 3 Constitution repère
+# 3 Constitution repère
 
 ### 3.0 Constitution repère
 
