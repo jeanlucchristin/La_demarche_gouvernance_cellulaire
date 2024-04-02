@@ -832,22 +832,20 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 8 - Chacun se questionne : **puis-je composer avec** cette proposition ? Y a-t-il une raison concrète, objective ou personnelle, qui nous causerait du tort dans cette proposition ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent en expliquant le risque. Le rôle facilitation compte les objections puis les fait exprimer.
 
-9 - Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. Le rôle facilitation peut aider l’objecteur·ice à tester le coté impératif de son objection (cf variantes aux décisions collectives).
+9 - Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. Le rôle facilitation peut aider l’objecteur·ice à **tester** le coté impératif de son objection : l’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible ou un sujet qui existait avant la proposition (autre sujet) ni si l’objecteur n’est pas directement concerné par les conséquences envisagées.
 
 Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
-Les objections non argumentées ne peuvent pas être retenues mais peuvent devenir d’autres tensions.
-
-*Ceci permet de gagner du temps, de préserver la capacité d’innovation et de préparer l’intégration dans la proposition*. 
+Les objections non argumentées ne peuvent être retenues mais peuvent devenir d’autres tensions.
 
 10 - **Résolution** : Parole libre. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le rôle proposition choisit s’il l’intègre dans la proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
 
-11 - Le rôle facilitation aide les participants à tenir une posture de coopération et à se méfier de la crispation dans une opinion. 
+11 - Le rôle facilitation aide les participants à tenir une **posture de coopération** et à se méfier de la crispation dans une opinion. 
 
 Par exemple, il demande à l’objecteur de chercher une formulation qui lèverait son objection et au rôle proposition d’envisager de modifier la proposition sans perdre son sens initial ni renier ses valeurs. Il peut mobiliser les autres membres. 
 
 *Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du rôle proposition pour intégrer l’objection : le rôle facilitation devra retirer la proposition et revenir à l’appel à proposition.
 
-12 -Célébration et prise de notes quand toutes les objections sont levées.*
+12 -**Célébration** et prise de notes quand toutes les objections sont levées.
 
 #### Clôture   
 
@@ -1040,6 +1038,29 @@ Par défaut, cette décision est prise en concordance.
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
 
+# 4 Eléments optionnels 
+
+Des éléments pour enrichir votre constitution. 
+
+(il est également possible de modifier ou supprimer les éléments de la constitution repère).
+
+### 4.0 Eléments optionnels 
+
+#### Qu’est-ce qu’un élément ? 
+Les éléments sont des outils autonomes compatibles.Cela signifie que vous pouvez activer un élément ou plusieurs, en fonction de ce qui est utile pour vous.
+
+Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.Ils se veulent à la fois inspirant et guidant.
+
+Comme tout le reste de notre travail, ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées).
+Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.Ils peuvent être activées pour une cellule, pour une cellule amont et ses cellules spécifiques ou pour tout l’organisme.
+
+#### Comment activer un élément ? 
+
+Activer ou désactiver un élément dans une cellule est une politique. Par conséquent, cela se formalise en temps de réorganisation. Une personne peut utiliser un élément en autonomie pour s’inspirer elle-même dans son rôle.
+
+#### Conséquence de l’activation  
+
+Un élément devient constitutionnel.
 
 
 
