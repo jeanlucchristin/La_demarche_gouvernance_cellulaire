@@ -1047,6 +1047,7 @@ Des éléments pour enrichir votre constitution.
 ### 4.0 Eléments optionnels 
 
 #### Qu’est-ce qu’un élément ? 
+
 Les éléments sont des outils autonomes compatibles.
 
 Cela signifie que vous pouvez activer un élément ou plusieurs, en fonction de ce qui est utile pour vous.
@@ -1068,8 +1069,104 @@ Activer ou désactiver un élément dans une cellule est une politique. Par cons
 
 Un élément devient constitutionnel.
 
+### 4.1 Contrat de liberté d'agir
+
+*Comme tout document de la démarche gouvernance cellulaire, celui-ci peut être modifié.*
+
+#### Contexte 
+
+Pour réaliser notre raison d’être dans une philosophie de gouvernance partagée, des rôles et des cellules ont été créés. 
+
+Chaque rôle, chaque cellule a une raison d’être et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
+
+Chaque rôle, chaque cellule est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres et en tient compte pour ajuster son action selon ce qui lui paraît le plus pertinent. 
+
+#### Engagement
+
+Nous nous engageons à respecter les principes de souveraineté (non-ingérence) et de responsabilité :
+
+ - Nous agissons dans le respect de notre constitution, version XX du XX entrée en vigueur aujourd’hui, de nos processus et de nos politiques.
+ - Nous agissons dans le cadre des rôles qui nous sont affectés pour apporter le plus à l’organisme et à la réalisation de sa raison d’être.
+ - Nous agissons au mieux quand l’organisation n’est pas définie. Nous pouvons agir dans un rôle qui ne nous est pas affecté si nous pensons apporter quelque chose d’utile, sans toutefois intervenir sur un « domaine ».
+ - Nous respecterons l’auto-détermination (liberté d’agir) des rôles et cellules créés.
+ - Nous respectons les décisions des rôles et cellules. Nous exprimons nos tensions liées à des décisions le cas échéant. 
+
+Nous respecterons toutefois prioritairement la loi et les règles de notre organisme qui ne sont pas sous notre responsabilité.
+
+le __________________, à ______
+
+Noms, Signatures
 
 
+ - *Cet engagement peut aussi être proposé à la signature de tous les membres participant à une cellule, être intégré au règlement intérieur ou être signée par certains membres de l’organisme.*
+ - *Cette charte pourra être amendée ou abrogée par ses signataires.*
+
+### 4.2 Elément palabre
+
+#### Intention
+On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations.
+
+Il peut être question d’un sujet métier ou autre.
+
+Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation.
+
+Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés.
+
+#### Logistique
+Un temps de palabre est déclenché par ceux qui en ont besoin en invitant les personnes qu’ils souhaitent. La durée est totalement libre et variable, de quelques minutes à plusieurs jours.
+
+#### Objectif
+Un temps de palabre ne vise aucun objectif, c’est juste un temps de parole à plusieurs.
+Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres ou collègues  de l'organisme.
+
+#### Impact 
+L’acquisition de connaissance et de sens dans un organisme passe par :
+ - le vécu implicite individuel,
+ - le vécu implicite collectif,
+ - l’expression individuelle,
+ - l’expression collective.
+
+Les temps de palabre sont des espaces d’expression collective.
+
+### 4.3  Temps de régulation  
+
+#### Raison d’être 
+
+Aider des membres ou collègues en tension relationnelle à restaurer les conditions d’une relation plus saine et confiante.
+
+#### Logistique   
+
+Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires et, s’ils le souhaitent, un rôle facilitation. 
+
+*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin.* Le processus pertinent est celui choisi par les participants. L’élément « marcher-parler » propose une alternative puissante et simple.
+
+#### Inclusion  
+
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. 
+Les autres écoutent en silence.
+
+#### Ordre du jour  
+
+Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation.
+
+#### Processus de CNV (communication non violente)
+
+Le rôle facilitation  distribue la parole selon les étapes suivantes : 
+
+1. Rappeler la raison d’être de ce temps ainsi que le fait que chacun doit être volontaire tout au long du processus pour participer et peut, par conséquent, interrompre la rencontre à tout moment.
+2. Qui est demandeur de ce temps (il devient l’émetteur, l’autre ou les autres deviennent les receveurs) ?
+3. Peux-tu nous dire ce qu’il s’est passé (les événement) ? Ce que tu  ressens (les émotions) ? Comment cela se passerait dans ton idéal (le besoin) ? Ce que tu demandes concrètement à qui (la demande) ? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
+4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
+5. À l’émetteur : est-ce bien cela ? Plusieurs boucles peuvent être nécessaires. 
+6. Au receveur : après avoir entendu cela, quelle réponse apportes tu à la demande qui a été formulée ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
+7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
+8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3).
+
+#### Clôture   
+
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
 
 
@@ -1184,77 +1281,8 @@ Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’
 
 
 
-#### 2.10  Temps de régulation  
-
-##### Raison d’être 
-
-Aider des membres ou collègues en tension relationnelle à restaurer les conditions d’une relation plus saine et confiante.
-
-##### Logistique   
-
-Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires et, s’ils le souhaitent, un rôle facilitation. 
-
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. Le processus pertinent est celui choisi par les participants.* L’élément « marcher-parler » propose une alternative puissante et simple.
-
-##### Inclusion  
-
-Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer. 
-Les autres écoutent en silence.
-
-##### Ordre du jour  
-
-Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulation.
-
-##### Processus de CNV (communication non violente)
-
-Le rôle facilitation  distribue la parole selon les étapes suivantes : 
-
-1. Rappeler la raison d’être de ce temps ainsi que le fait que chacun doit être volontaire tout au long du processus pour participer et peut, par conséquent, interrompre la rencontre à tout moment.
-2. Qui est demandeur de ce temps (il devient l’émetteur, l’autre ou les autres deviennent les receveurs) ?
-3. Peux-tu nous dire ce qu’il s’est passé (les événement) ? Ce que tu  ressens (les émotions) ? Comment cela se passerait dans ton idéal (le besoin) ? Ce que tu demandes concrètement à qui (la demande) ? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
-4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
-5. À l’émetteur : est-ce bien cela ? Plusieurs boucles peuvent être nécessaires. 
-6. Au receveur : après avoir entendu cela, quelle réponse apportes tu à la demande qui a été formulée ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
-7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
-8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3).
-
-##### Clôture   
-
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
-Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
 
-
-
-
-
-
-## 4)  ELEMENTS OPTIONNELS 
-
-#### 4.1  Eléments
-
-##### Qu’est-ce qu'un élément ? 
-
-Les éléments sont des modules autonomes compatibles.
-Cela signifie que vous pouvez activer un élément, ou plusieurs, en fonction de ce qui est utile pour vous.
-Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.
-
-Ils se veulent à la fois inspirants et guidants.
-
-Comme tout le reste de notre travail, ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées).
-
-Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
-Ils peuvent être activées pour une cellule, pour une cellule amont et ses cellules spécifiques ou pour toute la structure.
-
-##### Comment activer un élément ? 
-
-Activer ou désactiver un élément dans une cellule est une politique. Par conséquent, cela se formalise en temps de réorganisation.
-
-Une personne peut utiliser un élément en autonomie pour s’inspirer elle-même dans son rôle.
-
-##### Conséquence de l’activation  
-
-Un élément activé a le même poids qu’un élément cœur : il devient constitutionnel. 
 
 #### 4.2 Elément création raison d’être
 
@@ -1289,32 +1317,7 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
  
 
-#### 4.5 Elément palabre
 
-##### Intention
-On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations.
-
-Il peut être question d’un sujet métier ou autre.
-
-Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation.
-
-Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés.
-
-##### Logistique
-Un temps de palabre est déclenché par ceux qui en ont besoin en invitant les personnes qu’ils souhaitent. La durée est totalement libre et variable, de quelques minutes à plusieurs jours.
-
-##### Objectif
-Un temps de palabre ne vise aucun objectif, c’est juste un temps de parole à plusieurs.
-Les participants pourront décider s’il est pertinent ou non de restituer leur parole à d’autres membres ou collègues  de la structure.
-
-##### Impact 
-L’acquisition de connaissance et de sens dans une structure passe par :
- - le vécu implicite individuel,
- - le vécu implicite collectif,
- - l’expression individuelle,
- - l’expression collective.
-
-Les temps de palabre sont des espaces d’expression collective.
 
 
 
@@ -1452,44 +1455,6 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
-
-#### 4.16 Elément charte gouvernance cellulaire 
-
-##### Contexte 
-
-Dans le cadre de la refonte de notre gouvernance en mode gouvernance Cellulaire, des rôles et des cellules ont été créés.
-
-Chaque rôle, chaque cellule a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
-
-Chaque rôle, chaque cellule est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres et en tient compte pour ajuster son action selon ce qui lui paraît le plus pertinent. 
-
-##### Engagement
-
-Nous nous engageons à respecter le principe de non-ingérence :
-
- - nous respecterons l’auto-détermination des rôles et cellules créés 
- - nous agirons dans le cadre des rôles qui nous sont affectés
- - nous respecterons les décisions des rôles et cellules créés
- - nous agirons dans le respect des règles définies par notre constitution
- - nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
-
- L’organisation adopte la constitution Gouvernance Cellulaire           le __________________, à ______
-
-Signatures :
-
-
-
- x________________________________ Nom : Titre : 
- 
-
- x________________________________ Nom : Titre : 
-
-
-
-
-*¤ Cet engagement peut aussi être proposé à la signature de tous les membres participant à une cellule ou être intégré au règlement intérieur.*
-
-*¤ Cette charte pourra être amendée ou abrogée par ses signataires.*
 
  #### 4.17 Elément accompagnement extérieur
 
