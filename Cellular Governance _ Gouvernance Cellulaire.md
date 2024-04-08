@@ -299,7 +299,9 @@ La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en 
 
 Chaque membre gouvernant a la responsabilité de ressentir les tensions qu’il éprouve entre la façon dont les choses se passent et la façon dont elles se passeraient selon son idéal.
 
-Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètesUne tension est une « tension vers » (envie) ou « tension par » (rejet).
+Il a également la responsabilité et le pouvoir de tenter de réduire ces tensions par ses autorités, ou par des demandes concrètes
+
+Une tension est une « tension vers » (envie) ou « tension par » (rejet).
 
 #### Responsabilité d'organisme 
 
