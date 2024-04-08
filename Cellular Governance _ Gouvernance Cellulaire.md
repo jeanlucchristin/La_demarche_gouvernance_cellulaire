@@ -1902,7 +1902,7 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
  - Redevabilité : ce qui est attendu de mon rôle, ce que les autres peuvent me demander, ce sur quoi ils peuvent compter.
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière.
  - Régulation : un temps et des processus pour restaurer la relation avec une ou plusieurs autres personnes.
- - Rôle : une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Les cellules et les projets sont des rôles particuliers. Cette personne ne réalise pas forcément elle-même les attendus, par contre, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées.
+ - Rôle : une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Cette personne ne réalise pas forcément elle-même les attendus, cependant, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées. Les cellules et les projets sont des rôles particuliers.
  - Rôles lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes.
  - Temps d’élection sans candidat : affecter un rôle. 
  - Temps d’opération : affecter des actions nécessaires pour avancer dans le travail. 
@@ -1912,9 +1912,9 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
  - Temps de sens : réfléchir à plusieurs sur une raison d’être, une question éthique, etc.
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par).
 
-## 7) CONSTITUTION : Licence et contributeurs 
+## 7) Licence et contributeur.ices 
 
-#### 7.1  Licence 
+### 7.1  Licence 
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
@@ -1926,18 +1926,18 @@ La Gouvernance Cellulaire est définie dans cette constitution et nulle part ail
 
 Vous pouvez copier, distribuer, communiquer et transformer ces contenus pour toute utilisation y compris commerciale.
 
-##### Intention
+#### Intention
 
 Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre.
 
 Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le coté viral de la licence ouverte, lâchez-vous ! 
 
-##### Devoir de partage
+#### Devoir de partage
 
 Le « Share Alike » impose un partage sous les mêmes conditions pour éviter la captation des biens communs par des brevets.
 Merci de prévenir la communauté sur le forum cellulargovernance.org si vous produisez une évolution ou si vous voyez une dérive.
 
-##### Notre choix
+#### Notre choix
 
 Notre méthodologie avec une personne source (Jeanluc Christin, auteur principal), rejoint par une équipe amont puis par des contributeurs ouvre la possibilité à tous de participer.
 
@@ -1945,27 +1945,24 @@ Le droit français impose de nommer un auteur avant de mettre le contenu en lice
 
 Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net.
 
-#### 7.2  Contributeurs
+### 7.2  Contributeur.ices
 
-##### Equipe gouvernance cellulaire 
+#### Equipe gouvernance cellulaire 
 Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
 
-##### Cellule laboratoire
+#### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
-Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel, Christophe Herault (rôle lead).
+Olivier Daniel Thomas, Nicolas Begel, Jean-Christophe Ciceron, Christophe Hérault, Stéphanie De Susanne, Georges Comby, 	David Drayer (rôle lead).
 
-##### Cellule écriture
-Adapter en continu la constitution de la gouvernance cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
-Jerome Michelet, Jeanluc Christin (auteur), Camille Lambert (relecture et orthographe), Candice Sottas (rôle lead).
+#### Cellule rayonnement 
+Inspirer et enchanter le monde de l'organisme et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
+Marion Rigaux, David Drayer, Georges Comby, Nicolas Begel (rôle lead).
 
-##### Cellule rayonnement 
-Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
-Marion Rigaux, Jeanluc Christin, David Drayer (rôle lead).
-
-##### Cellule sève : la cellule qui prend soin de la vie du collectif
+#### Cellule sève : la cellule qui prend soin de la vie du collectif
 Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
-Juliette Le Roy, Virginie Angove, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
+Juliette Le Roy, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
 
-##### Cellule ancrage
+#### Cellule ancrage 
 A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
-Christophe Herault, David Drayer, Candice Sottas, Jean-Christophe Ciceron (cellule sans rôle lead).
+Christophe Herault, David Drayer, Jean-Christophe Ciceron, Nicolas Begel (cellule sans rôle lead).
+
