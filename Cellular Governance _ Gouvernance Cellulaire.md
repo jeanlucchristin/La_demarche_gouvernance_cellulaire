@@ -1593,7 +1593,7 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 #### Clôture   
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### Valeurs du collectif
+### 5.3 Valeurs du collectif
 
 Figure : Valeurs du collectif
 ![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/93031459-9d20-4a54-bc1d-4256697cead3)
@@ -1616,20 +1616,97 @@ Ce processus nécessite un rôle facilitation et un temps confortable (2 à 4 he
 
  - **Temps préparatoire** : en sous-groupe de 12 maximum, chacun·e écrit 3 comportements « Ca, c’est vraiment nous » et 3 comportements « Ca, c’est vraiment pas nous ».
    - Mise en commun et discussion sur les valeurs qui sont révélées par ces deux types de comportements.
- - Dans un second temps, les participants répartissent les valeurs précédentes sur la charte valeurs du collectif et  les regroupent. Ils vérifient que ce choix est cohérent avec la raison d’être. Ils améliorent le résultat en ajoutant ou retirant des valeurs. Ils repèrent les convergences et les désaccords.
+ - Dans un **second temps**, les participants répartissent les valeurs précédentes sur la charte valeurs du collectif et  les regroupent. Ils vérifient que ce choix est cohérent avec la raison d’être. Ils améliorent le résultat en ajoutant ou retirant des valeurs. Ils repèrent les convergences et les désaccords.
  - S’il y a plusieurs sous-groupes, la restitution en plénière est effectuée à ce stade.
  - Quand les différents points de vue sont suffisamment clairs, les participants peuvent passer à une décision collective (par exemple en GPC consolidée en concordance) pour retenir quelques valeurs.
- - Un troisième temps de palabre (30’) permet d’évoquer comment ces valeurs prennent forme concrètement dans l’organisme (par exemple sur l’organisation, ou sur les relations internes, ou sur la stratégie commerciale, etc).
- - Un quatrième temps, éventuellement décalé ou animé dans chaque cercle permet de choisir comment déployer ces valeurs. 
+ - Un **troisième temps** de palabre (30’) permet d’évoquer comment ces valeurs prennent forme concrètement dans l’organisme (par exemple sur l’organisation, ou sur les relations internes, ou sur la stratégie commerciale, etc).
+ - Un **quatrième temps**, éventuellement décalé ou animé dans chaque cercle permet de choisir comment déployer ces valeurs. 
 
 Clôture
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
+### 5.4 Feedback
+
+#### Raison d’être 
+
+Donner des informations aux autres pour qu’ils gagnent en conscience sur ce que leurs actions ou comportements déclenchent.
+
+Reconnaître nos collègues dans ce qu’ils apportent.
+
+#### Préparation
+
+Il nous faut être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
+
+la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation.
+
+#### Intention 
+
+Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires.
+
+#### Process
+Un feedback utile professionnellement comporte :
+ - une observation (tu as fait ceci…),
+ - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnaît / nie mon travail…),
+ - une demande éventuelle (c’est top, continue / une autre fois merci de…).
+
+#### Indigestion 
+
+Comme pour la nourriture, chacun a ses besoins et ses limites en termes de feedbacks (qui sont des signes de reconnaissance).
+
+Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister.
+
+Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
 
 
+#### 4.11 Elément feedback
 
+##### Raison d’être 
 
+Donner des informations aux autres pour qu’ils gagnent en conscience sur ce que leurs actions ou comportements déclenchent.
 
+Reconnaître nos collègues dans ce qu’ils apportent.
+
+##### Préparation
+
+Il nous faut être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
+
+la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation.
+
+##### Intention 
+
+Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires.
+
+##### Process
+Un feedback utile professionnellement comporte :
+ - une observation (tu as fait ceci…),
+ - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnaît / nie mon travail…),
+ - une demande éventuelle (c’est top, continue / une autre fois merci de…).
+
+##### Indigestion 
+
+Comme pour la nourriture, chacun a ses besoins et ses limites en terme de feedbacks (qui sont des signes de reconnaissance).
+
+Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister.
+
+Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
+
+### 4.23 Variantes décisions collectives 
+
+#### Variante à la levée des objections : « inspiration Université Du Nous »
+
+Après avoir rédigé sa V2 (étape 7), le proposeur abandonne son rôle. 
+
+Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en réorganisation.
+
+#### Variante réorganisation : « la boite à idée » 
+
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
+
+1. Demandeur, quelle tension souhaites-tu réduire ? 
+2. Tous, avez-vous des besoins de clarification ?
+3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
+4. Demandeur, quelle est ta proposition ?
+5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
 
 
@@ -1723,37 +1800,7 @@ A vous de jouer !
 
 
 
-#### 4.11 Elément feedback
 
-##### Raison d’être 
-
-Donner des informations aux autres pour qu’ils gagnent en conscience sur ce que leurs actions ou comportements déclenchent.
-
-Reconnaître nos collègues dans ce qu’ils apportent.
-
-##### Préparation
-
-Il nous faut être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
-
-la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation.
-
-##### Intention 
-
-Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires.
-
-##### Process
-Un feedback utile professionnellement comporte :
- - une observation (tu as fait ceci…),
- - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnaît / nie mon travail…),
- - une demande éventuelle (c’est top, continue / une autre fois merci de…).
-
-##### Indigestion 
-
-Comme pour la nourriture, chacun a ses besoins et ses limites en terme de feedbacks (qui sont des signes de reconnaissance).
-
-Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister.
-
-Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
 
 
 
@@ -1814,32 +1861,6 @@ Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouv
 
 
 
-#### 4.23 Elément variantes décisions collectives 
-
-##### Variante test des objections
-
-Pour gagner du temps, préserver la capacité d’innovation et préparer la phase de bonification, des collectifs expérimentés activent le test des objections dans leur processus de décision collective. 
- 
-A l’étape 9, le rôle facilitation peut alors aider l’objecteur à évaluer s’il est impératif d’intégrer son objection à la proposition V2 (l’objecteur est souverain pour cette évaluation). 
-L’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible ou un sujet qui existait avant la proposition (autre sujet) ni si l’objecteur n’est pas directement concerné par les conséquences envisagées. 
-Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions.
-Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur.
-
-##### Variante à la levée des objections : « inspiration Université Du Nous »
-
-Après avoir rédigé sa V2 (étape 7), le proposeur abandonne son rôle. 
-
-Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en réorganisation.
-
-##### Variante réorganisation : « la boite à idée » 
-
-Le rôle facilitation distribue la parole selon les étapes suivantes : 
-
-1. Demandeur, quelle tension souhaites-tu réduire ? 
-2. Tous, avez-vous des besoins de clarification ?
-3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
-4. Demandeur, quelle est ta proposition ?
-5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
 
 
