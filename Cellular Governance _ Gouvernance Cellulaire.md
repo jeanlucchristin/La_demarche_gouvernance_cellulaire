@@ -201,6 +201,10 @@ Nous n'avons pas d'investisseur financier en attente de contrepartie.
 ### 2.1  L’efficacité-humaniste* & son autodiagnostic
 *Des conditions pour que les décisions prises soient suivies d’effets.*
 
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/f76ddc6a-e21a-462d-a6b8-7367d44e3d9e)
+
+Figure 2.1 L’efficacité-humaniste & son autodiagnostic
+
 ####  Intentions
 
 Créer des conditions pour que les décisions prises soient suivies d’effets et pour que les membres soient de plus en plus dynamisés au fil du temps (cf « Egrégore »).
@@ -431,8 +435,6 @@ La relation met l’accent sur l’expression directe, des outils comme le temps
 En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
 ### 2.10  Egrégore d'équipe 
-
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/377ca28b-b60a-4bd6-a8bb-604df308104a)
 
 #### Intention
 *Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
