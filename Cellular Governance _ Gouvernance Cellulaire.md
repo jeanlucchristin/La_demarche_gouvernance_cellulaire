@@ -1,4 +1,4 @@
-# La démarche Gouvernance cellulaire version 3.3
+# La démarche Gouvernance cellulaire version 3.3 pre-release
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
