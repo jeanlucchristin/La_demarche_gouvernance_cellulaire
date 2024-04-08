@@ -389,7 +389,9 @@ L’émotion peut être accueillie et reconnue si elle est là.
 
 Fonctionner en lien nécessite d’entendre la position des collègues sur un sujet avant et après une décision. 
 
-Ce peut être à l’occasion d’une sollicitation d’avis ou de l’expression d’une tension. Connaitre l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
+Ce peut être à l’occasion d’une sollicitation d’avis ou de l’expression d’une tension. 
+
+Connaitre l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
 
 L’avantage du lien est que chacun peut se sentir entendu et important.
 
