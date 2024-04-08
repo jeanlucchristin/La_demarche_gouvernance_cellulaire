@@ -939,7 +939,9 @@ Un rôle comprend un titre et au moins un élément parmi :
 
 #### Définition d’une cellule 
 
-Une cellule est un rôle : quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cellule si elles le souhaitent. Elles peuvent créer des cellules spécifiques pour répondre à leurs besoins spécifiques. 
+Une cellule est un rôle : quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cellule si elles le souhaitent. 
+
+Elles peuvent créer des cellules spécifiques pour répondre à leurs besoins spécifiques. 
 
 #### Fonctionnement d’un rôle et d’une cellule 
 
