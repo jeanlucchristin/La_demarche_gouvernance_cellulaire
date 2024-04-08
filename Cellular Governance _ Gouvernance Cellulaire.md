@@ -1894,24 +1894,27 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
  - Espace sens : tous les temps, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie, etc.
  - Gestion par tension : utiliser les tensions comme source des prochaines actions. 
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps.
- - Membre : un membre est une personne affectée à un rôle dans une cellule. Le membre participe à la gouvernance. 
+ - Membre ou membre gouvernant : un membre de l’organisme affecté à un rôle dans une cellule. Il participe ainsi à la gouvernance.
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi.
- - Politique : règle décidée par une cellule qui s’applique soit à la cellule seule, soit aussi aux cellules spécifiques.
- - Redevabilité : ce qui est attendu de mon rôle, ce que les autres peuvent me demander, ce sur quoi ils peuvent compter. 
+ - Organisation : organigrammes en cellules et rôles, règles, politiques et processus.
+ - Organisme : entreprise, association, mairie, fondation et toutes structures juridiques où des humains coopèrent.
+ - Politique : accord ou règle décidée par une cellule qui s’applique soit à la cellule seule, soit aussi aux cellules spécifiques.
+ - Redevabilité : ce qui est attendu de mon rôle, ce que les autres peuvent me demander, ce sur quoi ils peuvent compter.
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière.
+ - Régulation : un temps et des processus pour restaurer la relation avec une ou plusieurs autres personnes.
+ - Rôle : une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Les cellules et les projets sont des rôles particuliers. Cette personne ne réalise pas forcément elle-même les attendus, par contre, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées.
+ - Rôles lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes.
  - Temps d’élection sans candidat : affecter un rôle. 
  - Temps d’opération : affecter des actions nécessaires pour avancer dans le travail. 
  - Temps de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision. 
  - Temps de régulation : restaurer la relation avec une ou plusieurs autres personnes. 
  - Temps de réorganisation : créer un rôle ou le modifier pour répondre à un besoin. 
- - Temps de sens : réfléchir à plusieurs sur une raison d’être, une question éthique, etc. 
- - Rôle : une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Les cellules et les projets sont des rôles particuliers. Cette personne ne réalise pas forcément elle-même les attendus, par contre, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées.
- - Rôles lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes.
+ - Temps de sens : réfléchir à plusieurs sur une raison d’être, une question éthique, etc.
  - Tension : ressentir une motivation (tension vers) ou une crispation (tension par).
 
-## 6) CONSTITUTION : Licence et contributeurs 
+## 7) CONSTITUTION : Licence et contributeurs 
 
-#### 6.1  Licence 
+#### 7.1  Licence 
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
@@ -1942,7 +1945,7 @@ Le droit français impose de nommer un auteur avant de mettre le contenu en lice
 
 Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net.
 
-#### 6.2  Contributeurs
+#### 7.2  Contributeurs
 
 ##### Equipe gouvernance cellulaire 
 Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
