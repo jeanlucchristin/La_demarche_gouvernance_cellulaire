@@ -715,7 +715,9 @@ De hebdomadaire à annuelle. Chaque rituel a sa périodicité. Celle-ci peut êt
 La durée est variable de quelques minutes à quelques jours. Des durées indicatives sont précisées ci-dessous pour servir de repère. 
 
 ### Séquences
-En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par la cellule. Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
+En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par la cellule. 
+
+Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
 
 Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective & ambition (120 à 240) . Rétrospective relationnelle (120 à 240). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
 
