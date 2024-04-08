@@ -233,7 +233,7 @@ Le collectif considérera que la personne n’avait pas la posture adéquate.
 
 (*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
-### 2.2 Elément estime de soi*
+### 2.2 Estime de soi*
 
 #### Intention
 
@@ -328,7 +328,7 @@ La tension de cellule est relative directement à la réalisation des raisons d�
 - soit à tous les membres la cellule,
 - soit à la cellule en mode consentement dans une réunion dédiée.
 
-### 2.6 Elément responsabilités de membre gouvernant
+### 2.6 Responsabilités de membre gouvernant
 
 #### Soin de la relation 
 Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
@@ -410,7 +410,7 @@ Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans un
 
 La culture de travail se construit chemin faisant, en se mettant d’accord sur l’équilibre souveraineté/lien.
 
-### 2.9 Elément distinction personne et rôle
+### 2.9 distinction personne et rôle
 
 #### Intention
 Distinguer nos rôles de notre personne permet de prend soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
@@ -467,7 +467,7 @@ Exemples de process verbalisés :
  - tour de table, photolangage,
  - moments informels de relation.
 
-### 2.11  Elément contentement 
+### 2.11  Contentement 
 
 #### Se contenter 
 
@@ -483,7 +483,7 @@ Exemples de process verbalisés :
 
 De cette discipline peut apparaître un contentement sain pour nous, humains.
 
-### 2.12 Elément frustration 
+### 2.12 Frustration 
 
 #### Intention
 
@@ -640,7 +640,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il l’a vécu du point de vue efficacité, du lien humain et de ses valeurs.
 
-### 3.4 Elément régulation marcher-parler
+### 3.4 Régulation marcher-parler
 
 #### Raison d’être 
 
@@ -1037,7 +1037,7 @@ Les tensions pertinentes à processer dans la cellule amont y sont apportées et
 
 Le rôle représentation n’est pas nécessaire si une politique de la cellule amont a défini un autre mode de représentation.
 
-### 3.16 Elément séparation 
+### 3.16 Séparation 
 
 #### Processus de séparation
 
@@ -1112,7 +1112,7 @@ Noms, Signatures
  - *Cet engagement peut aussi être proposé à la signature de tous les membres participant à une cellule, être intégré au règlement intérieur ou être signée par certains membres de l’organisme.*
  - *Cette charte pourra être amendée ou abrogée par ses signataires.*
 
-### 4.2 Elément palabre
+### 4.2 Palabre
 
 #### Intention
 On a parfois simplement besoin de parler d’un sujet, d’échanger, de réfléchir à plusieurs. Ce temps est important dans la constitution d’un collectif, de sa culture, de ses représentations.
@@ -1475,7 +1475,7 @@ Sécuriser le collectif en accompagnant les personnes qui gênent les équipes p
  - Demander une réaffectation des rôles quand cela pourrait être utile au collectif.
  - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
 
-### 4.16 Elément Entretien annuel  
+### 4.16 Entretien annuel  
 
 #### Raison d’être 
 
@@ -1716,7 +1716,7 @@ Les redevabilités prises en charge par l’équipe sont précisées. Elles sero
 
 Ces réglages sont amenés à évoluer dans le temps. 
 
-### 5.7 Elément niveaux d’autonomie
+### 5.7 Niveaux d’autonomie
 
 #### Raison d’être 
 Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles.
