@@ -1657,40 +1657,7 @@ Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pou
 
 Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
 
-
-#### 4.11 Elément feedback
-
-##### Raison d’être 
-
-Donner des informations aux autres pour qu’ils gagnent en conscience sur ce que leurs actions ou comportements déclenchent.
-
-Reconnaître nos collègues dans ce qu’ils apportent.
-
-##### Préparation
-
-Il nous faut être attentifs au fait que notre perception des actions et comportements d’un collègue est biaisée par : 
-
-la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance de la dernière observation au détriment de toutes les précédentes ; les difficultés rencontrées récemment sur d’autres sujets (avec ou sans ce collègue) ; la quantité de contact ; ce que nous croyons savoir de cette personne plus ou moins consciemment ; notre propre estime de soi à cet instant ; nos idées préconçues ; notre absence de distanciation.
-
-##### Intention 
-
-Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires.
-
-##### Process
-Un feedback utile professionnellement comporte :
- - une observation (tu as fait ceci…),
- - ses conséquences pour soi (j’ai apprécié / pas apprécié parce que cela reconnaît / nie mon travail…),
- - une demande éventuelle (c’est top, continue / une autre fois merci de…).
-
-##### Indigestion 
-
-Comme pour la nourriture, chacun a ses besoins et ses limites en terme de feedbacks (qui sont des signes de reconnaissance).
-
-Il importe de ne pas forcer le receveur : lui demander s’il est d’accord pour un feedback (quand et où ?), être attentif à sa saturation et ne pas insister.
-
-Il est bénéfique de considérer ses propres besoins : demander un feedback, s’en donner à soi-même.
-
-### 4.23 Variantes décisions collectives 
+### 5.5 Variantes décisions collectives 
 
 #### Variante à la levée des objections : « inspiration Université Du Nous »
 
@@ -1708,60 +1675,67 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 4. Demandeur, quelle est ta proposition ?
 5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
+### 5.6 Curseur managérial, que fait le rôle pilotage de votre cellule ?
 
+#### Système 
 
+L’organisation cellulaire est compatible avec une organisation pyramidale. 
 
+#### Les points communs entre les systèmes pyramidal et cellulaire  
 
+ - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe amont.
+ - Le rôle lead cellulaire et le rôle manager ont pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
 
+#### Les différences 
 
+ - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisionsdécisions ; il est affecté au rôle prendre soin des personnes.
+ - Des redevabilités peuvent être ajoutées au manager pyramidal.
+ - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
 
+#### Que fait le rôle pilotage de votre cellule ?
 
+Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead cellulaire.
 
+Les redevabilités restantes sont déléguées à l’équipe (si l’équipe les accepte).
 
+Les redevabilités prises en charge par l’équipe sont précisées. Elles seront affectées : 
+ - soit à un rôle,
+ - soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décision collective). 
 
+Ces réglages sont amenés à évoluer dans le temps. 
 
+### 5.7 Elément niveaux d’autonomie
 
+#### Raison d’être 
+Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles.
 
+#### Processus
+Le leader seul ou avec l’équipe évalue le niveau de délégation et d’autonomie réellement vécu et celui souhaité. Le niveau de délégation correspond à la latitude d’action et à la responsabilité donnée aux personnes qui sont affectées à un rôle, le niveau de liberté correspond à la latitude d’action prise par celles-ci.
 
+Le niveau d’autonomie est la résultante de ces deux dynamiques.
 
+Le niveau d’autonomie est clarifié en fonction de qui réfléchit à la meilleure option, qui décide de celle retenue, qui agit et qui évalue l’effet de l’action. 
+Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf paragraphe correspondant de la constitution).
 
+Chacune de ces quatre phases peut être assurée soit par le manager seul, soit ensemble, soit par le collaborateur/acteur seul. 
+« Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe.
 
+#### Calage pyramidal
+Quand le manager assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur manager pour savoir quoi faire. Le réglage est dit de « pouvoir au manager ».
 
+#### Calage collectif
+Quand le groupe assure la réflexion, la décision et l’évaluation, les acteurs dépendent de leur collectif pour savoir quoi faire. 
+Le réglage est dit de « pouvoir au groupe ». 
 
+#### Calage cellulaire
+Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit de « pouvoir au rôle ».
 
+####  Réglage
+Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
 
+### 5.8 Composer avec nos différences 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-#### 4.7 Elément composer avec nos différences 
-
-##### Raison d’être 
+#### Raison d’être 
 
 Découvrir les modes de fonctionnement étonnamment différents d’un collègue à l’autre.
 
@@ -1769,19 +1743,19 @@ Apprendre à découvrir ceux des autres pour mieux travailler avec eux.
 
 Savoir expliquer son propre fonctionnement à nos collègues. 
 
-##### Limite
+#### Limite
 
 Une fois n’est pas coutume, pour cet élément nous ne connaissons pas d’autre moyen que de travailler avec un accompagnement extérieur. L’intervenant vient avec sa méthode et son expertise de la mise en œuvre.
 
 S’agissant de décrire les différentes modalités humaines, il nous paraît précieux de se doter de cette aide.
 
-##### Approche 
+#### Approche 
 
-Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe et de la structure de manière appropriée et efficace.
+Nous pensons que l’humain est riche de ses comportements et talents, de sa singularité. Les connaître permet de répondre aux besoins de l’équipe et de l'organisme de manière appropriée et efficace.
 
-Pour ce faire, une multitudes d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement).
+Pour ce faire, une multitude d’outils existent. Nous privilégions les approches « positives » et « bienveillantes » qui permettent de nous faire apparaître tel que nous sommes, de révéler nos talents et de rechercher les voies nécessaires pour composer ensemble avec nos différences (telles des opportunités d’enrichissement).
 
-##### Exemples    
+#### Exemples    
 
 Nous pensons par exemple au MBTI, au DISC, à Process Com, à Com Color, à Ennéagramme, etc.
 
@@ -1789,29 +1763,13 @@ Par ailleurs, Will Schutz a développé une approche centrée sur la compatibili
 
 Plus d’infos [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-element-humain/)
 
-#### 4.8 Elément magique 
+### 5.9 Changement
 
-##### Raison d’être : 
-
-Répondre au besoin de votre cellule 
-
-A vous de jouer !  
-
-
-
-
-
-
-
-
-
-#### 4.13 Elément changement
-
-##### Intention
+#### Intention
 
 Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type cellulaire ».
 
-##### Etapes de changement 
+#### Etapes de changement 
 
 Il ne s’agit pas ici de vérités mais de ce que nous avons souvent observé et qui a été abondamment documenté.
 
@@ -1831,18 +1789,15 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 8.  Désir : une tension vers quelque chose de mieux apparaît, un nouveau changement est en cours, etc.
 
+### 5.10 Accompagnement extérieur
 
-
-
- #### 4.17 Elément accompagnement extérieur
-
-##### Technicité 
+### Technicité 
 
 Un accompagnement extérieur par un spécialiste de la gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
 Il n’est pas indispensable. 
 A chaque équipe d’expérimenter et de décider si une aide serait utile pour progresser plus facilement et plus rapidement.
 
-##### Changement culturel
+### Changement culturel
 
 Le changement culturel est très facile à comprendre intellectuellement, beaucoup plus délicat à mettre en œuvre pour chacun de nous.
 
@@ -1852,86 +1807,13 @@ Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut re
 Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire.
 Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage.
 
+### 5.11 Numérique
 
-
-
-
-
-
-
-
-
-
-
-
-
-#### 4.30 Elément curseur managérial Que fait le rôle pilotage de votre cellule ?
-
-##### Système 
-
-L’organisation cellulaire est compatible avec une organisation pyramidale. 
-
-##### Ce qui est commun entre les systèmes pyramidal et cellulaire  
-
- - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe amont.
- - Le rôle lead cellulaire et le rôle manager ont pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
-
-##### Les différences 
-
- - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisionsdécisions ; il est affecté au rôle prendre soin des personnes.
- - Des redevabilités peuvent être ajoutées au manager pyramidal.
- - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
-
-##### Que fait le rôle pilotage de votre cellule ?
-
-Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead cellulaire.
-
-Les redevabilités restantes sont déléguées à l’équipe (si l’équipe les accepte).
-
-Les redevabilités prises en charge par l’équipe sont précisées. Elles seront affectées : 
- - soit à un rôle,
- - soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décision collective). 
-
-Ces réglages sont amenés à évoluer dans le temps. 
-
-#### 4.31 Elément niveaux d’autonomie
-
-##### Raison d’être 
-Clarifier le niveau d’autonomie dans chaque rôle pour éviter que des incompréhensions ne déclenchent des conflits ou des lenteurs inutiles.
-
-##### Processus
-Le leader seul ou avec l’équipe évalue le niveau de délégation et d’autonomie réellement vécu et celui souhaité. Le niveau de délégation correspond à la latitude d’action et à la responsabilité donnée aux personnes qui sont affectées à un rôle, le niveau de liberté correspond à la latitude d’action prise par celles-ci.
-
-Le niveau d’autonomie est la résultante de ces deux dynamiques.
-
-Le niveau d’autonomie est clarifié en fonction de qui réfléchit à la meilleure option, qui décide de celle retenue, qui agit et qui évalue l’effet de l’action. 
-Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf paragraphe correspondant de la constitution).
-
-Chacune de ces quatre phases peut être assurée soit par le manager seul, soit ensemble, soit par le collaborateur/acteur seul. 
-« Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe.
-
-##### Calage pyramidal
-Quand le manager assure la réflexion, la décision et l’évaluation, les collaborateurs dépendent de leur manager pour savoir quoi faire. Le réglage est dit de « pouvoir au manager ».
-
-##### Calage collectif
-Quand le groupe assure la réflexion, la décision et l’évaluation, les acteurs dépendent de leur collectif pour savoir quoi faire. 
-Le réglage est dit de « pouvoir au groupe ». 
-
-##### Calage cellulaire
-Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit de « pouvoir au rôle ».
-
-#####  Réglage
-Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
-
-
-
-#### 4.33 Elément numérique
-
-##### Raison d’être 
+#### Raison d’être 
 
 La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible.
 
-##### Exemple 
+#### Exemple 
 
 Open my organisation offre une solution libre à votre disposition que nous recommandons : 
 
@@ -1949,10 +1831,17 @@ https://trello.com/b/002WfWqn
 
 Des outils payants existent également.
 
+### 5.12 Elément magique 
 
-## 5  CONSTITUTION : Bibliographie et glossaire 
+#### Raison d’être : 
 
-#### 5.1  Bibliographie et références
+Répondre au besoin de votre cellule 
+
+A vous de jouer !  
+
+## 6  CONSTITUTION : Bibliographie et glossaire 
+
+#### 6.1  Bibliographie et références
 
 ##### Intro 
 
@@ -1980,20 +1869,21 @@ Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI ajoutant la dimension Ce pour quoi je peux être payé
 - Nonaka I. (1994), *A dynamic theory of organizational knowledge creation*, Organization Science, Vol. 5, n° 1, p. 14–37
 - Mary Parker Follett, (1918) *The New State*, Longmans Green pour ses modélisations de la réciprocité et la distinction « Power over and power with » dès les années 1900 en réponse à à FW Taylor, (1911) *The Principles of Scientific Management*, Harper et Brothers publisher
-Notre ambition ici est un mariage posthume entre les théories humanistes de Parket Follet et la structuration de celles de Taylor  
+Notre ambition ici est un mariage posthume entre les théories humanistes de Parket Follet et celles de Taylor
 - Pablo Sevigne et Gauthier Chapelle (2017) *L’entraide, l’autre loi de la jungle*, Les liens qui libèrent éditions
 
-#### 5.2  Glossaire 
+#### 6.2  Glossaire 
 
  - Acteur : personne qui réalise quelque chose, les redevabilités d’un rôle par exemple.
  - Auto-diagnostic : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste.
  - Cellule : une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
  - Cellule amont : l’équipe plus grande qui comprend notre cellule.
- - Cellule souche : l’équipe la plus en amont de la structure, elle comprend toutes les cellules.
- - Cellule spécifique : un e équipe crée pour répondre à un besoin spécifique de sa cellule souche. 
+ - Cellule ancrage : l’équipe la plus en amont de l'organisme, elle comprend toutes les cellules.
+ - Cellule spécifique : un e équipe crée pour répondre à un besoin spécifique de sa cellule amont. 
  - Collaborateur : dans le système hiérarchique, membre à qui le chef dit parfois comment réaliser son rôle.
- - Collègue : un collègue est une personne de la structure qui ne participe pas à la gouvernance.
- - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal). 
+ - Collègue : un collègue est une personne de l'organisme qui ne participe pas à la gouvernance.
+ - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal).
+ - Constitution : l’ensemble des lois fondamentales de l’organisme qui règle l'organisation et les rapports des pouvoirs, et qui détermine  les principes qui régissent les relations entre les membres.
  - Décision par concordance : processus avec un niveau de profondeur accru pour les décisions à fort enjeu.
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC). 
  - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
