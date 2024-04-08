@@ -1371,9 +1371,9 @@ Simplifier le processus, fonctionner à distance.
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-#### 4.11 Rôle prendre soin
+### 4.11 Rôle prendre soin
 
-##### Prendre soin des personnes dans leurs rôles, par exemple :
+#### Prendre soin des personnes dans leurs rôles, par exemple :
 
  - Cultiver une posture « basse », **non contrôlante**, respectant les capacités d'initiative et le pouvoir d'agir de chacun.
  - Entretenir notre **confiance** : considérer nos collègues capables de trouver leurs propres solutions.
@@ -1382,7 +1382,7 @@ Simplifier le processus, fonctionner à distance.
  - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter**.
  - Aider les gens à se demander s’ils libèrent suffisamment leur potentiel créateur pour en être satisfaits. 
 
-##### Prendre soin des personnes en tant qu’humains, par exemple :
+#### Prendre soin des personnes en tant qu’humains, par exemple :
 
  - **Prioriser l’humain** : avant de prendre une décision, si j’imagine qu’elle peut heurter une personne, lui en parler et rechercher avec elle des solutions alternatives, tout en restant souverain dans mon rôle.
  - Porter attention à ce que chaque personne puisse construire une **image de soi** qui lui plaise. 
@@ -1392,7 +1392,7 @@ Simplifier le processus, fonctionner à distance.
  - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites.
  - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous.
 
-##### Affectation  
+#### Affectation  
 
 Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
 
