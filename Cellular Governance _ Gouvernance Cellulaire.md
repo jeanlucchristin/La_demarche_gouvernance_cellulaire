@@ -1,4 +1,4 @@
-# La démarche Gouvernance cellulaire version 3.2
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/9b98e84e-5acd-4ea9-a59b-af6a3d215af3)# La démarche Gouvernance cellulaire version 3.2
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
@@ -1128,7 +1128,7 @@ L’acquisition de connaissance et de sens dans un organisme passe par :
 
 Les temps de palabre sont des espaces d’expression collective.
 
-### 4.3  Temps de régulation  
+### 4.3 Temps de régulation CNV
 
 #### Raison d’être 
 
@@ -1138,7 +1138,7 @@ Aider des membres ou collègues en tension relationnelle à restaurer les condit
 
 Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires et, s’ils le souhaitent, un rôle facilitation. 
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin.* Le processus pertinent est celui choisi par les participants. L’élément « marcher-parler » propose une alternative puissante et simple.
+*Le processus peut être différent, mais un organisme en gouvernance cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin.* Le processus pertinent est celui choisi par les participants. L’élément « marcher-parler » propose une alternative puissante et simple.
 
 #### Inclusion  
 
@@ -1168,9 +1168,169 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 
 Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
+### 4.4 Déblocage 180°   
+
+#### Raison d’être 
+
+Sur sa demande, aider un membre ou collègue à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire.
+
+#### Paradigme
+
+Technique : faire des expériences nouvelles pour s’extraire de situations répétitives.
+
+Principe stratégique : le demandeur assume qu’il attend de ce temps de conversation des améliorations concrètes.
+
+Philosophie : mon environnement me construit en même temps que je le façonne (co-construction).
+
+#### Process 180°
+
+Le rôle facilitation discute avec la personne demandeuse en suivant le canevas ci-dessous.
+
+1. Quel est le problème précisément (exemples factuels, ressentis et émotions).
+2. A quoi sens-tu que tu as envie de trouver une solution ? 
+3. Comment ce serait concrètement si c’était mieux ? 
+4. Listons les tentatives de solutions que tu as faites.
+5. Nous faisons aujourd’hui l’hypothèse qu’elles ont maintenu le problème par répétition. Repérons ensemble ce qui les sous-tend : l’implicite qu’elles comportent, le message qu’elles envoient.
+6. Ma recommandation est d’arrêter ces tentatives vu qu’elles ne marchent pas : arrêter de faire plus de la même chose.
+7. Qu’est-ce que ce serait d’aller à l’inverse ? A l’opposé de ce que tu as tenté depuis longtemps et qui, à l’évidence, échoue ? 
+
+Banni les pensées vaines à propos des « coupables, méchants, incompétents » sauf si elles apportent des solutions nouvelles ! 
+
+#### Clôture   
+
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### 4.5 Fusion d’équipes
+
+#### Raison d’être 
+
+ - Traverser humainement une fusion acquisition ou la fusion de deux équipes.
+
+ - Fonctionne aussi pour aider des membres et collègues d’un même organisme qui se « comprennent » difficilement.
+   
+#### Contexte 
+
+Lors d’une fusion de deux équipes ou de deux organismes, il y a une « absorption administrative ». Un organisme est absorbé par l’autre.
+
+Cette logique administrative n’est pas la logique humaine : humainement, il y a inclusion de chacun, ce qui modifie l’identité des deux parties pour en créer une nouvelle.
+ 
+#### Ligne directrice 
+
+L’objectif va être de faire apparaître une mosaïque de vécus complémentaires, en aucun cas de chercher la vérité.
+
+#### Inclusion  
+
+Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer.
+
+Les autres écoutent en silence.
+
+#### Process inclusion 
+
+*Nous préférons les méthodes aves des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.*
+
+Le rôle facilitation distribue la parole selon les étapes suivantes : 
+1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité.
+2. Présentations en plénière.
+3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises, etc.).
+4. Temps de décision collectif des prochaines actions utiles (par défaut en mode consentement).
+
+#### Clôture   
+
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### 4.6 Droit de recours
+
+#### Intention
+Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
+
+#####+ Autorités
+Les personnes qui ont autorité pour prendre et changer la décision sont identifiées : ce sont un rôle ou une cellule. S’il y a un flou, le rôle mémoire peut être sollicité pour interpréter les écrits. 
+
+#### Inclusion 
+Participants : 
+ - le rôle qui a pris une décision,
+ - le rôle mémoire qui a pour redevabilité d’interpréter la constitution sur demande,
+ - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans la cellule amont,
+ - un rôle facilitation,
+ - la personne qui demande ce temps.
+
+#### Processus
+La personne qui en a besoin sollicite ce temps auprès de celui ou celle qui a pris la décision. Cette dernière organise le temps de droit de recours. 
+
+Chaque participant est attentif aux arguments apportés. 
+
+La personne demandeuse explique son point de vue à sa manière, par exemple en utilisant le processus de CNV.
+
+Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).
+
+Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui parait judicieux mais attend qu’un participant le lui confirme pour le faire. 
+
+Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule amont. 
+
+Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
+
+#### Clôture
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### 4.7 Rétrospective & ambition
+
+#### Raison d’être 
+Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissages et définir ensemble les priorités générales des prochains mois.
 
 
+*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
 
+#### Inclusion 
+Chacun nomme comment il arrive.
+ 
+#### Processus
+**Célébration personnelle** (15-30’) : revisiter le passé en solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur moi, sur notre collectif et sur notre projet à l’occasion de ce qu’il s’est passé pour nous. Partage en collectif des éléments essentiels.  
+
+**Célébration collective** (15-30’) : revisiter le passé en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
+ - raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs).
+ - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
+ - Retracer les inconforts(ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
+ - Exprimer des gratitudes, à des membres, à soi ou à ces collectifs pour ce qui a été fait.
+
+Décisions des **priorités générales** pour la période à venir (30-60’) en plénière : 
+
+1) passer en revue ce que chacun adorerait vivre sur la prochaine période (rêve et aspiration),
+2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
+3) pondérer les idées,
+4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés ainsi qu’une ligne comportementale privilégiant une ou deux attitudes.
+5) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
+
+#### Clôture
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### 4.8 Rétrospective relationnelle
+
+#### Raison d’être 
+Un temps pour prendre soin de la relation et renforcer la coopération. Concrètement, faire la rétrospective d’une relation sur une période donnée, en tirer les apprentissages et se mettre d’accord sur comment fonctionner ensemble. Le fonctionnement visé utilisera les forces du collectif pour mieux composer avec les caractéristiques de chacun.
+
+*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
+
+#### Inclusion 
+Chacun nomme comment il arrive.
+
+#### Processus
+**Célébration personnelle** (15-30’) : temps solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur l’aspect relationnel vis-à-vis de moi, des autres et de nos relations de travail. Partage en collectif des éléments essentiels. 
+
+**Célébration relationnelle** (30’) En duo : 
+ 1) écrire pour au moins deux collègues un feedback avec : 
+ - une ou plusieurs choses que j’ai appréciées dans leur façon de coopérer
+ - une ou deux  qui m’ont été difficiles ainsi que
+ - ce qui me rendrait la coopération plus facile.
+
+2) Exprimer le feedback à la personne. Celle-ci réceptionne est en mode écoute silencieuse.
+3) La personne qui a écouté remercie, exprime ce que cela lui a fait et, si elle le souhaite, comment elle pense tenir compte de ce qu’elle a entendu pour renforcer ou modifier sa façon de coopérer. Elle peut demander de l’aide pour cela en précisant la forme concrète que prendrait cette aide.
+4) Proposer d’autre façons d’aider, sans insistance.
+5) La conversation se termine par un accord oral ou écrit sur la relation dans le cadre du travail et sur un remerciement mutuel. (il est souvent malaisant et inhabituel d’aborder ces sujets, le remerciement vient reconnaitre l’effort d’authenticité de chacun). 
+
+Variante : le processus peut être animé en collectif. Dans ce cas, une personne écoute les retours des autres membres de l’équipe, puis déroule le processus à partir de l’étape 3. 
+
+#### Clôture
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
 
 
@@ -1423,37 +1583,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 8.  Désir : une tension vers quelque chose de mieux apparaît, un nouveau changement est en cours, etc.
 
-#### 4.14 Elément Déblocage 180°   
 
-##### Raison d’être 
-
-Sur sa demande, aider un membre ou collègue à se distancier d’une difficulté relationnelle répétitive et à trouver une idée d’action révolutionnaire.
-
-##### Paradigme
-
-Technique : faire des expériences nouvelles pour s’extraire de situations répétitives.
-
-Principe stratégique : le demandeur assume qu’il attend de ce temps de conversation des améliorations concrètes.
-
-Philosophie : mon environnement me construit en même temps que je le façonne (co-construction).
-
-##### Process 180°
-
-Le rôle facilitation discute avec la personne demandeuse en suivant le canevas ci-dessous.
-
-1. Quel est le problème précisément (exemples factuels, ressentis et émotions).
-2. A quoi sens-tu que tu as envie de trouver une solution ? 
-3. Comment ce serait concrètement si c’était mieux ? 
-4. Listons les tentatives de solutions que tu as faites.
-5. Nous faisons aujourd’hui l’hypothèse qu’elles ont maintenu le problème par répétition. Repérons ensemble ce qui les sous-tend : l’implicite qu’elles comportent, le message qu’elles envoient.
-6. Ma recommandation est d’arrêter ces tentatives vu qu’elles ne marchent pas : arrêter de faire plus de la même chose.
-7. Qu’est-ce que ce serait d’aller à l’inverse ? A l’opposé de ce que tu as tenté depuis longtemps et qui, à l’évidence, échoue ? 
-
-Banni les pensées vaines à propos des « coupables, méchants, incompétents » sauf si elles apportent des solutions nouvelles ! 
-
-##### Clôture   
-
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 
  #### 4.17 Elément accompagnement extérieur
@@ -1474,106 +1604,10 @@ Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut re
 Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire.
 Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage.
 
-#### 4.18 Elément fusion d’équipes
 
-##### Raison d’être 
 
- - Traverser humainement une fusion acquisition ou la fusion de deux équipes.
 
- - Fonctionne aussi pour aider des membres et collègues d’une même structure qui se « comprennent » difficilement.
 
-##### Contexte 
-
-Lors d’une fusion de deux équipes ou de deux structures, il y a une « absorption administrative ». Une structure est absorbée par l’autre.
-
-Cette logique administrative n’est pas la logique humaine : humainement, il y a inclusion de chacun, ce qui modifie l’identité des deux parties pour en créer une nouvelle.
- 
-##### Ligne directrice 
-
-L’objectif va être de faire apparaître une mosaïque de vécus complémentaires, en aucun cas de chercher la vérité.
-
-##### Inclusion  
-
-Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre (ce qu’il peut craindre) et toute autre chose qu’il a envie de dire avant de commencer.
-
-Les autres écoutent en silence.
-
-##### Process inclusion 
-
-*Nous préférons les méthodes aves des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.*
-
-Le rôle facilitation distribue la parole selon les étapes suivantes : 
-1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité.
-2. Présentations en plénière.
-3. Temps de réaction après chaque présentation pour les autres entités (reformulation, ressentis, surprises, etc.).
-4. Temps de décision collectif des prochaines actions utiles (par défaut en mode consentement).
-
-##### Clôture   
-
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
-
-#### 4.19 Elément droit de recours
-
-##### Intention
-Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
-
-##### Autorités
-Les personnes qui ont autorité pour prendre et changer la décision sont identifiées : ce sont un rôle ou une cellule. S’il y a un flou, le rôle mémoire peut être sollicité pour interpréter les écrits. 
-
-##### Inclusion 
-Participants : 
- - le rôle qui a pris une décision,
- - le rôle mémoire qui a pour redevabilité d’interpréter la constitution sur demande,
- - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans la cellule amont,
- - un rôle facilitation,
- - la personne qui demande ce temps.
-
-##### Processus
-La personne qui en a besoin sollicite ce temps auprès de celui ou celle qui a pris la décision. Cette dernière organise le temps de droit de recours. 
-
-Chaque participant est attentif aux arguments apportés. 
-
-La personne demandeuse explique son point de vue à sa manière, par exemple en utilisant le processus de CNV.
-
-Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).
-
-Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui parait judicieux mais attend qu’un participant le lui confirme pour le faire. 
-
-Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule amont. 
-
-Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
-
-##### Clôture
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
-
-#### 4.20 Elément rétrospective & décisions
-
-##### Raison d’être 
-Revisiter les 6 derniers mois, en tirer des enseignements et des pistes d’amélioration, valoriser les membres et définir ensemble les priorités pour les prochains mois. 
-
-##### Inclusion 
-Chacun nomme comment il arrive.
- 
-##### Processus
-Célébration personnelle (15-30’) : temps solo pour me souvenir de de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur moi, les autres et le projet. Partage en collectif des éléments essentiels. 
-
-Célébration relationnelle (10-30’) : en duo, écrire (ou dire en mode écoute silencieuse) à au moins deux collègues une ou plusieurs choses que j’ai appréciées ou qui m’ont été difficiles ainsi que ce qui me rendrait la coopération plus facile. Variante : peut être réalisé dans un autre temps.
-
-Célébration collective (15-30’) : en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
- - raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs),
- - dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités),
- - exprimer les sources d’inconfort (ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
-
-décisions de la stratégie à moyen terme (15-30’) en plénière : 
-
-1) passer en revue ce que chacun adorerait vivre dans les 6 prochains mois (rêve et aspiration),
-2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
-3) pondérer les idées,
-4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés, leur cap global ainsi qu’une ligne comportementale privilégiant une ou deux attitudes,
-5) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
-
-##### Clôture
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 
 
@@ -1901,7 +1935,7 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
  - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
  - Egrégore : une énergie de groupe influencée par les désirs de plusieurs personnes unis dans un but commun.
  - Elément : module activable et désactivable par une cellule selon les besoins qu’elle rencontre.
- - Espace contrat : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui.
+ - Espace organisation : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui.
  - Espace relation : tous les temps, postures, processus permettant de cultiver ou restaurer la relation.
  - Espace sens : tous les temps, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie, etc.
  - Gestion par tension : utiliser les tensions comme source des prochaines actions. 
