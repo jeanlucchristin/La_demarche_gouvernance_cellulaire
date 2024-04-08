@@ -725,7 +725,9 @@ Seules l’inclusion et la clôture sont systématiques. 1 à 3h
 Chacun nomme comment il arrive, ce qu’il espère de ce temps, ce qu’il n’a pas envie de vivre, ce qu’il est important pour lui que les autres sachent de lui aujourd’hui, ou toute autre chose qu’il a envie de dire avant de commencer. Les autres écoutent. Ce temps peut être corporel.
 
 ### Clôture
-La clôture est d’une part un temps de connexion où chacun exprime son vécu et entend celui des autres, d’autre part une information donnée au rôle facilitation. Cette information permet d’ajuster sa verticalité d’une fois sur l’autre. En pratique, chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+La clôture est d’une part un temps de connexion où chacun exprime son vécu et entend celui des autres, d’autre part une information donnée au rôle facilitation. Cette information permet d’ajuster sa verticalité d’une fois sur l’autre. 
+
+En pratique, chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
 ### 3.7  Temps d’opération
 
