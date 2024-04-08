@@ -72,7 +72,7 @@ Légèreté-simplicité
 ### Méthodes (Pour concevoir et utiliser votre gouvernance)
 Pilotage de soi
 Création raison d’être
-Choix des Valeurs
+Valeurs du collectif
 Feedback
 Variantes décisions collectives
 Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
@@ -1396,53 +1396,137 @@ Simplifier le processus, fonctionner à distance.
 
 Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
 
+### 4.12 Rôle Source 
 
+#### Raison d’être du rôle source 
+Tenir le cap de son intuition de ce que pourrait devenir l'organisme ou le projet dont il a la charge dans l'organisme.
 
+#### Redevabilités  
+ - Révéler la raison d’être en fonction de ce qu’il perçoit.
+ - Actualiser cette raison d’être selon son intuition en tenant compte des remontées des membres de l'organisme. 
+ - Faire son possible pour que cette intuition devienne réalité.
 
+#### Domaine  
+Un domaine peut être précisé. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
 
+#### Cellule d’ancrage
+Le rôle source de l'organisme fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de l'organisme.
 
+Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage.
 
+#### Rôle source d'un projet
+Dans le cadre d’un projet en autonomie, l'organisme d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
 
+### 4.13 Rôle urgentiste 
 
+#### Raison d’être urgentiste
 
+Ce rôle permet aux « leaders pyramidaux » (voir curseur managérial) de passer officiellement en mode donneur d’ordre en cas d’urgence. 
+Il assume la prise de pouvoir ponctuelle sur un rôle, ce qui évite de discréditer toute la démarche. 
 
+#### Redevabilités urgentiste 
+En cas d’urgence, le leader pyramidal reprend une délégation qui avait été confiée à un rôle.
+Il doit nommer qu’il passe en rôle « urgentiste ».
+Il active ce rôle le plus rarement possible.
+Il met en place des actions de fond pour que ce rôle devienne obsolète.
+Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
 
+### 4.14 Rôles ami renfort
 
+#### Raison d’être  
 
+Ce rôle aide toute personne qui le demande à à cultiver la meilleure version de soi-même au service du collectif.
+Chacun peut l’attribuer à la personne de son choix (si elle accepte).
 
+En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins une personne.
 
+#### Redevabilités
 
+ - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis tout ce qui a déjà été fait (ce n’est pas le sujet).
+ - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (ce n’est pas le sujet).
+ - Me signaler quand, au lieu d’exprimer une tension et une demande, je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière.
+ - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
+ - M’aider à prendre du recul avec l’élément Pilotage de soi quand j’en ai besoin. 
 
+### 4.15 Rôle protection
 
+#### Raison d’être rôle protection
+Sécuriser le collectif en accompagnant les personnes qui gênent les équipes pour comprendre leur attitude et les aider soit à rallier le collectif, soit à ne plus le déstabiliser. La déstabilisation peut concerner un membre, une équipe ou le projet.
 
+##### Redevabilités rôle protection
+ - Etudier toute situation sur laquelle il a été sollicité pour évaluer s’il est pertinent d’intervenir depuis son rôle. 
+ - Détecter les comportements à risque vis-à-vis du projet, de la culture interne ou des personnes. 
+ - Rencontrer la ou les personnes concernées, leur exposer la déstabilisation observée, soit vis-à-vis du respect des accords (les écrits), soit vis-à-vis du respect du projet (le projet comprenant la culture de coopération interne). 
+ - Ecouter leur point de vue, chercher avec elles une issue satisfaisante.
+ - Demander des actions concrètes.
+ - Déclencher une élection sans candidat pour les rôles élus quand cela pourrait être utile au collectif. 
+ - Demander une réaffectation des rôles quand cela pourrait être utile au collectif.
+ - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
 
+### 4.16 Elément Entretien annuel  
 
+#### Raison d’être 
 
+Répondre au besoin de certains organismes ou de certains membres de disposer d’un processus d’entretien annuel.
 
+#### Limite
 
+Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idée ».
 
+#### Process entretien annuel
 
+1. Un membre choisit un collègue et lui propose le rôle de réaliser son entretien annuel.
+2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur.
 
+La personne restitue au demandeur ce qui lui a été dit lors d’un rendez-vous planifié, dans un espace fermé, téléphones éteints.
+Le demandeur remercie la personne pour avoir préparé et communiqué ce retour.
 
+#### Support de questionnement
 
+Le support de questionnement peut être :
 
+   - celui de la structure,
+   - une grille fournie par le demandeur,
+   - simplement :
+    - la question « comment vis-tu « l’efficacité » et « l’humanisme » à l’occasion des séquences de travail avec le demandeur ? »
+    - dans ton idéal, qu’est-ce qui changerait l’an prochain ? 
 
+#### Clôture   
 
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
+### 4.17 Légèreté-simplicité  
 
+#### Sobriété d’organisation
+Un formalisme minimum sera créé (cellule, rôles, politiques, processus, etc.) pour :
+ - pouvoir travailler ensemble,
+ - ne pas entraver l’action.
 
+#### Rôle simplification
+Un rôle simplification pourra être activé pour veiller à supprimer ou remplacer (en temps de réorganisation) :
+ - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit,
+ - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit,
+ - toutes les règles ou politiques qui nient l’intelligence de chacun.
+ 
+Ce rôle pourra être affecté à certains membres de la cellule ou à tous.
 
+#### Intention
+Contrer la tendance humaine à générer de la complication pérenne.
 
+Permettre aux membres de connaitre leur organisation avec un investissement minimum.
 
+Focaliser l’attention sur les seuls sujets qui le nécessitent.
 
+#### Sobriété de la constitution 
+La description du livret central sera la plus légère possible.
 
+# 5 Méthodes 
 
+pour concevoir votre gouvernance
 
+### 5.1  Pilotage de soi 
 
-
-#### 2.8  Pilotage de soi 
-
-##### Raison d’être
+#### Raison d’être
 
 Ecouter les personnes qui sont en tension interne, notamment par rapport à des décisions qui ont été prises. 
 
@@ -1450,20 +1534,20 @@ Aider la personne restaurer sa puissance d’agir et à décider ce qu’elle ve
 
 Accueillir, apporter de l’empathie, de la chaleur humaine. 
 
-##### Préparation 
+#### Préparation 
 
 Ce process peut être utilisé :  
  - par une personne impactée (seule, ou en se faisant accompagner),
  - lors de discussions entre collègues avec l’accord de la personne. 
 
-##### Process
+#### Process
 
 Le rôle facilitation passe par différentes étapes.
 
 1. Réalité : rappelle ce qu'il s’est passé, les faits.
 2. Vécu : qu’as-tu éprouvé pendant la prise de décision ?
-3. Elan : comment aurais-tu aimé que cela se passe ? 
-4. Relation : qu’aurais-tu aimé que les autres fassent ? 
+3. Aspiration : comment aurais-tu aimé que cela se passe ? 
+4. Attente : qu’aurais-tu aimé que les autres fassent ? 
 
 Les prochaines fois...
 
@@ -1474,44 +1558,124 @@ Les prochaines fois...
 
 ##### Clôture   
 
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
+### 5.2 Création raison d’être
 
-
-
-
-
-#### 4.2 Elément création raison d’être
-
-##### Raison d’être 
+#### Raison d’être 
 Co-construire une raison d’être quand elle ne s’actualise pas suffisamment par itérations spontanées. 
 
-##### Méthode    
+#### Méthode    
 Le processus peut être différent, celui-ci présente l’intérêt de dépasser les capacité du mental.
 
-##### Inclusion  
+#### Inclusion  
 Les invités sont les personnes (ou leurs représentants) concernées et celles compétentes pour le sujet.
 
 Tour d’inclusion : comment je me sens en arrivant ?
 
-##### Processus
+#### Processus
 Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 
-1. Dessiner d’où vient votre structure, son histoire (sous groupes « historiques » s’il y a lieu).
+1. Dessiner d’où vient votre organisme, son histoire (sous groupes « historiques » s’il y a lieu).
    Repérer ce que vous avez laissé derrière vous aux étapes clefs.
 2. Restitution.
-3. Dessiner la structure actuelle (éventuellement modifier les groupes).
+3. Dessiner l'organisme actuel (éventuellement modifier les groupes).
    Repérer les tensions.
-4. Dessiner la future structure (mélanger les membres ou collègues  des différents groupes historiques). Repérer les différences par rapport à aujourd’hui.
+4. Dessiner le futur organisme (mélanger les membres ou collègues  des différents groupes historiques).
+   Repérer les différences par rapport à aujourd’hui.
    Qu’allez-vous devoir abandonner ? Qu’allez-vous gagner au changement ? 
-5. Restitutions.
-6. Créer une phrase de raison d’être en mode consentement consolidée par concordance comprenant : 
-   - ce que la structure va apporter (nous allons créer…),
+6. Restitutions.
+7. Créer une phrase de raison d’être en mode consentement consolidée par concordance comprenant : 
+   - ce que l'organisme va apporter (nous allons créer…),
    - comment elle va procéder (en…),
    - la motivation de fond (parce nous considérons important de…).
    - 
-##### Clôture   
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
+#### Clôture   
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### Valeurs du collectif
+
+Figure : Valeurs du collectif
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/93031459-9d20-4a54-bc1d-4256697cead3)
+
+#### Intention :
+L’intention de cet élément est de soutenir un temps de conversation pour qu’un collectif s’accorde sur ses valeurs. 
+
+Bien sûr, chacun·e conservera en parallèle ses valeurs personnelles. 
+
+#### Qu’est-ce qu’une valeur ?
+Le sujet des valeurs d’un collectif parle de qui nous sommes et de qui nous voulons être. Comme la raison d’être, les valeurs sont des guides pour les décisions, l’adaptattion des processus et les comportements des membres de l’équipe. Elles nécessitent d’être transformées en éléments concrets pour réellement exister. Il est préférable de ne pas évaluer l’application des valeurs par quelqu’un car cela risque d’entrainer une exigence déplacée sur la personne. La gestion par tension est une meilleure réponse quand il y a besoin d’ajustements, avec en particulier le « temps d’opération ». 
+
+#### Inclusion  
+Chacun nomme comment il arrive.
+
+Le processus peut être différent.
+
+#### Processus :
+Ce processus nécessite un rôle facilitation et un temps confortable (2 à 4 heures). Selon la taille de l’organisme, il sera réalisé par tous ou par un échantillon représentatif ou par un cercle (ancrage par exemple). 
+
+ - **Temps préparatoire** : en sous-groupe de 12 maximum, chacun·e écrit 3 comportements « Ca, c’est vraiment nous » et 3 comportements « Ca, c’est vraiment pas nous ».
+  - Mise en commun et discussion sur les valeurs qui sont révélées par ces deux types de comportements.
+ - Dans un second temps, les participants répartissent les valeurs précédentes sur la charte valeurs du collectif et  les regroupent. Ils vérifient que ce choix est cohérent avec la raison d’être. Ils améliorent le résultat en ajoutant ou retirant des valeurs. Ils repèrent les convergences et les désaccords.
+ - S’il y a plusieurs sous-groupes, la restitution en plénière est effectuée à ce stade.
+ - Quand les différents points de vue sont suffisamment clairs, les participants peuvent passer à une décision collective (par exemple en GPC consolidée en concordance) pour retenir quelques valeurs.
+ - Un troisième temps de palabre (30’) permet d’évoquer comment ces valeurs prennent forme concrètement dans l’organisme (par exemple sur l’organisation, ou sur les relations internes, ou sur la stratégie commerciale, etc).
+ - Un quatrième temps, éventuellement décalé ou animé dans chaque cercle permet de choisir comment déployer ces valeurs. 
+
+Clôture
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
@@ -1678,72 +1842,6 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
 
 
-#### 4.26 Elément rôle Source 
-
-##### Raison d’être du rôle source 
-Tenir le cap de son intuition de ce que pourrait devenir la structure ou le projet dont il a la charge dans la structure.
-
-##### Redevabilités  
- - Révéler la raison d’être en fonction de ce qu’il perçoit.
- - Actualiser cette raison d’être selon son intuition en tenant compte des remontées des membres de la structure. 
- - Faire son possible pour que cette intuition devienne réalité.
-
-##### Domaine  
-Un domaine peut être précisé. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
-
-##### Cellule d’ancrage
-Le rôle source de la structure fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de la structure.
-
-Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage.
-
-##### Réutilisation
-Dans le cadre d’un projet en autonomie, la structure d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
-
-#### 4.27 Elément rôle urgentiste 
-
-##### Raison d’être urgentiste
-
-Ce rôle permet aux « leaders pyramidaux » (voir curseur managérial) de passer officiellement en mode donneur d’ordre en cas d’urgence. 
-Il assume la prise de pouvoir ponctuelle sur un rôle, ce qui évite de discréditer toute la démarche. 
-
-##### Redevabilités urgentiste 
-En cas d’urgence, le leader pyramidal reprend une délégation qui avait été confiée à un rôle.
-Il doit nommer qu’il passe en rôle « urgentiste ».
-Il active ce rôle le plus rarement possible.
-Il met en place des actions de fond pour que ce rôle devienne obsolète.
-Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
-
-#### 4.28 Elément rôles ami renfort
-
-##### Raison d’être  
-
-Ce rôle aide toute personne qui le demande à à cultiver la meilleure version de soi-même au service du collectif.
-Chacun peut l’attribuer à la personne de son choix (si elle accepte).
-
-En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins une personne.
-
-##### Redevabilités
-
- - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis tout ce qui a déjà été fait (ce n’est pas le sujet).
- - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (ce n’est pas le sujet).
- - Me signaler quand, au lieu d’exprimer une tension et une demande, je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière.
- - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
- - M’aider à prendre du recul avec l’élément Pilotage de soi quand j’en ai besoin. 
-
-#### 4.29 Elément rôle protection
-
-##### Raison d’être rôle protection
-Sécuriser le collectif en accompagnant les personnes qui gênent les équipes pour comprendre leur attitude et les aider soit à rallier le collectif, soit à ne plus le déstabiliser. La déstabilisation peut concerner un membre, une équipe ou le projet.
-
-##### Redevabilités rôle protection
- - Etudier toute situation sur laquelle il a été sollicité pour évaluer s’il est pertinent d’intervenir depuis son rôle. 
- - Détecter les comportements à risque vis-à-vis du projet, de la culture interne ou des personnes. 
- - Rencontrer la ou les personnes concernées, leur exposer la déstabilisation observée, soit vis-à-vis du respect des accords (les écrits), soit vis-à-vis du respect du projet (le projet comprenant la culture de coopération interne). 
- - Ecouter leur point de vue, chercher avec elles une issue satisfaisante.
- - Demander des actions concrètes.
- - Déclencher une élection sans candidat pour les rôles élus quand cela pourrait être utile au collectif. 
- - Demander une réaffectation des rôles quand cela pourrait être utile au collectif.
- - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
 
 
 #### 4.30 Elément curseur managérial Que fait le rôle pilotage de votre cellule ?
@@ -1804,37 +1902,7 @@ Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agi
 #####  Réglage
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
 
-#### 4.32 Elément Entretien annuel  
 
-##### Raison d’être 
-
-Répondre au besoin de certaines structures ou de certains membres de disposer d’un processus d’entretien annuel.
-
-##### Limite
-
-Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idée ».
-
-##### Process entretien annuel
-
-1. Un membre choisit un collègue et lui propose le rôle de réaliser son entretien annuel.
-2. La personne questionne à minima trois personnes qui travaillent directement avec le demandeur. Elle leur précise qu’un retour sera fait au demandeur.
-
-La personne restitue au demandeur ce qui lui a été dit lors d’un rendez-vous planifié, dans un espace fermé, téléphones éteints.
-Le demandeur remercie la personne pour avoir préparé et communiqué ce retour.
-
-##### Support de questionnement
-
-Le support de questionnement peut être :
-
-   - celui de la structure,
-   - une grille fournie par le demandeur,
-   - simplement :
-    - la question « comment vis-tu « l’efficacité » et « l’humanisme » à l’occasion des séquences de travail avec le demandeur ? »
-    - dans ton idéal, qu’est-ce qui changerait l’an prochain ? 
-
-##### Clôture   
-
-Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’a vécu du point de vue efficacité et humanisme.
 
 #### 4.33 Elément numérique
 
@@ -1860,30 +1928,6 @@ https://trello.com/b/002WfWqn
 
 Des outils payants existent également.
 
-#### 4.34 Elément légèreté-simplicité  
-
-##### Sobriété d’organisation
-Un formalisme minimum sera créé (cellule, rôles, politiques, processus, etc.) pour :
- - pouvoir travailler ensemble,
- - ne pas entraver l’action.
-
-##### Rôle simplification
-Un rôle simplification pourra être activé pour veiller à supprimer ou remplacer (en temps de réorganisation) :
- - tous les rôles dont il n’est pas nécessaire de disposer formellement par écrit,
- - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit,
- - toutes les règles ou politiques qui nient l’intelligence de chacun.
- 
-Ce rôle pourra être affecté à certains membres de la cellule ou à tous.
-
-##### Intention
-Contrer la tendance humaines de générer de la complication pérenne.
-
-Permettre aux membres de connaitre leur organisation avec un investissement minimum.
-
-Focaliser l’attention sur les seuls sujets qui le nécessitent.
-
-##### Sobriété de la constitution 
-La description du livret central sera la plus légère possible.
 
 ## 5  CONSTITUTION : Bibliographie et glossaire 
 
