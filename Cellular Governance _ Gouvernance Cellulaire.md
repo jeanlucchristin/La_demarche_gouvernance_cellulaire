@@ -201,7 +201,7 @@ Nous n'avons pas d'investisseur financier en attente de contrepartie.
 ### 2.1  L’efficacité-humaniste* & son autodiagnostic
 *Des conditions pour que les décisions prises soient suivies d’effets.*
 
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/f76ddc6a-e21a-462d-a6b8-7367d44e3d9e)
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/0d7a84a7-1ff4-4676-a51e-45855ebe0245)
 
 Figure 2.1 L’efficacité-humaniste & son autodiagnostic
 
