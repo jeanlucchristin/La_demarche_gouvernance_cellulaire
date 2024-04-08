@@ -1100,7 +1100,9 @@ Nous nous engageons à respecter les principes de souveraineté (non-ingérence)
 
  - Nous agissons dans le respect de notre constitution, version XX du XX entrée en vigueur aujourd’hui, de nos processus et de nos politiques.
  - Nous agissons dans le cadre des rôles qui nous sont affectés pour apporter le plus à l’organisme et à la réalisation de sa raison d’être.
- - Nous agissons au mieux quand l’organisation n’est pas définie. Nous pouvons agir dans un rôle qui ne nous est pas affecté si nous pensons apporter quelque chose d’utile, sans toutefois intervenir sur un « domaine ».
+ - Nous agissons au mieux quand l’organisation n’est pas définie.
+   
+   Nous pouvons agir dans un rôle qui ne nous est pas affecté si nous pensons apporter quelque chose d’utile, sans toutefois intervenir sur un « domaine ».
  - Nous respecterons l’auto-détermination (liberté d’agir) des rôles et cellules créés.
  - Nous respectons les décisions des rôles et cellules. Nous exprimons nos tensions liées à des décisions le cas échéant. 
 
