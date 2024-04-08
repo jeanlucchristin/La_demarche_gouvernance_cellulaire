@@ -512,6 +512,8 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 ![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/934d9312-3f89-4345-8c1f-bce9af25c25a)
 
+Figure 3.0 Vision globale de la constitution repère
+
 #### **Espace Sens** 
    - Raison d’être : une raison d’être (pour l'organisme, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
    - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
