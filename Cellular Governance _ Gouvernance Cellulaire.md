@@ -1968,7 +1968,7 @@ Depuis septembre 2019, une équipe est active pour tester, améliorer, transmett
 
 #### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
-Olivier Daniel Thomas, Nicolas Begel, Jean-Christophe Ciceron, Christophe Hérault, Stéphanie De Susanne, Georges Comby, 	David Drayer (rôle lead).
+Olivier Daniel Thomas, Nicolas Begel, Jean-Christophe Ciceron, Christophe Hérault, Stéphanie De Susanne, Georges Comby, David Drayer (rôle lead).
 
 #### Cellule rayonnement 
 Inspirer et enchanter le monde de l'organisme et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
