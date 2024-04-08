@@ -1,4 +1,4 @@
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/9b98e84e-5acd-4ea9-a59b-af6a3d215af3)# La démarche Gouvernance cellulaire version 3.2
+# La démarche Gouvernance cellulaire version 3.2
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
@@ -9,7 +9,6 @@ Elle est déposée ici : https://github.com/jeanlucchristin/constitution-cellula
 
 Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
 Plus d’infos à la fin de la constitution.* 
-
 
 # Table des matières 
 
@@ -1332,53 +1331,47 @@ Variante : le processus peut être animé en collectif. Dans ce cas, une personn
 #### Clôture
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
+### 4.9 Consolidation de décision par concordance
 
+#### Raison d’être : forts enjeux humains 
 
+Solidifier une décision par concordance révèle des freins non conscients. La concordance vise une adhésion pleine et entière de tous les participants en révélant des blocages potentiels.
 
+Elle peut être longue, par conséquent, elle est réservée aux décisions à fort enjeu.
 
+#### Déclenchement
+Quand une décision a été prise selon le processus de la cellule, un membre gouvernant peut demander une solidification par concordance. Le temps maximum de concordance est alors précisé.
 
+#### Processus
 
+LLe rôle facilitation demande aux participants de fermer les yeux, de se centrer sur leur corps, leurs sensations, leur respiration. Il leur demande de se remémorer les étapes qui ont conduit à la décision, la lit et leur demande s’ils sont 100% d’accord avec ce résultat malgré leurs préférences compte-tenu de là où en est le collectif, de sa raison d’être et de ce qu’il a à faire.
 
+Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ça me va », même un temps de silence long avant le « oui ».
 
+Le rôle facilitation procède à un tour de salle demandant « Es-tu 100% d’accord avec ce résultat ? » et écoute les réponses.
+Il revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait-il pour être 100% en accord ? ».
 
+Ce temps de recherche favorise des améliorations créatives utiles.
+Si le collectif n’arrive pas à une décision dans les temps impartis, la décision qui avait été prise reste effective. 
 
+La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
+### 4.10 Décision hors réunion
 
+#### Raison d’être 
 
+Simplifier le processus, fonctionner à distance.
 
+#### Processus 
 
+1. Tout membre gouvernant d’une cellule peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres de la cellule.
+2. Il répond aux questions de clarification.
+3. Il prend connaissance des réactions.
+4. Si un membre demande à ce que le point passe en temps de réorganisation formel, le processus est stoppé.
+5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
+6. Le rôle mémoire enregistre la proposition.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 3.2 Rôle prendre soin
+#### 4.11 Rôle prendre soin
 
 ##### Prendre soin des personnes dans leurs rôles, par exemple :
 
@@ -1402,6 +1395,50 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 ##### Affectation  
 
 Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### 2.8  Pilotage de soi 
 
@@ -1611,30 +1648,7 @@ Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouv
 
 
 
-#### 4.22 Elément consolidation de décision par concordance
 
-##### Raison d’être : forts enjeux humains 
-
-Solidifier une décision par concordance révèle des freins non conscients. La concordance vise une adhésion pleine et entière de tous les participants en révélant des blocages potentiels.
-
-Elle peut être longue, par conséquent, elle est réservée aux décisions à fort enjeu.
-
-#### Déclenchement
-Quand une décision a été prise selon le processus de la cellule, un membre peut demander une solidification par concordance. Le temps maximum de concordance est alors précisé.
-
-##### Processus
-
-LLe rôle facilitation demande aux participants de fermer les yeux, de se centrer sur leur corps, leurs sensations, leur respiration. Il leur demande de se remémorer les étapes qui ont conduit à la décision, la lit et leur demande s’ils sont 100% d’accord avec ce résultat malgré leurs préférences compte-tenu de là où en est le collectif, de sa raison d’être et de ce qu’il a à faire.
-
-Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ça me va », même un temps de silence long avant le « oui ».
-
-Le rôle facilitation procède à un tour de salle demandant « Es-tu 100% d’accord avec ce résultat ? » et écoute les réponses.
-Il revient ensuite vers les membres qui n’ont pas prononcé exactement « oui » et leur demande « que te faudrait-il pour être 100% en accord ? ».
-
-Ce temps de recherche favorise des améliorations créatives utiles.
-Si le collectif n’arrive pas à une décision dans les temps impartis, la décision qui avait été prise reste effective. 
-
-La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
 #### 4.23 Elément variantes décisions collectives 
 
@@ -1662,21 +1676,6 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
 4. Demandeur, quelle est ta proposition ?
 5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
-
-#### 4.24 Elément décision hors réunion
-
-##### Raison d’être 
-
-Simplifier le processus, fonctionner à distance.
-
-##### Processus 
-
-1. Tout membre d’une cellule peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres de la cellule.
-2. Il répond aux questions de clarification.
-3. Il prend connaissance des réactions.
-4. Si un membre demande à ce que le point passe en temps de réorganisation formel, le processus est stoppé.
-5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
-6. Le rôle mémoire enregistre la proposition.
 
 
 #### 4.26 Elément rôle Source 
