@@ -1615,7 +1615,7 @@ Le processus peut être différent.
 Ce processus nécessite un rôle facilitation et un temps confortable (2 à 4 heures). Selon la taille de l’organisme, il sera réalisé par tous ou par un échantillon représentatif ou par un cercle (ancrage par exemple). 
 
  - **Temps préparatoire** : en sous-groupe de 12 maximum, chacun·e écrit 3 comportements « Ca, c’est vraiment nous » et 3 comportements « Ca, c’est vraiment pas nous ».
-  - Mise en commun et discussion sur les valeurs qui sont révélées par ces deux types de comportements.
+   - Mise en commun et discussion sur les valeurs qui sont révélées par ces deux types de comportements.
  - Dans un second temps, les participants répartissent les valeurs précédentes sur la charte valeurs du collectif et  les regroupent. Ils vérifient que ce choix est cohérent avec la raison d’être. Ils améliorent le résultat en ajoutant ou retirant des valeurs. Ils repèrent les convergences et les désaccords.
  - S’il y a plusieurs sous-groupes, la restitution en plénière est effectuée à ce stade.
  - Quand les différents points de vue sont suffisamment clairs, les participants peuvent passer à une décision collective (par exemple en GPC consolidée en concordance) pour retenir quelques valeurs.
