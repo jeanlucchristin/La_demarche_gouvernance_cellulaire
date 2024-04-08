@@ -510,9 +510,9 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 ### 3.0 Constitution repère
 
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/934d9312-3f89-4345-8c1f-bce9af25c25a)
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/3eb67074-b5c8-42e0-b499-2b0ded523735)
 
-Figure 3.0 Vision globale de la constitution repère
+Figure 3.0 Fonctionnement de la constitution repère
 
 #### **Espace Sens** 
    - Raison d’être : une raison d’être (pour l'organisme, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
