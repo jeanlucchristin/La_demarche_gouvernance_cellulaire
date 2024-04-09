@@ -97,7 +97,7 @@ Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre
 
 Il permet en particulier à chaque organisme d’écrire sa propre constitution, en fonction de son contexte et sa culture, qui veille à l’équilibre éthique entre « agir » et « prendre soin ». Chacun peut s’approprier ces éléments en les adaptant.
 
-Ce guide est en constante évolution, hautement imparfait, et sous licence CCbySA.
+Ce guide est en constante évolution, et sous licence CCbySA.
 
 #### Structure du document :
 
