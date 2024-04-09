@@ -1606,7 +1606,9 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
    - la motivation de fond (parce nous considérons important de…).
 
 #### Elégance
-Nous avons entendu cette pratique géniale qui consiste à s’engager auprès des jeunes générations autour d’un petit « feu des enfants ». Ce feu symbolise les 7 générations futures. Cette coutume issue des Indiens dakotas parait particulièrement pertinente au moment de réfléchir à la raison d’être d’un organisme à l’heure actuelle. 
+
+Nous avons entendu cette pratique géniale qui consiste à s’engager auprès des jeunes générations autour d’un petit « feu des enfants » au moment des décisions à fort enjeu. Ce feu symbolise les 7 générations futures. Cette coutume issue des Indiens Lakotas interdit de prendre une décision qui nuirait aux générations futures. 
+Elle parait particulièrement pertinente pour réfléchir à la raison d’être d’un organisme à l’heure actuelle. 
 
 #### Clôture   
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
