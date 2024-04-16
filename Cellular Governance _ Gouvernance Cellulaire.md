@@ -17,7 +17,7 @@ Plus d’infos à la fin de la constitution.*
  - La démarche gouvernance cellulaire
  - Philosophie
  - Trois piliers éthiques
- - Raison d’être de la gouvernancecellulaire
+ - Raison d’être de la gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
   - L’efficacité-humaniste & son autodiagnostic
@@ -39,11 +39,12 @@ Plus d’infos à la fin de la constitution.*
  - Actualisation de la raison d’être
  - Temps de décision éthique
  - Rétrospective & ambition
- - Ajustement relationnel
+ - Rétrospective relationnelle
  - Régulation « marcher-parler »
  - Exigence de solidarité
+ - Création de rituel
  - Temps d’opération (processus de triage)
- - Décision collective (processus de gestion par consentement)
+ - Décision collective (processus de gestion par consentement)
  - Temps de réorganisation
  - Election sans candidat
  - Rôle et cellule
@@ -51,6 +52,7 @@ Plus d’infos à la fin de la constitution.*
  - Rôle facilitation
  - Rôle mémoire
  - Rôle représentation
+ - Séparation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
  - Contrat de liberté d’agir 
