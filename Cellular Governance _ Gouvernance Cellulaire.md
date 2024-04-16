@@ -1894,8 +1894,8 @@ Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](
 - Simon Sinek (2011) *Start with why*, portfolio qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
 - Dan Buettner : pour la diffusion du concept japonais IKIGAI ajoutant la dimension Ce pour quoi je peux être payé
 - Nonaka I. (1994), *A dynamic theory of organizational knowledge creation*, Organization Science, Vol. 5, n° 1, p. 14–37
-- Mary Parker Follett, (1918) *The New State*, Longmans Green pour ses modélisations de la réciprocité et la distinction « Power over and power with » dès les années 1900 en réponse à à FW Taylor, (1911) *The Principles of Scientific Management*, Harper et Brothers publisher
-Notre ambition ici est un mariage posthume entre les théories humanistes de Parket Follet et celles de Taylor
+- Mary Parker Follett, (1918) *The New State*, Longmans Green pour ses modélisations de la réciprocité et la distinction « Power over and power with » dès les années 1900 en réponse à à FW Taylor, (1911) *The Principles of Scientific Management*, Harper et Brothers publisher. Notre ambition ici est un mariage posthume entre les théories humanistes de Parket Follet et celles de Taylor
+- Mac Macartney et Antoine Cros pour leur transmission orale du feu des enfants lisible [ici](https://macmacartney.com/portfolio/thechildrensfire/)
 - Pablo Sevigne et Gauthier Chapelle (2017) *L’entraide, l’autre loi de la jungle*, Les liens qui libèrent éditions
 
 #### 6.2  Glossaire 
