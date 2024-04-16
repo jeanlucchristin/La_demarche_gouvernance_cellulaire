@@ -1407,7 +1407,8 @@ Simplifier le processus, fonctionner à distance.
  - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
  - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
- - **Écoute de soi** : être présent à ce que cela nous fait vivre et fixer ses limites.
+ - **Écoute de soi** : être attentif à ce que cela nous fait vivre et fixer ses limites.
+ - **Plénitude** : être présent à ses sensations, émotions, pensées. Observer ce que cela change. Créer les conditions pour que cela soit possible pour toutes et tous. 
  - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous.
 
 #### Affectation  
