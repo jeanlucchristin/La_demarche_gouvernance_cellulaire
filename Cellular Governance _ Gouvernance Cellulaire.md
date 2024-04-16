@@ -14,9 +14,13 @@ Plus d’infos à la fin de la constitution.*
 
 ### 1 Introduction
 Présentation de ce document  
+
 La démarche gouvernance cellulaire
+
 Philosophie 
-3 piliers éthiques
+
+Trois piliers éthiques
+
 Raison d’être de la gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
