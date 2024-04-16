@@ -71,18 +71,18 @@ Plus d’infos à la fin de la constitution.*
  - Légèreté-simplicité 
 
 ### 5 Méthodes (Pour concevoir et utiliser votre gouvernance)
-Pilotage de soi
-Création raison d’être
-Valeurs du collectif
-Feedback
-Variantes décisions collectives
-Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
-Niveaux d’autonomie
-Composer avec nos différences 
-Des repères pendant le changement
-Accompagnement extérieur
-Numérique
-Elément magique 
+ - Pilotage de soi
+ - Création raison d’être
+ - Valeurs du collectif
+ - Feedback
+ - Variantes décisions collectives
+ - Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
+ - Niveaux d’autonomie
+ - Composer avec nos différences
+ - Des repères pendant le changement
+ - Accompagnement extérieur
+ - Numérique
+ - Elément magique 
 
 ### 6 Bibliographie et glossaire
 
