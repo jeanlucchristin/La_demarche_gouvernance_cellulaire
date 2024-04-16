@@ -24,27 +24,18 @@ Trois piliers éthiques
 Raison d’être de la gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
-L’efficacité-humaniste & son autodiagnostique
-
-Culture essai-apprentissage
-
-Souveraineté et lien
-
-Principe de choix - souveraineté
-
-Contentement 
-
-L’estime de soi
-
-Distinction personne et rôle
-
-Frustration
-
-Responsabilité de tension
-
-Responsabilités de membre gouvernant
-
-Réciprocité
+  - L’efficacité-humaniste & son autodiagnostic
+  - L’estime de soi
+  - Principe de choix - souveraineté
+  - Culture essai-apprentissage
+  - Responsabilité de tension
+  - Responsabilités de membre gouvernant
+  - Réciprocité
+  - Souveraineté et lien
+  - Distinction personne et rôle
+  - Egrégore
+  - Contentement
+  - Frustration
 
 ### 3 Constitution repère
  - Vision globale
