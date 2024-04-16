@@ -25,34 +25,60 @@ Raison d’être de la gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
 L’efficacité-humaniste & son autodiagnostique
+
 Culture essai-apprentissage
+
 Souveraineté et lien
-Principe de choix - souveraineté 
+
+Principe de choix - souveraineté
+
 Contentement 
+
 L’estime de soi
+
 Distinction personne et rôle
+
 Frustration
+
 Responsabilité de tension
+
 Responsabilités de membre gouvernant
+
 Réciprocité
 
 ### 3 Constitution repère
 Vision globale
+
 Raison d’être
+
 Actualisation de la raison d’être
+
 Temps de décision éthique
+
 Rétrospective & ambition
+
 Ajustement relationnel
+
 Régulation « marcher-parler »
+
 Exigence de solidarité
+
 Temps d’opération (processus de triage) 
+
 Décision collective (processus de gestion par consentement)
+
 Temps de réorganisation
+
 Election sans candidat
+
 Rôle et cellule
+
 Rôle lead
+
 Rôle facilitation
+
 Rôle mémoire
+
 Rôle représentation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
