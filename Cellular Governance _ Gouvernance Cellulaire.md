@@ -47,57 +47,41 @@ Responsabilités de membre gouvernant
 Réciprocité
 
 ### 3 Constitution repère
-Vision globale
-
-Raison d’être
-
-Actualisation de la raison d’être
-
-Temps de décision éthique
-
-Rétrospective & ambition
-
-Ajustement relationnel
-
-Régulation « marcher-parler »
-
-Exigence de solidarité
-
-Temps d’opération (processus de triage) 
-
-Décision collective (processus de gestion par consentement)
-
-Temps de réorganisation
-
-Election sans candidat
-
-Rôle et cellule
-
-Rôle lead
-
-Rôle facilitation
-
-Rôle mémoire
-
-Rôle représentation
+ - Vision globale
+ - Raison d’être
+ - Actualisation de la raison d’être
+ - Temps de décision éthique
+ - Rétrospective & ambition
+ - Ajustement relationnel
+ - Régulation « marcher-parler »
+ - Exigence de solidarité
+ - Temps d’opération (processus de triage)
+ - Décision collective (processus de gestion par consentement)
+ - Temps de réorganisation
+ - Election sans candidat
+ - Rôle et cellule
+ - Rôle lead
+ - Rôle facilitation
+ - Rôle mémoire
+ - Rôle représentation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
-Contrat de liberté d’agir 
-Palabre
-Régulation CNV
-Déblocage 180° 
-Fusion d’équipes
-Droit de recours
-Consolidation par concordance
-Décision hors réunion
-Rôle prendre soin
-Rôle source 
-Rôle urgentiste
-Rôle ami renfort
-Rôle protection
-Séparation
-Entretien annuel 
-Légèreté-simplicité 
+ - Contrat de liberté d’agir 
+ - Palabre
+ - Régulation CNV
+ - Déblocage 180°
+ - Fusion d’équipes
+ - Droit de recours
+ - Consolidation par concordance
+ - Décision hors réunion
+ - Rôle prendre soin
+ - Rôle source
+ - Rôle urgentiste
+ - Rôle ami renfort
+ - Rôle protection
+ - Séparation
+ - Entretien annuel
+ - Légèreté-simplicité 
 
 ### 5 Méthodes (Pour concevoir et utiliser votre gouvernance)
 Pilotage de soi
