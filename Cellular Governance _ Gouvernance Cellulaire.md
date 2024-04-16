@@ -640,7 +640,67 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il l’a vécu du point de vue efficacité, du lien humain et de ses valeurs.
 
-### 3.4 Régulation marcher-parler
+### 3.4 Rétrospective & ambition
+
+#### Raison d’être 
+Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissages et définir ensemble les priorités générales des prochains mois.
+
+
+*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
+
+#### Inclusion 
+Chacun nomme comment il arrive.
+ 
+#### Processus
+**Célébration personnelle** (15-30’) : revisiter le passé en solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur moi, sur notre collectif et sur notre projet à l’occasion de ce qu’il s’est passé pour nous. Partage en collectif des éléments essentiels.  
+
+**Célébration collective** (15-30’) : revisiter le passé en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
+ - raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs).
+ - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
+ - Retracer les inconforts(ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
+ - Exprimer des gratitudes, à des membres, à soi ou à ces collectifs pour ce qui a été fait.
+
+Décisions des **priorités générales** pour la période à venir (30-60’) en plénière : 
+
+1) passer en revue ce que chacun adorerait vivre sur la prochaine période (rêve et aspiration),
+2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
+3) pondérer les idées,
+4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés ainsi qu’une ligne comportementale privilégiant une ou deux attitudes.
+5) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
+
+#### Clôture
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### 3.5 Rétrospective relationnelle
+
+#### Raison d’être 
+Un temps pour prendre soin de la relation et renforcer la coopération. Concrètement, faire la rétrospective d’une relation sur une période donnée, en tirer les apprentissages et se mettre d’accord sur comment fonctionner ensemble. Le fonctionnement visé utilisera les forces du collectif pour mieux composer avec les caractéristiques de chacun.
+
+*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
+
+#### Inclusion 
+Chacun nomme comment il arrive.
+
+#### Processus
+**Célébration personnelle** (15-30’) : temps solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur l’aspect relationnel vis-à-vis de moi, des autres et de nos relations de travail. Partage en collectif des éléments essentiels. 
+
+**Célébration relationnelle** (30’) En duo : 
+ 1) écrire pour au moins deux collègues un feedback avec : 
+ - une ou plusieurs choses que j’ai appréciées dans leur façon de coopérer
+ - une ou deux  qui m’ont été difficiles ainsi que
+ - ce qui me rendrait la coopération plus facile.
+
+2) Exprimer le feedback à la personne. Celle-ci réceptionne est en mode écoute silencieuse.
+3) La personne qui a écouté remercie, exprime ce que cela lui a fait et, si elle le souhaite, comment elle pense tenir compte de ce qu’elle a entendu pour renforcer ou modifier sa façon de coopérer. Elle peut demander de l’aide pour cela en précisant la forme concrète que prendrait cette aide.
+4) Proposer d’autre façons d’aider, sans insistance.
+5) La conversation se termine par un accord oral ou écrit sur la relation dans le cadre du travail et sur un remerciement mutuel. (il est souvent malaisant et inhabituel d’aborder ces sujets, le remerciement vient reconnaitre l’effort d’authenticité de chacun). 
+
+Variante : le processus peut être animé en collectif. Dans ce cas, une personne écoute les retours des autres membres de l’équipe, puis déroule le processus à partir de l’étape 3. 
+
+#### Clôture
+Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
+
+### 3.6 Régulation marcher-parler
 
 #### Raison d’être 
 
@@ -665,7 +725,7 @@ Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulati
 #### Clôture   
 Chacun nomme en une fois comment il l’a vécu du point de vue efficacité, du lien humain et de ses valeurs.
 
-### 3.5 Exigence de solidarité
+### 3.7 Exigence de solidarité
 
 #### Intention
 
@@ -703,7 +763,7 @@ Au-delà de cette posture d’exigence de solidarité, un organisme doit être c
 
 Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
 
-### 3.6 Création de rituels 
+### 3.8 Création de rituels 
 
 ### Raison d’être 
 Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
@@ -731,7 +791,7 @@ La clôture est d’une part un temps de connexion où chacun exprime son vécu 
 
 En pratique, chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.7  Temps d’opération
+### 3.9  Temps d’opération
 
 #### Raison d’être 
 
@@ -813,7 +873,7 @@ En temps d’opération, un membre peut simplement donner une information et con
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.8 Décision collective
+### 3.10 Décision collective
 
 #### Raison d'être  
 
@@ -862,7 +922,7 @@ Par exemple, il demande à l’objecteur de chercher une formulation qui lèvera
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.9  Temps de réorganisation
+### 3.11  Temps de réorganisation
 
 #### Raison d’être 
 
@@ -892,7 +952,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.10 Election sans candidat
+### 3.12 Election sans candidat
 
 #### Raison d’être 
 
@@ -926,7 +986,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.11  Rôle et cellule
+### 3.13  Rôle et cellule
 
 *Un rôle n'est formalisé par écrit que si cela répond au besoin d’un des membres*.
 
@@ -963,7 +1023,7 @@ La cellule la plus en amont de l’organisme est la cellule ancrage. En complém
 
 Une équipe correspondant au calage cellulaire comportent au minimum les quatre rôles structurels décrits dans cette constitution repère. 
 
-### 3.12  Rôle lead 
+### 3.14  Rôle lead 
 
 #### Raison d’être 
 
@@ -992,7 +1052,7 @@ Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour l
  - *Chacune de ces redevabilités pourra être déléguée dans la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
  - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule amont étant invité à participer à l’élection.*
 
-### 3.13  Rôle facilitation
+### 3.15  Rôle facilitation
 
 #### Raison d’être 
 
@@ -1007,7 +1067,7 @@ Les temps de réunion sont animés en visant efficacité (permettre au collectif
 - Faire de son mieux pour traiter tous les points amenés à l’ordre du jour dans le temps imparti, sinon, négocier avec les membres présents le report de points à d’autres réunions ou la  prolongation de la réunion.
 - Co-créer et faire évoluer les formats des réunions ou les processus avec la cellule.
 
-### 3.14  Rôle mémoire 
+### 3.16  Rôle mémoire 
 
 #### Raison d’être 
 
@@ -1025,7 +1085,7 @@ Tous les documents officiels de la cellule définis par la constitution.
 - Aider les membres et collègues en affichant les enregistrements utiles.
 - Soutenir le rôle facilitation en l’aidant s’il le demande, en particulier en l’aidant à repérer où en est le processus.
 
-### 3.15  Rôle représentation
+### 3.17  Rôle représentation
 
 #### Raison d’être 
 
@@ -1039,7 +1099,7 @@ Les tensions pertinentes à processer dans la cellule amont y sont apportées et
 
 Le rôle représentation n’est pas nécessaire si une politique de la cellule amont a défini un autre mode de représentation.
 
-### 3.16 Séparation 
+### 3.18 Séparation 
 
 #### Processus de séparation
 
@@ -1286,67 +1346,9 @@ Le rôle qui a l’autorité de prendre la décision n’a pas à décider en di
 #### Clôture
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 4.7 Rétrospective & ambition
-
-#### Raison d’être 
-Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissages et définir ensemble les priorités générales des prochains mois.
 
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
-
-#### Inclusion 
-Chacun nomme comment il arrive.
- 
-#### Processus
-**Célébration personnelle** (15-30’) : revisiter le passé en solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur moi, sur notre collectif et sur notre projet à l’occasion de ce qu’il s’est passé pour nous. Partage en collectif des éléments essentiels.  
-
-**Célébration collective** (15-30’) : revisiter le passé en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
- - raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs).
- - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
- - Retracer les inconforts(ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
- - Exprimer des gratitudes, à des membres, à soi ou à ces collectifs pour ce qui a été fait.
-
-Décisions des **priorités générales** pour la période à venir (30-60’) en plénière : 
-
-1) passer en revue ce que chacun adorerait vivre sur la prochaine période (rêve et aspiration),
-2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
-3) pondérer les idées,
-4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés ainsi qu’une ligne comportementale privilégiant une ou deux attitudes.
-5) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
-
-#### Clôture
-Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
-
-### 4.8 Rétrospective relationnelle
-
-#### Raison d’être 
-Un temps pour prendre soin de la relation et renforcer la coopération. Concrètement, faire la rétrospective d’une relation sur une période donnée, en tirer les apprentissages et se mettre d’accord sur comment fonctionner ensemble. Le fonctionnement visé utilisera les forces du collectif pour mieux composer avec les caractéristiques de chacun.
-
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
-
-#### Inclusion 
-Chacun nomme comment il arrive.
-
-#### Processus
-**Célébration personnelle** (15-30’) : temps solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur l’aspect relationnel vis-à-vis de moi, des autres et de nos relations de travail. Partage en collectif des éléments essentiels. 
-
-**Célébration relationnelle** (30’) En duo : 
- 1) écrire pour au moins deux collègues un feedback avec : 
- - une ou plusieurs choses que j’ai appréciées dans leur façon de coopérer
- - une ou deux  qui m’ont été difficiles ainsi que
- - ce qui me rendrait la coopération plus facile.
-
-2) Exprimer le feedback à la personne. Celle-ci réceptionne est en mode écoute silencieuse.
-3) La personne qui a écouté remercie, exprime ce que cela lui a fait et, si elle le souhaite, comment elle pense tenir compte de ce qu’elle a entendu pour renforcer ou modifier sa façon de coopérer. Elle peut demander de l’aide pour cela en précisant la forme concrète que prendrait cette aide.
-4) Proposer d’autre façons d’aider, sans insistance.
-5) La conversation se termine par un accord oral ou écrit sur la relation dans le cadre du travail et sur un remerciement mutuel. (il est souvent malaisant et inhabituel d’aborder ces sujets, le remerciement vient reconnaitre l’effort d’authenticité de chacun). 
-
-Variante : le processus peut être animé en collectif. Dans ce cas, une personne écoute les retours des autres membres de l’équipe, puis déroule le processus à partir de l’étape 3. 
-
-#### Clôture
-Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
-
-### 4.9 Consolidation de décision par concordance
+### 4.7 Consolidation de décision par concordance
 
 #### Raison d’être : forts enjeux humains 
 
@@ -1371,7 +1373,7 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
-### 4.10 Décision hors réunion
+### 4.8 Décision hors réunion
 
 #### Raison d’être 
 
@@ -1386,7 +1388,7 @@ Simplifier le processus, fonctionner à distance.
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-### 4.11 Rôle prendre soin
+### 4.9 Rôle prendre soin
 
 #### Prendre soin des personnes dans leurs rôles, par exemple :
 
@@ -1411,7 +1413,7 @@ Simplifier le processus, fonctionner à distance.
 
 Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
 
-### 4.12 Rôle Source 
+### 4.10 Rôle Source 
 
 #### Raison d’être du rôle source 
 Tenir le cap de son intuition de ce que pourrait devenir l'organisme ou le projet dont il a la charge dans l'organisme.
@@ -1432,7 +1434,7 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres de la c
 #### Rôle source d'un projet
 Dans le cadre d’un projet en autonomie, l'organisme d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
 
-### 4.13 Rôle urgentiste 
+### 4.11 Rôle urgentiste 
 
 #### Raison d’être urgentiste
 
@@ -1446,7 +1448,7 @@ Il active ce rôle le plus rarement possible.
 Il met en place des actions de fond pour que ce rôle devienne obsolète.
 Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
 
-### 4.14 Rôles ami renfort
+### 4.12 Rôles ami renfort
 
 #### Raison d’être  
 
@@ -1463,7 +1465,7 @@ En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins un
  - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
  - M’aider à prendre du recul avec l’élément Pilotage de soi quand j’en ai besoin. 
 
-### 4.15 Rôle protection
+### 4.13 Rôle protection
 
 #### Raison d’être rôle protection
 Sécuriser le collectif en accompagnant les personnes qui gênent les équipes pour comprendre leur attitude et les aider soit à rallier le collectif, soit à ne plus le déstabiliser. La déstabilisation peut concerner un membre, une équipe ou le projet.
@@ -1478,7 +1480,7 @@ Sécuriser le collectif en accompagnant les personnes qui gênent les équipes p
  - Demander une réaffectation des rôles quand cela pourrait être utile au collectif.
  - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
 
-### 4.16 Entretien annuel  
+### 4.14 Entretien annuel  
 
 #### Raison d’être 
 
@@ -1510,7 +1512,7 @@ Le support de questionnement peut être :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 4.17 Légèreté-simplicité  
+### 4.15 Légèreté-simplicité  
 
 #### Sobriété d’organisation
 Un formalisme minimum sera créé (cellule, rôles, politiques, processus, etc.) pour :
