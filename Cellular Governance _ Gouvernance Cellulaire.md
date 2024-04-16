@@ -44,7 +44,7 @@ Plus d’infos à la fin de la constitution.*
  - Exigence de solidarité
  - Création de rituel
  - Temps d’opération (processus de triage)
- - Décision collective (processus de gestion par consentement)
+ - Décision collective (processus de gestion par consentement)
  - Temps de réorganisation
  - Election sans candidat
  - Rôle et cellule
@@ -55,7 +55,7 @@ Plus d’infos à la fin de la constitution.*
  - Séparation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
- - Contrat de liberté d’agir 
+ - Contrat de liberté d’agir
  - Palabre
  - Régulation CNV
  - Déblocage 180°
@@ -64,11 +64,9 @@ Plus d’infos à la fin de la constitution.*
  - Consolidation par concordance
  - Décision hors réunion
  - Rôle prendre soin
- - Rôle source
- - Rôle urgentiste
+ - Rôle source Rôle urgentiste
  - Rôle ami renfort
  - Rôle protection
- - Séparation
  - Entretien annuel
  - Légèreté-simplicité 
 
