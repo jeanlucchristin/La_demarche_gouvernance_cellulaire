@@ -13,15 +13,11 @@ Plus d’infos à la fin de la constitution.*
 # Table des matières 
 
 ### 1 Introduction
-Présentation de ce document  
-
-La démarche gouvernance cellulaire
-
-Philosophie 
-
-Trois piliers éthiques
-
-Raison d’être de la gouvernance cellulaire
+ - Présentation de ce document
+ - La démarche gouvernance cellulaire
+ - Philosophie
+ - Trois piliers éthiques
+ - Raison d’être de la gouvernancecellulaire
 
 ### 2 Les principes fondamentaux
   - L’efficacité-humaniste & son autodiagnostic
