@@ -65,11 +65,12 @@ Plus d’infos à la fin de la constitution.*
 7. Consolidation par concordance
 8. Décision hors réunion
 9. Rôle prendre soin
-10. Rôle source Rôle urgentiste
-11. Rôle ami renfort
-12. Rôle protection
-13. Entretien annuel
-14. Légèreté-simplicité 
+10. Rôle source
+11. Rôle urgentiste
+12. Rôle ami renfort
+13. Rôle protection
+14. Entretien annuel
+15. Légèreté-simplicité 
 
 ### 5 Méthodes (Pour concevoir et utiliser votre gouvernance)
 1. Pilotage de soi
