@@ -20,69 +20,69 @@ Plus d’infos à la fin de la constitution.*
 5. Raison d’être de la gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
-  - L’efficacité-humaniste & son autodiagnostic
-  - L’estime de soi
-  - Principe de choix - souveraineté
-  - Culture essai-apprentissage
-  - Responsabilité de tension
-  - Responsabilités de membre gouvernant
-  - Réciprocité
-  - Souveraineté et lien
-  - Distinction personne et rôle
-  - Egrégore
-  - Contentement
-  - Frustration
+1. L’efficacité-humaniste & son autodiagnostic
+2. L’estime de soi
+3. Principe de choix - souveraineté
+4. Culture essai-apprentissage
+5. Responsabilité de tension
+6. Responsabilités de membre gouvernant
+7. Réciprocité
+8. Souveraineté et lien
+9. Distinction personne et rôle
+10. Egrégor
+11. ontentement
+12. Frustration
 
 ### 3 Constitution repère
- - Vision globale
- - Raison d’être
- - Actualisation de la raison d’être
- - Temps de décision éthique
- - Rétrospective & ambition
- - Rétrospective relationnelle
- - Régulation « marcher-parler »
- - Exigence de solidarité
- - Création de rituel
- - Temps d’opération (processus de triage)
- - Décision collective (processus de gestion par consentement)
- - Temps de réorganisation
- - Election sans candidat
- - Rôle et cellule
- - Rôle lead
- - Rôle facilitation
- - Rôle mémoire
- - Rôle représentation
- - Séparation
+1. Vision globale
+2. Raison d’être
+3. Actualisation de la raison d’être
+4. Temps de décision éthique
+5. Rétrospective & ambition
+6. Rétrospective relationnelle
+7. Régulation « marcher-parler »
+8. Exigence de solidarité
+9. Création de rituel
+10. Temps d’opération (processus de triage)
+11. Décision collective (processus de gestion par consentement)
+12. Temps de réorganisation
+13. Election sans candidat
+14. Rôle et cellule
+15. Rôle lead
+16. Rôle facilitation
+17. Rôle mémoire
+18. Rôle représentation
+19. Séparation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
- - Contrat de liberté d’agir
- - Palabre
- - Régulation CNV
- - Déblocage 180°
- - Fusion d’équipes
- - Droit de recours
- - Consolidation par concordance
- - Décision hors réunion
- - Rôle prendre soin
- - Rôle source Rôle urgentiste
- - Rôle ami renfort
- - Rôle protection
- - Entretien annuel
- - Légèreté-simplicité 
+1. Contrat de liberté d’agir
+2. Palabre
+3. Régulation CNV
+4. Déblocage 180°
+5. Fusion d’équipes
+6. Droit de recours
+7. Consolidation par concordance
+8. Décision hors réunion
+9. Rôle prendre soin
+10. Rôle source Rôle urgentiste
+11. Rôle ami renfort
+12. Rôle protection
+13. Entretien annuel
+14. Légèreté-simplicité 
 
 ### 5 Méthodes (Pour concevoir et utiliser votre gouvernance)
- - Pilotage de soi
- - Création raison d’être
- - Valeurs du collectif
- - Feedback
- - Variantes décisions collectives
- - Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
- - Niveaux d’autonomie
- - Composer avec nos différences
- - Des repères pendant le changement
- - Accompagnement extérieur
- - Numérique
- - Elément magique 
+1. Pilotage de soi
+2. Création raison d’être
+3. Valeurs du collectif
+4. Feedback
+5. Variantes décisions collectives
+6. Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
+7. Niveaux d’autonomie
+8. Composer avec nos différences
+9. Des repères pendant le changement
+10. Accompagnement extérieur
+11. Numérique
+12. Elément magique 
 
 ### 6 Bibliographie et glossaire
 
