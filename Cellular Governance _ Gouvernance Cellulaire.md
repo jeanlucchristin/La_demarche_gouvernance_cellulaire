@@ -1318,7 +1318,7 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 #### Intention
 Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
 
-#####+ Autorités
+##### Autorités
 Les personnes qui ont autorité pour prendre et changer la décision sont identifiées : ce sont un rôle ou une cellule. S’il y a un flou, le rôle mémoire peut être sollicité pour interpréter les écrits. 
 
 #### Inclusion 
