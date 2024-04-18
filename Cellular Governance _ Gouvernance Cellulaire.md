@@ -34,25 +34,25 @@ Plus d’infos à la fin de la constitution.*
 12. Frustration
 
 ### 3 Constitution repère
-1. Vision globale
-2. Raison d’être
-3. Actualisation de la raison d’être
-4. Temps de décision éthique
-5. Rétrospective & ambition
-6. Rétrospective relationnelle
-7. Régulation « marcher-parler »
-8. Exigence de solidarité
-9. Création de rituel
-10. Temps d’opération (processus de triage)
-11. Décision collective (processus de gestion par consentement)
-12. Temps de réorganisation
-13. Election sans candidat
-14. Rôle et cellule
-15. Rôle lead
-16. Rôle facilitation
-17. Rôle mémoire
-18. Rôle représentation
-19. Séparation
+0. Vision globale
+1. Raison d’être
+2. Actualisation de la raison d’être
+3. Temps de décision éthique
+4. Rétrospective & ambition
+5. Rétrospective relationnelle
+6. Régulation « marcher-parler »
+7. Exigence de solidarité
+8. Création de rituel
+9. Temps d’opération (processus de triage)
+10. Décision collective (processus de gestion par consentement)
+11. Temps de réorganisation
+12. Election sans candidat
+13. Rôle et cellule
+14. Rôle lead
+15. Rôle facilitation
+16. Rôle mémoire
+17. Rôle représentation
+18. Séparation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
 1. Contrat de liberté d’agir
