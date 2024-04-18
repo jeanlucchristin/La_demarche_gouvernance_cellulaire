@@ -87,6 +87,8 @@ Plus d’infos à la fin de la constitution.*
 12. Elément magique 
 
 ### 6 Bibliographie et glossaire
+1. Bibliographie
+2. Glossaire
 
 ### 7 Licence et contributeur.ices
 1. Licence
