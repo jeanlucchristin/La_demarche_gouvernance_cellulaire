@@ -55,6 +55,7 @@ Plus d’infos à la fin de la constitution.*
 18. Séparation
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
+0. Qu'est-ce qu'un élément ?
 1. Contrat de liberté d’agir
 2. Palabre
 3. Régulation CNV
