@@ -89,7 +89,8 @@ Plus d’infos à la fin de la constitution.*
 ### 6 Bibliographie et glossaire
 
 ### 7 Licence et contributeur.ices
-
+1. Licence
+2. Contributeur.ices
 
 # 1  Introduction 
 
