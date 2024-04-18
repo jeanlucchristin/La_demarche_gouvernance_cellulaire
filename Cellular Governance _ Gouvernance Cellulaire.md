@@ -180,8 +180,8 @@ La façon dont est pensé notre projet amène à prendre soin ou à restaurer le
 
 ### 1.5  Raison d’être de la gouvernance cellulaire
 
-*Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
- - *laisser chacun engager ce qui lui parait utile pour la l’organisme,*
+*Gouvernance cellulaire disparaîtra le jour où les humains n’en auront plus besoin pour :*
+ - *laisser chacun engager ce qui lui paraît utile pour la l’organisme,*
  - *se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*,
  - *actualiser une raison d’être ajustée et suffisamment motivante*.
 
@@ -221,7 +221,7 @@ Il nous paraît sain de nourrir
 
 Pour cultiver cela au quotidien, deux éléments sont déterminants : 
 - donner l’opportunité à un collègue qui ne tient pas compte de certaines décisions de prendre du recul (cf « Pilotage de soi »),
-- tenir une tension avec une exigence décomplexée tant qu’une option nouvelle n’apparait pas	(cf « Exigence de solidarité »).
+- tenir une tension avec une exigence décomplexée tant qu’une option nouvelle n’apparaît pas	(cf « Exigence de solidarité »).
 
 ####  Autodiagnostic
 
@@ -289,7 +289,7 @@ Le collectif est alors riche des enseignements apportés par la mise en œuvre d
 L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
 
 #### Tension 
-La tension est ce qui apparait dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+La tension est ce qui apparaît dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
 
 #### Posture 
 La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
@@ -383,7 +383,7 @@ Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-l
 #### Souveraineté 
 Fonctionner en souveraineté signifie que chacun est libre d’agir pour ses rôles selon son discernement en choisissant ce qui lui semble le plus pertinent.
 
-L’avantage de la souveraineté est la responsabilisation qu’elle permet, la possibilité qu’elle offre à chacun d’opter pour ce qui lui parait préférable, avec la créativité et la motivation qui peuvent en découler.
+L’avantage de la souveraineté est la responsabilisation qu’elle permet, la possibilité qu’elle offre à chacun d’opter pour ce qui lui paraît préférable, avec la créativité et la motivation qui peuvent en découler.
 
 L’inconvénient de la souveraineté est l’indépendance : chacun peut agir selon ses souhaits sans prise en compte des collègues.
 
@@ -394,7 +394,7 @@ Fonctionner en lien nécessite d’entendre la position des collègues sur un su
 
 Ce peut être à l’occasion d’une sollicitation d’avis ou de l’expression d’une tension. 
 
-Connaitre l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
+connaître l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
 
 L’avantage du lien est que chacun peut se sentir entendu et important.
 
@@ -563,7 +563,7 @@ Elle priorise des contributions pour trois catégories de parties-prenantes :
 Il est possible de préciser l’impact (le quoi), le moyen (le comment) et l’intention (le parce que).
 
 #### Rôle source
-La raison d’être d’un organisme apparait à la fois par imagination (soit en mode vision et projet) et par révélation (par l’observation du quotidien). Elle est évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut être affecté à un, plusieurs ou tous les membres. Cf rôle source. 
+La raison d’être d’un organisme apparaît à la fois par imagination (soit en mode vision et projet) et par révélation (par l’observation du quotidien). Elle est évolutive. Elle est du domaine d’autorité du rôle source. Ce rôle peut être affecté à un, plusieurs ou tous les membres. Cf rôle source. 
 
 ### 3.2  Actualisation de la raison d’être 
 
@@ -694,7 +694,7 @@ Chacun nomme comment il arrive.
 2) Exprimer le feedback à la personne. Celle-ci réceptionne est en mode écoute silencieuse.
 3) La personne qui a écouté remercie, exprime ce que cela lui a fait et, si elle le souhaite, comment elle pense tenir compte de ce qu’elle a entendu pour renforcer ou modifier sa façon de coopérer. Elle peut demander de l’aide pour cela en précisant la forme concrète que prendrait cette aide.
 4) Proposer d’autre façons d’aider, sans insistance.
-5) La conversation se termine par un accord oral ou écrit sur la relation dans le cadre du travail et sur un remerciement mutuel. (il est souvent malaisant et inhabituel d’aborder ces sujets, le remerciement vient reconnaitre l’effort d’authenticité de chacun). 
+5) La conversation se termine par un accord oral ou écrit sur la relation dans le cadre du travail et sur un remerciement mutuel. (il est souvent malaisant et inhabituel d’aborder ces sujets, le remerciement vient reconnaître l’effort d’authenticité de chacun). 
 
 Variante : le processus peut être animé en collectif. Dans ce cas, une personne écoute les retours des autres membres de l’équipe, puis déroule le processus à partir de l’étape 3. 
 
@@ -817,7 +817,7 @@ Chacun nomme comment il arrive.
 
 La cellule revoit la check list et les indicateurs avant de commencer.
 
-Un temps d’informations sobres sur les actions en cours est ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaitre pour démarrer.
+Un temps d’informations sobres sur les actions en cours est ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaître pour démarrer.
 
 Chacun peut ajouter une tension quand il le souhaite à la liste des tensions à traiter (avant ou pendant la réunion).
 
@@ -1048,7 +1048,7 @@ Il est possible d’enlever des redevabilités à ce rôle, il est d'interdit d�
 
 Cependant, en ajoutant certaines redevabilités du rôle leader pyramidal à ce rôle, on construit le rôle pilotage de l’équipe. 
 
-Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour le rôle lead de décider seul ou en décision collective selon ce qui lui parait le plus ajusté aux enjeux de la décision et à la culture de la cellule.
+Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour le rôle lead de décider seul ou en décision collective selon ce qui lui paraît le plus ajusté aux enjeux de la décision et à la culture de la cellule.
 
  - *Chacune de ces redevabilités pourra être déléguée dans la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
  - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule amont étant invité à participer à l’élection.*
@@ -1338,7 +1338,7 @@ La personne demandeuse explique son point de vue à sa manière, par exemple en 
 
 Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).
 
-Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui parait judicieux mais attend qu’un participant le lui confirme pour le faire. 
+Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui paraît judicieux mais attend qu’un participant le lui confirme pour le faire. 
 
 Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule amont. 
 
@@ -1397,7 +1397,7 @@ Simplifier le processus, fonctionner à distance.
  - Entretenir notre **confiance** : considérer nos collègues capables de trouver leurs propres solutions.
  - **Renvoyer** du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger.
  - **Soutenir** voire encourager un collègue quand il s’avère qu’il aimerait mieux prendre sa place, ou plus s’affirmer. 
- - Se retenir d’apporter une autre idée face à une idée qui nous parait moins intéressante, mais se discipliner à **laisser expérimenter**.
+ - Se retenir d’apporter une autre idée face à une idée qui nous paraît moins intéressante, mais se discipliner à **laisser expérimenter**.
  - Aider les gens à se demander s’ils libèrent suffisamment leur potentiel créateur pour en être satisfaits. 
 
 #### Prendre soin des personnes en tant qu’humains, par exemple :
@@ -1533,7 +1533,7 @@ Ce rôle pourra être affecté à certains membres de la cellule ou à tous.
 #### Intention
 Contrer la tendance humaine à générer de la complication pérenne.
 
-Permettre aux membres de connaitre leur organisation avec un investissement minimum.
+Permettre aux membres de connaître leur organisation avec un investissement minimum.
 
 Focaliser l’attention sur les seuls sujets qui le nécessitent.
 
@@ -1613,7 +1613,7 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 #### Elégance
 
 Nous avons entendu cette pratique géniale qui consiste à s’engager auprès des jeunes générations autour d’un petit « feu des enfants » au moment des décisions à fort enjeu. Ce feu symbolise les 7 générations futures. Cette coutume issue des Indiens Lakotas interdit de prendre une décision qui nuirait aux générations futures. 
-Elle parait particulièrement pertinente pour réfléchir à la raison d’être d’un organisme à l’heure actuelle. 
+Elle paraît particulièrement pertinente pour réfléchir à la raison d’être d’un organisme à l’heure actuelle. 
 
 #### Clôture   
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
@@ -1974,7 +1974,7 @@ Le fait de conserver un auteur principal nous a paru nécessaire pour produire u
 ### 7.2  Contributeur.ices
 
 #### Equipe gouvernance cellulaire 
-Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
+Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaître la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
 
 #### Cellule laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
