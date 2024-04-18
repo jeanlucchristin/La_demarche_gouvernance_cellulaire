@@ -113,18 +113,18 @@ Ce guide est en constante évolution, et sous licence CCbySA.
 
 #### Intention
 
-Gouvernance cellulaire propose un cadre de référence progressif pour établir et maintenir un environnement de travail efficace qui prend soin de l’humain.
+La démarche gouvernance cellulaire propose un cadre de référence progressif pour établir et maintenir un environnement de travail efficace qui prend soin de l’humain.
 
 #### Au-delà des modèles : une pratique continue
 
 C'est un outil pour co-construire un diagnostic puis décider d'actions concrètes et construire la constitution de son organisme. 
-Le calage gouvernance cellulaire avec les éléments cœurs et les 5 rôles préconstruits est un repère de constitution possible. Chaque équipe modifie ou ôte des éléments cœurs et rajoute des éléments optionnels. 
 
-Votre organisme s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement en utilisant cet outil.
+La constitution repère avec ses éléments cœurs et ses 4 rôles structurels est un modèle de constitution possible. Chaque équipe modifie ou supprime des éléments cœurs et ajoute des éléments optionnels. 
 
+Votre organisme s'inscrit dans la démarche de gouvernance cellulaire dès qu’il essaie d'améliorer son fonctionnement en utilisant cette démarche.
 Cette logique d’ajustement est permanente. La démarche ne s’arrête jamais. 
 
-Votre organisme continuera à ajuster son curseur managérial et ses processus en fonction des tensions et motivations que vivront ses membres.
+Votre organisme continuera à ajuster son curseur managérial et ses processus en fonction des tensions que vivront ses membres. Une tension est le fait de ressentir une motivation (tension vers) ou une crispation (tension par).
 
 #### Autonomie
 
@@ -140,16 +140,16 @@ Nous observons que beaucoup de gens ne se reconnaissent plus dans les systèmes 
 
 Nous pensons que ces deux quêtes sont favorisées par un mode de gouvernance visant à :
 
-- une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres. 
-- Une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues.
-- La détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
+- encourager les capacités d’initiative et d’innovation de chacun,
+- stimuler la coopération (avec les autres, notre environnement et le monde),
+- faire ensemble en prenant soin les uns des autres.
 
 #### Posture 
 
 Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est facilité par :
 - une qualité de présence et d’accueil qui autorise les expérimentations innovantes de soi et des autres,
 - une recherche permanente d’ajustements vers un équilibre sain en tirant les enseignements des expériences vécues,
-- la détente des crispations sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
+- la détente des rigidités sur ce qui était attendu en abordant les écarts entre ce qui était prévu et ce qui arrive avec curiosité et confiance en sa capacité à rebondir.
 
 - Le travail individuel et collectif sur :
   - la présence au monde (méditation…),
@@ -160,7 +160,7 @@ Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est fac
 
 Nous participons à cet élan collectif en proposant une forme évolutive suffisamment explicite « de méthode du faire ensemble » pour servir de repère.
 
-Elle est brevetée en bien public inaliénable, licence « CCbySA ».
+Elle est brevetée en bien public inaliénable, sous licence ouverte (open source) « CCbySA ».
 
 ### 1.4  Trois piliers éthiques
 
@@ -175,7 +175,7 @@ Notre manière de faire des projets nous permet d’en apprendre plus sur nous-m
 #### Collectif 
 Notre mode de fonctionnement collectif est l’occasion de cultiver la confiance en soi, dans l’équipe, dans les processus et dans le mouvement de la vie.
 
-#### Eco-système global 
+#### Ecosystème global 
 La façon dont est pensé notre projet amène à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
 
 ### 1.5  Raison d’être de la gouvernance cellulaire
@@ -225,10 +225,10 @@ Pour cultiver cela au quotidien, deux éléments sont déterminants :
 
 ####  Autodiagnostic
 
-Le plus efficace pour démarrer est nous semble de demander à l’équipe dans quel espace elle pense qu’elle a le plus à gagner. (espace lien, organisation ou sens). Si plusieurs dimensions sont retenues, il est pertinent de construire un plan d’action passant successivement par les trois dimensions. 
+Le plus efficace pour démarrer nous semble de demander à l’équipe dans quel espace elle pense qu’elle a le plus à gagner. (espace lien, organisation ou sens). Si plusieurs dimensions sont retenues, il est pertinent de construire un plan d’action passant successivement par les trois dimensions. 
 
 
-En effet, nous avons observé que si l’autorité ou la « verticalité » manque, (cf « organisation »), l’équipe risque d’être attirée vers une sorte d’exigence de la posture de l’autre (cf « espace organisation, choix, autonomie »).
+En effet, nous avons observé que si l’autorité ou la « verticalité » manque, (cf « organisation »), l’équipe risque d’être attirée vers une exigence de la posture de l’autre (cf « espace organisation, choix, autonomie »).
 La relation peut se dégrader au point d’amener une séparation pour incompatibilité relationnelle.
 Le collectif considérera que la personne n’avait pas la posture adéquate.
 
@@ -242,7 +242,7 @@ Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous p
 
  - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
  - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
- - L’estime de Soi est la première motivation à agir au travail selon William Schutz et une source de sérénité importante.
+ - L’estime de soi est la première motivation à agir au travail selon William Schutz et une source de sérénité importante.
 
 #### Fonctionnement de l'estime de soi
 
@@ -250,7 +250,7 @@ Ma motivation grandit quand je me rapproche de la personne que je souhaiterais �
 
 Mon estime de moi est nourrie quand je me sens important, compétent et apprécié, tant par les autres qu’à mes propres yeux.
 
-Quand l’estime de Soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. 
+Quand l’estime de soi se dégrade, nos comportements répétitifs négatifs apparaissent. Ils sont probablement liés à des peurs. 
 
 La peur principale de ne pas être capable de faire face, les peurs secondaires sont d’être abandonné, humilié ou rejeté.
 
@@ -258,7 +258,7 @@ La peur principale de ne pas être capable de faire face, les peurs secondaires 
 
 l’organisme est responsable de créer les meilleures conditions possibles pour permettre cela. 
 
-Chacun est responsable de percevoir son estime de Soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
+Chacun est responsable de percevoir son estime de soi et de mettre en place les actions nécessaires pour l’améliorer si besoin.
 
 (*) travail issu de l’œuvre de William Schutz sur l’Elément humain
 
@@ -282,11 +282,11 @@ Plus de réflexions [ici](https://www.youtube.com/watch?v=KtS1X0sqbQQ).
 
 #### Intention 
 La logique de la décision par consentement est liée à la culture essai-apprentissage. L’objectif n’est pas de chercher « LA bonne » décision mais de s’accorder sur ce qui va être expérimenté dans la prochaine période.
-Il est possible de reprendre une décision dès qu’une tension apparaît.
+Il est possible de prendre une nouvelle décision dès qu’une tension apparaît.
 Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
 
 #### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin.
 
 #### Tension 
 La tension est ce qui apparaît dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
@@ -346,7 +346,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 
 #### Priorité de coopération   
 
-- Prendre en compte les demandes des autres membres (c’est-à-dire inscrire comme prochaine action, pas exécuter).
+- Prendre en compte les demandes des autres membres (c’est-à-dire inscrire dans sa liste d’actions, pas exécuter immédiatement).
 - Si un membre le demande, participer à une réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée).
 - Décider de ses actions en fonction des priorités et stratégies de la cellule.
 
@@ -376,7 +376,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 **La lucidité et la fermeté seront également privilégiées comme ligne directrice utile pour contrer de tels comportements.**
 
-Plus de réflexions [ici](http://www.nouvelobs.com/videos/vuqfrr.DGT/la-loi-de-la-jungle-c-est-aussi-la-loi-de-l-entraide.html).
+Plus de réflexions [ici](https://youtu.be/ChkzJPO45qc?si=risyPFAKxP8KPz4m).
 
 ### 2.8 Souveraineté et lien
 
@@ -394,15 +394,13 @@ Fonctionner en lien nécessite d’entendre la position des collègues sur un su
 
 Ce peut être à l’occasion d’une sollicitation d’avis ou de l’expression d’une tension. 
 
-connaître l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
+Connaître l’avis des collègues permet d’en tenir compte sans s’imposer de le suivre. 
 
 L’avantage du lien est que chacun peut se sentir entendu et important.
 
 L’inconvénient est le temps que cela prend et le risque que certains renoncent à ce qui leur semble pertinent par peur de déplaire. 
 
 #### Souveraineté et lien
-L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien. 
-
 Il s’agit de trouver le moyen de ne renoncer ni à sa souveraineté, ni à la qualité du lien.
 
 Toute la démarche gouvernance cellulaire vise cet équilibre subtil.
@@ -414,7 +412,7 @@ La culture de travail se construit chemin faisant, en se mettant d’accord sur 
 ### 2.9 distinction personne et rôle
 
 #### Intention
-Distinguer nos rôles de notre personne permet de prend soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
+Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
 
 Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
 
@@ -437,7 +435,7 @@ Nous avons besoin de relations où il est possible d’exprimer une demande clai
 La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
 #### Proposition gouvernance cellulaire 
-En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+Avec la démarche gouvernance cellulaire, toutes les tensions sont prises en compte, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
 ### 2.10  Egrégore d'équipe 
 
@@ -453,7 +451,7 @@ C’est une bulle énergétique d’équipe qui peut être réinterrogée à tou
 
 #### Process 
 
-Exemples de process corporel plus d'info [ici](https://drive.google.com/open?id=13mApF1uz5Gl3BWpwvJlNeX-RQIvJuK3R) :
+Exemples de process corporel :
  - accueillir les silences ou proposer un temps de silence,
  - marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement,
  - créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre),
@@ -462,7 +460,7 @@ Exemples de process corporel plus d'info [ici](https://drive.google.com/open?id=
 
 Exemples de process verbalisés :
  - dire aux autres comment on fonctionne,
- - exprimer ses enjeux de « ici et maintenant » (personnel, équipe, organisme, société, environnement),
+ - exprimer ses enjeux « ici et maintenant » (personnel, équipe, organisme, société, environnement),
  - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
  - moment de palabre, par exemple sur la raison d’être de l'organisme, ou de la cellule (cf élément palabre),
  - tour de table, photolangage,
@@ -605,7 +603,7 @@ Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’
  
 #### Méthode 
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin. Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
+*Le processus peut être différent, mais un organisme en gouvernance cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin. Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
 *.
 
 Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
@@ -629,7 +627,7 @@ Nous préférons les méthodes avec des alternances sous-groupes, solo et pléni
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
 1. Présentation du thème et de la question préparée par l’organisateur.
-2. Tous : ce qu’il faut se rémémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes. 
+2. Tous : ce qu’il faut se remémorer du thème ; nos et mes enjeux, peurs, espoirs, rêves, contraintes. 
 3. Sous-groupe 15’ : où en sommes-nous sur ce thème ? En quoi est-ce important de le travailler ?
 4. Restitution rapide des sous-groupes en plénière.
 5. Solo : chacun prépare une proposition par écrit (éventuellement en sous-groupe par affinités selon la taille du groupe).
@@ -858,13 +856,11 @@ D’autres déclenchent un nouveau temps de travail : prendre une décision coll
 
 En temps d’opération, un membre gouvernant peut solliciter un avis dont il ressent le besoin pour prendre une décision.
 
-Cet avis lui servira à prendre une décision murie grâce à l’éclairage de ses collègues.
+Le rôle facilitation demande au membre d’exposer sa tension, la question et ceux dont il souhaite un avis.
 
-Le rôle facilitation demande au membre d’exposer sa tension, la question et ceux dont il souhaite un avis. Si des membres ont besoin de clarifications, le rôle facilitation anime un court temps de questions/clarifications.
+le rôle facilitation anime un court temps de questions/clarifications.
 
-Ceux qui le souhaitent répondent ensuite en donnant leur avis avec le plus de clarté et de sobriété possible, en une prise de parole unique.
-
-Les personnes qui aimeraient plus de temps peuvent proposer au demandeur un échange après la réunion.
+Ceux qui le souhaitent répondent ensuite en donnant leur avis avec le plus de clarté et de sobriété possible, en une prise de parole unique.Les personnes qui aimeraient plus de temps peuvent proposer au demandeur un échange après la réunion.
 
 #### Processus d’information
 
@@ -947,7 +943,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 1- Proposeur, quelle est la proposition V1 et la tension qu’elle réduit ?
 
-2- Le rôle facilitation enchaine sur le process Gestion Par Consentement à partir de la « proposition V1 ».
+2- Le rôle facilitation enchaîne sur le process Gestion Par Consentement à partir de la « proposition V1 ».
 
 #### Clôture   
 
@@ -969,13 +965,13 @@ Chacun nomme comment il arrive.
 
 ### Ordre du jour  
 
-Le rôle facilitation rappelle le/les rôles à élir et la durée de mandat.
+Le rôle facilitation rappelle le/les rôles à élire et la durée de mandat.
 
 #### Process d’élection
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
-1. Rôle mémoire, peux tu afficher le rôle, sa raison d’être et ses redevabilités ? 
+1. Rôle mémoire, peux-tu afficher le rôle, sa raison d’être et ses redevabilités ? 
 2. Tous : quelles sont les caractéristiques nécessaires pour tenir ce rôle ? (Concept « nuage de mots » : pas de recherche d’accord, chacun décidera de ses critères de sélection informellement).
 3. Chacun remplit son bulletin de vote (vote pour soi bienvenu, un seul nom par bulletin, noter « untel vote pour ... »).
 4. Je récupère et affiche les bulletins un par un, merci d’expliquer votre choix à tous. 
@@ -1010,7 +1006,7 @@ Un rôle ou une cellule est créé par une équipe pour répondre à un de ses b
 
 Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font, en particulier quand il est sollicité.
 
-Chacun est leader de son rôle : décide  au mieux en fonction de la situation.
+Chacun est leader de son rôle : chacun décide  au mieux en fonction de la situation.
 
 Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé pour des périmètres différents).
 
@@ -1044,7 +1040,7 @@ Affectation des rôles de la cellule
 
 #### Redevabilités complémentaires
 
-Il est possible d’enlever des redevabilités à ce rôle, il est d'interdit d’en ajouter.
+Il est possible d’enlever des redevabilités à ce rôle, il est interdit d’en ajouter.
 
 Cependant, en ajoutant certaines redevabilités du rôle leader pyramidal à ce rôle, on construit le rôle pilotage de l’équipe. 
 
@@ -1072,7 +1068,7 @@ Les temps de réunion sont animés en visant efficacité (permettre au collectif
 
 #### Raison d’être 
 
-Inscrire les décisions dans les compte rendu et fichiers de la cellule.
+Enregistrer les décisions dans les comptes rendus et fichiers de la cellule.
 
 #### Domaine  
 
@@ -1128,7 +1124,7 @@ Cela signifie que vous pouvez activer un élément ou plusieurs, en fonction de 
 
 Ils sont interdépendants : activer un élément aura un impact sur l’usage des autres éléments.
 
-Ils se veulent à la fois inspirant et guidant.
+Ils se veulent à la fois inspirants et guidants.
 
 Comme tout le reste de notre travail, ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées).
 Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
@@ -1229,13 +1225,13 @@ Le rôle facilitation rappelle la raison qui a déclenché ce temps de régulati
 Le rôle facilitation  distribue la parole selon les étapes suivantes : 
 
 1. Rappeler la raison d’être de ce temps ainsi que le fait que chacun doit être volontaire tout au long du processus pour participer et peut, par conséquent, interrompre la rencontre à tout moment.
-2. Qui est demandeur de ce temps (il devient l’émetteur, l’autre ou les autres deviennent les receveurs) ?
-3. Peux-tu nous dire ce qu’il s’est passé (les événement) ? Ce que tu  ressens (les émotions) ? Comment cela se passerait dans ton idéal (le besoin) ? Ce que tu demandes concrètement à qui (la demande) ? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
-4. Au receveur : peux-tu reformuler ce que tu as entendu ? 
-5. À l’émetteur : est-ce bien cela ? Plusieurs boucles peuvent être nécessaires. 
-6. Au receveur : après avoir entendu cela, quelle réponse apportes tu à la demande qui a été formulée ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
-7. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
-8. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3).
+3. Qui est demandeur de ce temps (il devient l’émetteur, l’autre ou les autres deviennent les receveurs) ?
+4. Peux-tu nous dire ce qu’il s’est passé (les événements) ? Ce que tu  ressens (les émotions) ? Comment cela se passerait dans ton idéal (le besoin) ? Ce que tu demandes concrètement à qui (la demande) ? Merci de t’adresser à moi. Les autres écoutent en silence (mode CNV).
+5. Au receveur : peux-tu reformuler ce que tu as entendu ? 
+6. À l’émetteur : est-ce bien cela ? Plusieurs boucles peuvent être nécessaires. 
+7. Au receveur : après avoir entendu cela, quelle réponse apportes-tu à la demande qui a été formulée ? Eventuellement, qu’est-ce qui serait aidant pour cela ? 
+8. Le rôle facilitation fait reformuler ce qui vient d’être dit, en plusieurs boucles si nécessaire (à ce stade peut se conclure un contrat entre les deux personnes ou un constat d’incompatibilité).
+9. Le rôle facilitation demande si un participant souhaite recommencer un cycle (dans ce cas, repartir du point 3).
 
 #### Clôture   
 
@@ -1301,7 +1297,7 @@ Les autres écoutent en silence.
 
 #### Process inclusion 
 
-*Nous préférons les méthodes aves des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.*
+*Nous préférons les méthodes avec des alternances sous-groupes, solo et plénière ; nous avons observé qu’elles produisent des rendus solides.*
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 1. Chaque entité prépare une présentation de son historique et de comment elle vit l’actualité.
@@ -1338,7 +1334,7 @@ La personne demandeuse explique son point de vue à sa manière, par exemple en 
 
 Le rôle facilitation s’assure que la parole circule d’une manière acceptée par tous (par exemple parole au centre, « je prends la parole et je la rends », tour de parole, etc).
 
-Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui paraît judicieux mais attend qu’un participant le lui confirme pour le faire. 
+Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui paraît judicieux mais attend qu’un participant le lui confirme pour le faire.
 
 Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule amont. 
 
@@ -1362,7 +1358,7 @@ Quand une décision a été prise selon le processus de la cellule, un membre go
 
 #### Processus
 
-LLe rôle facilitation demande aux participants de fermer les yeux, de se centrer sur leur corps, leurs sensations, leur respiration. Il leur demande de se remémorer les étapes qui ont conduit à la décision, la lit et leur demande s’ils sont 100% d’accord avec ce résultat malgré leurs préférences compte-tenu de là où en est le collectif, de sa raison d’être et de ce qu’il a à faire.
+Le rôle facilitation demande aux participants de fermer les yeux, de se centrer sur leur corps, leurs sensations, leur respiration. Il leur demande de se remémorer les étapes qui ont conduit à la décision, la lit et leur demande s’ils sont 100% d’accord avec ce résultat malgré leurs préférences compte-tenu de là où en est le collectif, de sa raison d’être et de ce qu’il a à faire.
 
 Quand il leur dira d’ouvrir les yeux, ils diront « oui » s’ils sont 100% d’accord, autre chose sinon. La règle est que tout autre mot que « oui » signifie « non », même « ok », « dac », « ça me va », même un temps de silence long avant le « oui ».
 
@@ -1406,7 +1402,7 @@ Simplifier le processus, fonctionner à distance.
  - Porter attention à ce que chaque personne puisse construire une **image de soi** qui lui plaise. 
  - **Veiller** à la santé apparente de nos collègues proches, proposer un café quand le comportement de l’un change pour s’intéresser à ce qu’il vit, proposer un temps de régulation quand deux collègues semblent en froid, alerter un collègue quand on imagine qu’il se met en danger, etc.
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
- - **Réciprocité** : accepterparfois de recevoir les mêmes soins de la part de nos collègues.
+ - **Réciprocité** : accepter parfois de recevoir les mêmes soins de la part de nos collègues.
  - **Écoute de soi** : être attentif à ce que cela nous fait vivre et fixer ses limites.
  - **Plénitude** : être présent à ses sensations, émotions, pensées. Observer ce que cela change. Créer les conditions pour que cela soit possible pour toutes et tous.
  - Proposer des moments de **convivialité** (repas, café, etc).
@@ -1491,7 +1487,7 @@ Répondre au besoin de certains organismes ou de certains membres de disposer d�
 
 #### Limite
 
-Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idée ».
+Nous retranscrivons ici la méthode qui nous a paru la plus pertinente en tant que « boite à idées ».
 
 #### Process entretien annuel
 
@@ -1533,7 +1529,7 @@ Ce rôle pourra être affecté à certains membres de la cellule ou à tous.
 #### Intention
 Contrer la tendance humaine à générer de la complication pérenne.
 
-Permettre aux membres de connaître leur organisation avec un investissement minimum.
+Permettre aux membres de connaître leur organisation avec un investissement minimum
 
 Focaliser l’attention sur les seuls sujets qui le nécessitent.
 
@@ -1550,7 +1546,7 @@ pour concevoir votre gouvernance
 
 Ecouter les personnes qui sont en tension interne, notamment par rapport à des décisions qui ont été prises. 
 
-Aider la personne restaurer sa puissance d’agir et à décider ce qu’elle veut engager pour réduire sa tension.
+Aider la personne à restaurer sa puissance d’agir et à décider ce qu’elle veut engager pour réduire sa tension.
 
 Accueillir, apporter de l’empathie, de la chaleur humaine. 
 
@@ -1604,11 +1600,11 @@ Passer par le dessin (feutres de couleurs, sous groupes de 5-6) :
 4. Dessiner le futur organisme (mélanger les membres ou collègues  des différents groupes historiques).
    Repérer les différences par rapport à aujourd’hui.
    Qu’allez-vous devoir abandonner ? Qu’allez-vous gagner au changement ? 
-6. Restitutions.
-7. Créer une phrase de raison d’être en mode consentement consolidée par concordance comprenant : 
+5. Restitutions.
+6. Créer une phrase de raison d’être en mode consentement consolidée par concordance comprenant : 
    - ce que l'organisme va apporter (nous allons créer…),
    - comment elle va procéder (en…),
-   - la motivation de fond (parce nous considérons important de…).
+   - la motivation de fond (parce que nous considérons important de…).
 
 #### Elégance
 
@@ -1630,7 +1626,7 @@ L’intention de cet élément est de soutenir un temps de conversation pour qu�
 Bien sûr, chacun·e conservera en parallèle ses valeurs personnelles. 
 
 #### Qu’est-ce qu’une valeur ?
-Le sujet des valeurs d’un collectif parle de qui nous sommes et de qui nous voulons être. Comme la raison d’être, les valeurs sont des guides pour les décisions, l’adaptattion des processus et les comportements des membres de l’équipe. Elles nécessitent d’être transformées en éléments concrets pour réellement exister. Il est préférable de ne pas évaluer l’application des valeurs par quelqu’un car cela risque d’entrainer une exigence déplacée sur la personne. La gestion par tension est une meilleure réponse quand il y a besoin d’ajustements, avec en particulier le « temps d’opération ». 
+Le sujet des valeurs d’un collectif parle de qui nous sommes et de qui nous voulons être. Comme la raison d’être, les valeurs sont des guides pour les décisions, l’adaptation des processus et les comportements des membres de l’équipe. Elles nécessitent d’être transformées en éléments concrets pour réellement exister. Il est préférable de ne pas évaluer l’application des valeurs par quelqu’un car cela risque d’entraîner une exigence déplacée sur la personne. La gestion par tension est une meilleure réponse quand il y a besoin d’ajustements, avec en particulier le « temps d’opération ». 
 
 #### Inclusion  
 Chacun nomme comment il arrive.
@@ -1667,7 +1663,7 @@ la sympathie ou antipathie que l’on éprouve pour la personne ; la prégnance 
 
 #### Intention 
 
-Clarifier notre intention avant de faire un feedback et peut être la nommer évite beaucoup de faux pas involontaires.
+Clarifier notre intention avant de faire un feedback et peut-être la nommer évite beaucoup de faux pas involontaires.
 
 #### Process
 Un feedback utile professionnellement comporte :
@@ -1714,7 +1710,7 @@ L’organisation cellulaire est compatible avec une organisation pyramidale.
 
 #### Les différences 
 
- - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisionsdécisions ; il est affecté au rôle prendre soin des personnes.
+ - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; orienter la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; donner du feedback et recadrer ; finaliser les décisions ; il est affecté au **rôle prendre soin des personnes**.
  - Des redevabilités peuvent être ajoutées au manager pyramidal.
  - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
 
@@ -1726,7 +1722,7 @@ Les redevabilités restantes sont déléguées à l’équipe (si l’équipe le
 
 Les redevabilités prises en charge par l’équipe sont précisées. Elles seront affectées : 
  - soit à un rôle,
- - soit à toute l’équipe (ce qui impliquera d’utiliser un processus de décision collective). 
+ - soit à toute l’équipe (ce qui implique d’utiliser un processus de décision collective). 
 
 Ces réglages sont amenés à évoluer dans le temps. 
 
@@ -1877,7 +1873,7 @@ Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu c
 
 Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
-##### Bibliographie 
+##### Bibliographie indicative
 
 - Remerciement spécial à Brian Robertson dont la constitution holacracy® a entrainé beaucoup d’expérimentations, dont celles que nous avons vécues. <https://www.holacracy.org/>
 - Will Schutz (2006), *L’Elément Humain*, InterEdition : en particulier pour avoir favorisé l’autorisation d’exprimer les peurs, l'amour et la complétude en entreprise et pour les notions de concordance, d’ouverture, de choix.  plus d'info [ici](http://elementhumain-france.fr/lapproche/) et dans son ouvrage l'élément humain 
@@ -1888,7 +1884,7 @@ Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](
 - Jos de Blok pour l’existence modélisante de Buurzorg https://www.buurtzorg.com/
 - Vincent Lenhardt (1995), *Responsable porteur de sens*, Inseep Editions 
 - Marshall Rosenberg (2017), *Dénouer les conflits par la communication non violente*, Jouvence 
-- Bateson, G. (1972), *Steps to an Ecology of Mind*, Chicago: The University of Chicago Press (New edition 2000)
+- Bateson, G. (1972), Steps to an Ecology of Mind. Chicago: The University of Chicago Press (New edition 2000) (Traduction française au Seuil, 1980)
 - Fréderic Laloux (2014) *Reinventing Organisations*, Nelson Parker
 - Jims Collins (2001) *Good to Great*, Random House et le concept du « hérisson » pour faire émerger la raison d’être à partir de trois cercles : ce qui me passionne ; ce que je sais bien faire ; ce dont le monde a besoin.
 - Simon Sinek (2011) *Start with why*, portfolio qui présente ces trois dimensions en cercles concentriques du WHY au HOW puis au WHAT
@@ -1912,7 +1908,7 @@ Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](
  - Constitution : l’ensemble des lois fondamentales de l’organisme qui règle l'organisation et les rapports des pouvoirs, et qui détermine  les principes qui régissent les relations entre les membres.
  - Décision par concordance : processus avec un niveau de profondeur accru pour les décisions à fort enjeu.
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC). 
- - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
+ - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend la démarche gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
  - Egrégore : une énergie de groupe influencée par les désirs de plusieurs personnes unis dans un but commun.
  - Elément : module activable et désactivable par une cellule selon les besoins qu’elle rencontre.
  - Espace organisation : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui.
@@ -1968,8 +1964,6 @@ Merci de prévenir la communauté sur le forum cellulargovernance.org si vous pr
 Notre méthodologie avec une personne source (Jeanluc Christin, auteur principal), rejoint par une équipe amont puis par des contributeurs ouvre la possibilité à tous de participer.
 
 Le droit français impose de nommer un auteur avant de mettre le contenu en licence libre, ce à quoi nous consentons même si notre visée est que l’œuvre vive par elle-même.
-
-Le fait de conserver un auteur principal nous a paru nécessaire pour produire un rendu net.
 
 ### 7.2  Contributeur.ices
 
