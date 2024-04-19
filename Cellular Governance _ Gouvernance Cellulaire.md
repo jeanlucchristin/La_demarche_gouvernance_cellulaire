@@ -1472,17 +1472,17 @@ En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins un
 ### 4.13 Rôle protection
 
 #### Raison d’être rôle protection
-Sécuriser le collectif en accompagnant les personnes qui gênent les équipes pour comprendre leur attitude et les aider soit à rallier le collectif, soit à ne plus le déstabiliser. La déstabilisation peut concerner un membre, une équipe ou le projet.
+Sécuriser et prendre soin du collectif en cherchant des solutions aux situations qui le déstabilisent, en accompagnant les personnes impliquées et/ou affectées par la situation. La déstabilisation peut concerner un membre, une équipe ou le projet.
 
-##### Redevabilités rôle protection
- - Etudier toute situation sur laquelle il a été sollicité pour évaluer s’il est pertinent d’intervenir depuis son rôle. 
- - Détecter les comportements à risque vis-à-vis du projet, de la culture interne ou des personnes. 
- - Rencontrer la ou les personnes concernées, leur exposer la déstabilisation observée, soit vis-à-vis du respect des accords (les écrits), soit vis-à-vis du respect du projet (le projet comprenant la culture de coopération interne). 
- - Ecouter leur point de vue, chercher avec elles une issue satisfaisante.
- - Demander des actions concrètes.
- - Déclencher une élection sans candidat pour les rôles élus quand cela pourrait être utile au collectif. 
- - Demander une réaffectation des rôles quand cela pourrait être utile au collectif.
- - Enclencher un processus de séparation quand les écarts entre le comportement et le projet collectif le nécessitent.
+#### Redevabilités rôle protection
+Etudier toute situation de déstabilisation sur laquelle il a été sollicité ou qu’il a observée pour en cerner le périmètre et les enjeux. Valider sa capacité et sa pertinence à intervenir. 
+
+Rencontrer la ou les personnes concernées. Leur exposer la déstabilisation observée pour vérifier qu’elles en ont connaissance. Ecouter leur point de vue, les aider à conscientiser leur besoin, chercher avec elles une issue satisfaisante.
+
+Actionner les processus adaptés à la levée des tensions liées à la situation, les faciliter ou proposer une aide extérieure. Ce peut être de manière progressive : 
+1. Exprimer des demandes en mode temps d’opération. La demande peut porter sur un temps de régulation relationnelle, un temps de pilotage de soi, un temps de positionnement éthique du collectif, un droit de recours, une action concrète, etc.
+2. Si la déstabilisation persiste et le nécessite, demander une élection sans candidat (pour les rôles élus) ou une réaffectation de rôle (pour les autres rôle). Il est possible que la personne soit maintenue dans ce rôle lors de cette étape.
+3. Enclencher un processus de séparation quand les écarts le nécessitent pour protéger les personnes, le projet ou le collectif. 
 
 ### 4.14 Entretien annuel  
 
