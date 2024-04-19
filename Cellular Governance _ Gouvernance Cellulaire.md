@@ -1480,7 +1480,8 @@ Etudier toute situation de déstabilisation sur laquelle il a été sollicité o
 Rencontrer la ou les personnes concernées. Leur exposer la déstabilisation observée pour vérifier qu’elles en ont connaissance. Ecouter leur point de vue, les aider à conscientiser leur besoin, chercher avec elles une issue satisfaisante.
 
 Actionner les processus adaptés à la levée des tensions liées à la situation, les faciliter ou proposer une aide extérieure. Ce peut être de manière progressive : 
-1. Exprimer des demandes en mode temps d’opération. La demande peut porter sur un temps de régulation relationnelle, un temps de pilotage de soi, un temps de positionnement éthique du collectif, un droit de recours, une action concrète, etc.
+1. Exprimer des demandes en mode temps d’opération. 
+La demande peut porter sur un temps de régulation relationnelle, un temps de pilotage de soi, un temps de positionnement éthique du collectif, un droit de recours, une action concrète, etc.
 2. Si la déstabilisation persiste et le nécessite, demander une élection sans candidat (pour les rôles élus) ou une réaffectation de rôle (pour les autres rôle). Il est possible que la personne soit maintenue dans ce rôle lors de cette étape.
 3. Enclencher un processus de séparation quand les écarts le nécessitent pour protéger les personnes, le projet ou le collectif. 
 
