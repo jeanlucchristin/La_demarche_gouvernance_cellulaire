@@ -679,7 +679,9 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 ### 3.5 Rétrospective relationnelle
 
 #### Raison d’être 
-Un temps pour prendre soin de la relation et renforcer la coopération. Concrètement, faire la rétrospective d’une relation sur une période donnée, en tirer les apprentissages et se mettre d’accord sur comment fonctionner ensemble. Le fonctionnement visé utilisera les forces du collectif pour mieux composer avec les caractéristiques de chacun.
+Un temps pour prendre soin de la relation et renforcer la coopération. Concrètement, parler d’une relation sur une période donnée, en tirer les apprentissages et se mettre d’accord sur comment fonctionner ensemble. 
+
+Le fonctionnement visé utilisera les forces du collectif pour mieux composer avec les caractéristiques de chacun. 
 
 *Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
 
