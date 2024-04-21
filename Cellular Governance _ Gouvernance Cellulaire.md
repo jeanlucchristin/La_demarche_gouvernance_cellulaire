@@ -1,4 +1,4 @@
-# La démarche Gouvernance cellulaire version 3.3 pre-release
+![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/9ceb4c1d-fe86-4002-a25a-7c5b04f055fb)![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/0ae0ebe5-4ee7-476d-a316-8ee5010bff71)# La démarche Gouvernance cellulaire version 3.3 pre-release
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
@@ -649,28 +649,29 @@ Chacun nomme en une fois comment il l’a vécu du point de vue efficacité, du 
 #### Raison d’être 
 Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissages et définir ensemble les priorités générales des prochains mois.
 
+Les durées sont indicatives, elles totalisent ici un temps de 2h, ce qui est rapide. 
 
 *Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
 
 #### Inclusion 
-Chacun nomme comment il arrive.
+Chacun nomme comment il arrive. Reconnecter le collectif à sa raison d’être.
  
 #### Processus
-**Célébration personnelle** (15-30’) : revisiter le passé en solo pour me souvenir de ce que j’ai vécu dans la dernière période et pour repérer ce que j’ai appris sur moi, sur notre collectif et sur notre projet à l’occasion de ce qu’il s’est passé pour nous. Partage en collectif des éléments essentiels.  
+**Célébration personnelle** (15’). Revisiter le passé en solo pour repérer ce que j’ai appris sur moi, sur notre collectif et sur notre projet : 
+ - raconter les faits sur la période (le réalisé et le non-réalisé, les chiffres clefs).
+ - Dépeindre les sources de satisfaction (ce que j’ai apprécié, qui me motive, les forces du collectif et les opportunités).
+ - Retracer les inconforts(ce que je n’ai pas apprécié, les freins ou blocages, les faiblesses du collectif, les menaces).
+ - Exprimer des gratitudes, à des membres, à soi ou à des collectifs pour ce qui a été fait.
 
-**Célébration collective** (15-30’) : revisiter le passé en plénière, se reconnecter à la raison d’être puis passer par 3 étapes : 
- - raconter les faits sur la période (le réalisé et le non-réalisé, chiffres clefs).
- - Dépeindre les sources de satisfaction (ce que j’apprécie, qui me motive, les forces du collectif et les opportunités).
- - Retracer les inconforts(ce que je n’apprécie pas, les freins ou blocages, les faiblesses du collectif, les menaces).
- - Exprimer des gratitudes, à des membres, à soi ou à ces collectifs pour ce qui a été fait.
+**Célébration collective** (30’). En sous-groupes, échanger et produire quelques post-its dans chaque groupe (20’) puis aller poser ces post-its sur 4 tableaux nommés respectivement « faits », « satisfactions », « inconforts » et « gratitudes ». Les personnes qui souhaitent ajouter des post its le font.
 
-Décisions des **priorités générales** pour la période à venir (30-60’) en plénière : 
+Déambulation silencieuse devant les tableaux. (10’)
 
-1) passer en revue ce que chacun adorerait vivre sur la prochaine période (rêve et aspiration),
-2) collecter les  idées pour favoriser la réalisation de nos aspirations (ce qu’il faut cesser, continuer ou créer),
-3) pondérer les idées,
-4) proposition (5-10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés ainsi qu’une ligne comportementale privilégiant une ou deux attitudes.
-5) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
+Décisions des **priorités générales** pour la période à venir (60’) en plénière : 
+
+1) **Collecte d’idées** (30'). Ce qu’il faut cesser, continuer ou créer. Trois chaises au centre, deux personnes échangent des idées. Les autres sont disposées en cercle autour et les écoutent. Quand une autre personne souhaite exprimer une idée, elle prend la chaise vide. Une des deux personnes présentes libère alors sa chaise et rejoint le cercle d’écoute. (processus « aquarium »).
+2) **Proposition** (10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés ainsi qu’une ligne comportementale privilégiant une ou deux attitudes.
+6) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
 
 #### Clôture
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
