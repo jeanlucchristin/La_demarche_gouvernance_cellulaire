@@ -1,4 +1,4 @@
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/9ceb4c1d-fe86-4002-a25a-7c5b04f055fb)![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/0ae0ebe5-4ee7-476d-a316-8ee5010bff71)# La démarche Gouvernance cellulaire version 3.3 pre-release
+# La démarche Gouvernance cellulaire version 3.3 pre-release
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
