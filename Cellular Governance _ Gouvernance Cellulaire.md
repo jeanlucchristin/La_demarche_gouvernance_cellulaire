@@ -671,7 +671,7 @@ Décisions des **priorités générales** pour la période à venir (60’) en p
 
 1) **Collecte d’idées** (30'). Ce qu’il faut cesser, continuer ou créer. Trois chaises au centre, deux personnes échangent des idées. Les autres sont disposées en cercle autour et les écoutent. Quand une autre personne souhaite exprimer une idée, elle prend la chaise vide. Une des deux personnes présentes libère alors sa chaise et rejoint le cercle d’écoute. (processus « aquarium »).
 2) **Proposition** (10’) : un groupe (le rôle lead avec un ou deux soutiens) synthétise 3 à 6 objectifs prioritaires hiérarchisés ainsi qu’une ligne comportementale privilégiant une ou deux attitudes.
-6) décision collective (15-30’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
+6) décision collective (20’) sur la base de la proposition portée par le rôle leadet consolidation en concordance.
 
 #### Clôture
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
