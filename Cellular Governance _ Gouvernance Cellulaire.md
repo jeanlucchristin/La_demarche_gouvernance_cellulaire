@@ -658,10 +658,10 @@ Chacun nomme comment il arrive. Reconnecter le collectif à sa raison d’être.
  
 #### Processus
 **Célébration personnelle** (15’). Revisiter le passé en solo pour repérer ce que j’ai appris sur moi, sur notre collectif et sur notre projet : 
- - raconter les faits sur la période (le réalisé et le non-réalisé, les chiffres clefs).
- - Dépeindre les sources de satisfaction (ce que j’ai apprécié, qui me motive, les forces du collectif et les opportunités).
- - Retracer les inconforts(ce que je n’ai pas apprécié, les freins ou blocages, les faiblesses du collectif, les menaces).
- - Exprimer des gratitudes, à des membres, à soi ou à des collectifs pour ce qui a été fait.
+ - raconter les **faits** sur la période (le réalisé et le non-réalisé, les chiffres clefs).
+ - Dépeindre les sources de **satisfaction** (ce que j’ai apprécié, qui me motive, les forces du collectif et les opportunités).
+ - Retracer les **inconforts** (ce que je n’ai pas apprécié, les freins ou blocages, les faiblesses du collectif, les menaces).
+ - Exprimer des **gratitudes**, à des membres, à soi ou à des collectifs pour ce qui a été fait.
 
 **Célébration collective** (30’). En sous-groupes, échanger et produire quelques post-its dans chaque groupe (20’) puis aller poser ces post-its sur 4 tableaux nommés respectivement « faits », « satisfactions », « inconforts » et « gratitudes ». Les personnes qui souhaitent ajouter des post its le font.
 
