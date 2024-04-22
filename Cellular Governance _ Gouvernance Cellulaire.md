@@ -38,7 +38,7 @@ Plus d’infos à la fin de la constitution.*
 1. Raison d’être
 2. Actualisation de la raison d’être
 3. Temps de décision éthique
-4. Rétrospective & ambition
+4. Rétrospective et orientations prioritaires
 5. Rétrospective relationnelle
 6. Régulation « marcher-parler »
 7. Exigence de solidarité
@@ -644,7 +644,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il l’a vécu du point de vue efficacité, du lien humain et de ses valeurs.
 
-### 3.4 Rétrospective & ambition
+### 3.4 Rétrospective et orientations prioritaires
 
 #### Raison d’être 
 Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissages et définir ensemble les priorités générales des prochains mois.
@@ -786,7 +786,7 @@ En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspir
 
 Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
 
-Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective & ambition (120 à 240) . Rétrospective relationnelle (120 à 240). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
+Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective et orientations prioritaires (120 à 240) . Rétrospective relationnelle (120 à 240). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
 
 Seules l’inclusion et la clôture sont systématiques. 1 à 3h
 
