@@ -1846,7 +1846,7 @@ La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils num�
 
 #### Exemple 
 
-Open my organisation offre une solution libre à votre disposition que nous recommandons : 
+Open my organisation (Suisse) offre une solution libre à votre disposition que nous recommandons : 
 
 https://openmyorganization.org/ 
 
@@ -1860,7 +1860,12 @@ Un tableau trello préconstruit propose une autre solution à recopier avec ce l
 
 https://trello.com/b/002WfWqn
 
-Des outils payants existent également.
+Des outils payants existent également, les plus connus sont Glassfrog (USA) et holaspirit (France) :
+
+https://www.glassfrog.com/,
+
+https://www.holaspirit.com.
+
 
 ### 5.12 Elément magique 
 
