@@ -1690,6 +1690,19 @@ Il est bénéfique de considérer ses propres besoins : demander un feedback, s�
 
 ### 5.5 Variantes décisions collectives 
 
+#### Variante « Vote au Carton »
+
+Il s’agit d’une variation de la décision par consentement adaptée aux grandes assemblées proposée par la FPGT (Fédération des Professionnels de la Gestalt Thérapie. 
+
+La proposition est présentée.
+
+Les personnes lèvent un carton parmi trois couleurs : 
+ - Vert = je suis d’accord.
+ - Jaune = j’ai envie d’exprimer quelque chose et je suis d’accord.
+ - Rouge = Une raison impérieuse m’oblige à bloquer cette décision, j’ai une objection.
+
+Le processus de GPC reprend ensuite avec les étapes de test des objections, de bonification et de re-décision. 
+
 #### Variante à la levée des objections : « inspiration Université Du Nous »
 
 Après avoir rédigé sa V2 (étape 7), le proposeur abandonne son rôle. 
