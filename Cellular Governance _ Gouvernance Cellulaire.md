@@ -7,7 +7,7 @@ Construisez votre propre organisation avec une palette d’outils & une constitu
 Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
-Elle est déposée ici : https://github.com/jeanlucchristin/constitution-cellular-governance/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
+Elle est déposée ici : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
 
 Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
 Plus d’infos à la fin de la constitution.* 
