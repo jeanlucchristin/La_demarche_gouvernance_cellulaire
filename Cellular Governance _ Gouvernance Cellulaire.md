@@ -1701,7 +1701,7 @@ Les personnes lèvent un carton parmi trois couleurs : 
  - Jaune = j’ai envie d’exprimer quelque chose et je suis d’accord.
  - Rouge = Une raison impérieuse m’oblige à bloquer cette décision, j’ai une objection.
 
-Le processus de GPC reprend ensuite avec les étapes de test des objections, de bonification et de re-décision. 
+Le processus de GPC reprend ensuite avec les étapes de test des objections, de bonification et de re-décision. Une version 2 peut-être crée par le rôle proposition même si il n’y a eu que des cartons verts et jaunes. 
 
 #### Variante à la levée des objections : « inspiration Université Du Nous »
 
