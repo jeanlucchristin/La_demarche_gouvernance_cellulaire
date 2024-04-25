@@ -1705,7 +1705,7 @@ Le processus de GPC reprend ensuite avec les étapes de test des objections, de 
 
 #### Variante à la levée des objections : « inspiration Université Du Nous »
 
-Après avoir rédigé sa V2 (étape 7), le proposeur abandonne son rôle. 
+Après avoir rédigé sa version 2 (étape 7), le proposeur abandonne son rôle. 
 
 Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en réorganisation.
 
