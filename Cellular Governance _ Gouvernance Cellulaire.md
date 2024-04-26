@@ -1546,9 +1546,6 @@ Permettre aux membres de connaître leur organisation avec un investissement min
 
 Focaliser l’attention sur les seuls sujets qui le nécessitent.
 
-#### Sobriété de la constitution 
-La description du livret central sera la plus légère possible.
-
 # 5 Méthodes 
 
 pour concevoir votre gouvernance
