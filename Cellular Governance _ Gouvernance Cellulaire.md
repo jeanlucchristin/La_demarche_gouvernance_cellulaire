@@ -1760,7 +1760,7 @@ Le leader seul ou avec l’équipe évalue le niveau de délégation et d’auto
 Le niveau d’autonomie est la résultante de ces deux dynamiques.
 
 Le niveau d’autonomie est clarifié en fonction de qui réfléchit à la meilleure option, qui décide de celle retenue, qui agit et qui évalue l’effet de l’action. 
-Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf paragraphe correspondant de la constitution).
+Ces quatre phases sont celles de l’ajustement continu APOD : agir, percevoir, s’orienter, décider (cf culture essai-apprentissage).
 
 Chacune de ces quatre phases peut être assurée soit par le manager seul, soit ensemble, soit par le collaborateur/acteur seul. 
 « Ensemble » signifie soit le manager et le collaborateur soit toute l’équipe.
