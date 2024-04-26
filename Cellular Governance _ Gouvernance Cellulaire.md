@@ -870,7 +870,9 @@ Le rôle facilitation demande au membre d’exposer sa tension, la question et c
 
 le rôle facilitation anime un court temps de questions/clarifications.
 
-Ceux qui le souhaitent répondent ensuite en donnant leur avis avec le plus de clarté et de sobriété possible, en une prise de parole unique.Les personnes qui aimeraient plus de temps peuvent proposer au demandeur un échange après la réunion.
+Ceux qui le souhaitent répondent ensuite en donnant leur avis avec le plus de clarté et de sobriété possible, en une prise de parole unique.
+
+Les personnes qui aimeraient plus de temps peuvent proposer au demandeur un échange après la réunion.
 
 #### Processus d’information
 
