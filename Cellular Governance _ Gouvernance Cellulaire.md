@@ -1705,13 +1705,7 @@ Les personnes lèvent un carton parmi trois couleurs : 
 
 Le processus de GPC reprend ensuite avec les étapes de test des objections, de bonification et de re-décision. Une version 2 peut-être crée par le rôle proposition même si il n’y a eu que des cartons verts et jaunes. 
 
-#### Variante à la levée des objections : « inspiration Université Du Nous »
-
-Après avoir rédigé sa version 2 (étape 7), le proposeur abandonne son rôle. 
-
-Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en réorganisation.
-
-#### Variante réorganisation : « la boite à idée » 
+#### Variante réorganisation : « boite à idée » 
 
 Le rôle facilitation distribue la parole selon les étapes suivantes : 
 
@@ -1720,6 +1714,12 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 3. Chacun en une seule fois : quelle est votre meilleure idée, quelles sont vos réactions, préférences, influences, ressentis ?
 4. Demandeur, quelle est ta proposition ?
 5. Le processus redevient celui du consentement après la V2. Chacun se questionne : puis-je composer avec cette proposition ou ne puis-je pas ? Ceux qui ne peuvent pas ont une objection.
+
+#### Variante à la levée des objections : « inspiration Université Du Nous »
+
+Après avoir rédigé sa version 2 (étape 7), le proposeur abandonne son rôle. 
+
+Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en réorganisation.
 
 ### 5.6 Curseur managérial, que fait le rôle pilotage de votre cellule ?
 
