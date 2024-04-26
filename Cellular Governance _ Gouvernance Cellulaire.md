@@ -1980,7 +1980,7 @@ Vous pouvez copier, distribuer, communiquer et transformer ces contenus pour tou
 
 Nous voulons participer à construire le monde dans lequel nous souhaitons vivre. La licence ouverte permet à chacun de faire sa part en utilisant ce que nous avons créé, c’est ce que nous pouvons imaginer de mieux pour notre œuvre.
 
-Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le coté viral de la licence ouverte, lâchez-vous ! 
+Toute proposition d’évolution non intégrée dans les futures versions peut donner suite à un autre projet, c’est le côté viral de la licence ouverte, lâchez-vous ! 
 
 #### Devoir de partage
 
