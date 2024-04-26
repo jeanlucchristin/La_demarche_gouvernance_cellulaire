@@ -2011,7 +2011,7 @@ Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendr
 Juliette Le Roy, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
 
 #### Cellule ancrage 
-A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
+A travers la connaissance précise de la démarche gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
 Christophe Herault, David Drayer, Jean-Christophe Ciceron, Nicolas Begel (cellule sans rôle lead).
 
 #### Relecture
