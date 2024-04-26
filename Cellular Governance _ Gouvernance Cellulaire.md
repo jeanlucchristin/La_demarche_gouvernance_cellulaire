@@ -167,7 +167,7 @@ Nous avons l’intime conviction que ce mouvement vers plus d’harmonie est fac
 
 Nous participons à cet élan collectif en proposant une forme évolutive suffisamment explicite « de méthode du faire ensemble » pour servir de repère.
 
-Elle est brevetée en bien public inaliénable, sous licence ouverte (open source) « CCbySA ».
+Elle est brevetée en bien public inaliénable, sous  ouverte (open source) « CCbySA ».
 
 ### 1.4  Trois piliers éthiques
 
@@ -1970,7 +1970,7 @@ Cette œuvre est mise à disposition selon les termes de la [Licence Creative Co
 
 Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés ([lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png))
 
-La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs.
+La Gouvernance Cellulaire est définie dans le document enregistré sous github et nulle part ailleurs. (https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md)
 
 **Vous devez simplement inclure un lien vers https://cellulargovernance.org quand vous l’utilisez**  
 
