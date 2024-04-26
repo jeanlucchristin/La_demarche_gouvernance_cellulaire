@@ -1,6 +1,6 @@
 Il s’agit d’une variation de la décision par consentement adaptée aux grandes assemblées proposée par l’université du nous à la FPGT (Fédération des Professionnels de la Gestalt Thérapie) qui l’utilise ainsi : 
 ![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/70bb213c-5c18-4430-8693-6ca47cb64409)
-# La démarche Gouvernance cellulaire version 3.3 pre-release
+# La démarche Gouvernance cellulaire version 3.3
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
