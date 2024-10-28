@@ -9,7 +9,7 @@ La démarche Gouvernance Cellulaire®, Gouvernance Cellulaire® et Cellular Gove
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 Elle est déposée ici : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
 
-Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
+Marques, logos et ce document sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
 Plus d’infos à la fin de la constitution.* 
 
 # Table des matières 
