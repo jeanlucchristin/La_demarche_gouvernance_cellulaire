@@ -4,7 +4,7 @@ Il s’agit d’une variation de la décision par consentement adaptée aux gran
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
-Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
+La démarche Gouvernance Cellulaire®, Gouvernance Cellulaire® et Cellular Governance® sont des marques déposées ainsi que les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
 La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 Elle est déposée ici : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
