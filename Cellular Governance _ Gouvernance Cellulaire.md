@@ -6,7 +6,7 @@ Construisez votre propre organisation avec une palette d’outils & une constitu
 
 La démarche Gouvernance Cellulaire®, Gouvernance Cellulaire® et Cellular Governance® sont des marques déposées ainsi que les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
-La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
+La démarche Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
 Elle est déposée ici : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
 
 Marques, logos et ce document sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
@@ -19,7 +19,7 @@ Plus d’infos à la fin de la constitution.*
 2. La démarche gouvernance cellulaire
 3. Philosophie
 4. Trois piliers éthiques
-5. Raison d’être de la gouvernance cellulaire
+5. Raison d’être de la démarche gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
 1. L’efficacité-humaniste & son autodiagnostic
@@ -101,7 +101,7 @@ Plus d’infos à la fin de la constitution.*
 ### 1.1 Présentation de ce document
 
 #### Quoi : 
-Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre en œuvre la Gouvernance Cellulaire. C’est un ensemble clef en main de bonnes pratiques éprouvées qui peuvent aider les organismes à mieux fonctionner.
+Ce guide est un recueil d’éléments qui permettent de comprendre et de mettre en œuvre la démarche Gouvernance Cellulaire. C’est un ensemble clef en main de bonnes pratiques éprouvées qui peuvent aider les organismes à mieux fonctionner.
 
 Il permet en particulier à chaque organisme d’écrire sa propre constitution, en fonction de son contexte et sa culture, qui veille à l’équilibre éthique entre « agir » et « prendre soin ». Chacun peut s’approprier ces éléments en les adaptant.
 
@@ -111,9 +111,9 @@ Ce guide est en constante évolution, et sous licence CCbySA.
 
 - Une introduction qui présente la philosophie
 - Les principes fondamentaux
-- Une constitution repère : Ce sont les éléments essentiels qui permettent à un organisme de fonctionner en gouvernance cellulaire. Ils constituent un socle minimal pour un ensemble intégré et cohérent qu’il est recommandé de mettre en œuvre.
+- Une constitution repère : Ce sont les éléments essentiels qui permettent à un organisme de fonctionner en démarche gouvernance cellulaire. Ils constituent un socle minimal pour un ensemble intégré et cohérent qu’il est recommandé de mettre en œuvre.
 - Des éléments complémentaires : Ce sont des processus, des outils, des rôles… qui vous sont proposés pour vous permettre d’enrichir votre constitution.
-- Une boîte à outils : un ensemble d’éléments pour vous aider à mieux mettre en œuvre la gouvernance cellulaire.
+- Une boîte à outils : un ensemble d’éléments pour vous aider à mieux mettre en œuvre la démarche gouvernance cellulaire.
 
 
 ### 1.2  La démarche gouvernance cellulaire   
@@ -135,7 +135,7 @@ Votre organisme continuera à ajuster son curseur managérial et ses processus e
 
 #### Autonomie
 
-Un objectif de ce document est de permettre à chacun d’acquérir seul les connaissances de la gouvernance cellulaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
+Un objectif de ce document est de permettre à chacun d’acquérir seul les connaissances de la démarche gouvernance cellulaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
 
 ### 1.3  Philosophie
 
@@ -172,7 +172,7 @@ Elle est brevetée en bien public inaliénable, sous  ouverte (open source) « 
 ### 1.4  Trois piliers éthiques
 
 #### Intention
-Cet élément présente trois piliers qui sous-tendent la raison d’être de la gouvernance cellulaire.
+Cet élément présente trois piliers qui sous-tendent la raison d’être de la démarche gouvernance cellulaire.
 
 Selon ces trois piliers inspirés de la permaculture, chaque projet est une opportunité de soutenir l’évolution des individus, de renforcer le collectif et de prendre soin de l’éco-système Terre.
 
@@ -185,9 +185,9 @@ Notre mode de fonctionnement collectif est l’occasion de cultiver la confiance
 #### Ecosystème global 
 La façon dont est pensé notre projet amène à prendre soin ou à restaurer les conditions de vie de l’ensemble des humains et à préserver ou à régénérer les biotopes.
 
-### 1.5  Raison d’être de la gouvernance cellulaire
+### 1.5  Raison d’être de la démarche gouvernance cellulaire
 
-*Gouvernance cellulaire disparaîtra le jour où les humains n’en auront plus besoin pour :*
+*La démarche gouvernance cellulaire disparaîtra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui paraît utile pour la l’organisme,*
  - *se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*,
  - *actualiser une raison d’être ajustée et suffisamment motivante*.
@@ -245,7 +245,7 @@ Le collectif considérera que la personne n’avait pas la posture adéquate.
 
 #### Intention
 
-Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
+La démarche gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
 
  - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
  - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
@@ -441,7 +441,7 @@ Nous avons besoin de relations où il est possible d’exprimer une demande clai
 
 La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
-#### Proposition gouvernance cellulaire 
+#### Proposition de la démarche gouvernance cellulaire 
 Avec la démarche gouvernance cellulaire, toutes les tensions sont prises en compte, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
 ### 2.10  Egrégore d'équipe 
@@ -610,7 +610,7 @@ Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’
  
 #### Méthode 
 
-*Le processus peut être différent, mais un organisme en gouvernance cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin. Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
+*Le processus peut être différent, mais un organisme en démarche gouvernance cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin. Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
 *.
 
 Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
@@ -653,7 +653,7 @@ Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissa
 
 Les durées sont indicatives, elles totalisent ici un temps de 2h, ce qui est rapide. 
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
+*Le processus peut être différent, mais un organisme en démarche gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
 
 #### Inclusion 
 Chacun nomme comment il arrive. Reconnecter le collectif à sa raison d’être.
@@ -685,7 +685,7 @@ Un temps pour prendre soin de la relation et renforcer la coopération. Concrèt
 
 Le fonctionnement visé utilisera les forces du collectif pour mieux composer avec les caractéristiques de chacun. 
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
+*Le processus peut être différent, mais un organisme en démarche gouvernance Cellulaire doit afficher un processus écrit avant la réunion.*
 
 #### Inclusion 
 Chacun nomme comment il arrive.
@@ -815,7 +815,7 @@ Les engagements peuvent être pris en dehors de ce temps.
 Périodicité : sur demande ou régulière. Nous conseillons de fixer une durée maximum à l’avance. Nous constatons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus. Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 Tous les sujets peuvent aussi être traités de cette manière en dehors du temps de réunion. 
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule.*
+*Le processus peut être différent, mais un organisme en démarche gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule.*
  
 #### Inclusion  
 
@@ -890,7 +890,7 @@ Ce processus est utile dans toute réunion nécessitant une prise de décision. 
 
 Il aide les participants à s’imposer de prendre une décision. Il inclut chacun et favorise la créativité.
 
-*Le processus peut être différent, mais un organisme en gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
+*Le processus peut être différent, mais un organisme en démarche gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
 
 #### Process : Gestion Par Consentement (GPC)
 
@@ -1030,7 +1030,7 @@ La cellule la plus en amont de l’organisme est la cellule ancrage. En complém
 
 #### Rôles structurels
 
-Une équipe correspondant au calage cellulaire comportent au minimum les quatre rôles structurels décrits dans cette constitution repère. 
+Une équipe correspondant au calage de la démarche gouvernance cellulaire comportent au minimum les quatre rôles structurels décrits dans cette constitution repère. 
 
 ### 3.14  Rôle lead 
 
@@ -1191,7 +1191,7 @@ On a parfois simplement besoin de parler d’un sujet, d’échanger, de réflé
 
 Il peut être question d’un sujet métier ou autre.
 
-Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation.
+Les réunions structurées de la démarche gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation.
 
 Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés.
 
@@ -1221,7 +1221,7 @@ Aider des membres ou collègues en tension relationnelle à restaurer les condit
 
 Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires et, s’ils le souhaitent, un rôle facilitation. 
 
-*Le processus peut être différent, mais un organisme en gouvernance cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin.* Le processus pertinent est celui choisi par les participants. L’élément « marcher-parler » propose une alternative puissante et simple.
+*Le processus peut être différent, mais un organisme en démarche gouvernance cellulaire doit afficher un processus écrit activable par tout membre quand il en a besoin.* Le processus pertinent est celui choisi par les participants. L’élément « marcher-parler » propose une alternative puissante et simple.
 
 #### Inclusion  
 
@@ -1812,7 +1812,7 @@ Plus d’infos [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-e
 
 #### Intention
 
-Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type cellulaire ».
+Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type démarche gouvernance cellulaire ».
 
 #### Etapes de changement 
 
@@ -1838,7 +1838,7 @@ Cette liste sert de repère, l’ordre peut être différent, des séquences peu
 
 ### Technicité 
 
-Un accompagnement extérieur par un spécialiste de la gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
+Un accompagnement extérieur par un spécialiste de la démarche gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
 Il n’est pas indispensable. 
 A chaque équipe d’expérimenter et de décider si une aide serait utile pour progresser plus facilement et plus rapidement.
 
@@ -1849,14 +1849,14 @@ Le changement culturel est très facile à comprendre intellectuellement, beauco
 Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécessite le temps de désapprendre ses habitudes pour en adopter d’autres. 
 Ce changement est sans doute le plus délicat à mener. 
 Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficaces. 
-Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire.
+Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la démarcheg gouvernance Cellulaire.
 Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage.
 
 ### 5.11 Numérique
 
 #### Raison d’être 
 
-La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible.
+La démarche gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible.
 
 #### Exemple 
 
@@ -1899,7 +1899,7 @@ Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont
 
 Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu cela possible, nous citons ici ceux qui ont eu un impact direct dans ce travail
 
-Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
+Plus d’info sur l’histoire qui a amené à la démarche gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
 ##### Bibliographie indicative
 
@@ -1970,7 +1970,7 @@ Cette œuvre est mise à disposition selon les termes de la [Licence Creative Co
 
 Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés ([lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png))
 
-La Gouvernance Cellulaire est définie dans le document enregistré sous github et nulle part ailleurs. (https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md)
+La démarche gouvernance Cellulaire est définie dans le document enregistré sous github et nulle part ailleurs. (https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md)
 
 **Vous devez simplement inclure un lien vers https://cellulargovernance.org quand vous l’utilisez**  
 
@@ -1999,7 +1999,7 @@ Le droit français impose de nommer un auteur avant de mettre le contenu en lice
 Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaître la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
 
 #### Cellule laboratoire
-Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
+Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la démarche gouvernance cellulaire, dans son sens et ses processus.
 Olivier Daniel Thomas, Nicolas Begel, Jean-Christophe Ciceron, Christophe Hérault, Stéphanie De Susanne, Georges Comby, David Drayer (rôle lead).
 
 #### Cellule rayonnement 
