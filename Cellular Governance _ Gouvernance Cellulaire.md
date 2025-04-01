@@ -49,7 +49,7 @@ Plus d’infos à la fin de la constitution.*
 10. Décision collective (processus de gestion par consentement)
 11. Temps de réorganisation
 12. Election sans candidat
-13. Rôle et cellule
+13. Rôle et cercle
 14. Rôle lead
 15. Rôle facilitation
 16. Rôle mémoire
@@ -80,7 +80,7 @@ Plus d’infos à la fin de la constitution.*
 3. Valeurs du collectif
 4. Feedback
 5. Variantes décisions collectives
-6. Curseur managérial ( que fait le rôle pilotage de votre cellule ?)
+6. Curseur managérial ( que fait le rôle pilotage de votre cercle ?)
 7. Niveaux d’autonomie
 8. Composer avec nos différences
 9. Des repères pendant le changement
@@ -293,7 +293,7 @@ Il est possible de prendre une nouvelle décision dès qu’une tension apparaî
 Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
 
 #### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de toute la cellule). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin.
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de tout le cercle). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin.
 
 #### Tension 
 La tension est ce qui apparaît dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
@@ -325,16 +325,16 @@ Elles entraînent une demande adressée à un rôle. Les relations de rôle à r
 
 #### Tension de personne 
 
-Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à toute la cellule.
+Quand des personnes sont touchées à l’occasion du travail inter-rôles, elles peuvent ressentir une tension personnelle. Celle-ci peut aboutir à une demande adressée à un rôle, à une personne ou à tout le cercle.
 
 Elle entraine par exemple une demande de régulation pour travailler la relation ou une demande de temps de sens pour approfondir un questionnement éthique, une réflexion de raison d'être, etc.
 
-##### Tension de cellule 
+##### Tension de cercle 
 
-La tension de cellule est relative directement à la réalisation des raisons d’être et redevabilités de la cellule. Les actions demandées s’adressent :
+La tension de cercle est relative directement à la réalisation des raisons d’être et redevabilités du cercle. Les actions demandées s’adressent :
 - soit au rôle lead,
-- soit à tous les membres la cellule,
-- soit à la cellule en mode consentement dans une réunion dédiée.
+- soit à tous les membres du cercle,
+- soit au cercle en mode consentement dans une réunion dédiée.
 
 ### 2.6 Responsabilités de membre gouvernant
 
@@ -355,7 +355,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 
 - Prendre en compte les demandes des autres membres (c’est-à-dire inscrire dans sa liste d’actions, pas exécuter immédiatement).
 - Si un membre le demande, participer à une réunion (sauf réunion de régulation qui n’a pas de sens si elle est imposée).
-- Décider de ses actions en fonction des priorités et stratégies de la cellule.
+- Décider de ses actions en fonction des priorités et stratégies du cercle.
 
 #### Transparence sur demande 
 
@@ -469,7 +469,7 @@ Exemples de process verbalisés :
  - dire aux autres comment on fonctionne,
  - exprimer ses enjeux « ici et maintenant » (personnel, équipe, organisme, société, environnement),
  - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
- - moment de palabre, par exemple sur la raison d’être de l'organisme, ou de la cellule (cf élément palabre),
+ - moment de palabre, par exemple sur la raison d’être de l'organisme, ou du cercle (cf élément palabre),
  - tour de table, photolangage,
  - moments informels de relation.
 
@@ -536,7 +536,7 @@ Figure 3.0 Fonctionnement de la constitution repère
   - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
     - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
     - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
-  - Rôles et cellules : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe.
+  - Rôles et cercles : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe.
   - 4 rôles structurels : des rôles nécessaires pour fonctionner dans la constitution repère.
     - Rôle lead
     - Rôle facilitation
@@ -550,7 +550,7 @@ Figure 3.0 Fonctionnement de la constitution repère
 
 Chaque organisme formalise et actualise sa raison d’être qui servira de cap lointain à tous ses membres dans toute réunion, pour toute action et toute décision.
 
-Chaque rôle et chaque cellule reçoit une raison d'être pour les mêmes raisons.
+Chaque rôle et chaque cercle reçoit une raison d'être pour les mêmes raisons.
 
 Ces raisons d’être peuvent toutes être complétées par des redevabilités (y compris celle de l'organisme).
 
@@ -581,14 +581,14 @@ L’intention est pour chacun :
 
 #### Pouvoir de proposition
 
-Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de son organisme ou de sa cellule. 
+Chaque membre ou collègue  peut déclencher une réunion pour créer une proposition d’évolution de la raison d’être de son organisme ou de son cercle. 
 Par défaut, la réunion est sous forme de décision par consentement consolidée par concordance.
 
 Le livrable est une proposition pour le rôle ou le collectif en charge de cette actualisation :
-- la cellule amont pour une évolution de la raison d’être de sa cellule,
-- la cellule amont pour une évolution de la raison d’être de son organisme.
+- le cercle amont pour une évolution de la raison d’être de son cercle,
+- le cercle amont pour une évolution de la raison d’être de son organisme.
 
-La cellule amont vérifiera que la nouvelle raison d’être de la cellule spécifique répond toujours à son besoin.
+Le cercle amont vérifiera que la nouvelle raison d’être du cercle spécifique répond toujours à son besoin.
 
 *L’évolution peut concerner le titre, la raison d’être proprement dite ou les redevabilités.*
  
@@ -756,7 +756,7 @@ Il l’exprime en réunion d’opération.
 
 Il est encouragé par le rôle facilitation à ne pas abandonner sa tension tant qu’une solution nouvelle pour s’extraire de cette situation de blocage n’apparaît pas.
 
-Il peut demander un tour de sollicitation d’avis aux membres de la cellule.
+Il peut demander un tour de sollicitation d’avis aux membres du cercle.
  
 #### Solution alternative
 
@@ -764,7 +764,7 @@ Les alternatives peuvent être :
 
  - soutien au rôle « défaillant »,
  - affectation du rôle à une autre personne en complément ou en remplacement, avec un éventuel focus sur l’action concernée, 
- - focalisation de toute la cellule sur l’action,
+ - focalisation de tout le cercle sur l’action,
  - une meilleure solution. 
  
 #### Fonction défense immunitaire
@@ -775,16 +775,16 @@ Plus de réflexions [ici](https://youtu.be/d1eJJhOkx94).
 ### 3.8 Création de rituels 
 
 ### Raison d’être 
-Permettre à chaque cellule de créer les rituels qui lui seront utiles et de les faire évoluer. 
+Permettre à chaque cercle de créer les rituels qui lui seront utiles et de les faire évoluer. 
 
 ### Fréquence 
-De hebdomadaire à annuelle. Chaque rituel a sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cellule peut disposer de plusieurs rituels. Chaque rituel a un nom.
+De hebdomadaire à annuelle. Chaque rituel a sa périodicité. Celle-ci peut être définie ou non. Un rituel est parfois organisé pour une seule fois. Chaque cercle peut disposer de plusieurs rituels. Chaque rituel a un nom.
 
 ### Durée
 La durée est variable de quelques minutes à quelques jours. Des durées indicatives sont précisées ci-dessous pour servir de repère. 
 
 ### Séquences
-En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par la cellule. 
+En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspirant des séquences suivantes. Il propose leur ordre et leur durée approximative (les temps donnés ici sont des exemples). En cas de désaccord, la décision du rituel est prise par le cercle. 
 
 Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
 
@@ -806,7 +806,7 @@ En pratique, chacun nomme en une fois comment il a vécu ce temps du point de vu
 
 Offrir un espace de contractualisation.
 
-L’objectif est d’aider chacun à réduire des tensions avec l’aide de sa cellule en engageant les autres dans ce qui doit ou pourrait être fait.
+L’objectif est d’aider chacun à réduire des tensions avec l’aide de son cercle en engageant les autres dans ce qui doit ou pourrait être fait.
 
 Les engagements peuvent être pris en dehors de ce temps.
 
@@ -815,7 +815,7 @@ Les engagements peuvent être pris en dehors de ce temps.
 Périodicité : sur demande ou régulière. Nous conseillons de fixer une durée maximum à l’avance. Nous constatons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus. Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 Tous les sujets peuvent aussi être traités de cette manière en dehors du temps de réunion. 
 
-*Le processus peut être différent, mais un organisme en démarche gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule.*
+*Le processus peut être différent, mais un organisme en démarche gouvernance Cellulaire doit afficher un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de son cercle.*
  
 #### Inclusion  
 
@@ -823,7 +823,7 @@ Chacun nomme comment il arrive.
 
 #### Préambule  
 
-La cellule revoit la check list et les indicateurs avant de commencer.
+Le cercle revoit la check list et les indicateurs avant de commencer.
 
 Un temps d’informations sobres sur les actions en cours est ouvert : il permet de communiquer les nouveautés qu’il est nécessaire de connaître pour démarrer.
 
@@ -845,7 +845,7 @@ Quand un sujet consomme trop de temps, il invite à une clôture rapide ou un tr
 
  - Quelle est la tension ? De quoi as-tu besoin ? (demander une action ? Partager une information ? Solliciter un avis ? Une réunion ? Autre ?)
  
- – Lequel de tes rôles est impacté ? Quelle redevabilité ? A quel rôle t’adresses-tu ? (la réponse peut être je m’adresse à un rôle, à une personne ou à la cellule) Que demandes-tu concrètement ? 
+ – Lequel de tes rôles est impacté ? Quelle redevabilité ? A quel rôle t’adresses-tu ? (la réponse peut être je m’adresse à un rôle, à une personne ou au cercle) Que demandes-tu concrètement ? 
 
  - Si c’est adressé à un rôle : est-ce dans ton rôle ? Si oui : que vas-tu faire ? (un rôle doit prendre en compte la tension)
 
@@ -995,26 +995,26 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.13  Rôle et cellule
+### 3.13  Rôle et cercle
 
 *Un rôle n'est formalisé par écrit que si cela répond au besoin d’un des membres*.
 
 #### Définition d'un rôle 
 
 Un rôle comprend un titre et au moins un élément parmi : 
-  - une raison d’être : ce qui manquerait à la cellule s’il n’était pas là,
+  - une raison d’être : ce qui manquerait au cercle s’il n’était pas là,
   - des redevabilités ou attendus : ce que les autres peuvent lui demander et qu’il doit fournir,
   - éventuellement un domaine : une chasse gardée.
 
-#### Définition d’une cellule 
+#### Définition d’un cercle 
 
-Une cellule est un rôle : quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cellule si elles le souhaitent. 
+Un cercle est un rôle : quand plusieurs personnes énergisent le même rôle, elles peuvent s’organiser en cercle si elles le souhaitent. 
 
-Elles peuvent créer des cellules spécifiques pour répondre à leurs besoins spécifiques. 
+Elles peuvent créer des cercles spécifiques pour répondre à leurs besoins spécifiques. 
 
-#### Fonctionnement d’un rôle et d’une cellule 
+#### Fonctionnement d’un rôle et d’un cercle 
 
-Un rôle ou une cellule est créé par une équipe pour répondre à un de ses besoins. 
+Un rôle ou un cercle est créé par une équipe pour répondre à un de ses besoins. 
 
 Le rôle n’a pas à faire les choses lui-même, il a à s’assurer qu’elles se font, en particulier quand il est sollicité.
 
@@ -1022,11 +1022,11 @@ Chacun est leader de son rôle : chacun décide  au mieux en fonction de la situ
 
 Plusieurs personnes peuvent être affectées à un même rôle (un focus peut être précisé pour des périmètres différents).
 
-Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule ne participe à la gouvernance de la cellule. Elle est alors « référent » des autres.
+Lorsque plusieurs personnes sont affectées à un même rôle, il est possible qu’une seule ne participe à la gouvernance du cercle. Elle est alors « référent » des autres.
 
-#### Définition de la cellule ancrage
+#### Définition du cercle ancrage
 
-La cellule la plus en amont de l’organisme est la cellule ancrage. En complément des redevabilités d’une cellule amont, elle est en charge de la raison d’être et des redevabilités de toute l’organisme, de choisir le mode de gouvernance et de la constitution interne. 
+Le cercle le plus en amont de l’organisme est le cercle ancrage. En complément des redevabilités d’un cercle amont, elle est en charge de la raison d’être et des redevabilités de toute l’organisme, de choisir le mode de gouvernance et de la constitution interne. 
 
 #### Rôles structurels
 
@@ -1036,19 +1036,19 @@ Une équipe correspondant au calage de la démarche gouvernance cellulaire compo
 
 #### Raison d’être 
 
-Le rôle lead est le gardien du sens de l’ensemble de la cellule.
+Le rôle lead est le gardien du sens de l’ensemble du cercle.
 
 #### Domaine  
 
-Affectation des rôles de la cellule
+Affectation des rôles du cercle.
 
 #### Redevabilités
 
-- Veiller au cap : alerter quand la cellule ne réalise pas sa raison d’être dans le réel ou ne délivre pas ce dont elle est redevable.
-- Actualiser les priorités stratégiques de la cellule et sur demande, résoudre les conflits de priorités entre les rôles.
-- Répartir les ressources disponibles de la cellule sur les différents projets et/ou rôles.
-- Affecter des personnes aux rôles de la cellule.
-- Construire une organisation de départ pour que la cellule réalise sa raison d’être (rôles et cellules spécifiques) : le rôle lead procède à sa manière en phase de lancement puis utilise les temps de réorganisation.
+- Veiller au cap : alerter quand le cercle ne réalise pas sa raison d’être dans le réel ou ne délivre pas ce dont elle est redevable.
+- Actualiser les priorités stratégiques du cercle et sur demande, résoudre les conflits de priorités entre les rôles.
+- Répartir les ressources disponibles du cercle sur les différents projets et/ou rôles.
+- Affecter des personnes aux rôles du cercle.
+- Construire une organisation de départ pour que le cercle réalise sa raison d’être (rôles et cercles spécifiques) : le rôle lead procède à sa manière en phase de lancement puis utilise les temps de réorganisation.
 
 #### Redevabilités complémentaires
 
@@ -1056,10 +1056,10 @@ Il est possible d’enlever des redevabilités à ce rôle, il est interdit d’
 
 Cependant, en ajoutant certaines redevabilités du rôle leader pyramidal à ce rôle, on construit le rôle pilotage de l’équipe. 
 
-Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour le rôle lead de décider seul ou en décision collective selon ce qui lui paraît le plus ajusté aux enjeux de la décision et à la culture de la cellule.
+Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour le rôle lead de décider seul ou en décision collective selon ce qui lui paraît le plus ajusté aux enjeux de la décision et à la culture du cercle.
 
- - *Chacune de ces redevabilités pourra être déléguée dans la cellule lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée à la cellule par politique (la cellule les remplit alors via ses processus).*
- - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cellules constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant de la cellule amont étant invité à participer à l’élection.*
+ - *Chacune de ces redevabilités pourra être déléguée dans le cercle lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée au cercle par politique (le cercle les remplit alors via ses processus).*
+ - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cercles constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant du cercle amont étant invité à participer à l’élection.*
 
 ### 3.15  Rôle facilitation
 
@@ -1069,27 +1069,27 @@ Les temps de réunion sont animés en visant efficacité (permettre au collectif
 
 #### Redevabilités 
 
-- Les différents temps de réunion (hors réunions métiers) se déroulent conformément aux processus prévus par la cellule ou par  l'organisme, avec souplesse.
+- Les différents temps de réunion (hors réunions métiers) se déroulent conformément aux processus prévus par le cercle ou par  l'organisme, avec souplesse.
 - L'aisance des participants dans les processus progresse.
 - Tout membre qui déborderait trop largement  des processus établis est recadré, si possible avec douceur ou pédagogie.
 - Sur demande de n’importe quel membre présent, revenir au processus de réunion lorsque les  intervenants ont débordé.
 - Faire de son mieux pour traiter tous les points amenés à l’ordre du jour dans le temps imparti, sinon, négocier avec les membres présents le report de points à d’autres réunions ou la  prolongation de la réunion.
-- Co-créer et faire évoluer les formats des réunions ou les processus avec la cellule.
+- Co-créer et faire évoluer les formats des réunions ou les processus avec le cercle.
 
 ### 3.16  Rôle mémoire 
 
 #### Raison d’être 
 
-Enregistrer les décisions dans les comptes rendus et fichiers de la cellule.
+Enregistrer les décisions dans les comptes rendus et fichiers du cercle.
 
 #### Domaine  
 
-Tous les documents officiels de la cellule définis par la constitution.
+Tous les documents officiels du cercle définis par la constitution.
 
 #### Redevabilités
 
-- Organiser les réunions de la cellule et informer tous les invités des dates et lieux (hors réunions métiers).
-- Enregistrer et transmettre les résultats des réunions de la cellule cellule (hors réunions métiers), et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
+- Organiser les réunions du cercle et informer tous les invités des dates et lieux (hors réunions métiers).
+- Enregistrer et transmettre les résultats des réunions du cercle (hors réunions métiers), et maintenir une vue de la gouvernance en cours, des points de check-list et des indicateurs indicateurs.
 - Interpréter la gouvernance et la constitution sur demande.
 - Aider les membres et collègues en affichant les enregistrements utiles.
 - Soutenir le rôle facilitation en l’aidant s’il le demande, en particulier en l’aidant à repérer où en est le processus.
@@ -1098,15 +1098,15 @@ Tous les documents officiels de la cellule définis par la constitution.
 
 #### Raison d’être 
 
-Les tensions pertinentes à processer dans la cellule amont y sont apportées et traitées.
+Les tensions pertinentes à processer dans le cercle amont y sont apportées et traitées.
 
 #### Redevabilités
 
-- Chercher à comprendre les tensions des membres de la cellule et discerner celles qu’il est pertinent de processer dans la cellule amont.
-- Éliminer au sein de la cellule amont les contraintes qui limitent la cellule.
-- Donner de la visibilité à la cellule amont sur la santé de la cellule (niveau de sérénité) et sur la performance de la cellule (niveau de déliverabilité).
+- Chercher à comprendre les tensions des membres du cercle et discerner celles qu’il est pertinent de processer dans le cercle amont.
+- Éliminer au sein du cercle amont les contraintes qui limitent le cercle.
+- Donner de la visibilité au cercle amont sur la santé du cercle (niveau de sérénité) et sur la performance du cercle (niveau de déliverabilité).
 
-Le rôle représentation n’est pas nécessaire si une politique de la cellule amont a défini un autre mode de représentation.
+Le rôle représentation n’est pas nécessaire si une politique du cercle amont a défini un autre mode de représentation.
 
 ### 3.18 Séparation 
 
@@ -1141,11 +1141,11 @@ Ils se veulent à la fois inspirants et guidants.
 Comme tout le reste de notre travail, ils sont hautement imparfaits, en cours d’évolution, discutables et ajustables (par politiques formalisées).
 Ils sont les thèmes et idées qui nous ont paru les plus pertinents à inscrire ici.
 
-Ils peuvent être activées pour une cellule, pour une cellule amont et ses cellules spécifiques ou pour tout l’organisme.
+Ils peuvent être activées pour un cercle, pour un cercle amont et ses cercles spécifiques ou pour tout l’organisme.
 
 #### Comment activer un élément ? 
 
-Activer ou désactiver un élément dans une cellule est une politique. Par conséquent, cela se formalise en temps de réorganisation. Une personne peut utiliser un élément en autonomie pour s’inspirer elle-même dans son rôle.
+Activer ou désactiver un élément dans un cercle est une politique. Par conséquent, cela se formalise en temps de réorganisation. Une personne peut utiliser un élément en autonomie pour s’inspirer elle-même dans son rôle.
 
 #### Conséquence de l’activation  
 
@@ -1157,11 +1157,11 @@ Un élément devient constitutionnel.
 
 #### Contexte 
 
-Pour réaliser notre raison d’être dans une philosophie de gouvernance partagée, des rôles et des cellules ont été créés. 
+Pour réaliser notre raison d’être dans une philosophie de gouvernance partagée, des rôles et des cercles ont été créés. 
 
-Chaque rôle, chaque cellule a une raison d’être et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
+Chaque rôle, chaque cercle a une raison d’être et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
 
-Chaque rôle, chaque cellule est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres et en tient compte pour ajuster son action selon ce qui lui paraît le plus pertinent. 
+Chaque rôle, chaque cercle est responsable et auto-déterminé dans sa façon de réaliser sa raison d’être. Il assume les conséquences de ses choix, c’est-à-dire perçoit les tensions déclenchées en lui ou chez les autres et en tient compte pour ajuster son action selon ce qui lui paraît le plus pertinent. 
 
 #### Engagement
 
@@ -1171,8 +1171,8 @@ Nous nous engageons à respecter les principes de souveraineté (non-ingérence)
  - Nous agissons dans le cadre des rôles qui nous sont affectés pour apporter le plus à l’organisme et à la réalisation de sa raison d’être.
  - Nous agissons au mieux quand l’organisation n’est pas définie.   
    Nous pouvons agir dans un rôle qui ne nous est pas affecté si nous pensons apporter quelque chose d’utile, sans toutefois intervenir sur un « domaine ».
- - Nous respecterons l’auto-détermination (liberté d’agir) des rôles et cellules créés.
- - Nous respectons les décisions des rôles et cellules. Nous exprimons nos tensions liées à des décisions le cas échéant. 
+ - Nous respecterons l’auto-détermination (liberté d’agir) des rôles et cercles créés.
+ - Nous respectons les décisions des rôles et cercles. Nous exprimons nos tensions liées à des décisions le cas échéant. 
 
 Nous respecterons toutefois prioritairement la loi et les règles de notre organisme qui ne sont pas sous notre responsabilité.
 
@@ -1181,7 +1181,7 @@ le __________________, à ______
 Noms, Signatures
 
 
- - *Cet engagement peut aussi être proposé à la signature de tous les membres participant à une cellule, être intégré au règlement intérieur ou être signée par certains membres de l’organisme.*
+ - *Cet engagement peut aussi être proposé à la signature de tous les membres participant à un cercle, être intégré au règlement intérieur ou être signée par certains membres de l’organisme.*
  - *Cette charte pourra être amendée ou abrogée par ses signataires.*
 
 ### 4.2 Palabre
@@ -1327,13 +1327,13 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
 
 ##### Autorités
-Les personnes qui ont autorité pour prendre et changer la décision sont identifiées : ce sont un rôle ou une cellule. S’il y a un flou, le rôle mémoire peut être sollicité pour interpréter les écrits. 
+Les personnes qui ont autorité pour prendre et changer la décision sont identifiées : ce sont un rôle ou un cercle. S’il y a un flou, le rôle mémoire peut être sollicité pour interpréter les écrits. 
 
 #### Inclusion 
 Participants : 
  - le rôle qui a pris une décision,
  - le rôle mémoire qui a pour redevabilité d’interpréter la constitution sur demande,
- - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans la cellule amont,
+ - un rôle représentation qui a pour redevabilité de remonter les tensions qui le nécessitent dans le cercle amont,
  - un rôle facilitation,
  - la personne qui demande ce temps.
 
@@ -1348,7 +1348,7 @@ Le rôle facilitation s’assure que la parole circule d’une manière accepté
 
 Le rôle mémoire interprète la constitution sur demande. Il peut proposer d’intervenir quand cela lui paraît judicieux mais attend qu’un participant le lui confirme pour le faire.
 
-Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans la cellule amont. 
+Le rôle représentation estime s’il identifie une tension qu’il sera nécessaire de travailler dans le cercle amont. 
 
 Le rôle qui a l’autorité de prendre la décision n’a pas à décider en direct. Il peut donner un délai pour informer la personne demandeuse du maintien ou de la modification de sa décision.
 
@@ -1366,7 +1366,7 @@ Solidifier une décision par concordance révèle des freins non conscients. La 
 Elle peut être longue, par conséquent, elle est réservée aux décisions à fort enjeu.
 
 #### Déclenchement
-Quand une décision a été prise selon le processus de la cellule, un membre gouvernant peut demander une solidification par concordance. Le temps maximum de concordance est alors précisé.
+Quand une décision a été prise selon le processus de le cercle, un membre gouvernant peut demander une solidification par concordance. Le temps maximum de concordance est alors précisé.
 
 #### Processus
 
@@ -1390,7 +1390,7 @@ Simplifier le processus, fonctionner à distance.
 
 #### Processus 
 
-1. Tout membre gouvernant d’une cellule peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres de la cellule.
+1. Tout membre gouvernant d’un cercle peut faire une proposition à tout moment, par exemple par mail, à l’ensemble des membres du cercle.
 2. Il répond aux questions de clarification.
 3. Il prend connaissance des réactions.
 4. Si un membre demande à ce que le point passe en temps de réorganisation formel, le processus est stoppé.
@@ -1422,7 +1422,7 @@ Simplifier le processus, fonctionner à distance.
 
 #### Affectation  
 
-Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres de la cellule ou à tous les membres.
+Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres du cercle ou à tous les membres.
 
 ### 4.10 Rôle Source 
 
@@ -1435,15 +1435,15 @@ Tenir le cap de son intuition de ce que pourrait devenir l'organisme ou le proje
  - Faire son possible pour que cette intuition devienne réalité.
 
 #### Domaine  
-Un domaine peut être précisé. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à une cellule.
+Un domaine peut être précisé. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à un cercle.
 
-#### Cellule d’ancrage
-Le rôle source de l'organisme fait partie de la cellule ancrage. La cellule d’ancrage est celle la plus en amont de l'organisme.
+#### Cercle d’ancrage
+Le rôle source de l'organisme fait partie du cercle ancrage. Le cercle d’ancrage est celle la plus en amont de l'organisme.
 
-Le rôle source peut être affecté à un, plusieurs ou tous les membres de la cellule ancrage.
+Le rôle source peut être affecté à un, plusieurs ou tous les membres du cercle ancrage.
 
 #### Rôle source d'un projet
-Dans le cadre d’un projet en autonomie, l'organisme d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer la cellule ancrage du projet.
+Dans le cadre d’un projet en autonomie, l'organisme d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer le cercle ancrage du projet.
 
 ### 4.11 Rôle urgentiste 
 
@@ -1527,7 +1527,7 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 ### 4.15 Légèreté-simplicité  
 
 #### Sobriété d’organisation
-Un formalisme minimum sera créé (cellule, rôles, politiques, processus, etc.) pour :
+Un formalisme minimum sera créé (cercle, rôles, politiques, processus, etc.) pour :
  - pouvoir travailler ensemble,
  - ne pas entraver l’action.
 
@@ -1537,7 +1537,7 @@ Un rôle simplification pourra être activé pour veiller à supprimer ou rempla
  - toutes les politiques suffisamment intégrées pour pouvoir quitter l’écrit,
  - toutes les règles ou politiques qui nient l’intelligence de chacun.
  
-Ce rôle pourra être affecté à certains membres de la cellule ou à tous.
+Ce rôle pourra être affecté à certains membres du cercle ou à tous.
 
 #### Intention
 Contrer la tendance humaine à générer de la complication pérenne.
@@ -1720,7 +1720,7 @@ Après avoir rédigé sa version 2 (étape 7), le proposeur abandonne son rôle.
 
 Toute l’équipe est en charge de lever les éventuelles objections en répondant à la fois à la tension exprimée au départ et à la tension exprimée lors de l’objection. Cette variante n’est habituellement pas utilisée en réorganisation.
 
-### 5.6 Curseur managérial, que fait le rôle pilotage de votre cellule ?
+### 5.6 Curseur managérial, que fait le rôle pilotage de votre cercle ?
 
 #### Système 
 
@@ -1728,16 +1728,16 @@ L’organisation cellulaire est compatible avec une organisation pyramidale.
 
 #### Les points communs entre les systèmes pyramidal et cellulaire  
 
- - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe amont.
+ - La raison d’être et les redevabilités du cercle répondent aux besoins de l’équipe amont.
  - Le rôle lead cellulaire et le rôle manager ont pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
 
 #### Les différences 
 
  - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; orienter la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; donner du feedback et recadrer ; finaliser les décisions ; il est affecté au **rôle prendre soin des personnes**.
  - Des redevabilités peuvent être ajoutées au manager pyramidal.
- - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
+ - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres du cercle.
 
-#### Que fait le rôle pilotage de votre cellule ?
+#### Que fait le rôle pilotage de votre cercle ?
 
 Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead cellulaire.
 
@@ -1885,7 +1885,7 @@ https://www.holaspirit.com.
 
 #### Raison d’être : 
 
-Répondre au besoin de votre cellule 
+Répondre au besoin de votre cercle 
 
 A vous de jouer !  
 
@@ -1926,10 +1926,10 @@ Plus d’info sur l’histoire qui a amené à la démarche gouvernance Cellulai
 
  - Acteur : personne qui réalise quelque chose, les redevabilités d’un rôle par exemple.
  - Auto-diagnostic : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste.
- - Cellule : une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
- - Cellule amont : l’équipe plus grande qui comprend notre cellule.
- - Cellule ancrage : l’équipe la plus en amont de l'organisme, elle comprend toutes les cellules.
- - Cellule spécifique : un e équipe crée pour répondre à un besoin spécifique de sa cellule amont. 
+ - Cercle : une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
+ - Cercle amont : l’équipe plus grande qui comprend notre cercle.
+ - Cercle ancrage : l’équipe la plus en amont de l'organisme, elle comprend toutes les cercles.
+ - Cercle spécifique : un e équipe crée pour répondre à un besoin spécifique de son cercle amont. 
  - Collaborateur : dans le système hiérarchique, membre à qui le chef dit parfois comment réaliser son rôle.
  - Collègue : un collègue est une personne de l'organisme qui ne participe pas à la gouvernance.
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal).
@@ -1938,21 +1938,21 @@ Plus d’info sur l’histoire qui a amené à la démarche gouvernance Cellulai
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC). 
  - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend la démarche gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
  - Egrégore : une énergie de groupe influencée par les désirs de plusieurs personnes unis dans un but commun.
- - Elément : module activable et désactivable par une cellule selon les besoins qu’elle rencontre.
+ - Elément : module activable et désactivable par un cercle selon les besoins qu’elle rencontre.
  - Espace organisation : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui.
  - Espace relation : tous les temps, postures, processus permettant de cultiver ou restaurer la relation.
  - Espace sens : tous les temps, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie, etc.
  - Gestion par tension : utiliser les tensions comme source des prochaines actions. 
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps.
- - Membre ou membre gouvernant : un membre de l’organisme affecté à un rôle dans une cellule. Il participe ainsi à la gouvernance.
+ - Membre ou membre gouvernant : un membre de l’organisme affecté à un rôle dans un cercle. Il participe ainsi à la gouvernance.
  - Ouverture : action de dévoiler en authenticité et profondeur sa représentation, sa vérité ou d’accueillir des « vérités » extérieures à soi.
- - Organisation : organigrammes en cellules et rôles, règles, politiques et processus.
+ - Organisation : organigrammes en cercles et rôles, règles, politiques et processus.
  - Organisme : entreprise, association, mairie, fondation et toutes structures juridiques où des humains coopèrent.
- - Politique : accord ou règle décidée par une cellule qui s’applique soit à la cellule seule, soit aussi aux cellules spécifiques.
+ - Politique : accord ou règle décidée par un cercle qui s’applique soit au cercle seul, soit aussi aux cercles spécifiques.
  - Redevabilité : ce qui est attendu de mon rôle, ce que les autres peuvent me demander, ce sur quoi ils peuvent compter.
  - Référent : un membre qui représente une catégorie de collègues sans organisation particulière.
  - Régulation : un temps et des processus pour restaurer la relation avec une ou plusieurs autres personnes.
- - Rôle : une fonction utile aux membres de la cellule constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Cette personne ne réalise pas forcément elle-même les attendus, cependant, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées. Les cellules et les projets sont des rôles particuliers.
+ - Rôle : une fonction utile aux membres du cercle constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Cette personne ne réalise pas forcément elle-même les attendus, cependant, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées. Les cercles et les projets sont des rôles particuliers.
  - Rôles lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes.
  - Temps d’élection sans candidat : affecter un rôle. 
  - Temps d’opération : affecter des actions nécessaires pour avancer dans le travail. 
@@ -1996,23 +1996,23 @@ Le droit français impose de nommer un auteur avant de mettre le contenu en lice
 ### 7.2  Contributeur.ices
 
 #### Equipe gouvernance cellulaire 
-Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaître la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
+Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaître la méthode. L’équipe est aujourd’hui organisée en 5 cercles.
 
-#### Cellule laboratoire
+#### Cercle laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la démarche gouvernance cellulaire, dans son sens et ses processus.
 Olivier Daniel Thomas, Nicolas Begel, Jean-Christophe Ciceron, Christophe Hérault, Stéphanie De Susanne, Georges Comby, David Drayer (rôle lead).
 
-#### Cellule rayonnement 
+#### Cercle rayonnement 
 Inspirer et enchanter le monde de l'organisme et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
 Marion Rigaux, David Drayer, Georges Comby, Nicolas Begel (rôle lead).
 
-#### Cellule sève : la cellule qui prend soin de la vie du collectif
+#### Cercle sève : le Cercle qui prend soin de la vie du collectif
 Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
 Juliette Le Roy, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
 
-#### Cellule ancrage 
+#### Cercle ancrage 
 A travers la connaissance précise de la démarche gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
-Christophe Herault, David Drayer, Jean-Christophe Ciceron, Nicolas Begel (cellule sans rôle lead).
+Christophe Herault, David Drayer, Jean-Christophe Ciceron, Nicolas Begel (cercle sans rôle lead).
 
 #### Relecture
 Damien Richard
