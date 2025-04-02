@@ -523,29 +523,29 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 Figure 3.0 Fonctionnement de la constitution repère
 
 #### **Espace Sens** 
-   - Raison d’être : une raison d’être (pour l'organisme, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
-   - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement
-   - Temps de décision éthique : se connecter en profondeur  pour prendre une décision à fort enjeu moral.
-   
+  - Raison d’être : une raison d’être (pour l’organisme, chaque équipe et chaque rôle) qui réponde à un besoin et pour laquelle se mobilisent ses membres.
+  - Actualisation de la raison d’être : proposer une raison d’être plus en phase avec ce qui nous motive et se passe réellement.
+  - Temps de décision éthique : se connecter en profondeur pour prendre une décision à fort enjeu moral.
+  - Rétrospective et re-décision orientations prioritaires : Revisiter la dernière période (6 mois, un an…) pour en tirer des apprentissages et définir ensemble les priorités générales des prochains mois.
 #### **Espace Lien**
-
+  - Rétrospective relationnelle : Un temps pour prendre soin de la relation et renforcer la coopération
   - Temps de régulation : exprimer une difficulté vécue de façon assertive et suffisamment saine pour restaurer la relation avec le processus marcher/parler.
-  
 #### **Espace Organisation** 
-  - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
-  - Création de rituels : créer les réunions dont l’équipe a besoin régulièrement ou exceptionnellement. 
-  - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions. 
-  - Décision collective (par Consentement) : : prendre une décision collective en gestion par consentement (GPC).
-    - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
-    - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
+  - Exigence de solidarité : résoudre une situation de blocage lorsqu’une tâche programmée n’est pas effectuée.
+  - Création de rituels : créer les réunions dont l’équipe a besoin régulièrement ou exceptionnellement.
+  - Temps d’opération : permettre à chacun d’engager les autres dans ce qui doit être fait pour réduire les tensions.
+  - Décision collective : (par consentement) : prendre une décision collective en gestion par consentement (GPC).
+   - Temps de réorganisation : améliorer l’organisation de l’équipe (organigramme, contenu des rôles, règles et politiques).
+   - Election sans candidat : affecter collectivement une personne dans un rôle sur la base des compétences perçues par les membres.
   - Rôles et cercles : description de ce sur quoi les autres membres et collègues peuvent compter, de la part d’un solo ou d’une équipe.
   - 4 rôles structurels : des rôles nécessaires pour fonctionner dans la constitution repère.
-    - Rôle lead
-    - Rôle facilitation
-    - Rôle mémoire
-    - Rôle représentation
-  - Séparation : les rencontres humaines peuvent arriver à des incompatibilités. Il est bénéfique de prévoir comment traverser ce moment le mieux possible. 
-
+   - Rôle lead
+   - Rôle facilitation
+   - Rôle mémoire
+   - Rôle représentation
+  - Séparation : les rencontres humaines peuvent arriver à des incompatibilités. Il est bénéfique de prévoir comment traverser ce moment le mieux possible.
+  - Création de sa constitution : se mettre d’accord pour passer de « selon moi » à « selon ce sur quoi nous nous étions mis d’accord.
+ 
 ### 3.1 Raison d’être  
 
 #### Intention
