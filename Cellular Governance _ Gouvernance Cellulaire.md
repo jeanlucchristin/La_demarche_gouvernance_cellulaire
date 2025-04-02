@@ -1928,7 +1928,7 @@ Plus d’info sur l’histoire qui a amené à la démarche gouvernance Cellulai
 
  - Acteur : personne qui réalise quelque chose, les redevabilités d’un rôle par exemple.
  - Auto-diagnostic : outil permettant à une équipe de choisir avec quel prochain levier elle souhaite construire une coopération efficace et humaniste.
- - Cercle : une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à un cercle dans d’autres approches.
+ - Cercle : une équipe de membres en charge d’un rôle qui est organisée selon la constitution. Cela correspond à une cellule ou une équipe dans d’autres approches.
  - Cercle amont : l’équipe plus grande qui comprend notre cercle.
  - Cercle ancrage : l’équipe la plus en amont de l'organisme, elle comprend toutes les cercles.
  - Cercle spécifique : un e équipe crée pour répondre à un besoin spécifique de son cercle amont. 
