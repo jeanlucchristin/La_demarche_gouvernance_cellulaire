@@ -421,7 +421,7 @@ La culture de travail se construit chemin faisant, en se mettant d’accord sur 
 #### Intention
 Cet élément propose de distinguer les relations visées entre humains et entre rôles.
 
-Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Par ailleurs, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
+Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Par ailleurs, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
 
 Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
 
