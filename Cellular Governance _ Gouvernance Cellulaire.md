@@ -22,7 +22,7 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 5. Raison d’être de la démarche gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
-1. L’efficacité-humaniste & son autodiagnostic
+1. L’efficacité-humaniste & son autodiagnostic
 2. L’estime de soi
 3. Principe de choix - souveraineté
 4. Culture essai-apprentissage
@@ -30,9 +30,9 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 6. Responsabilités de membre gouvernant
 7. Réciprocité
 8. Souveraineté et lien
-9. Distinction personne et rôle
-10. Egrégor
-11. ontentement
+9. Distinction humain / rôle
+10. Egrégore
+11. Contentement
 12. Frustration
 
 ### 3 Constitution repère
@@ -45,7 +45,7 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 6. Régulation « marcher-parler »
 7. Exigence de solidarité
 8. Création de rituel
-9. Temps d’opération (processus de triage)
+9. Temps d’opération (processus de triage)
 10. Décision collective (processus de gestion par consentement)
 11. Temps de réorganisation
 12. Election sans candidat
@@ -55,24 +55,24 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 16. Rôle mémoire
 17. Rôle représentation
 18. Séparation
+19. Création de sa constitution 
 
 ### 4 Eléments optionnels (pour enrichir votre constitution)
-0. Qu'est-ce qu'un élément ?
-1. Contrat de liberté d’agir
-2. Palabre
-3. Régulation CNV
-4. Déblocage 180°
-5. Fusion d’équipes
-6. Droit de recours
-7. Consolidation par concordance
-8. Décision hors réunion
-9. Rôle prendre soin
-10. Rôle source
-11. Rôle urgentiste
-12. Rôle ami renfort
-13. Rôle protection
-14. Entretien annuel
-15. Légèreté-simplicité 
+0. Contrat de liberté d’agir & signature constitution
+1. Palabre
+2. Régulation CNV
+3. Déblocage 180°
+4. Fusion d’équipes
+5. Droit de recours
+6. Consolidation par concordance
+7. Décision hors réunion*
+8. Rôle prendre soin
+9. Rôle source
+10. Rôle urgentiste
+11. Rôle ami renfort
+12. Rôle protection
+13. Entretien annuel
+14. Légèreté-simplicité 
 
 ### 5 Méthodes (Pour concevoir et utiliser votre gouvernance)
 1. Pilotage de soi
@@ -80,10 +80,10 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 3. Valeurs du collectif
 4. Feedback
 5. Variantes décisions collectives
-6. Curseur managérial ( que fait le rôle pilotage de votre cercle ?)
+6. Curseur managérial ( que fait le rôle pilotage de votre cercle ?)
 7. Niveaux d’autonomie
 8. Composer avec nos différences
-9. Des repères pendant le changement
+9. Trollisme et antidotes
 10. Accompagnement extérieur
 11. Numérique
 12. Elément magique 
