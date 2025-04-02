@@ -45,7 +45,7 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 6. Régulation « marcher-parler »
 7. Exigence de solidarité
 8. Création de rituel
-9. Temps d’opération (processus de triage)
+9. Temps d’opération (processus de triage)
 10. Décision collective (processus de gestion par consentement)
 11. Temps de réorganisation
 12. Election sans candidat
