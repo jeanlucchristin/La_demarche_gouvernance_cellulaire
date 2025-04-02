@@ -802,7 +802,7 @@ La clôture est d’une part un temps de connexion où chacun exprime son vécu 
 
 En pratique, chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 3.9  Temps d’opération (ou Circuit des demandes)
+### 3.9  Temps d’opération (ou Circuit des demandes et services)
 
 #### Raison d’être 
 
@@ -1957,7 +1957,7 @@ Plus d’info sur l’histoire qui a amené à la démarche gouvernance Cellulai
  - Rôle : une fonction utile aux membres du cercle constituée d’un nom, d’une raison d’être et/ou de redevabilités. Une personne affectée à un rôle est leader de ce rôle. Cette personne ne réalise pas forcément elle-même les attendus, cependant, si quelqu’un a un besoin et le demande, elle se charge de faire en sorte que les redevabilités soient réalisées. Les cercles et les projets sont des rôles particuliers.
  - Rôles lead, facilitation, mémoire, représentation, simplification, source : voir les diapos correspondantes.
  - Temps d’élection sans candidat : affecter un rôle. 
- - Temps d’opération (ou Circuit des demandes): affecter des actions nécessaires pour avancer dans le travail. 
+ - Temps d’opération (ou Circuit des demandes et services): affecter des actions nécessaires pour avancer dans le travail. 
  - Temps de palabre : temps d’échange autour d’un sujet qui vise la réflexion mais pas la décision. 
  - Temps de régulation : restaurer la relation avec une ou plusieurs autres personnes. 
  - Temps de réorganisation : créer un rôle ou le modifier pour répondre à un besoin. 
