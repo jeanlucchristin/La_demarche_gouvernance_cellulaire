@@ -518,7 +518,7 @@ La gestion d’un haut niveau de frustration aide à préserver la fluidité dan
 
 ### 3.0 Contenu de la constitution repère
 
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/3eb67074-b5c8-42e0-b499-2b0ded523735)
+![image](https://github.com/user-attachments/assets/3686c539-2563-46f0-b97f-612ab32de60c)
 
 Figure 3.0 Fonctionnement de la constitution repère
 
