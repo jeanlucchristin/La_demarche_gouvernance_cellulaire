@@ -80,7 +80,7 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 3. Valeurs du collectif
 4. Feedback
 5. Variantes décisions collectives
-6. Curseur managérial ( que fait le rôle pilotage de votre cercle ?)
+6. Curseur managérial ( que fait le rôle pilotage de votre cercle ?)
 7. Niveaux d’autonomie
 8. Composer avec nos différences
 9. Trollisme et antidotes
