@@ -3,7 +3,7 @@
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
 
-**Vous pouvez proposer des améliorations ici** en créant une "issue" : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire
+**Vous pouvez proposer des améliorations ici** en créant une « issue » : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire
 
 La démarche Gouvernance Cellulaire®, Gouvernance Cellulaire® et Cellular Governance® sont des marques déposées ainsi que les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
