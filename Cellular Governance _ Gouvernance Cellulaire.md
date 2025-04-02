@@ -1,16 +1,16 @@
-Il s’agit d’une variation de la décision par consentement adaptée aux grandes assemblées proposée par l’université du nous à la FPGT (Fédération des Professionnels de la Gestalt Thérapie) qui l’utilise ainsi : 
-![image](https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/assets/38285180/70bb213c-5c18-4430-8693-6ca47cb64409)
-# La démarche Gouvernance cellulaire version 3.3
+# La démarche Gouvernance cellulaire version 3.4
  
 Construisez votre propre organisation avec une palette d’outils & une constitution repère.
 
+
+**Vous pouvez proposer des améliorations ici :** https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire
+
 La démarche Gouvernance Cellulaire®, Gouvernance Cellulaire® et Cellular Governance® sont des marques déposées ainsi que les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
 
-La démarche Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
-Elle est déposée ici : https://github.com/jeanlucchristin/La_demarche_gouvernance_cellulaire/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
+La démarche Gouvernance Cellulaire est définie dans ce document et déposée en open source sur github. 
+Marque, logos et ce document sont en accès libre.  Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org/ quand vous l’utilisez.
+![image](https://github.com/user-attachments/assets/a12869c7-a063-4a99-b087-d63b3f64113f)
 
-Marques, logos et ce document sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
-Plus d’infos à la fin de la constitution.* 
 
 # Table des matières 
 
