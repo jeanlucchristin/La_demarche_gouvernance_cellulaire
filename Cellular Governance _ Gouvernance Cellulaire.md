@@ -22,7 +22,7 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 5. Raison d’être de la démarche gouvernance cellulaire
 
 ### 2 Les principes fondamentaux
-1. L’efficacité-humaniste & son autodiagnostic
+1. L’efficacité-humaniste & son autodiagnostic
 2. L’estime de soi
 3. Principe de choix - souveraineté
 4. Culture essai-apprentissage
@@ -111,7 +111,7 @@ Ce guide est en constante évolution, et sous licence CCbySA.
 
 - Une introduction qui présente la philosophie
 - Les principes fondamentaux
-- Une constitution repère : Ce sont les éléments essentiels qui permettent à un organisme de fonctionner en démarche gouvernance cellulaire. Ils constituent un socle minimal pour un ensemble intégré et cohérent qu’il est recommandé de mettre en œuvre.
+- Une constitution repère : Ce sont les éléments essentiels qui permettent à un organisme de fonctionner selon la démarche gouvernance cellulaire. Ils constituent un socle minimal pour un ensemble intégré et cohérent qu’il est recommandé de mettre en œuvre.
 - Des éléments complémentaires : Ce sont des processus, des outils, des rôles… qui vous sont proposés pour vous permettre d’enrichir votre constitution.
 - Une boîte à outils : un ensemble d’éléments pour vous aider à mieux mettre en œuvre la démarche gouvernance cellulaire.
 
@@ -419,59 +419,61 @@ La culture de travail se construit chemin faisant, en se mettant d’accord sur 
 ### 2.9 distinction personne et rôle
 
 #### Intention
-Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Inversement, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
+Cet élément propose de distinguer les relations visées entre humains et entre rôles.
+
+Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Par ailleurs, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
 
 Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
 
-Cet élément propose de distinguer les relations visées entre personnes et entre rôles. 
+#### Relation entre humain∙es
+En tant que personne, nous avons notre vécu, nos valeurs profondes. Selon les situations, des zones aveugles font que nous sommes plus ou moins capables, de décider avec du recul de notre attitude. 
 
-#### Relation de personne à personne    
-En tant que personne, nous avons notre vécu, nos valeurs profondes. Des zones aveugles font que nous sommes plus ou moins capables, selon les situations, de décider avec du recul de notre attitude. 
+Nous avons besoin de relations où il est possible d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
 
-Nous avons besoin de relations où il est possible d’exprimer son point de vue, d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
+La relation met l’accent sur le prendre soin, des outils comme le « marcher-parler » peuvent soutenir cette démarche.
 
-La relation met l’accent sur le prendre soin, des outils comme la CNV ou le « marcher-parler » peuvent soutenir cette démarche.
-
-#### Relation de rôle à rôle  
+#### Relation entre rôles
 En tant que rôle, pour assurer nos redevabilités, nous avons besoin que les autres accomplissent certaines tâches. 
 
-La distinction personne-rôle permet de s’adresser aux rôles tenus par des collègues sans craindre une susceptibilité bloquante (car les rôles n’ont pas de susceptibilité).
+La distinction humain-rôle permet de s’adresser aux rôles tenus par des collègues sans craindre de déclencher leur susceptibilité (car les rôles n’ont pas de susceptibilité). 
 
 Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter.
 
 La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
 #### Proposition de la démarche gouvernance cellulaire 
-Avec la démarche gouvernance cellulaire, toutes les tensions sont prises en compte, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+Avec la démarche gouvernance cellulaire, l’humain et l’opérationnel sont pris en compte. 
+Les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
 ### 2.10  Egrégore d'équipe 
 
 #### Intention
-*Définition : l’égrégore est une énergie de groupe constituée par les désirs des personnes unies dans un but commun*
+*Définition : l’égrégore est l’énergie de groupe constituée par les désirs des personnes unies dans un but commun*
 
-Cette énergie est positive ou négative, mouvante et adaptable 
+Cette énergie est motivante ou pesante. Elle est mouvante et adaptable.
 
-C’est une bulle énergétique d’équipe qui peut être réinterrogée à tout moment ou invoquée comme une ressource. Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster mutuellement : 
- - temps pour se centrer autour de ce avec quoi chacun arrive (tête, corps, cœur),
- - accueil de l’expression du vivant de chacun pour le relier à ce qui est vivant dans le groupe,
- - connexion qui donne une place à chacun pour lui permettre de contribuer avec qui il est aujourd’hui dans sa perception des autres et du monde.
+Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévitalise et à s’ajuster.
 
-#### Process 
+#### Etapes favorables à la phase de lancement 
 
-Exemples de process corporel :
- - accueillir les silences ou proposer un temps de silence,
- - marcher dans la salle, se centrer : attention flottante à soi, puis à ceux qu’on croise, puis au groupe et à l’environnement,
- - créer des ruptures : inviter un artiste, exercice corde et bougie, chœur et héros (exercice inspiré du théâtre),
- - partager une expérience sensible (création d’une œuvre commune…).
+ - Rappel de l’objectif et des livrables
+ - Construction du cadre de fonctionnement relationnel
+ - Mise en lien humain (qui je suis en tant que personne)
+ - Construction de l’égrégore d’équipe (Expression par chacun de ce qui le motive dans le projet et dans l’équipe)
+ - Formalisation de nos ambitions/attendus de groupe, éventuellement de notre raison d’être
+ - Clarification de nos rôles à l’intérieur du groupe de travail
+ - Formalisation de notre fonctionnement (circuit des demandes mutuelles, processus de décision…)
 
+#### Process pour cultiver cette énergie d’équipe (exemples)
 
-Exemples de process verbalisés :
- - dire aux autres comment on fonctionne,
- - exprimer ses enjeux « ici et maintenant » (personnel, équipe, organisme, société, environnement),
- - temps de régulation pour se dire les choses délicates et arriver à une demande. Accepter en parallèle la place de l’implicite,
- - moment de palabre, par exemple sur la raison d’être de l'organisme, ou du cercle (cf élément palabre),
- - tour de table, photolangage,
- - moments informels de relation.
+ - Expression de ce qui motive chacun dans l’équipe
+ - Partage d’informations quand c’est nécessaire
+ - Exprimer ses enjeux « ici et aujourd’hui » (personnels, de rôle, équipe, organisme, société, ou environnement)
+ - Moment de « palabre », (soit un temps de parole sur un sujet de fond avec « bâton de parole »)
+ - Eviter de déclencher des susceptibilités, et ne pas laisser les égos vexés dicter notre conduite
+ - Au moins un rôle pour chacun∙e, lui permettant de contribuer avec ses talents
+ - Tour de table, photolangage
+ - Moments informels de relation (les pauses sont des moments importants et productifs pour l’égrégore)
 
 ### 2.11  Contentement 
 
