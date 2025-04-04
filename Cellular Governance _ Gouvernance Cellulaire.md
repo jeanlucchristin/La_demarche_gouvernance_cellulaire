@@ -1549,7 +1549,7 @@ La demande peut porter sur un temps de régulation relationnelle, un temps de pi
 
 Demander au rôle facilitation de revenir au processus quand le collectif en est sorti.
 
-##### Affectation
+#### Affectation
 
 Comme tous les rôles, ce rôle peut être affecté à un ou plusieurs membres du cercle ou à tous les membres. L’affectation peut être retirée et il est possible de démissionner du rôle.
 
@@ -1692,9 +1692,11 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 Figure  5.3 Carte des valeurs du collectif
 
 #### Intention :
-L’intention de cet élément est de soutenir un temps de conversation pour qu’un collectif s’accorde sur ses valeurs. 
+Soutenir un temps de conversation pour qu’un collectif s’accorde sur ses valeurs. 
 
 Bien sûr, chacun·e conservera en parallèle ses valeurs personnelles. 
+
+Il est possible d’utiliser cet élément pour s’accorder sur des principes managériaux en remplaçant « valeurs » par « principes managériaux » pour les organismes avec fonctions managériales ou pour aborder la façon d’exercer le rôle pilotage.
 
 #### Qu’est-ce qu’une valeur ?
 Le sujet des valeurs d’un collectif parle de qui nous sommes et de qui nous voulons être. Comme la raison d’être, les valeurs sont des guides pour les décisions, l’adaptation des processus et les comportements des membres de l’équipe. Elles nécessitent d’être transformées en éléments concrets pour réellement exister. Il est préférable de ne pas évaluer l’application des valeurs par quelqu’un car cela risque d’entraîner une exigence déplacée sur la personne. La gestion par tension est une meilleure réponse quand il y a besoin d’ajustements, avec en particulier le « temps d’opération ». 
