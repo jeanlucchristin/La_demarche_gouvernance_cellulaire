@@ -338,7 +338,9 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 
 ### 2.6 Non violence active 
 
-![image](https://github.com/user-attachments/assets/2cf1ecc3-0e8f-4d97-a618-444cb95e5996)
+![image](https://github.com/user-attachments/assets/ca644641-253b-4529-8126-4f34a79b3d2f)
+
+Figure 2.6 : Non violence active 
 
 #### Besoin d’agressivité créatrice  
 
@@ -358,7 +360,7 @@ Eviter ces deux pièges du maintien de la violence passe par l’utilisation de 
 Proposition de la démarche gouvernance cellulaire 
 La démarche gouvernance cellulaire propose d’utiliser cette énergie d’action de manière saine en la transformant en demande adressée à un rôle de l’équipe. 
 
-### 2.6 Responsabilités de membre gouvernant
+### 2.7 Responsabilités de membre gouvernant
 
 #### Soin de la relation 
 Quand un conflit semble prendre beaucoup d’intensité, chacun doit alerter les protagonistes en leur disant « Si j’étais à votre place j’aurais besoin d’une régulation ». Chacun est libre de décider s’il sollicite une régulation ou non. 
@@ -387,7 +389,7 @@ Chacun tient à jour un suivi des projets et actions à venir pour ses rôles. I
 mais une estimation qui peut varier en fonction des imprévus.
 - Check-list et indicateurs : renseigner les check-list et indicateurs qui concernent ses rôles.
 
-### 2.7 Réciprocité 
+### 2.8 Réciprocité 
 
 #### Exercice du pouvoir
 
@@ -407,7 +409,7 @@ Au sein d’un groupe, un membre agissant au bénéfice de ses intérêts person
 
 Plus de réflexions [ici](https://youtu.be/ChkzJPO45qc?si=risyPFAKxP8KPz4m).
 
-### 2.8 Souveraineté et lien
+### 2.9 Souveraineté et lien
 
 #### Souveraineté 
 Fonctionner en souveraineté signifie que chacun est libre d’agir pour ses rôles selon son discernement en choisissant ce qui lui semble le plus pertinent.
@@ -438,7 +440,7 @@ Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans un
 
 La culture de travail se construit chemin faisant, en se mettant d’accord sur l’équilibre souveraineté/lien.
 
-### 2.9 distinction personne et rôle
+### 2.10 distinction personne et rôle
 
 #### Intention
 Cet élément propose de distinguer les relations visées entre humains et entre rôles.
@@ -467,7 +469,7 @@ La relation met l’accent sur l’expression directe, des outils comme le temps
 Avec la démarche gouvernance cellulaire, l’humain et l’opérationnel sont pris en compte. 
 Les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
-### 2.10  Egrégore d'équipe 
+### 2.11  Egrégore d'équipe 
 
 #### Intention
 *Définition : l’égrégore est l’énergie de groupe constituée par les désirs des personnes unies dans un but commun*
@@ -497,7 +499,7 @@ Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévital
  - Tour de table, photolangage
  - Moments informels de relation (les pauses sont des moments importants et productifs pour l’égrégore)
 
-### 2.11  Contentement 
+### 2.12  Contentement 
 
 #### Se contenter 
 
@@ -513,7 +515,7 @@ Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévital
 
 De cette discipline peut apparaître un contentement sain pour nous, humains.
 
-### 2.12 Frustration 
+### 2.13 Frustration 
 
 #### Intention
 
