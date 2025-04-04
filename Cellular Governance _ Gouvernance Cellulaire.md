@@ -790,7 +790,7 @@ En fonction du besoin, le rôle facilitation prépare un déroulé en s’inspir
 
 Inclusion (10’). Check list & Indicateur (5 à 10’). Information sur la santé des collectifs et sur les actions en cours (5 à 15’). 
 
-Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective et orientations prioritaires (120 à 240) . Rétrospective relationnelle (120 à 240). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
+Inventaire des tensions (5’). Opération /triage / demandes (30 à 60’). Décisions collectives  (GPC, reorg, esc, concord…) (20 à 90’). Palabre / position éthique (30 à 90’). Rétrospective et redécisions, orientations prioritaires (120 à 240) . Rétrospective relationnelle (120 à 240). Régulation (10 à 30’). Convivialité (10 à 30’). Clôture (10’). 
 
 Seules l’inclusion et la clôture sont systématiques. 1 à 3h
 
@@ -910,24 +910,40 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 6 - Chacun en une fois : quelles sont vos **réactions, utiles selon vous**, ressentis, avis, pensées, meilleures idées, suggestions, influences ? 
 
-7 - Rôle proposition, quelle est ta **proposition V2** ? (idem V1, ou modifiée ou retrait).
+7 - Rôle proposition, quelle est ta proposition V2 (version 2) ? (la même que la V1, ou modifiée ou retrait).
 
-8 - Chacun se questionne : **puis-je composer avec** cette proposition ? Y a-t-il une raison concrète, objective ou personnelle, qui nous causerait du tort dans cette proposition ? Ceux qui ne peuvent pas ont une tension qui est une objection. Ils l'exposent en expliquant le risque. Le rôle facilitation compte les objections puis les fait exprimer.
+8 - Chacun se questionne : **puis-je composer avec** cette proposition ? Y a-t-il une raison concrète, objective ou personnelle qui réduirait trop notre (ou ma) capacité d’agir dans cette proposition ? Ceux qui ne peuvent pas composer avec la proposition ont une objection. Ils l'exposent en expliquant le risque. Le rôle facilitation compte les objections puis les fait exprimer.
 
-9 - Les objections non argumentées ne peuvent pas être retenues mais peuvent être de nouvelles tensions. Le rôle facilitation peut aider l’objecteur·ice à **tester** le coté impératif de son objection : l’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible ou un sujet qui existait avant la proposition (autre sujet) ni si l’objecteur n’est pas directement concerné par les conséquences envisagées.
+9 - Si quelqu’un le demande ou s’il l’estime pertinent, le rôle facilitation doit aider l’objecteur·ice à **tester** le coté impératif de son objection : l’objection n’est pas impérative si elle concerne une meilleure idée, un risque réversible ou un sujet qui existait avant la proposition (autre sujet) ni si l’objecteur n’est pas directement concerné par les conséquences envisagées. 
 
-Si quelqu’un le demande, le rôle facilitation doit questionner l’objecteur. 
 Les objections non argumentées ne peuvent être retenues mais peuvent devenir d’autres tensions.
 
-10 - **Résolution** : Parole libre. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le rôle proposition choisit s’il l’intègre dans la proposition. Dès qu’il intègre l’idée, l’objection est levée, un tour d'objection redémarre.
+10 - **Résolution** : l’objecteur·ice propose une nouvelle version qui résoudrait son objection. Si le rôle proposition ne l’accepte pas, la parole devient libre. Toutes les idées sont bienvenues. Dès que l’objecteur annonce qu’une idée résout son objection, le rôle proposition choisit s’il l’intègre dans la proposition. Dès qu’il intègre l’idée, l’objection est levée. Un nouveau tour d'objection a lieu sur les modifications qui ont été décidées. 
 
-11 - Le rôle facilitation aide les participants à tenir une **posture de coopération** et à se méfier de la crispation dans une opinion. 
+11 - **Célébration** et prise de notes quand toutes les objections sont levées.
 
-Par exemple, il demande à l’objecteur de chercher une formulation qui lèverait son objection et au rôle proposition d’envisager de modifier la proposition sans perdre son sens initial ni renier ses valeurs. Il peut mobiliser les autres membres. 
+(voir paragraphes suivants pour le **test** et la **résolution** des objections).
 
-*Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. Idem vis-à-vis d’une posture non-constructive du rôle proposition pour intégrer l’objection : le rôle facilitation devra retirer la proposition et revenir à l’appel à proposition.
+#### Facilitation des décisions collectives 
+Pendant les phases de test des objections et de résolution d’une décision collective par consentement, le rôle facilitation suit ces étapes : 
 
-12 -**Célébration** et prise de notes quand toutes les objections sont levées.
+ - Test du coté impératif des objections :
+
+   Le rôle facilitation aide l’objecteur·ice à évaluer si son objection est impérative. Une objection est impérative et retenue si l’objecteur·ice estime, sur la base d’arguments explicites et rationnels, qu’elle remplit les 4 conditions suivantes :
+ 
+  - la Proposition réduirait la capacité du cercle à exprimer sa Raison d’Être ou l’une de ses Redevabilités.
+  - La Proposition limiterait la capacité de l'Objecteur à exprimer la Raison d'Être ou l’une des Redevabilités d'un de ses rôles dans le  cercle.
+  - Une nouvelle Tension serait créée par l'adoption de cette Proposition (la préoccupation n'existe pas avant, même sans la Proposition).
+  - Le risque détecté par l’objecteur·ice est inévitable. Si le risque est seulement possible, le cercle n'aurait pas la possibilité de s'adapter avant qu'un tort significatif n'en résulte.
+
+Si l’objection n’est pas retenue, le rôle facilitation peut suggérer à l’objecteur·ice ce qu’il pourra en faire : une proposition à un autre moment, une demande à un rôle, etc. 
+
+ - Résolution : 
+
+  - Le rôle facilitation aide les participants à tenir une posture de coopération et à se méfier de la crispation dans une opinion. Par exemple, il demande à l’objecteur de chercher une formulation qui lèverait son objection et au rôle proposition d’envisager de modifier la proposition sans perdre son sens initial ni renier ses valeurs.
+  - Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il doit retirer l’objection.
+  - De même, s’il estime que la posture du rôle proposition pour intégrer l’objection n’est pas constructive : le rôle facilitation doit retirer la proposition et revenir à l’appel à proposition.
+  - Il annonce que son rôle va exiger de lui qu’il suspende l’objection. L’objecteur reviendra avec une proposition quand il aura expérimenté la proposition et qu’il aura précisé son besoin pour réduire sa tension. 
 
 #### Clôture   
 
