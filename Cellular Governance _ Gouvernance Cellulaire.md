@@ -1044,7 +1044,7 @@ Lorsque plusieurs personnes sont affectées à un même rôle, il est possible q
 
 #### Définition du cercle ancrage
 
-Le cercle le plus en amont de l’organisme est le cercle ancrage. En complément des redevabilités d’un cercle amont, elle est en charge de la raison d’être et des redevabilités de toute l’organisme, de choisir le mode de gouvernance et de la constitution interne. 
+Le cercle le plus en amont de l’organisme est le cercle ancrage. Il est en particulier en charge de la raison d’être et des redevabilités de tout l’organisme, de choisir le mode de gouvernance et la constitution interne.
 
 #### Rôles structurels
 
@@ -1072,12 +1072,14 @@ Affectation des rôles du cercle.
 
 Il est possible d’enlever des redevabilités à ce rôle, il est interdit d’en ajouter.
 
-Cependant, en ajoutant certaines redevabilités du rôle leader pyramidal à ce rôle, on construit le rôle pilotage de l’équipe. 
+Pour rappel, en ajoutant certaines redevabilités du rôle leader pyramidal à ce rôle, on construit le rôle pilotage de l’équipe. 
 
-Le rôle lead est en charge de tout ce qui n’est pas affecté. A charge pour le rôle lead de décider seul ou en décision collective selon ce qui lui paraît le plus ajusté aux enjeux de la décision et à la culture du cercle.
+Le rôle lead est en charge de tous les rôles qui ne sont pas affectés.
 
- - *Chacune de ces redevabilités pourra être déléguée dans le cercle lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée au cercle par politique (le cercle les remplit alors via ses processus).*
- - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cercles constituées de déclencher une élection sans candidat pour désigner leur rôle lead, un représentant du cercle amont étant invité à participer à l’élection.*
+Quand une redevabilité du cercle n'a pas été déléguée à un rôle, elle est une autorité collective du cercle et passe par des décisions collectives.
+
+ - *Chacune de ces redevabilités pourra être déléguée au sein du cercle lors des temps de réorganisation : soit attribuée à un autre rôle, soit transférée au cercle par politique (le cercle les remplit alors via ses processus).*
+ - *Exemple de variation : un organisme expérimenté peut créer une politique permettant aux cercles constitués de déclencher une élection sans candidat pour désigner leur rôle lead, en invitant un représentant du cercle amont à participer à l’élection.*
 
 ### 3.15  Rôle facilitation
 
@@ -1087,12 +1089,14 @@ Les temps de réunion sont animés en visant efficacité (permettre au collectif
 
 #### Redevabilités 
 
-- Les différents temps de réunion (hors réunions métiers) se déroulent conformément aux processus prévus par le cercle ou par  l'organisme, avec souplesse.
-- L'aisance des participants dans les processus progresse.
-- Tout membre qui déborderait trop largement  des processus établis est recadré, si possible avec douceur ou pédagogie.
-- Sur demande de n’importe quel membre présent, revenir au processus de réunion lorsque les  intervenants ont débordé.
-- Faire de son mieux pour traiter tous les points amenés à l’ordre du jour dans le temps imparti, sinon, négocier avec les membres présents le report de points à d’autres réunions ou la  prolongation de la réunion.
-- Co-créer et faire évoluer les formats des réunions ou les processus avec le cercle.
+  - Les différents temps de réunion (hors réunions métiers) se déroulent conformément aux processus prévus par le cercle ou par l’organisme, avec souplesse.
+  - L'aisance des participants dans les processus progresse.
+  - Tout membre qui déborderait trop largement des processus établis est recadré, si possible avec douceur ou pédagogie.
+  - Sur demande de n’importe quel membre présent, revenir au processus de réunion lorsque les  intervenants ont débordé.
+  - Proposer un moment de pause silencieuse pour ramener de la présence quand cela lui paraît pertinent puis reprendre en expliquant : « Nous en étions à cette étape du processus, nous pouvons reprendre »
+  - Faire de son mieux pour traiter tous les points amenés à l’ordre du jour dans le temps imparti, sinon, négocier avec les membres présents le report de points à d’autres réunions ou la  prolongation de la réunion.
+  - Faire appel au rôle mémoire pour afficher des écrits : rôles, politiques, constitution, etc
+  - Co-créer et faire évoluer les formats des réunions ou les processus avec le cercle.
 
 ### 3.16  Rôle mémoire 
 
@@ -1137,6 +1141,38 @@ Par défaut, cette décision est prise en concordance.
 #### Intention
 
 Eviter les situations de blocages délétères tout en prenant soin autant que possible des humains.
+
+### 3.19 Création de sa constitution
+
+#### Intention
+
+Créer sa constitution permet à un organisme de se mettre d’accord sur le fonctionnement interne et de passer de « selon moi, il faut fonctionner comme ceci » à « selon ce sur quoi nous nous étions mis d’accord, on fonctionne ainsi. Soit on le fait, soit on le change », ce qui apporte un gain de productivité et de sérénité. 
+
+#### Processus de création et de mise à jour 
+
+L’instance en charge de choisir la constitution de l’organisme est le cercle ancrage. 
+
+La création d’une constitution interne peut balayer les questionnements suivants : 
+
+  - Qu'est-ce qu'une constitution ? (cf glossaire pour inspiration).
+  - Comment puis-je modifier la constitution ? (par exemple, chaque membre peut faire une proposition au cercle ancrage).
+  - A quoi nous sert la raison d’être ? (cf glossaire et raison d’être pour inspiration).
+  - Comment prenons-nous soin de l’humain et des relations ? (cf rôle prendre soin pour inspiration).
+  - En tant que membre, quels sont mes droits et devoirs ? (cf responsabilité de tension et de membre, rôles et cercles et contrat de liberté d’agir pour inspiration).
+  - Comment l’organisme se structure-t-il ? (cf rôles et cercles pour inspirations).
+  - Que sont les rôles structurels et qu’attendons-nous d’eux ? (cf rôles structurels).
+  - Comment affecter ou désaffecter un rôle ? (cf élection sans candidats et rôle lead pour inspiration).
+  - Qui décide de quoi ? Comment ? (cf rôle et cercles, décisions collectives et niveaux d’autonomie pour inspiration).
+  - Comment coopérons-nous ? (cf diapo constitution repère pour la gestion par tension et responsabilité de tension pour inspiration).
+  - Quels sont les documents et outils de référence qui permettent le bon fonctionnement de l’organisme (par exemple statuts, raison d’être, constitution interne, enregistrement des CR et plans d’action, outils numériques).
+  - Principes de primauté de nos documents (dans l’ordre la loi, les statuts, la constitution interne, les enregistrements…).
+  - Nos processus clé (lister les processus retenus par l’organisme, par exemple création de rituel, temps d’opération, décision collective, temps de réorganisation, élection sans candidat, marcher parler, concordance…).
+
+La constitution peut s’inspirer des diapos de ce document, et même simplement agglomérer les pages retenues. 
+
+#### Enregistrement 
+
+Un document d’adoption de chaque version est signé, à minima par les membres du cercle ancrage. Il précise la date d’effectivité ainsi que le nom des signataires et la date. (par exemple, le contrat de liberté d’agir remplit cette fonction).
 
 # 4 Eléments optionnels 
 
