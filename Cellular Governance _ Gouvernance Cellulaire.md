@@ -360,6 +360,8 @@ Eviter ces deux pièges du maintien de la violence passe par l’utilisation de 
 Proposition de la démarche gouvernance cellulaire 
 La démarche gouvernance cellulaire propose d’utiliser cette énergie d’action de manière saine en la transformant en demande adressée à un rôle de l’équipe. 
 
+En savoir plus sur la non-violence active [ici](https://bampenova.teachizy.fr/formations/respect-des-personnes).
+
 ### 2.7 Responsabilités de membre gouvernant
 
 #### Soin de la relation 
