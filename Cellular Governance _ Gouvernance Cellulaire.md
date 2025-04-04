@@ -338,7 +338,7 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 
 ### 2.6 Non violence active 
 
-![image](https://github.com/user-attachments/assets/ca644641-253b-4529-8126-4f34a79b3d2f)
+![image](https://github.com/user-attachments/assets/2acfcbe3-c578-45b2-884a-f361e3614c08)
 
 Figure 2.6 : Non violence active 
 
