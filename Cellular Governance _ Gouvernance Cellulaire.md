@@ -1205,7 +1205,7 @@ Activer ou désactiver un élément dans un cercle est une politique. Par consé
 
 Un élément devient constitutionnel.
 
-### 4.1 Contrat de liberté d'agir
+### 4.1 Contrat de liberté d'agir et signature de la constitution
 
 *Comme tout document de la démarche gouvernance cellulaire, celui-ci peut être modifié.*
 
@@ -1455,6 +1455,7 @@ Simplifier le processus, fonctionner à distance.
 
 #### Prendre soin des personnes dans leurs rôles, par exemple :
 
+ - En dehors des temps de réunion, expliquer **comment fonctionne l’équipe** et les possibilités d’agir qu’a le rôle
  - Cultiver une posture « basse », **non contrôlante**, respectant les capacités d'initiative et le pouvoir d'agir de chacun.
  - Entretenir notre **confiance** : considérer nos collègues capables de trouver leurs propres solutions.
  - **Renvoyer** du feedback de son vécu positif et négatif pour que chacun repère l’impact de ses actions et rétablisse de lui-même les aspects qu’il souhaite favoriser ou corriger.
@@ -1470,13 +1471,13 @@ Simplifier le processus, fonctionner à distance.
  - **Tenir compte** de la situation personnelle d’un collègue quand elle est difficile et qu’on en a connaissance.
  - **Réciprocité** : accepter parfois de recevoir les mêmes soins de la part de nos collègues.
  - **Écoute de soi** : être attentif à ce que cela nous fait vivre et fixer ses limites.
- - **Plénitude** : être présent à ses sensations, émotions, pensées. Observer ce que cela change. Créer les conditions pour que cela soit possible pour toutes et tous.
+ - **Plénitude** : être attentifs à ce qui se présente, aux signaux faibles, connexion à ses 5 sens, à ses pensées et à ses émotions, écoute active. Créer les conditions pour que cela soit possible pour toutes et tous. 
  - Proposer des moments de **convivialité** (repas, café, etc).
  - Exprimer de la **gratitude** en précisant ce qui a été fait et l’impact sur nous.
 
 #### Affectation  
 
-Ce rôle peut être affecté au leader pyramidal, à un ou plusieurs membres du cercle ou à tous les membres.
+Comme tous les rôles, ce rôle peut être affecté à un ou plusieurs membres du cercle ou à tous les membres. L’affectation peut être retirée et il est possible de démissionner du rôle.
 
 ### 4.10 Rôle Source 
 
@@ -1492,7 +1493,7 @@ Tenir le cap de son intuition de ce que pourrait devenir l'organisme ou le proje
 Un domaine peut être précisé. Le rôle source est tenu par la personne qui le détient jusqu’à ce qu’elle décide de transférer ce pouvoir à d’autres ou à un cercle.
 
 #### Cercle d’ancrage
-Le rôle source de l'organisme fait partie du cercle ancrage. Le cercle d’ancrage est celle la plus en amont de l'organisme.
+Le rôle source de l'organisme fait partie du cercle ancrage. Le cercle d’ancrage est celui le plus en amont de l'organisme.
 
 Le rôle source peut être affecté à un, plusieurs ou tous les membres du cercle ancrage.
 
@@ -1528,7 +1529,7 @@ En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins un
  - Me signaler quand face à une tension exprimée, au lieu de chercher quelle est la demande concrète, je dis que mon interlocuteur participe au problème (ce n’est pas le sujet).
  - Me signaler quand, au lieu d’exprimer une tension et une demande, je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière.
  - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
- - M’aider à prendre du recul avec l’élément Pilotage de soi quand j’en ai besoin. 
+ - M’aider à prendre du recul et à redécider ma façon d’agir, par exemple avec l’élément Pilotage de soi quand j’en ai besoin. 
 
 ### 4.13 Rôle protection
 
@@ -1544,7 +1545,13 @@ Actionner les processus adaptés à la levée des tensions liées à la situatio
 1. Exprimer des demandes en mode temps d’opération. 
 La demande peut porter sur un temps de régulation relationnelle, un temps de pilotage de soi, un temps de positionnement éthique du collectif, un droit de recours, une action concrète, etc.
 2. Si la déstabilisation persiste et le nécessite, demander une élection sans candidat (pour les rôles élus) ou une réaffectation de rôle (pour les autres rôle). Il est possible que la personne soit maintenue dans ce rôle lors de cette étape.
-3. Enclencher un processus de séparation quand les écarts le nécessitent pour protéger les personnes, le projet ou le collectif. 
+3. Enclencher un processus de séparation quand les écarts le nécessitent pour protéger les personnes, le projet ou le collectif.
+
+Demander au rôle facilitation de revenir au processus quand le collectif en est sorti.
+
+##### Affectation
+
+Comme tous les rôles, ce rôle peut être affecté à un ou plusieurs membres du cercle ou à tous les membres. L’affectation peut être retirée et il est possible de démissionner du rôle.
 
 ### 4.14 Entretien annuel  
 
