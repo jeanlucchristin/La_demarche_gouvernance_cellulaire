@@ -1876,8 +1876,10 @@ Plus d’infos [ici](http://elementhumain-france.fr/liste-des-praticiens-cycle-e
 #### Intention 
 Observer le fonctionnement humain de trollisme et savoir agir sereinement dans un collectif sans laisser mettre en danger le projet ou les relations en profondeur. Le but n’est pas d’interdire le trollisme qui est une caractéristique humaine, mais de savoir le stopper quand il entraine des conséquences non souhaitables. 
 
-#### Trollisme 
-Le trollisme est un comportement humain captant l’attention par des comportements ou par l’expression et la création de ressentis négatifs qui créent une polémique au profit de ses préférences, aux dépens de l’équilibre du collectif et des saines discussions. Il vise à conquérir les cœurs avant de conquérir les accords. Le trollisme peut-être involontaire ou conscient, sans conséquence ou dangereux, ponctuel ou habituel.
+#### Trollisme
+Le trollisme est un comportement humain captant l’attention par des comportements ou par l’expression et la création de ressentis négatifs qui créent une polémique au profit de ses préférences, aux dépens de l’équilibre du collectif et des saines discussions. Il vise à conquérir les cœurs avant de conquérir les accords. 
+
+Le trollisme peut-être involontaire ou conscient, sans conséquence ou dangereux, ponctuel ou habituel.
 
 Selon ses conséquences sur le projet du collectif ou sur les membres, il sera nécessaire de limiter son impact et de privilégier les conditions de la coopération. 
 
@@ -1890,7 +1892,9 @@ L’antidote personnel consiste à se laisser guider par l’intention de restau
   - exprimer son point de vue en séparant son vécu intérieur et ses enjeux personnels des faits observables et des conséquences sur la relation ou sur l’activité pour aboutir à une demande concrète faite à une personne ou à un rôle.
  
 Un prêt d’intention est quand on croit deviner la motivation de l’autre, par exemple en l’accusant de chercher à nuire
-Une interprétation ou un jugement sont quand on confond la réalité avec notre perception en déformant les faits ou leurs conséquences, en portant des jugements de valeur sur les personnes.Une tentative de contrainte est quand on cherche à imposer aux autres notre préférence, à les forcer ou à les empêcher de faire quelque chose, par exemple avec du chantage affectif. 
+Une interprétation ou un jugement sont quand on confond la réalité avec notre perception en déformant les faits ou leurs conséquences, en portant des jugements de valeur sur les personnes.
+
+Une tentative de contrainte est quand on cherche à imposer aux autres notre préférence, à les forcer ou à les empêcher de faire quelque chose, par exemple avec du chantage affectif. 
 
 ### 5.10 Changement
 
