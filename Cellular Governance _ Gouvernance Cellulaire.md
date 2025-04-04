@@ -2088,15 +2088,15 @@ Depuis septembre 2019, une équipe est active pour tester, améliorer, transmett
 
 #### Cercle laboratoire
 Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la démarche gouvernance cellulaire, dans son sens et ses processus.
-Olivier Daniel Thomas, Nicolas Begel, Jean-Christophe Ciceron, Christophe Hérault, Stéphanie De Susanne, Georges Comby, David Drayer (rôle lead).
+Olivier Daniel Thomas, Jean-Christophe Ciceron, Christophe Hérault, Anne Hervé-Minvielle, Stéphanie De Susanne, Georges Comby, David Drayer (rôle lead).
 
 #### Cercle rayonnement 
 Inspirer et enchanter le monde de l'organisme et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
-Marion Rigaux, David Drayer, Georges Comby, Nicolas Begel (rôle lead).
+Marion Rigaux, David Drayer, Georges Comby, Olivier Soudieux, Nicolas Begel (rôle lead).
 
 #### Cercle sève : le Cercle qui prend soin de la vie du collectif
 Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendre soin des individus dans leur capacité à œuvrer en son sein.
-Juliette Le Roy, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
+Juliette Le Roy, Laurent Favia, Nicolas Begel, Mathilda Gentil, Jean-Christophe Ciceron (rôle lead).
 
 #### Cercle ancrage 
 A travers la connaissance précise de la démarche gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
