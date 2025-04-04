@@ -336,6 +336,28 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 - soit à tous les membres du cercle,
 - soit au cercle en mode consentement dans une réunion dédiée.
 
+### 2.6 Non violence active 
+
+![image](https://github.com/user-attachments/assets/2cf1ecc3-0e8f-4d97-a618-444cb95e5996)
+
+#### Besoin d’agressivité créatrice  
+
+La gestion par tensions fait appel au courage de chaque membre gouvernant. 
+
+En effet, il a été dit, dans le principe de gestion par tension, que chaque membre gouvernant a la responsabilité de ressentir les décalages qu’il éprouve entre la façon dont les choses se passent et son idéal, puis de tenter de réduire ces écarts par ses autorités, ou par des demandes concrètes.
+
+Dans la relation interpersonnelle, cela demande de faire appel à une agressivité saine. 
+
+La perception de l’écart entre ce qu’il se passe et ce qu’on aurait voulu est fréquemment vécue comme une violence. 
+Une façon d’aggraver cette violence est d’attaquer les rôles dont l’action a déclenché un ressenti désagréable. 
+Une autre façon d’aggraver cette violence est de subir la douleur ou l’inconfort sans rien dire. 
+
+Eviter ces deux pièges du maintien de la violence passe par l’utilisation de l’agressivité ressentie. 
+L’agressivité est l’énergie d’action que l’on ressent à ce moment. 
+
+Proposition de la démarche gouvernance cellulaire 
+La démarche gouvernance cellulaire propose d’utiliser cette énergie d’action de manière saine en la transformant en demande adressée à un rôle de l’équipe. 
+
 ### 2.6 Responsabilités de membre gouvernant
 
 #### Soin de la relation 
