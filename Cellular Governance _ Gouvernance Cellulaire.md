@@ -927,7 +927,7 @@ Les objections non argumentées ne peuvent être retenues mais peuvent devenir d
 #### Facilitation des décisions collectives 
 Pendant les phases de test des objections et de résolution d’une décision collective par consentement, le rôle facilitation suit ces étapes : 
 
- - Test du coté impératif des objections :
+##### Test du coté impératif des objections :
 
    Le rôle facilitation aide l’objecteur·ice à évaluer si son objection est impérative. Une objection est impérative et retenue si l’objecteur·ice estime, sur la base d’arguments explicites et rationnels, qu’elle remplit les 4 conditions suivantes :
  
@@ -938,7 +938,7 @@ Pendant les phases de test des objections et de résolution d’une décision co
 
 Si l’objection n’est pas retenue, le rôle facilitation peut suggérer à l’objecteur·ice ce qu’il pourra en faire : une proposition à un autre moment, une demande à un rôle, etc. 
 
- - Résolution : 
+##### Résolution : 
 
   - Le rôle facilitation aide les participants à tenir une posture de coopération et à se méfier de la crispation dans une opinion. Par exemple, il demande à l’objecteur de chercher une formulation qui lèverait son objection et au rôle proposition d’envisager de modifier la proposition sans perdre son sens initial ni renier ses valeurs.
   - Si le rôle facilitation n’a pas l’intime conviction qu’une solution est cherchée par l’objecteur et va être trouvée pour répondre à son objection tout en répondant à la tension de départ, il doit retirer l’objection.
