@@ -2021,14 +2021,14 @@ Plus d’info sur l’histoire qui a amené à la démarche gouvernance Cellulai
  - Collaborateur : dans le système hiérarchique, membre à qui le chef dit parfois comment réaliser son rôle.
  - Collègue : un collègue est une personne de l'organisme qui ne participe pas à la gouvernance.
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal).
- - Constitution : l’ensemble des lois fondamentales de l’organisme qui règle l'organisation et les rapports des pouvoirs, et qui détermine  les principes qui régissent les relations entre les membres.
+ - Constitution : l’ensemble des lois fondamentales de l’organisme. Elle règle l'organisation, le fonctionnement et les rapports de pouvoirs qui régissent les relations entre les membres au service de la raison d’être. Elle permet à chaque membre de l’organisme de trouver tous les éléments nécessaires pour interagir avec les autres membres et agir sur le fonctionnement de l’organisation.
  - Décision par concordance : processus avec un niveau de profondeur accru pour les décisions à fort enjeu.
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC). 
  - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend la démarche gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
  - Egrégore : une énergie de groupe influencée par les désirs de plusieurs personnes unis dans un but commun.
  - Elément : module activable et désactivable par un cercle selon les besoins qu’elle rencontre.
- - Espace organisation : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui.
- - Espace relation : tous les temps, postures, processus permettant de cultiver ou restaurer la relation.
+ - Espace lien : tous les temps, postures, processus permettant de cultiver ou restaurer la relation.
+ - Espace organisation : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait.
  - Espace sens : tous les temps, postures, processus permettant d’approfondir seul ou en équipe une raison d’être, un questionnement éthique, une motivation interne, une stratégie, etc.
  - Gestion par tension : utiliser les tensions comme source des prochaines actions. 
  - Inclusion : action de faire de la place, donner du temps, considérer ou prendre de la place, du temps.
