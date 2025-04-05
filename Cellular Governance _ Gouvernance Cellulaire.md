@@ -499,8 +499,8 @@ Elle amène à se connecter à ce qui est vivant, à repérer ce qui se dévital
  - Exprimer ses enjeux « ici et aujourd’hui » (personnels, de rôle, équipe, organisme, société, ou environnement)
  - Moment de « palabre », (soit un temps de parole sur un sujet de fond avec « bâton de parole »)
  - Eviter de déclencher des susceptibilités, et ne pas laisser les égos vexés dicter notre conduite
- - Au moins un rôle pour chacun∙e, lui permettant de contribuer avec ses talents
- - Tour de table, photolangage
+ - Affecter au moins un rôle pour chacun∙e, lui permettant de contribuer avec ses talents
+ - Effectuer un tour de table, utiliser un photolangage
  - Moments informels de relation (les pauses sont des moments importants et productifs pour l’égrégore)
 
 ### 2.12  Contentement 
