@@ -1295,7 +1295,7 @@ Les temps de palabre sont des espaces d’expression collective.
 
 ### 4.3 Roue du changement de regard
 
-![image](https://github.com/user-attachments/assets/91791145-b990-4369-820d-f147bbdb987b)
+![image](https://github.com/user-attachments/assets/7646dd74-5cfb-4e62-a79e-fad0f9418342)
 
 Figure 4.3 : Roue du changement de regard 
 
