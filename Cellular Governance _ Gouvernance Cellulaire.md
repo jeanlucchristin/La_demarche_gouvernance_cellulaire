@@ -1295,7 +1295,7 @@ Les temps de palabre sont des espaces d’expression collective.
 
 ### 4.3 Roue du changement de regard
 
-![image](https://github.com/user-attachments/assets/f836f0ca-8dd9-4090-82e0-b8360a026e52)
+![image](https://github.com/user-attachments/assets/b4981cbe-1a61-42e3-9edf-066ef7930f0e)
 
 Figure 4.3 : Roue du changement de regard 
 
@@ -1304,22 +1304,26 @@ Proposer un cheminement clés en main pour réussir à rétablir une relation qu
 
 Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
 
-#### Les projections
-Si je considère que l’autre est un problème, cela crée un mur entre lui et moi, nous n’allons pas pouvoir nous entendre, l’un des deux va devoir imposer sa solution depuis son autorité.
+#### Ma vérité
+Si je considère que j’ai raison, que l’autre se trompe, cela crée un mur entre lui et moi. Nous n’allons pas pouvoir nous entendre, l’un de nous deux va devoir imposer sa solution depuis son autorité. 
 
-A noter que si je considère que c’est moi qui suis un problème, l’effet est le même, il y a un mur entre nous .
+A noter que si je considère que c’est moi qui suis un problème, l’effet est le même, il y a un mur entre nous.
 
 #### Changement de regard
-Si je considère que nous avons tous les deux fait des choses qui ont déclenché des inconvénients, cela crée un pont entre nous. 
+Si je considère que nous avons tous les deux fait des choses qui ont déclenché des impacts, cela crée un pont entre nous. 
 
 #### Les 4 quadrants
-Pour utiliser ce nouveau regard, il est nécessaire de balayer les 4 quadrants créés par le nouveau regard sans en passer un sous silence. 
-Pour cela, il est proposer de parler : 
-de la diagonale de mes impacts négatifs (ce que j’ai fait qui a impacté l’autre d’une manière désagréable et ce qu’il fait de bon).
-de la diagonale de ses impacts négatifs (ce qu’il a fait qui m’a impacté d’une manière désagréable et ce que j’ai fait de bon).
+Pour utiliser ce nouveau regard, il est proposé de balayer les 4 quadrants créés par le nouveau regard sans en passer un sous silence en passant par deux temps : 
+
+##### La diagonale de l’écoute pour entrer dans le point de vue de l’autre. Il est l’expert de son point de vue.
+  - **Reconnaitre l’autre** : ce qu’il dit de lui, de son vécu, de ses actions, il est expert de son point de vue
+  - **Accueillir les jugements** : ce qu’il dit de moi, de mes actions, ses reproches ou gratitudes.
+##### La diagonale de l’expression pour exprimer mon point de vue. Je suis l’expert de mon point de vue. 
+  - **S’affirmer** : ce que je dis de moi, de mon vécu, de mes actions.
+  - **Interpeller l’autre** : ce que je dis de lui, de ses actions, mes reproches ou gratitudes.
 
 #### Action
-Si la relation est tendue, il sera plus facile de décider d’une action en coopération une fois que la relation sera améliorée.
+Il sera plus facile de coopérer en décidant de la suite une fois que la relation sera suffisamment rétablie.
 
 En savoir plus sur la non-violence active [ici](https://bampenova.teachizy.fr/formations/respect-des-personnes).
 
