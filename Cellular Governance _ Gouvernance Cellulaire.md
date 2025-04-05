@@ -1299,10 +1299,14 @@ Les temps de palabre sont des espaces d’expression collective.
 Figure 4.3 : Roue du changement de regard 
 
 #### Intention
-Proposer un cheminement clés en main pour réussir à rétablir une relation quand les tensions interpersonnelles l’ont rendue difficile, momentanément ou durablement. Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
+Proposer un cheminement clés en main pour réussir à rétablir une relation quand les tensions interpersonnelles l’ont rendue difficile, momentanément ou durablement. 
+
+Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
 
 #### Les projections
-Si je considère que l’autre est un problème, cela crée un mur entre lui et moi, nous n’allons pas pouvoir nous entendre, l’un des deux va devoir imposer sa solution depuis son autorité. A noter que si je considère que c’est moi qui suis un problème, l’effet est le même, il y a un mur entre nous .
+Si je considère que l’autre est un problème, cela crée un mur entre lui et moi, nous n’allons pas pouvoir nous entendre, l’un des deux va devoir imposer sa solution depuis son autorité.
+
+A noter que si je considère que c’est moi qui suis un problème, l’effet est le même, il y a un mur entre nous .
 
 #### Changement de regard
 Si je considère que nous avons tous les deux fait des choses qui ont déclenché des inconvénients, cela crée un pont entre nous. 
