@@ -338,7 +338,7 @@ La tension de cercle est relative directement à la réalisation des raisons d�
 
 ### 2.6 Non violence active 
 
-![image](https://github.com/user-attachments/assets/2acfcbe3-c578-45b2-884a-f361e3614c08)
+![image](https://github.com/user-attachments/assets/24a33219-e02f-425d-a1b2-13cc110bcc82)
 
 Figure 2.6 : Non violence active 
 
@@ -1293,7 +1293,7 @@ Les temps de palabre sont des espaces d’expression collective.
 
 ### 4.3 Roue du changement de regard
 
-![image](https://github.com/user-attachments/assets/fb708b37-2718-4ccd-8742-4d3c833010e3)
+![image](https://github.com/user-attachments/assets/6f78f637-9ab2-4214-92fe-9e490064a349)
 
 Figure 4.3 : Roue du changement de regard 
 
