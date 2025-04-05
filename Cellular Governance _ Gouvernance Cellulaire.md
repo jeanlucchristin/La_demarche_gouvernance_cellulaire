@@ -1295,11 +1295,42 @@ Les temps de palabre sont des espaces d’expression collective.
 
 ### 4.3 Roue du changement de regard
 
-![image](https://github.com/user-attachments/assets/b4981cbe-1a61-42e3-9edf-066ef7930f0e)
+![image](https://github.com/user-attachments/assets/c35c41bd-d395-440b-a869-1211984037c7)
 
 Figure 4.3 : Roue du changement de regard 
 
 #### Intention
+
+Proposer un cheminement clés en main pour réussir à rétablir une relation quand les tensions interpersonnelles l’ont rendue difficile, momentanément ou durablement. 
+
+Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
+
+#### Ma vérité
+Si je considère que j’ai raison, que l’autre se trompe et agit toujours mal, cela crée un mur entre lui et moi. Nous n’allons pas pouvoir nous entendre, l’un de nous deux va devoir imposer sa solution depuis son autorité. 
+
+A noter que si je considère que c’est moi qui suis un problème et agis toujours mal, l’effet est le même, il y a un mur entre nous.
+
+#### Changement de regard
+Si je considère que nous avons tous les deux fait des choses qui ont déclenché des conséquences, et que nos deux points de vue sont légitimes, cela crée un pont entre nous. 
+
+#### Les 4 quadrants
+Pour utiliser ce nouveau regard, il est proposé de balayer les 4 quadrants créés par le nouveau regard sans en passer un sous silence en passant par deux temps : 
+
+##### La diagonale de l’écoute pour entrer dans le point de vue de l’autre. Il est l’expert de son point de vue.
+  - Reconnaitre l’autre : ce qu’il dit de lui, de son vécu, de ses actions.
+  - Accueillir les jugements : ce qu’il dit de moi, de mes actions, ses reproches ou gratitudes.
+##### La diagonale de l’expression pour exprimer mon point de vue. Je suis l’expert de mon point de vue. 
+  - S’affirmer : ce que je dis de moi, de mon vécu, de mes actions.
+  - Interpeller l’autre : ce que je dis de lui, de ses actions, mes reproches ou gratitudes.
+
+##### Action
+Il sera plus facile de coopérer en décidant de la suite une fois que la relation sera suffisamment rétablie.
+
+Un livre pour aller plus loin : Oser la relation ; exister sans écraser de Isabelle et Bruno Eliat-Serck
+
+
+
+![image](https://github.com/user-attachments/assets/79b3a573-2695-42d9-9bac-2a74e081e02b)
 Proposer un cheminement clés en main pour réussir à rétablir une relation quand les tensions interpersonnelles l’ont rendue difficile, momentanément ou durablement. 
 
 Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
