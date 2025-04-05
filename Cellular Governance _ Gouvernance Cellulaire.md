@@ -60,19 +60,20 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 ### 4 Eléments optionnels (pour enrichir votre constitution)
 0. Contrat de liberté d’agir & signature constitution
 1. Palabre
-2. Régulation CNV
-3. Déblocage 180°
-4. Fusion d’équipes
-5. Droit de recours
-6. Consolidation par concordance
-7. Décision hors réunion*
-8. Rôle prendre soin
-9. Rôle source
-10. Rôle urgentiste
-11. Rôle ami renfort
-12. Rôle protection
-13. Entretien annuel
-14. Légèreté-simplicité 
+2. Roue du changement de regard
+3. Régulation CNV
+4. Déblocage 180°
+5. Fusion d’équipes
+6. Droit de recours
+7. Consolidation par concordance
+8. Décision hors réunion*
+9. Rôle prendre soin
+10. Rôle source
+11. Rôle urgentiste
+12. Rôle ami renfort
+13. Rôle protection
+14. Entretien annuel
+15. Légèreté-simplicité 
 
 ### 5 Méthodes (Pour concevoir et utiliser votre gouvernance)
 1. Pilotage de soi
@@ -1293,7 +1294,7 @@ Les temps de palabre sont des espaces d’expression collective.
 
 ### 4.3 Roue du changement de regard
 
-![image](https://github.com/user-attachments/assets/6f78f637-9ab2-4214-92fe-9e490064a349)
+![image](https://github.com/user-attachments/assets/91791145-b990-4369-820d-f147bbdb987b)
 
 Figure 4.3 : Roue du changement de regard 
 
