@@ -1291,7 +1291,31 @@ L’acquisition de connaissance et de sens dans un organisme passe par :
 
 Les temps de palabre sont des espaces d’expression collective.
 
-### 4.3 Temps de régulation CNV
+### 4.3 Roue du changement de regard
+
+![image](https://github.com/user-attachments/assets/fb708b37-2718-4ccd-8742-4d3c833010e3)
+
+Figure 4.3 : Roue du changement de regard 
+
+#### Intention
+Proposer un cheminement clés en main pour réussir à rétablir une relation quand les tensions interpersonnelles l’ont rendue difficile, momentanément ou durablement. Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
+
+#### Les projections
+Si je considère que l’autre est un problème, cela crée un mur entre lui et moi, nous n’allons pas pouvoir nous entendre, l’un des deux va devoir imposer sa solution depuis son autorité. A noter que si je considère que c’est moi qui suis un problème, l’effet est le même, il y a un mur entre nous .
+
+#### Changement de regard
+Si je considère que nous avons tous les deux fait des choses qui ont déclenché des inconvénients, cela crée un pont entre nous. 
+
+#### Les 4 quadrants
+Pour utiliser ce nouveau regard, il est nécessaire de balayer les 4 quadrants créés par le nouveau regard sans en passer un sous silence. 
+Pour cela, il est proposer de parler : 
+de la diagonale de mes impacts négatifs (ce que j’ai fait qui a impacté l’autre d’une manière désagréable et ce qu’il fait de bon).
+de la diagonale de ses impacts négatifs (ce qu’il a fait qui m’a impacté d’une manière désagréable et ce que j’ai fait de bon).
+
+#### Action
+Si la relation est tendue, il sera plus facile de décider d’une action en coopération une fois que la relation sera améliorée.
+
+### 4.4 Temps de régulation CNV
 
 #### Raison d’être 
 
@@ -1331,7 +1355,7 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 
 Plus de réflexions [ici](https://youtu.be/5MOIY2RKJLs)  (avec toutes nos excuses aux chacals).
 
-### 4.4 Déblocage 180°   
+### 4.5 Déblocage 180°   
 
 #### Raison d’être 
 
@@ -1363,7 +1387,7 @@ Banni les pensées vaines à propos des « coupables, méchants, incompétents �
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 4.5 Fusion d’équipes
+### 4.6 Fusion d’équipes
 
 #### Raison d’être 
 
@@ -1401,7 +1425,7 @@ Le rôle facilitation distribue la parole selon les étapes suivantes :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 4.6 Droit de recours
+### 4.7 Droit de recours
 
 #### Intention
 Permettre à une personne qui n’est pas d’accord avec une décision qui a été prise d’argumenter son point de vue et d’échanger avec ceux qui ont pris la décision. L’intention est d’entendre le point de vue de l’autre pour prendre soin de la relation au-delà du recours, quelle qu’en soit l’issue. 
@@ -1437,7 +1461,7 @@ Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’effi
 
 
 
-### 4.7 Consolidation de décision par concordance
+### 4.8 Consolidation de décision par concordance
 
 #### Raison d’être : forts enjeux humains 
 
@@ -1462,7 +1486,7 @@ Si le collectif n’arrive pas à une décision dans les temps impartis, la déc
 
 La personne pourra revenir avec une proposition quand elle aura expérimenté la décision et aura précisé son besoin pour réduire sa tension. 
 
-### 4.8 Décision hors réunion
+### 4.9 Décision hors réunion
 
 #### Raison d’être 
 
@@ -1477,7 +1501,7 @@ Simplifier le processus, fonctionner à distance.
 5. Il suffit qu’un membre signale qu’il n’a pas d’objection et qu’aucun membre ne demande le passage en temps de réorganisation formel pour que la proposition soit validée automatiquement 10 jours après la proposition.
 6. Le rôle mémoire enregistre la proposition.
 
-### 4.9 Rôle prendre soin
+### 4.10 Rôle prendre soin
 
 #### Prendre soin des personnes dans leurs rôles, par exemple :
 
@@ -1505,7 +1529,7 @@ Simplifier le processus, fonctionner à distance.
 
 Comme tous les rôles, ce rôle peut être affecté à un ou plusieurs membres du cercle ou à tous les membres. L’affectation peut être retirée et il est possible de démissionner du rôle.
 
-### 4.10 Rôle Source 
+### 4.11 Rôle Source 
 
 #### Raison d’être du rôle source 
 Tenir le cap de son intuition de ce que pourrait devenir l'organisme ou le projet dont il a la charge dans l'organisme.
@@ -1526,7 +1550,7 @@ Le rôle source peut être affecté à un, plusieurs ou tous les membres du cerc
 #### Rôle source d'un projet
 Dans le cadre d’un projet en autonomie, l'organisme d’origine peut créer un rôle source et l’affecter à un membre. Ce membre va alors créer le cercle ancrage du projet.
 
-### 4.11 Rôle urgentiste 
+### 4.12 Rôle urgentiste 
 
 #### Raison d’être urgentiste
 
@@ -1540,7 +1564,7 @@ Il active ce rôle le plus rarement possible.
 Il met en place des actions de fond pour que ce rôle devienne obsolète.
 Il renseigne l’indicateur d’équipe « nombre d’utilisation sur les douze derniers mois ».
 
-### 4.12 Rôles ami renfort
+### 4.13 Rôles ami renfort
 
 #### Raison d’être  
 
@@ -1557,7 +1581,7 @@ En particulier, tout rôle urgentiste a intérêt à l’affecter à au moins un
  - Me signaler quand je critique, me plains ou cherche à contraindre quelqu’un à fonctionner à ma manière au lieu d’exprimer une tension et une demande.
  - M’aider à prendre du recul et à redécider ma façon d’agir, par exemple avec l’élément Pilotage de soi quand j’en ai besoin. 
 
-### 4.13 Rôle protection
+### 4.14 Rôle protection
 
 #### Raison d’être rôle protection
 Sécuriser et prendre soin du collectif en cherchant des solutions aux situations qui le déstabilisent, en accompagnant les personnes impliquées et/ou affectées par la situation. La déstabilisation peut concerner un membre, une équipe ou le projet.
@@ -1579,7 +1603,7 @@ Demander au rôle facilitation de revenir au processus quand le collectif en est
 
 Comme tous les rôles, ce rôle peut être affecté à un ou plusieurs membres du cercle ou à tous les membres. L’affectation peut être retirée et il est possible de démissionner du rôle.
 
-### 4.14 Entretien annuel  
+### 4.15 Entretien annuel  
 
 #### Raison d’être 
 
@@ -1611,7 +1635,7 @@ Le support de questionnement peut être :
 
 Chacun nomme en une fois comment il a vécu ce temps du point de vue de l’efficacité, du lien humain et de ses valeurs.
 
-### 4.15 Légèreté-simplicité  
+### 4.16 Légèreté-simplicité  
 
 #### Sobriété d’organisation
 Un formalisme minimum sera créé (cercle, rôles, politiques, processus, etc.) pour :
