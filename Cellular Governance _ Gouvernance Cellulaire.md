@@ -27,20 +27,21 @@ Marque, logos et ce document sont en accès libre.  Vous devez simplement inclur
 3. Principe de choix - souveraineté
 4. Culture essai-apprentissage
 5. Responsabilité de tension
-6. Responsabilités de membre gouvernant
-7. Réciprocité
-8. Souveraineté et lien
-9. Distinction humain / rôle
-10. Egrégore
-11. Contentement
-12. Frustration
+6. Non violence active 
+7. Responsabilités de membre gouvernant
+8. Réciprocité
+9. Souveraineté et lien
+10. Distinction humain / rôle
+11. Egrégore
+12. Contentement
+13. Frustration
 
 ### 3 Constitution repère
 0. Vision globale
 1. Raison d’être
 2. Actualisation de la raison d’être
 3. Temps de décision éthique
-4. Rétrospective et orientations prioritaires
+4. Rétrospective et re-décision, orientations prioritaires
 5. Rétrospective relationnelle
 6. Régulation « marcher-parler »
 7. Exigence de solidarité
@@ -1319,6 +1320,8 @@ de la diagonale de ses impacts négatifs (ce qu’il a fait qui m’a impacté d
 
 #### Action
 Si la relation est tendue, il sera plus facile de décider d’une action en coopération une fois que la relation sera améliorée.
+
+En savoir plus sur la non-violence active [ici](https://bampenova.teachizy.fr/formations/respect-des-personnes).
 
 ### 4.4 Temps de régulation CNV
 
