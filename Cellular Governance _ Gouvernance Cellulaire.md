@@ -1301,7 +1301,7 @@ Figure 4.3 : Roue du changement de regard
 
 #### Intention
 
-Proposer un cheminement clés en main pour réussir à rétablir une relation quand les tensions interpersonnelles l’ont rendue difficile, momentanément ou durablement. 
+Proposer un cheminement clés en main pour rétablir une relation quand les tensions interpersonnelles la rendent difficile, momentanément ou durablement. 
 
 Rétablir la relation est parfois nécessaire avant de pouvoir décider des actions nécessaires avec pertinence et acceptation. 
 
@@ -1314,7 +1314,7 @@ A noter que si je considère que c’est moi qui suis un problème et agis toujo
 Si je considère que nous avons tous les deux fait des choses qui ont déclenché des conséquences, et que nos deux points de vue sont légitimes, cela crée un pont entre nous. 
 
 #### Les 4 quadrants
-Pour utiliser ce nouveau regard, il est proposé de balayer les 4 quadrants créés par le nouveau regard sans en passer un sous silence en passant par deux temps : 
+Pour utiliser ce nouveau regard, il est proposé de balayer les 4 quadrants créés par le nouveau regard, sans en passer un sous silence, en deux temps : 
 
 ##### La diagonale de l’écoute pour entrer dans le point de vue de l’autre. Il est l’expert de son point de vue.
   - **Reconnaitre l’autre** : ce qu’il dit de lui, de son vécu, de ses actions.
