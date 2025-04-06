@@ -474,7 +474,7 @@ La relation met l’accent sur l’expression directe, des outils comme le temps
 Avec la démarche gouvernance cellulaire, l’humain et l’opérationnel sont pris en compte. 
 Les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
-L’équilibre visé cherche à prendre soin des possibles douleurs et susceptibilités sans laisser les égos vexés limiter la conduite des rôles.
+L’équilibre visé cherche à prendre soin du confort, des possibles douleurs et susceptibilités des personnes et ne pas laisser les égos vexés limiter la conduite des rôles.
 
 Des équipes qui déplorent une habitude à trop privilégier soit les rôles, soit les humain∙es auront intérêt à ré-équilibrer le ratio.  
 
