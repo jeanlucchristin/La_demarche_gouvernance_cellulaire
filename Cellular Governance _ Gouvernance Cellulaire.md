@@ -447,31 +447,36 @@ La culture de travail se construit chemin faisant, en se mettant d’accord sur 
 ### 2.10 distinction personne et rôle
 
 #### Intention
-Cet élément propose de distinguer les relations visées entre humains et entre rôles.
+Cet élément distingue les relations visées entre humains et entre rôles.
 
-Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. Par ailleurs, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
+Distinguer les rôles de notre personne permet de prendre soin de nous : nous ne sommes pas le résultat de notre travail. Si notre travail échoue, cela ne signifie pas que nous sommes incompétents mais que nous avons à agir différemment. 
 
-Dans la relation, nos besoins en tant que rôle et en tant que personne sont différents et parfois opposés. 
+D’autre part, des conditions relationnelles pénibles peuvent épuiser même en situation de réussite. 
+Nos besoins en tant que rôle et en tant que personne sont différents dans la relation et parfois opposés. 
 
 #### Relation entre humain∙es
 En tant que personne, nous avons notre vécu, nos valeurs profondes. Selon les situations, des zones aveugles font que nous sommes plus ou moins capables, de décider avec du recul de notre attitude. 
 
 Nous avons besoin de relations où il est possible d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
 
-La relation met l’accent sur le prendre soin, des outils comme le « marcher-parler » peuvent soutenir cette démarche.
+La relation met l’accent sur le prendre soin. Des outils comme le « marcher-parler » peuvent soutenir cette démarche.
 
 #### Relation entre rôles
 En tant que rôle, pour assurer nos redevabilités, nous avons besoin que les autres accomplissent certaines tâches. 
 
 La distinction humain-rôle permet de s’adresser aux rôles tenus par des collègues sans craindre de déclencher leur susceptibilité (car les rôles n’ont pas de susceptibilité). 
 
-Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter.
+Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter
 
 La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
-#### Proposition de la démarche gouvernance cellulaire 
+#### Proposition de la démarche  gouvernance cellulaire 
 Avec la démarche gouvernance cellulaire, l’humain et l’opérationnel sont pris en compte. 
 Les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+
+L’équilibre visé cherche à prendre soin des possibles douleurs et susceptibilités sans laisser les égos vexés limiter la conduite des rôles.
+
+Des équipes qui déplorent une habitude à trop privilégier soit les rôles, soit les humain∙es auront intérêt à ré-équilibrer le ratio.  
 
 ### 2.11  Egrégore d'équipe 
 
