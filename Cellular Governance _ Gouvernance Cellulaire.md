@@ -1331,7 +1331,7 @@ Pour utiliser ce nouveau regard, il est proposé de balayer les 4 quadrants cré
 ##### Action
 Il sera plus facile de coopérer en décidant de la suite une fois que la relation sera suffisamment rétablie.
 
-Un livre pour aller plus loin : Oser la relation ; exister sans écraser de Isabelle et Bruno Eliat-Serck
+La roue du changement de regard a étéinventée par Isabelle Eliat.
 
 ### 4.4 Temps de régulation CNV
 
