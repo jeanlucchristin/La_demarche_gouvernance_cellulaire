@@ -459,7 +459,7 @@ En tant que personne, nous avons notre vécu, nos valeurs profondes. Selon les s
 
 Nous avons besoin de relations où il est possible d’établir des liens humains suffisamment rassurants, dans lesquels nous nous sentons appréciés, importants et compétents. 
 
-La relation met l’accent sur le prendre soin. Des outils comme le « marcher-parler » peuvent soutenir cette démarche.
+La relation met l’accent sur **le prendre soin**. Des outils comme le « marcher-parler » peuvent soutenir cette démarche.
 
 #### Relation entre rôles
 En tant que rôle, pour assurer nos redevabilités, nous avons besoin que les autres accomplissent certaines tâches. 
@@ -468,7 +468,7 @@ La distinction humain-rôle permet de s’adresser aux rôles tenus par des coll
 
 Nous avons besoin de relations où il est possible d’exprimer une demande claire et directe, ou de faire des propositions innovantes de manière décomplexée, sans se limiter
 
-La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
+La relation met l’accent sur **l’expression directe**, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
 #### Proposition de la démarche  gouvernance cellulaire 
 Avec la démarche gouvernance cellulaire, l’humain et l’opérationnel sont pris en compte. 
