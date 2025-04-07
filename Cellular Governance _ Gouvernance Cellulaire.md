@@ -476,7 +476,7 @@ Les temps de régulation personnelles et les temps de régulation opérationnels
 
 L’équilibre visé cherche à prendre soin du confort, des possibles douleurs et susceptibilités des personnes et ne pas laisser les égos vexés limiter la conduite des rôles.
 
-Des équipes qui déplorent une habitude de trop privilégier soit les rôles, soit les humain∙es, pourront choisir de modifier cet équilibre, par exemple en provocant un temps de palabre à ce sujet. 
+Des équipes qui déplorent une habitude de trop privilégier soit les rôles, soit les humain∙es, pourront choisir de modifier cet équilibre, par exemple en provocant un temps de palabre. 
 
 ### 2.11  Egrégore d'équipe 
 
