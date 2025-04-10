@@ -295,7 +295,9 @@ Il est possible de prendre une nouvelle décision dès qu’une tension apparaî
 Le collectif est alors riche des enseignements apportés par la mise en œuvre de la décision précédente.
 
 #### Cycles  
-L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer puis à repérer (orientation) comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de tout le cercle). Ces quatre phases sont nommées Action/Perception/Orientation/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin.
+L’action quotidienne amène les personnes à percevoir ce qui est en train de se passer , en tirer des enseignements ((apprentissages) puis à repérer comment ce pourrait être abordé d’une manière plus pertinente et enfin à choisir une décision (soit directement pour ceux qui sont dans leur rôle, soit par une demande vers un autre rôle, soit par une décision collective si le sujet est une redevabilité de tout le cercle).
+
+Ces quatre phases sont nommées Action/Perception/Apprentissages/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin.
 
 #### Tension 
 La tension est ce qui apparaît dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
