@@ -300,7 +300,7 @@ L’action quotidienne amène les personnes à percevoir ce qui est en train de 
 Ces quatre phases sont nommées Action/Perception/Apprentissages/Décision (on les retrouve dans la roue de Deming Plan/Do/Check/Act). Elles se répètent sans début précis ni fin.
 
 #### Tension 
-La tension est ce qui apparaît dans les phases Perception et Orientation. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
+La tension est ce qui apparaît dans les phases Perception et Apprentissages. Elle est centrale pour établir une façon de travailler ensemble efficace et humaniste de manière continue
 
 #### Posture 
 La posture vise à ne pas sombrer dans la culture du blâme ou de la plainte en considérant que les problèmes viennent soit de mes collègues, soit de mon incompétence. Elle propose de considérer que « assumer ses responsabilités » consiste à décider comment ajuster en permanence son action avec lucidité.
